@@ -1,0 +1,214 @@
+[
+  {
+    "uid": "H8U3fBRWy",
+    "string": "General Studies",
+    "children": [
+      {
+        "uid": "eDKuNJyQ-",
+        "string": "title: Delhi Sultanate Part-I\npdf: https://drive.google.com/file/d/1HSt1kEBNE1kWYYBg5solPR9yv_0ngzHS/view?usp=sharing\n{{[[video]]: https://youtu.be/BdiI1PLRJgM}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "BdiI1PLRJgM",
+        "title": "Delhi Sultanate Part-I"
+      },
+      {
+        "uid": "7q_A0t_54",
+        "string": "title: Delhi Sultanate Part-II\npdf: https://drive.google.com/file/d/1-l0wdY0F5o4RSCXwUK_i-c2FsqaeQaDd/view?usp=sharing\n{{[[video]]: https://youtu.be/gyGGNpEsV08}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "gyGGNpEsV08",
+        "title": "Delhi Sultanate Part-II"
+      }
+    ],
+    "isVideo": false,
+    "videoId": "",
+    "title": ""
+  },
+  {
+    "uid": "ynfcGPOeM",
+    "string": "English",
+    "children": [
+      {
+        "uid": "iNaCL59ko",
+        "string": "chapters: [[Idioms]]\ntitle: Idioms by Rani Maam\n{{[[video]]: https://youtu.be/OLbnD3mGTUM}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "OLbnD3mGTUM",
+        "title": "Idioms by Rani Maam"
+      },
+      {
+        "uid": "c0mmDZTDI",
+        "string": "title: 60 Important Rules of Grammar\n{{[[video]]: https://youtu.be/6OW1mJTLms0}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "6OW1mJTLms0",
+        "title": "60 Important Rules of Grammar"
+      },
+      {
+        "uid": "VTCPwcWY4",
+        "string": "title: Complete English Grammar | by Prashant Sir\nchapter: [[english]]\n{{[[video]]: https://youtu.be/w0dzG8Lc_DQ}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "w0dzG8Lc_DQ",
+        "title": "Complete English Grammar | by Prashant Sir"
+      }
+    ],
+    "isVideo": false,
+    "videoId": "",
+    "title": ""
+  },
+  {
+    "uid": "emEXXg99x",
+    "string": "Aptitude",
+    "children": [
+      {
+        "uid": "O3G7FgZFj",
+        "string": "title: MCQs on Divisibility #videoBlock \nchapter: [[Divisibility]]\n{{[[video]]: https://youtu.be/2PYRE7HHMNw}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "2PYRE7HHMNw",
+        "title": "MCQs on Divisibility #videoBlock"
+      },
+      {
+        "uid": "5BT5II8xC",
+        "string": "title: JKSSB Important Percentage MCQs (Easy Level)\nchapter: [[Percentage]]\n{{[[video]]: https://youtu.be/oXYYrKQM9Ic}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "oXYYrKQM9Ic",
+        "title": "JKSSB Important Percentage MCQs (Easy Level)"
+      },
+      {
+        "uid": "5FxfMsosU",
+        "string": "title: Percentage by Carrier Definer\n{{[[video]]: https://youtu.be/wH1Up7WTefU}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "wH1Up7WTefU",
+        "title": "Percentage by Carrier Definer"
+      },
+      {
+        "uid": "LsPzze6Nv",
+        "string": "title: Ratio & Proportion by Carrier Definer\n{{[[video]]: https://youtu.be/V8tcZZIFJew}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "V8tcZZIFJew",
+        "title": "Ratio & Proportion by Carrier Definer"
+      },
+      {
+        "uid": "IxWKZFE-x",
+        "string": "title: Average by Carrier Definer\nchapter: [[Average]]\n{{[[video]]: https://youtu.be/l4R5OVIeAi4}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "l4R5OVIeAi4",
+        "title": "Average by Carrier Definer"
+      },
+      {
+        "uid": "5OQr9XzrX",
+        "string": "title: Profit & Loss by Carrier Definer\nchapter: [[Profit and Loss]]\n{{[[video]]: https://youtu.be/NJqHxUU1ezs}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "NJqHxUU1ezs",
+        "title": "Profit & Loss by Carrier Definer"
+      },
+      {
+        "uid": "G2Kujy7vC",
+        "string": "title: Time and Work by Carrier Definer\nchapter: [[Time and Work]]\n{{[[video]]: https://youtu.be/NnHawIe7bXc}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "NnHawIe7bXc",
+        "title": "Time and Work by Carrier Definer"
+      },
+      {
+        "uid": "OUAZYwYI9",
+        "string": "title: Pipes and Cisterns by Carrier Definer\nchapter: [[Pipes and Cisterns]]\n{{[[video]]: https://youtu.be/B-TSxgLHMM0}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "B-TSxgLHMM0",
+        "title": "Pipes and Cisterns by Carrier Definer"
+      },
+      {
+        "uid": "tqZW5CBBc",
+        "string": "title: Simple Interest by Carrier Definer\nchapter: [[Simple Interest]]\n{{[[video]]: https://youtu.be/teet4LaQur8}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "teet4LaQur8",
+        "title": "Simple Interest by Carrier Definer"
+      },
+      {
+        "uid": "hviEAXE8X",
+        "string": "title: Simple Interest by Carrier Definer\nchapter: [[Compound Interest]]\n{{[[video]]: https://youtu.be/kHZJEI9jNGw}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "kHZJEI9jNGw",
+        "title": "Simple Interest by Carrier Definer"
+      },
+      {
+        "uid": "Xq6MxpuCl",
+        "string": "title: Mixture and Allegations by Carrier Definer\nchapter: [[Mixture and Allegations]]\n{{[[video]]: https://youtu.be/BS7XZujeB2M}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "BS7XZujeB2M",
+        "title": "Mixture and Allegations by Carrier Definer"
+      },
+      {
+        "uid": "PcDZXVSuh",
+        "string": "title: Problem on Ages by Carrier Definer\nchapter: [[Problem on Ages]]\n{{[[video]]: https://youtu.be/88amN0GMrY4}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "88amN0GMrY4",
+        "title": "Problem on Ages by Carrier Definer"
+      },
+      {
+        "uid": "0Y8Z12dDn",
+        "string": "title: Time Speed and Distance by Carrier Definer\nchapter: [[Time Speed and Distance]]\n{{[[video]]: https://youtu.be/2GgfyxFsj4o}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "2GgfyxFsj4o",
+        "title": "Time Speed and Distance by Carrier Definer"
+      }
+    ],
+    "isVideo": false,
+    "videoId": "",
+    "title": ""
+  },
+  {
+    "uid": "JraN_laN3",
+    "string": "Reasoning",
+    "children": [
+      {
+        "uid": "Pap6fMS4y",
+        "string": "title: Number Series Part-I\nchapter: [[Number Series]]\n{{[[video]]: https://youtu.be/RZDwpddc6UQ}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "RZDwpddc6UQ",
+        "title": "Number Series Part-I"
+      },
+      {
+        "uid": "qUeVfW1NY",
+        "string": "title: Number Series Part-II\nchapter: [[Number Series]]\n{{[[video]]: https://youtu.be/-e-WqkSCOQU}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "-e-WqkSCOQU",
+        "title": "Number Series Part-II"
+      },
+      {
+        "uid": "zi6IgJ4FW",
+        "string": "title: Number Series Part-III\nchapter: [[Number Series]]\n{{[[video]]: https://youtu.be/fR31HnVeAAA}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "fR31HnVeAAA",
+        "title": "Number Series Part-III"
+      },
+      {
+        "uid": "KrXItGSDN",
+        "string": "title: Complete Calendar Reasoning\nchapter: [[Calendar]]\n{{[[video]]: https://youtu.be/OQarroTPk-U}}",
+        "children": [],
+        "isVideo": true,
+        "videoId": "OQarroTPk-U",
+        "title": "Complete Calendar Reasoning"
+      }
+    ],
+    "isVideo": false,
+    "videoId": "",
+    "title": ""
+  }
+]
