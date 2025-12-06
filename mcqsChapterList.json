@@ -1,55 +1,5 @@
 [
   {
-    "name": "Ladakh",
-    "sub_chapters": []
-  },
-  {
-    "name": "KSSRB LSSRB 2025 Mock Tests",
-    "sub_chapters": []
-  },
-  {
-    "name": "KSSRB",
-    "sub_chapters": [
-      {
-        "name": "KSSRB Exam 2024 - Graduate",
-        "sub_chapters": []
-      },
-      {
-        "name": "KSSRB Exam 2024 - 12th Level",
-        "sub_chapters": []
-      },
-      {
-        "name": "KSSRB Exam 2024 - 10th Level",
-        "sub_chapters": []
-      },
-      {
-        "name": "KSSRB Exam 2023 - Graduate",
-        "sub_chapters": []
-      },
-      {
-        "name": "KSSRB Exam 2023 -10th Level - Shift 1",
-        "sub_chapters": []
-      },
-      {
-        "name": "KSSRB Exam 2019 - Graduate",
-        "sub_chapters": []
-      }
-    ]
-  },
-  {
-    "name": "LSSRB",
-    "sub_chapters": []
-  },
-  {
-    "name": "JKSSB",
-    "sub_chapters": [
-      {
-        "name": "JKSSB Exam 2024 - Patwari",
-        "sub_chapters": []
-      }
-    ]
-  },
-  {
     "name": "General Studies",
     "sub_chapters": [
       {
