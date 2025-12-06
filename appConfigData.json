@@ -1,0 +1,34 @@
+{
+  "appDataVersion": "1.1.1",
+  "ignoreTags": [
+    "verified",
+    "mock",
+    "easy",
+    "medium"
+  ],
+  "examsData": {
+    "generalExams": [
+      "KSSRB",
+      "LSSRB",
+      "LSSSSB",
+      "JKSSB"
+    ],
+    "specificExams": [
+      {
+        "name": "KSSRB Exam 2025 - 10th Level - Shift 2"
+      },
+      {
+        "name": "KSSRB Exam 2025 - 12th Level - Shift 1"
+      },
+      {
+        "name": "KSSRB Exam 2024 - Graduate"
+      },
+      {
+        "name": "KSSRB Exam 2024 - 12th Level"
+      },
+      {
+        "name": "KSSRB Exam 2024 - 10th Level"
+      }
+    ]
+  }
+}
