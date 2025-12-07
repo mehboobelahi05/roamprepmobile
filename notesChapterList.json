@@ -1,309 +1,385 @@
 [
   {
     "name": "General Studies",
+    "uid": null,
     "sub_chapters": [
       {
-        "name": "[[This is Another Long Page Test Page For Checking the App data]]",
+        "name": "This is Another Long Page Test Page For Checking the App data",
+        "uid": "EQhp2sb7x",
         "sub_chapters": []
       },
       {
-        "name": "[[Test Notes Page]]",
+        "name": "Test Notes Page",
+        "uid": "COVdYoMzb",
         "sub_chapters": []
       },
       {
-        "name": "[[Test Notes Page 2]]",
+        "name": "Test Notes Page 2",
+        "uid": "fm5HhtcjK",
         "sub_chapters": []
       },
       {
-        "name": "[[Ladakh GK Notes]]",
+        "name": "Ladakh GK Notes",
+        "uid": "NtRNtmcey",
         "sub_chapters": []
       },
       {
-        "name": "[[Ladakh Current Affairs]]",
+        "name": "Ladakh Current Affairs",
+        "uid": "cKnNt7wXd",
         "sub_chapters": []
       },
       {
-        "name": "[[Jammu and Kashmir]]",
+        "name": "Jammu and Kashmir",
+        "uid": "buXVXi8bO",
         "sub_chapters": []
       },
       {
-        "name": "[[History Video Lectures]]",
+        "name": "History Video Lectures",
+        "uid": "rp7kniV-l",
         "sub_chapters": []
       },
       {
-        "name": "[[Important Current Affairs for KSSRB 2025]]",
+        "name": "Important Current Affairs for KSSRB 2025",
+        "uid": "VIABJVT9k",
         "sub_chapters": []
       },
       {
         "name": "Polity",
+        "uid": null,
         "sub_chapters": [
           {
-            "name": "[[Important Bodies]]",
+            "name": "Important Bodies",
+            "uid": "n29qp0t32",
             "sub_chapters": []
           },
           {
-            "name": "[[Constituent Assembly]]",
+            "name": "Constituent Assembly",
+            "uid": "x77aPTPI-",
             "sub_chapters": []
           },
           {
-            "name": "[[PARTs of Constitution]]",
+            "name": "PARTs of Constitution",
+            "uid": "Rg3QF1dCs",
             "sub_chapters": []
           },
           {
-            "name": "[[Important Amendments]]",
+            "name": "Important Amendments",
+            "uid": "Ea5l72K0H",
             "sub_chapters": []
           },
           {
-            "name": "[[Schedules of Constitution]]",
+            "name": "Schedules of Constitution",
+            "uid": "kFky_g6lf",
             "sub_chapters": []
           },
           {
-            "name": "[[Preamble]]",
+            "name": "Preamble",
+            "uid": "cQq3lyA4t",
             "sub_chapters": []
           },
           {
-            "name": "[[Citizenship]]",
+            "name": "Citizenship",
+            "uid": "PeDPxXenL",
             "sub_chapters": []
           },
           {
-            "name": "[[Fundamental Rights]]",
+            "name": "Fundamental Rights",
+            "uid": "phRFcBz9E",
             "sub_chapters": []
           },
           {
-            "name": "[[DPSP]]",
+            "name": "DPSP",
+            "uid": "M08J6WbG_",
             "sub_chapters": []
           },
           {
-            "name": "[[Fundamental Duties]]",
+            "name": "Fundamental Duties",
+            "uid": "ZCi9vLnXj",
             "sub_chapters": []
           },
           {
-            "name": "[[Union Territories]]",
+            "name": "Union Territories",
+            "uid": "iQtBqriqv",
             "sub_chapters": []
           },
           {
-            "name": "[[Parliament]]",
+            "name": "Parliament",
+            "uid": "NoGYCraKA",
             "sub_chapters": []
           },
           {
-            "name": "[[President]]",
+            "name": "President",
+            "uid": "TLEu0Exfr",
             "sub_chapters": []
           },
           {
-            "name": "[[SC and HC Notes]]",
+            "name": "SC and HC Notes",
+            "uid": "DAAM6bT1j",
             "sub_chapters": []
           },
           {
-            "name": "[[Polity Static Notes]]",
+            "name": "Polity Static Notes",
+            "uid": "Zk5ifzhsx",
             "sub_chapters": []
           },
           {
-            "name": "[[Emergency Provisions]]",
+            "name": "Emergency Provisions",
+            "uid": "YCe7qlRZ4",
             "sub_chapters": []
           }
         ]
       },
       {
         "name": "History",
+        "uid": null,
         "sub_chapters": [
           {
-            "name": "[[Harappan Civilization]]",
+            "name": "Harappan Civilization",
+            "uid": "0QSi1z0TJ",
             "sub_chapters": []
           },
           {
-            "name": "[[Vedic Period]]",
+            "name": "Vedic Period",
+            "uid": "zdr_QjmC1",
             "sub_chapters": []
           },
           {
-            "name": "[[Buddhism]]",
+            "name": "Buddhism",
+            "uid": "PdYTtWt2t",
             "sub_chapters": []
           },
           {
-            "name": "[[Jainism]]",
+            "name": "Jainism",
+            "uid": "97AuBPiv8",
             "sub_chapters": []
           },
           {
-            "name": "[[Maurya Empire]]",
+            "name": "Maurya Empire",
+            "uid": "mPAWm2F5H",
             "sub_chapters": []
           },
           {
-            "name": "[[Kushana dynasty]]",
+            "name": "Kushana dynasty",
+            "uid": "FvX65ofPv",
             "sub_chapters": []
           },
           {
-            "name": "[[Gupta dynasty]]",
+            "name": "Gupta dynasty",
+            "uid": "cjbBK6p4z",
             "sub_chapters": []
           },
           {
-            "name": "[[Arab Invasion of India]]",
+            "name": "Arab Invasion of India",
+            "uid": "lUFF2Mktv",
             "sub_chapters": []
           },
           {
-            "name": "[[Delhi Sultanate]]",
+            "name": "Delhi Sultanate",
+            "uid": "wldN4XCsb",
             "sub_chapters": []
           },
           {
-            "name": "[[Mughals]]",
+            "name": "Mughals",
+            "uid": "gEBNErqkd",
             "sub_chapters": []
           },
           {
-            "name": "[[Social Reforms]]",
+            "name": "Social Reforms",
+            "uid": "LpzzWAX9F",
             "sub_chapters": []
           },
           {
-            "name": "[[Newspaper]]",
+            "name": "Newspaper",
+            "uid": "wp0Ra-6rC",
             "sub_chapters": []
           },
           {
-            "name": "[[Arrival of Europeans In India]]",
+            "name": "Arrival of Europeans In India",
+            "uid": "GQLj8l9hh",
             "sub_chapters": []
           },
           {
-            "name": "[[INC Sessions]]",
+            "name": "INC Sessions",
+            "uid": "7pgey0rKi",
             "sub_chapters": []
           },
           {
-            "name": "[[Governor Generals]]",
+            "name": "Governor Generals",
+            "uid": "5MtAi2Okl",
             "sub_chapters": []
           },
           {
-            "name": "[[Timeline Notes]]",
+            "name": "Timeline Notes",
+            "uid": "bPD9HMujZ",
             "sub_chapters": []
           },
           {
-            "name": "[[Mahatama Gandhi Events]]",
+            "name": "Mahatama Gandhi Events",
+            "uid": "bSuXMVAZ-",
             "sub_chapters": []
           }
         ]
       },
       {
         "name": "Geography",
+        "uid": null,
         "sub_chapters": [
           {
-            "name": "[[Indian Map Geography]]",
+            "name": "Indian Map Geography",
+            "uid": "i1ZnEYALR",
             "sub_chapters": []
           },
           {
-            "name": "[[Important Geography Facts]]",
+            "name": "Important Geography Facts",
+            "uid": "pfSJ8G2d5",
             "sub_chapters": []
           },
           {
-            "name": "[[Solar System]]",
+            "name": "Solar System",
+            "uid": "PWmPaoJRq",
             "sub_chapters": []
           },
           {
-            "name": "[[River Systems]]",
+            "name": "River Systems",
+            "uid": "Iw7MWhazb",
             "sub_chapters": []
           },
           {
-            "name": "[[Map Based Locations]]",
+            "name": "Map Based Locations",
+            "uid": "OYdZagmhJ",
             "sub_chapters": []
           },
           {
-            "name": "[[Mountains and Peaks]]",
+            "name": "Mountains and Peaks",
+            "uid": "qukeBs5r9",
             "sub_chapters": []
           },
           {
-            "name": "[[Atmosphere]]",
+            "name": "Atmosphere",
+            "uid": "ndVqtvwBu",
             "sub_chapters": []
           },
           {
-            "name": "[[Greenhouse Gases]]",
+            "name": "Greenhouse Gases",
+            "uid": "j3xDWIgzE",
             "sub_chapters": []
           },
           {
-            "name": "[[World Geography]]",
+            "name": "World Geography",
+            "uid": "OM8KYe6mc",
             "sub_chapters": []
           },
           {
-            "name": "[[Latitudes and Longitudes]]",
+            "name": "Latitudes and Longitudes",
+            "uid": "kxx4jI0ho",
             "sub_chapters": []
           }
         ]
       },
       {
         "name": "Economy",
+        "uid": null,
         "sub_chapters": [
           {
-            "name": "[[Economy Notes]]",
+            "name": "Economy Notes",
+            "uid": "c0nldT51E",
             "sub_chapters": []
           },
           {
-            "name": "[[GST Notes]]",
+            "name": "GST Notes",
+            "uid": "7fN09IHjr",
             "sub_chapters": []
           },
           {
-            "name": "[[Five Year Plans]]",
+            "name": "Five Year Plans",
+            "uid": "YasdG7RX5",
             "sub_chapters": []
           }
         ]
       },
       {
-        "name": "[[International Groupings]]",
+        "name": "International Groupings",
+        "uid": "lfiTU-u7Y",
         "sub_chapters": []
       },
       {
-        "name": "[[United Nations]]",
+        "name": "United Nations",
+        "uid": "ZaUNYoXYr",
         "sub_chapters": []
       },
       {
-        "name": "[[National Symbols]]",
+        "name": "National Symbols",
+        "uid": "0Ciale3sr",
         "sub_chapters": []
       },
       {
-        "name": "[[Art and Culture]]",
+        "name": "Art and Culture",
+        "uid": "a6woX5CKZ",
         "sub_chapters": []
       },
       {
-        "name": "[[Important GK Notes]]",
+        "name": "Important GK Notes",
+        "uid": "r09y_hvzi",
         "sub_chapters": []
       },
       {
         "name": "Science",
+        "uid": null,
         "sub_chapters": [
           {
-            "name": "[[Diseases]]",
+            "name": "Diseases",
+            "uid": "dorda9ogw",
             "sub_chapters": []
           },
           {
-            "name": "[[Biology Notes]]",
+            "name": "Biology Notes",
+            "uid": "2-WRhkOR3",
             "sub_chapters": []
           },
           {
-            "name": "[[Vitamins]]",
+            "name": "Vitamins",
+            "uid": "Hy8Wuk4CH",
             "sub_chapters": []
           },
           {
-            "name": "[[Unit Measurements]]",
+            "name": "Unit Measurements",
+            "uid": "cQMfcdbb0",
             "sub_chapters": []
           },
           {
-            "name": "[[Physics Notes]]",
+            "name": "Physics Notes",
+            "uid": "6nspQ9bx1",
             "sub_chapters": []
           }
         ]
       },
       {
-        "name": "[[Computer Notes]]",
+        "name": "Computer Notes",
+        "uid": "8AUAeimPR",
         "sub_chapters": []
       },
       {
-        "name": "[[Sports GK]] ",
+        "name": "Sports GK",
+        "uid": "oqG3YZw0B",
         "sub_chapters": []
       },
       {
-        "name": "[[Environment]]",
+        "name": "Environment",
+        "uid": "sxK3q0Ttj",
         "sub_chapters": []
       },
       {
         "name": "General Static GS",
+        "uid": null,
         "sub_chapters": [
           {
-            "name": "[[Static GK]]",
+            "name": "Static GK",
+            "uid": "Z0mqI4Hup",
             "sub_chapters": []
           },
           {
-            "name": "[[National & International Days]]",
+            "name": "National & International Days",
+            "uid": "_Ua1bfWwU",
             "sub_chapters": []
           }
         ]
@@ -312,38 +388,47 @@
   },
   {
     "name": "Grammer",
+    "uid": null,
     "sub_chapters": [
       {
-        "name": "[[Vocabulary]]",
+        "name": "Vocabulary",
+        "uid": "_854FURzh",
         "sub_chapters": []
       },
       {
-        "name": "[[60 Important Rules of Grammar | By Rani Maam]]",
+        "name": "60 Important Rules of Grammar | By Rani Maam",
+        "uid": "lERgSdUkl",
         "sub_chapters": []
       },
       {
-        "name": "[[Confusing Words - Verbs]]",
+        "name": "Confusing Words - Verbs",
+        "uid": "6GgQ1WCDs",
         "sub_chapters": []
       },
       {
-        "name": "[[Active Passive]] ",
+        "name": "Active Passive",
+        "uid": "MiQD97QKT",
         "sub_chapters": []
       },
       {
-        "name": "[[Articles A An and The]]",
+        "name": "Articles A An and The",
+        "uid": "iTgQc--XD",
         "sub_chapters": []
       },
       {
-        "name": "[[Preposition]]",
+        "name": "Preposition",
+        "uid": "i42_yiY1X",
         "sub_chapters": []
       }
     ]
   },
   {
     "name": "Reasoning",
+    "uid": null,
     "sub_chapters": [
       {
-        "name": "[[Reasoning Concepts Videos]]",
+        "name": "Reasoning Concepts Videos",
+        "uid": "w1JEOsXgC",
         "sub_chapters": []
       }
     ]
