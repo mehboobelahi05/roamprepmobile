@@ -160,6 +160,7 @@
       "Mixed"
     ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
+    "label": "Previous Paper",
     "category": "Full Mock Test",
     "addedOn": "December 10th, 2025"
   },
@@ -421,6 +422,7 @@
       "Mixed"
     ],
     "examName": "JKSSB Exam 2024 - Patwari",
+    "label": "Previous Paper",
     "category": "Full Mock Test",
     "addedOn": "December 10th, 2025"
   },
@@ -560,9 +562,9 @@
       "Mixed"
     ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
+    "label": "Subject Wise Mock",
     "category": "General Studies",
-    "addedOn": "December 10th, 2025",
-    "label": "Subject Wise Mock"
+    "addedOn": "December 10th, 2025"
   },
   {
     "id": "j7xVwa-7U_english",
@@ -580,10 +582,10 @@
       "Mixed"
     ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
+    "label": "Subject Wise Mock",
     "category": "English",
     "addedOn": "December 10th, 2025",
-    "mockTestId": "j7xVwa-7U",
-    "label": "Subject Wise Mock"
+    "mockTestId": "j7xVwa-7U"
   },
   {
     "id": "j7xVwa-7U_aptitude",
@@ -601,10 +603,10 @@
       "Mixed"
     ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
+    "label": "Subject Wise Mock",
     "category": "Aptitude",
     "addedOn": "December 10th, 2025",
-    "mockTestId": "j7xVwa-7U",
-    "label": "Subject Wise Mock"
+    "mockTestId": "j7xVwa-7U"
   },
   {
     "id": "j7xVwa-7U_reasoning",
@@ -622,10 +624,10 @@
       "Mixed"
     ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
+    "label": "Subject Wise Mock",
     "category": "Reasoning",
     "addedOn": "December 10th, 2025",
-    "mockTestId": "j7xVwa-7U",
-    "label": "Subject Wise Mock"
+    "mockTestId": "j7xVwa-7U"
   },
   {
     "id": "j2UqWUCew_gs",
@@ -726,9 +728,9 @@
       "Mixed"
     ],
     "examName": "JKSSB Exam 2024 - Patwari",
+    "label": "Subject Wise Mock",
     "category": "General Studies",
-    "addedOn": "December 10th, 2025",
-    "label": "Subject Wise Mock"
+    "addedOn": "December 10th, 2025"
   },
   {
     "id": "8yO6-TFU__english",
@@ -746,10 +748,10 @@
       "Mixed"
     ],
     "examName": "JKSSB Exam 2024 - Patwari",
+    "label": "Subject Wise Mock",
     "category": "English",
     "addedOn": "December 10th, 2025",
-    "mockTestId": "8yO6-TFU_",
-    "label": "Subject Wise Mock"
+    "mockTestId": "8yO6-TFU_"
   },
   {
     "id": "8yO6-TFU__aptitude",
@@ -767,10 +769,10 @@
       "Mixed"
     ],
     "examName": "JKSSB Exam 2024 - Patwari",
+    "label": "Subject Wise Mock",
     "category": "Aptitude",
     "addedOn": "December 10th, 2025",
-    "mockTestId": "8yO6-TFU_",
-    "label": "Subject Wise Mock"
+    "mockTestId": "8yO6-TFU_"
   },
   {
     "id": "8yO6-TFU__reasoning",
@@ -788,10 +790,10 @@
       "Mixed"
     ],
     "examName": "JKSSB Exam 2024 - Patwari",
+    "label": "Subject Wise Mock",
     "category": "Reasoning",
     "addedOn": "December 10th, 2025",
-    "mockTestId": "8yO6-TFU_",
-    "label": "Subject Wise Mock"
+    "mockTestId": "8yO6-TFU_"
   },
   {
     "id": "rIoQbSTl2_gs",
