@@ -1,5 +1,49 @@
 [
   {
+    "id": "4917PI2rz",
+    "name": "Polity Mock - Parts and Schedules",
+    "exam": "",
+    "type": "subjectWise",
+    "que_ids": [
+      "wHTIgX5Ge",
+      "f9t8VXQ4H",
+      "L7IL05RrA",
+      "jj7XpUn6R",
+      "pUm-gFdLq",
+      "KmvTI_qSo",
+      "iH6Pxf54E",
+      "1m7BrWh90",
+      "ObxjWUQgh",
+      "wMtM_L2P9",
+      "O68zOwODM",
+      "oQKRrQN5D",
+      "-VTKET-Zu",
+      "wgv5Niz34",
+      "VZYptyg3D",
+      "9r40tcQ-e",
+      "eW59v_c2m",
+      "X_qyFR8gA",
+      "eEi5yp3-z",
+      "jKealPjpa",
+      "zRmJdFxZG",
+      "wUznqX_nm",
+      "ttVKejkfp",
+      "prFpM_4gD",
+      "6uu8SAwCL"
+    ],
+    "pdfLink": "",
+    "examDate": "",
+    "expectedAverageScore": "",
+    "visibility": "",
+    "level": "medium",
+    "gradeLevel": "Graduate Level",
+    "chapters": [
+      "Polity"
+    ],
+    "category": "General Studies",
+    "label": "Subject Wise Mocks"
+  },
+  {
     "id": "j7xVwa-7U",
     "name": "KSSRB Exam 2025 - 10th Level - Shift 2",
     "exam": "KSSRB",
@@ -573,7 +617,7 @@
       "Mixed"
     ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
-    "category": "General Studies",
+    "category": "Reasoning",
     "addedOn": "December 10th, 2025",
     "mockTestId": "j7xVwa-7U",
     "label": "Subject Wise"
@@ -652,7 +696,7 @@
     ],
     "examName": "LSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise",
-    "category": "General Studies",
+    "category": "Reasoning",
     "addedOn": "December 10th, 2025",
     "mockTestId": "j2UqWUCew"
   },
@@ -729,7 +773,7 @@
       "Mixed"
     ],
     "examName": "JKSSB Exam 2024 - Patwari",
-    "category": "General Studies",
+    "category": "Reasoning",
     "addedOn": "December 10th, 2025",
     "mockTestId": "8yO6-TFU_",
     "label": "Subject Wise"
@@ -808,7 +852,7 @@
     ],
     "examName": "Mock Test 13",
     "label": "Subject Wise",
-    "category": "General Studies",
+    "category": "Reasoning",
     "addedOn": "December 11th, 2025",
     "mockTestId": "rIoQbSTl2"
   }
