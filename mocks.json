@@ -556,7 +556,9 @@
     "visibility": "All",
     "level": "Medium",
     "gradeLevel": "10th Level",
-    "chapters": "Mixed",
+    "chapters": [
+      "Mixed"
+    ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
     "category": "General Studies",
     "addedOn": "December 10th, 2025",
@@ -637,7 +639,9 @@
     "visibility": "All",
     "level": "Medium",
     "gradeLevel": "12th Level",
-    "chapters": "Mixed",
+    "chapters": [
+      "Mixed"
+    ],
     "examName": "LSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise",
     "category": "General Studies",
@@ -718,7 +722,9 @@
     "visibility": "All",
     "level": "Medium",
     "gradeLevel": "Graduate Level",
-    "chapters": "Mixed",
+    "chapters": [
+      "Mixed"
+    ],
     "examName": "JKSSB Exam 2024 - Patwari",
     "category": "General Studies",
     "addedOn": "December 10th, 2025",
@@ -799,7 +805,9 @@
     "visibility": "All",
     "level": "Medium",
     "gradeLevel": "10th Level",
-    "chapters": "Mixed",
+    "chapters": [
+      "Mixed"
+    ],
     "examName": "Mock Test 13",
     "label": "Subject Wise",
     "category": "General Studies",
