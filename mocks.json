@@ -40,6 +40,9 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "newmocktests"
+    ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
   },
@@ -78,6 +81,9 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "newmocktests"
     ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
@@ -123,6 +129,9 @@
     "chapters": [
       "Ladakh GK"
     ],
+    "tags": [
+      "newmocktests"
+    ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
   },
@@ -167,6 +176,9 @@
     "chapters": [
       "Ladakh GK"
     ],
+    "tags": [
+      "newmocktests"
+    ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
   },
@@ -206,6 +218,9 @@
     "chapters": [
       "Ladakh GK"
     ],
+    "tags": [
+      "newmocktests"
+    ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
   },
@@ -244,6 +259,9 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Ladakh GK"
+    ],
+    "tags": [
+      "newmocktests"
     ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
@@ -289,6 +307,9 @@
     "chapters": [
       "Polity"
     ],
+    "tags": [
+      "newmocktests"
+    ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
   },
@@ -332,6 +353,9 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Polity"
+    ],
+    "tags": [
+      "newmocktests"
     ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
@@ -381,6 +405,9 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Polity"
+    ],
+    "tags": [
+      "newmocktests"
     ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
@@ -478,6 +505,9 @@
     "chapters": [
       "History"
     ],
+    "tags": [
+      "newmocktests"
+    ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
   },
@@ -516,6 +546,9 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "History"
+    ],
+    "tags": [
+      "newmocktests"
     ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
@@ -565,6 +598,9 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Science"
+    ],
+    "tags": [
+      "newmocktests"
     ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
@@ -684,6 +720,12 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "KSSRB",
+      "KSSRB Exam 2025 - 10th Level - Shift 2",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
     "label": "Previous Paper",
@@ -805,6 +847,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "LSSRB Exam 2024 - 12th Level",
     "label": "Previous Paper",
@@ -1808,6 +1855,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 13",
     "label": "Full Mock Test",
     "category": "Full Mock Test",
@@ -1928,6 +1980,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 12",
     "label": "Full Mock Test",
@@ -2050,6 +2107,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 11",
     "label": "Full Mock Test",
     "category": "Full Mock Test",
@@ -2169,6 +2231,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 10",
     "label": "Full Mock Test",
@@ -2291,6 +2358,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 9",
     "label": "Full Mock Test",
     "category": "Full Mock Test",
@@ -2409,6 +2481,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 8",
     "label": "Full Mock Test",
@@ -2530,6 +2607,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 7",
     "label": "Full Mock Test",
     "category": "Full Mock Test",
@@ -2642,6 +2724,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 6",
     "label": "Full Mock Test",
@@ -2764,6 +2851,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 5",
     "label": "Full Mock Test",
     "category": "Full Mock Test",
@@ -2883,6 +2975,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 4",
     "label": "Full Mock Test",
@@ -3005,6 +3102,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 3",
     "label": "Full Mock Test",
     "category": "Full Mock Test",
@@ -3125,6 +3227,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 2",
     "label": "Full Mock Test",
@@ -3247,6 +3354,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 1",
     "label": "Full Mock Test",
     "category": "Full Mock Test",
@@ -3267,6 +3379,12 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "KSSRB",
+      "KSSRB Exam 2025 - 10th Level - Shift 2",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -3286,6 +3404,12 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "KSSRB",
+      "KSSRB Exam 2025 - 10th Level - Shift 2",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
     "label": "Subject Wise Mock",
@@ -3308,6 +3432,12 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "KSSRB",
+      "KSSRB Exam 2025 - 10th Level - Shift 2",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -3328,6 +3458,12 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "KSSRB",
+      "KSSRB Exam 2025 - 10th Level - Shift 2",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2025 - 10th Level - Shift 2",
     "label": "Subject Wise Mock",
@@ -3350,6 +3486,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "LSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -3369,6 +3510,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "LSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise Mock",
@@ -3391,6 +3537,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "LSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -3411,6 +3562,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "LSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise Mock",
@@ -4154,6 +4310,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 13",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4173,6 +4334,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 13",
     "label": "Subject Wise Mock",
@@ -4195,6 +4361,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 13",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4215,6 +4386,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 13",
     "label": "Subject Wise Mock",
@@ -4237,6 +4413,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 12",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4256,6 +4437,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 12",
     "label": "Subject Wise Mock",
@@ -4278,6 +4464,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 12",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4298,6 +4489,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 12",
     "label": "Subject Wise Mock",
@@ -4320,6 +4516,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 11",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4339,6 +4540,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 11",
     "label": "Subject Wise Mock",
@@ -4361,6 +4567,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 11",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4381,6 +4592,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 11",
     "label": "Subject Wise Mock",
@@ -4403,6 +4619,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 10",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4422,6 +4643,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 10",
     "label": "Subject Wise Mock",
@@ -4444,6 +4670,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 10",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4464,6 +4695,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 10",
     "label": "Subject Wise Mock",
@@ -4486,6 +4722,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 9",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4505,6 +4746,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 9",
     "label": "Subject Wise Mock",
@@ -4527,6 +4773,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 9",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4547,6 +4798,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 9",
     "label": "Subject Wise Mock",
@@ -4569,6 +4825,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 8",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4588,6 +4849,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 8",
     "label": "Subject Wise Mock",
@@ -4610,6 +4876,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 8",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4630,6 +4901,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 8",
     "label": "Subject Wise Mock",
@@ -4652,6 +4928,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 7",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4671,6 +4952,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 7",
     "label": "Subject Wise Mock",
@@ -4693,6 +4979,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 7",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4713,6 +5004,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 7",
     "label": "Subject Wise Mock",
@@ -4735,6 +5031,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 6",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4754,6 +5055,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 6",
     "label": "Subject Wise Mock",
@@ -4776,6 +5082,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 6",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4796,6 +5107,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 6",
     "label": "Subject Wise Mock",
@@ -4818,6 +5134,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 5",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4837,6 +5158,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 5",
     "label": "Subject Wise Mock",
@@ -4859,6 +5185,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 5",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4879,6 +5210,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 5",
     "label": "Subject Wise Mock",
@@ -4901,6 +5237,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 4",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -4920,6 +5261,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 4",
     "label": "Subject Wise Mock",
@@ -4942,6 +5288,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 4",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -4962,6 +5313,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 4",
     "label": "Subject Wise Mock",
@@ -4984,6 +5340,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 3",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -5003,6 +5364,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 3",
     "label": "Subject Wise Mock",
@@ -5025,6 +5391,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 3",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -5045,6 +5416,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 3",
     "label": "Subject Wise Mock",
@@ -5067,6 +5443,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 2",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -5086,6 +5467,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 2",
     "label": "Subject Wise Mock",
@@ -5108,6 +5494,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 2",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -5128,6 +5519,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 2",
     "label": "Subject Wise Mock",
@@ -5150,6 +5546,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 1",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -5169,6 +5570,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 1",
     "label": "Subject Wise Mock",
@@ -5191,6 +5597,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "Mock Test 1",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -5211,6 +5622,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "Mock Test 1",
     "label": "Subject Wise Mock",
