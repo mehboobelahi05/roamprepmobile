@@ -48,6 +48,10 @@
     "string": "**1757 – Battle of Plassey** #linkedBlock \n▪️ Decisive victory of Robert Clive's East India Company forces over Nawab Siraj-ud-Daulah, made possible by Mir Jafar's betrayal. Marked the beginning of British political control in Bengal.\n\n**1764 – Battle of Buxar**\n▪️ British East India Company under Hector Munro defeated the combined armies of Mughal Emperor Shah Alam II, Mir Qasim (Nawab of Bengal), and Shuja-ud-Daula (Nawab of Awadh). Established British military supremacy in northern India.\n\n**1765 – Treaty of Allahabad**\n▪️ Signed after Buxar; Robert Clive concluded treaties with Shah Alam II and Shuja-ud-Daula. Mughal Emperor granted Diwani rights (revenue collection) of Bengal, Bihar, and Orissa to the Company, giving it economic control over one of the richest regions of India."
   },
   {
+    "uid": "PGMSbO2o4",
+    "string": "This is a exp text. \nThis is a **bold** text\nThis is a ^^highlkight^^\nThis is video {video:wiwV-_Gp2lU:374} \nThis is [Option 1](((zPusrAMoK)))\n[Option 2](((AxZf7p7iN)))\n((YomR6jFBj)) #linkedBlock"
+  },
+  {
     "uid": "jqTwm6hzr",
     "string": "The **atomic number** is the number of protons in an atom's nucleus, while the **atomic mass** (also called mass number) is the total number of protons and neutrons in the nucleus. \n\nThe atomic number defines the element, while the atomic mass can vary for isotopes of the same element.\n\n**Isotopes:**\nAtoms of the same element with the same number of protons but different numbers of neutrons.\nExample: Carbon-12 (¹²C) and Carbon-14 (¹⁴C).\nBoth have 6 protons (same element: Carbon).\nCarbon-12 has 6 neutrons, Carbon-14 has 8 neutrons.\n\n\n**Isobars:**\nAtoms of different elements with the same mass number but different numbers of protons and neutrons.\nExample: Carbon-14 (¹⁴C) and Nitrogen-14 (¹⁴N).\nBoth have a mass number of 14 (protons + neutrons).\nCarbon-14: 6 protons, 8 neutrons; Nitrogen-14: 7 protons, 7 neutrons. \n#linkedBlock"
   }
