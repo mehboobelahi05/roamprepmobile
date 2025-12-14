@@ -1,5 +1,88 @@
 [
   {
+    "id": "bgcgZ4uTk",
+    "name": "GS Full Mock Test 2",
+    "exam": "",
+    "type": "subjectWise",
+    "que_ids": [
+      "X7v6ARjCE",
+      "mPGJt42nQ",
+      "noHObkbJJ",
+      "5zwwdXS9w",
+      "UZ_CeL6cD",
+      "HB7YEohqU",
+      "NMJB1AU2J",
+      "fAvtokY6V",
+      "9VQHT3rwu",
+      "gCAAe2op1",
+      "L0Teb7q4d",
+      "Hi3NToEL5",
+      "mkGhM10N8",
+      "gWlA5zsF4",
+      "qwaAiFYXH",
+      "nO7npMWcP",
+      "sQY9Tr8R0",
+      "s--FKle4P",
+      "x1XaxajJg",
+      "WQ0HtnITQ",
+      "NafB7f9JW",
+      "GrQV455Tk",
+      "8-ljcU7Cz",
+      "ic9EGN1fN",
+      "2XIq_C2DG"
+    ],
+    "pdfLink": "",
+    "examDate": "",
+    "expectedAverageScore": "",
+    "visibility": "",
+    "level": "Medium",
+    "gradeLevel": "Graduate Level",
+    "chapters": [
+      "Mixed"
+    ],
+    "category": "General Studies",
+    "label": "Subject Wise Mock"
+  },
+  {
+    "id": "IGxoz9vo7",
+    "name": "GS Full Mock Test 1",
+    "exam": "",
+    "type": "subjectWise",
+    "que_ids": [
+      "fmsr2_CH5",
+      "3ofPVPWxO",
+      "69oX-euEY",
+      "294nVFi7e",
+      "Nq8n7NgIW",
+      "pLET3a0zn",
+      "VvDAWzBDK",
+      "HGl1vUJ5u",
+      "mKneOxa72",
+      "IXLAtPQ3S",
+      "O9vgOdXAI",
+      "iCAjyPZiY",
+      "k51HBqHIb",
+      "iZbFOuI2N",
+      "1cfE0RP4p",
+      "5sILIFWCw",
+      "Jmozd2DOf",
+      "CRt_9Cg5f",
+      "O5DMDrer3",
+      "n7qT3LTfA"
+    ],
+    "pdfLink": "",
+    "examDate": "",
+    "expectedAverageScore": "",
+    "visibility": "",
+    "level": "Hard",
+    "gradeLevel": "Graduate Level",
+    "chapters": [
+      "Mixed"
+    ],
+    "category": "General Studies",
+    "label": "Subject Wise Mock"
+  },
+  {
     "id": "Dw34rTsdF",
     "name": "Ladakh GK Mock Test-1",
     "exam": "",
@@ -35,7 +118,7 @@
     "examDate": "",
     "expectedAverageScore": "",
     "visibility": "",
-    "level": "medium",
+    "level": "Medium",
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Ladakh GK"
@@ -79,7 +162,7 @@
     "examDate": "",
     "expectedAverageScore": "",
     "visibility": "",
-    "level": "medium",
+    "level": "Medium",
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Ladakh GK"
@@ -118,7 +201,7 @@
     "examDate": "",
     "expectedAverageScore": "",
     "visibility": "",
-    "level": "medium",
+    "level": "Medium",
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Ladakh GK"
@@ -157,7 +240,7 @@
     "examDate": "",
     "expectedAverageScore": "",
     "visibility": "",
-    "level": "medium",
+    "level": "Medium",
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Ladakh GK"
@@ -347,6 +430,9 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "History"
+    ],
+    "tags": [
+      "newmocktests"
     ],
     "category": "General Studies",
     "label": "Subject Wise Mock"
@@ -861,6 +947,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "JKSSB Exam 2024 - Patwari",
     "label": "Previous Paper",
     "category": "Full Mock Test",
@@ -981,6 +1072,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2025 - 12th Level - Shift 1",
     "label": "Previous Paper",
@@ -1103,6 +1199,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2024 - Graduate",
     "label": "Previous Paper",
     "category": "Full Mock Test",
@@ -1223,6 +1324,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2024 - 12th Level",
     "label": "Previous Paper",
@@ -1345,6 +1451,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2024 - 10th Level",
     "label": "Previous Paper",
     "category": "Full Mock Test",
@@ -1466,6 +1577,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2023 - Graduate",
     "label": "Previous Paper",
     "category": "Full Mock Test",
@@ -1566,6 +1682,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2019 - Graduate",
     "label": "Previous Paper",
@@ -2007,7 +2128,6 @@
       "WoFWr6LD8",
       "lU5agkXj1",
       "4K3I8051N",
-      "ZE51JNtiN",
       "7X1mYWl08",
       "gGYUN-Yqm",
       "EH35lEj63",
@@ -2208,7 +2328,6 @@
       "USaIwYRgH",
       "ZzI_wGA5v",
       "gvwidX-rp",
-      "FMuYjMvea",
       "MSIYex83v",
       "iNG3WgqHt",
       "1ehUxUFYH",
@@ -2237,7 +2356,6 @@
       "MKqMUHAbt",
       "Js6PSu6tD",
       "HOGvzis8c",
-      "BxwJ2AGZg",
       "IWbnTRUT-",
       "uhMiKMINa",
       "ZHpWxApBc",
@@ -2380,7 +2498,6 @@
       "qyRiOBoZ_",
       "LLRzWLCJK",
       "b1OBny1Uf",
-      "Dv5QH2r4r",
       "n0179p1m1",
       "3-bDp8agU",
       "RwjIJ3YqH",
@@ -2425,7 +2542,6 @@
     "type": "fullMockTest",
     "que_ids": [
       "MJ-Dyvqnt",
-      "65z_BSVfZ",
       "7EkbV4DeK",
       "bcUq4hP4S",
       "tIoVBUmI9",
@@ -2474,8 +2590,6 @@
       "MNbVxNJk1",
       "JYOj8R5Nn",
       "YOiTDFYiz",
-      "7NwBCOXlW",
-      "8AmLSOafN",
       "NWX0-Qhpn",
       "gligTK0r4",
       "IBeSXfI-i",
@@ -2500,8 +2614,6 @@
       "OV6Wx-l2b",
       "4Og4UkKE6",
       "EgAssUdLU",
-      "XcYWE8bbE",
-      "0m_akFFP4",
       "ORTv4vv-S",
       "8y-SRYxgX",
       "zL8n3rfnH",
@@ -2517,9 +2629,6 @@
       "E6uGqg4aT",
       "Hdy3cIEXn",
       "3pkHzUyyY",
-      "gMWYjU-oz",
-      "XKSH0a7ef",
-      "h2ZwJlTOc",
       "RL4eGLdh-",
       "oel0ILHbT",
       "uRqY_Xy2D",
@@ -2688,7 +2797,6 @@
       "j8-CPuO3l",
       "dpkx7-K2T",
       "EjgoSQUvq",
-      "N_ZVyD1Yc",
       "YSAR3TkOo",
       "do49Q7QOU",
       "LrBhUoCMC",
@@ -3325,6 +3433,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "JKSSB Exam 2024 - Patwari",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -3344,6 +3457,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "JKSSB Exam 2024 - Patwari",
     "label": "Subject Wise Mock",
@@ -3366,6 +3484,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "JKSSB Exam 2024 - Patwari",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -3386,6 +3509,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "JKSSB Exam 2024 - Patwari",
     "label": "Subject Wise Mock",
@@ -3408,6 +3536,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2025 - 12th Level - Shift 1",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -3427,6 +3560,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2025 - 12th Level - Shift 1",
     "label": "Subject Wise Mock",
@@ -3449,6 +3587,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2025 - 12th Level - Shift 1",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -3469,6 +3612,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2025 - 12th Level - Shift 1",
     "label": "Subject Wise Mock",
@@ -3491,6 +3639,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2024 - Graduate",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -3510,6 +3663,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2024 - Graduate",
     "label": "Subject Wise Mock",
@@ -3532,6 +3690,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2024 - Graduate",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -3552,6 +3715,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2024 - Graduate",
     "label": "Subject Wise Mock",
@@ -3574,6 +3742,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -3593,6 +3766,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise Mock",
@@ -3615,6 +3793,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -3635,6 +3818,11 @@
     "gradeLevel": "12th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2024 - 12th Level",
     "label": "Subject Wise Mock",
@@ -3657,6 +3845,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2024 - 10th Level",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -3676,6 +3869,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2024 - 10th Level",
     "label": "Subject Wise Mock",
@@ -3698,6 +3896,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2024 - 10th Level",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -3718,6 +3921,11 @@
     "gradeLevel": "10th Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2024 - 10th Level",
     "label": "Subject Wise Mock",
@@ -3740,6 +3948,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2023 - Graduate",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -3759,6 +3972,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2023 - Graduate",
     "label": "Subject Wise Mock",
@@ -3781,6 +3999,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2023 - Graduate",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -3801,6 +4024,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2023 - Graduate",
     "label": "Subject Wise Mock",
@@ -3823,6 +4051,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2019 - Graduate",
     "label": "Subject Wise Mock",
     "category": "General Studies",
@@ -3842,6 +4075,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2019 - Graduate",
     "label": "Subject Wise Mock",
@@ -3864,6 +4102,11 @@
     "chapters": [
       "Mixed"
     ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
+    ],
     "examName": "KSSRB Exam 2019 - Graduate",
     "label": "Subject Wise Mock",
     "category": "Aptitude",
@@ -3884,6 +4127,11 @@
     "gradeLevel": "Graduate Level",
     "chapters": [
       "Mixed"
+    ],
+    "tags": [
+      "pyq",
+      "mock",
+      "newmocktests"
     ],
     "examName": "KSSRB Exam 2019 - Graduate",
     "label": "Subject Wise Mock",
