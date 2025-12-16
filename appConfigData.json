@@ -52,5 +52,19 @@
     "wf3F6swxwl4",
     "v-Ljk69atRs"
   ],
-  "dataUpdateDateTime": "December 2025 12:48 AM"
+  "dataUpdateDateTime": "December 2025 12:50 AM",
+  "updateObject": {
+    "dateTime": "December 2025 12:49 AM",
+    "displayUpdated": false,
+    "updates": [
+      {
+        "heading": "New App Release Updates",
+        "textItems": [
+          "This is updated text",
+          "This is app 2",
+          "This is app 3"
+        ]
+      }
+    ]
+  }
 }
