@@ -53,18 +53,26 @@
     "v-Ljk69atRs"
   ],
   "updateObject": {
-    "dateTime": "December 2025 1:07 AM",
+    "dateTime": "December 2025 1:14 AM",
     "displayUpdates": true,
     "updates": [
       {
         "heading": "New App Release Updates",
         "textItems": [
-          "This is updated text",
-          "This is app 2",
-          "This is app 3"
+          "HELO which is **good** for all of US.",
+          "^^PARTY^^",
+          "Play this video {{[[video-timestamp]]: ((2Xd_pA7RE)) 00:08:43}}"
+        ]
+      },
+      {
+        "heading": "New App New",
+        "textItems": [
+          "Open this note [[Maurya Empire]]",
+          "This is a [linked blockkk](((BImRW0Lqn)))",
+          "This is an [external News](https://grok.com/c/72a7f632-a7e3-4525-8b5b-9ce6ff8ea87f?rid=81d7794c-0ba5-46d3-9bda-2d4ab5e72d55)"
         ]
       }
     ]
   },
-  "dataUpdateDateTime": "December 2025 1:07 AM"
+  "dataUpdateDateTime": "December 2025 1:14 AM"
 }
