@@ -84392,6 +84392,142 @@
     "paragraph_uid": ""
   },
   {
+    "id": "nxHeA_EvQ",
+    "question": "Test MCQ 1?",
+    "options": [
+      "With the",
+      "Linked Block UID has video in text",
+      "ABC",
+      "DEF"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "level": "",
+    "tags": [
+      "testMcq",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "2pk-szX2W",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-12-18",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "rGHeo9Ytv",
+    "question": "Test MCQ 2?",
+    "options": [
+      "With the",
+      "Exp block uid has video in text",
+      "ABC",
+      "DEF"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "level": "",
+    "tags": [
+      "testMcq",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "2pk-szX2W",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-12-18",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Aptitude"
+    ],
+    "taken_from": {},
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "wnB991QTO",
+    "question": "Test MCQ 3?",
+    "options": [
+      "No linked block",
+      "Expalanation text has linked video block",
+      "ABC",
+      "DEF"
+    ],
+    "correct_option_index": 2,
+    "explanation": "asdasd asd a sd as da\n((7xAj81MrO))",
+    "explanation_block_uid": "H94msGHWA",
+    "level": "",
+    "tags": [
+      "testMcq",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-12-18",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Aptitude"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
+    "id": "fxZs0v-Fv",
+    "question": "Test MCQ 4?",
+    "options": [
+      "No linked block",
+      "Expalanation text has video {video} ..",
+      "ABC",
+      "DEF"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Watch here {video:9fKQJcbd-jY:9}",
+    "explanation_block_uid": "LIi6CPAPF",
+    "level": "",
+    "tags": [
+      "testMcq",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "linked_video": "",
+    "linked_pdf": "",
+    "external_link": "",
+    "create_date": "2025-12-18",
+    "exams": [],
+    "page_title": null,
+    "page_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Aptitude"
+    ],
+    "taken_from": "",
+    "paragraph_text": "",
+    "paragraph_uid": ""
+  },
+  {
     "id": "0FgdtdkRt",
     "question": "What is square of 4?",
     "options": [
