@@ -48,39 +48,5 @@
       }
     ]
   },
-  "learnRoamPrepVideos": [
-    "wf3F6swxwl4",
-    "v-Ljk69atRs"
-  ],
-  "updateObject": {
-    "dateTime": "December 2025 9:26 AM",
-    "displayUpdates": true,
-    "updates": [
-      {
-        "heading": "New App Release Updates",
-        "textItems": [
-          "HELO which is **good** for all of US.",
-          "^^PARTY^^",
-          "Play this video {video:wiwV-_Gp2lU:523}"
-        ]
-      },
-      {
-        "heading": "New App New",
-        "textItems": [
-          "Open this note [[Maurya Empire]]",
-          "This is a [linked blockkk](((BImRW0Lqn)))",
-          "This is an [external News](https://grok.com/c/72a7f632-a7e3-4525-8b5b-9ce6ff8ea87f?rid=81d7794c-0ba5-46d3-9bda-2d4ab5e72d55)"
-        ]
-      }
-    ]
-  },
-  "timelinePageBlocks": [
-    "123 BC: [Battle of Hydapses](((DMWW1VYY6))) was fought between abc and dev ",
-    "1926: The [Battle of Panipath](((AlEwwF--G))) was fought ",
-    "1927: Battle of [Hldigathi](((SqPubDNj6))) was fought",
-    "1928: Battle of ABC",
-    "1539: Humayun was defeated by Sher Shah in the battle of Chausa",
-    "1540: Humayun was defeated by Sher Shah in the battle of Kannuj ( or Bilgram)"
-  ],
-  "dataUpdateDateTime": "December 2025 9:26 AM"
+  "dataUpdateDateTime": "December 2025 9:53 AM"
 }
