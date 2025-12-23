@@ -209,13 +209,13 @@
             "sub_chapters": []
           },
           {
-            "name": "Timeline Notes",
-            "uid": "bPD9HMujZ",
+            "name": "Mahatama Gandhi Events",
+            "uid": "bSuXMVAZ-",
             "sub_chapters": []
           },
           {
-            "name": "Mahatama Gandhi Events",
-            "uid": "bSuXMVAZ-",
+            "name": "History Timeline Notes",
+            "uid": "bPD9HMujZ",
             "sub_chapters": []
           }
         ]
@@ -383,6 +383,11 @@
             "sub_chapters": []
           }
         ]
+      },
+      {
+        "name": "Timeline Page",
+        "uid": "-9-T_2ryy",
+        "sub_chapters": []
       }
     ]
   },
