@@ -121,11 +121,11 @@
     "hasVideos": false,
     "children": [
       {
-        "label": "(empty)",
+        "label": "Number Series",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Coding Decoding",
         "hasVideos": false
       },
       {
@@ -137,7 +137,7 @@
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Calendar",
         "hasVideos": false
       }
     ]
