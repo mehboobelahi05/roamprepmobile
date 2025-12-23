@@ -53,8 +53,8 @@
     "v-Ljk69atRs"
   ],
   "updateObject": {
-    "dateTime": "December 23rd, 2025 10:27 PM",
-    "displayUpdates": true,
+    "dateTime": "December 23rd, 2025 10:28 PM",
+    "displayUpdates": false,
     "updates": [
       {
         "heading": "New App Release Updates",
@@ -85,5 +85,5 @@
     "1927: Battle of [Hldigathi](((p8URU-HCz))) was fought",
     "1928: Battle of ABC"
   ],
-  "dataUpdateDateTime": "December 23rd, 2025 10:28 PM"
+  "dataUpdateDateTime": "December 23rd, 2025 10:29 PM"
 }
