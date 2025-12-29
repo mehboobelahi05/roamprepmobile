@@ -1,345 +1,140 @@
 [
   {
-    "page_title": "This is Another Long Page Test Page For Checking the App data",
-    "page_uid": "EQhp2sb7x",
-    "blocks": [
-      {
-        "heading": 2,
-        "order": 0,
-        "string": "Deal without peace: ",
-        "uid": "0y39bco_P"
-      },
-      {
-        "children": [
-          {
-            "order": 0,
-            "string": "Trump’s announcement of the accord between the Congo and Rwanda is premature\nUpdated - December 06, 2025 12:21 am IST\n",
-            "uid": "uESPf7F9G"
-          },
-          {
-            "order": 1,
-            "string": "Google Preferred Source\n",
-            "uid": "uSgeL1ZWO"
-          },
-          {
-            "order": 2,
-            "string": "President Donald Trump counts the crisis in Congo as among the conflicts he has helped resolve. On December 4, he hosted the leaders of Rwanda and the Democratic Republic of Congo in Washington for the signing of a formal peace agreement, which endorsed an earlier deal concluded by the Foreign Ministers of both countries. Mr. Trump hailed the accord as a “historic” step towards bringing prosperity to Africa, while Congolese President Félix Tshisekedi and his Rwandan counterpart Paul Kagame, who had frequently exchanged insults, praised his mediation. ",
-            "uid": "fqqz2STn9"
-          },
-          {
-            "order": 3,
-            "string": "Mr. Trump also promised American investments in the resource-rich Congo if peace holds. On Thursday, he said he would send “our biggest and greatest companies over to the two countries”, adding that “we are going to take some of the rare earth, take out some of the assets and pay ... and everybody is going to make a lot of money”. But beyond the grandiosity of the ceremony, the situation remains complex and violent, with fighting continuing to rage in eastern Congo between Congolese forces and the M23 rebels. Under the agreement, Rwanda wants Congo to disarm the Hutu militias operating from its territory, while Congo wants Rwanda to withdraw troops from the east. ",
-            "uid": "Jz4PyRC2O"
-          },
-          {
-            "order": 4,
-            "string": "Ultimately, however, the success of the deal hinges on securing peace between the Congolese government and M23.\n",
-            "uid": "Q0uqDPnJH"
-          },
-          {
-            "order": 5,
-            "string": "The crisis in Congo can be traced back to the 1994 Rwandan genocide in which about 8,00,000 people, mostly Tutsis, were massacred by ethnic Hutu militias. After the genocidal regime in Kigali fell, thousands of Hutus fled to Congo in the mid-1990s. Rwanda now claims that some of the militias that took part in the genocide continue to operate from Congolese territory. M23, which takes its name from a failed peace agreement signed between a Tutsi-led rebel group and the Congolese government on March 23, 2009, says it is fighting to protect the rights of Congo’s Tutsi ethnic minority. ",
-            "uid": "Z9iLdTucb"
-          },
-          {
-            "order": 6,
-            "string": "The Congo and UN experts say neighbouring Rwanda, ruled by a Tutsi-led government, is backing M23. In 2012, shortly after its formation, M23 seized much of Goma in eastern Congo, but withdrew when Rwanda came under international pressure. It started another rebellion in 2021, capturing Goma again and expanding its reach. Alongside the U.S.-brokered talks between the Congo and Rwanda, a parallel dialogue between M23 and Kinshasa, facilitated by Qatar, is also under way. Congo wants ",
-            "uid": "mby7CrJkB"
-          },
-          {
-            "children": [
-              {
-                "order": 0,
-                "string": "M23 to withdraw from the eastern regions it controls, but the rebels have shown little interest in doing so. Mr. Trump’s declaration that he brought the war to an end appears premature, given the complexity of the crisis. For peace, the wounds of the genocide must be healed, inter-racial relations between Hutus and Tutsis improved, non-state militias disarmed and ties between Rwanda and the Congo stabilised.",
-                "uid": "rdGM6UKT1"
-              }
-            ],
-            "heading": 3,
-            "order": 7,
-            "string": "New Heading 31",
-            "uid": "gsyE3uO9G"
-          },
-          {
-            "children": [
-              {
-                "order": 0,
-                "string": "M23 to withdraw from the eastern regions it controls, but the rebels have shown little interest in doing so. Mr. Trump’s declaration that he brought the war to an end appears premature, given the complexity of the crisis. For peace, the wounds of the genocide must be healed, inter-racial relations between Hutus and Tutsis improved, non-state militias disarmed and ties between Rwanda and the Congo stabilised.",
-                "uid": "J8WVVMi3Z"
-              },
-              {
-                "children": [
-                  {
-                    "order": 0,
-                    "string": "M23 to withdraw from the eastern regions it controls, but the rebels have shown little interest in doing so. Mr. Trump’s declaration that he brought the war to an end appears premature, given the [[Test Notes Page 2]] complexity of the crisis. For peace, the wounds of the genocide must be healed, inter-racial relations between Hutus and Tutsis improved, non-state militias disarmed and ties between Rwanda and the Congo stabilised.",
-                    "uid": "NwPMexDBH"
-                  }
-                ],
-                "heading": 3,
-                "order": 1,
-                "string": "New Heading 33",
-                "uid": "WXMgyNDC-"
-              },
-              {
-                "children": [
-                  {
-                    "order": 0,
-                    "string": "M23 to withdraw from the eastern regions it controls, but the rebels have shown little interest in doing so. Mr. Trump’s declaration that he brought the war to an end appears premature, given the [[Test Notes Page]] complexity of the crisis. For peace, the wounds of the genocide must be healed, inter-racial relations between Hutus and Tutsis improved, non-state militias disarmed and ties between Rwanda and the Congo stabilised.",
-                    "uid": "OENrMRezg"
-                  }
-                ],
-                "heading": 3,
-                "order": 2,
-                "string": "New Heading 34",
-                "uid": "fpW_COM6-"
-              }
-            ],
-            "heading": 3,
-            "order": 8,
-            "string": "New Heading 32",
-            "uid": "_3yGGWgUK"
-          },
-          {
-            "order": 9,
-            "string": "This is a Linked Bolock ...\n((oJ7EuWsKr))",
-            "uid": "X1X36IAIE"
-          },
-          {
-            "order": 10,
-            "string": "This is [embed linked block](((oJ7EuWsKr)))",
-            "uid": "vDRtcCC2M"
-          },
-          {
-            "children": [
-              {
-                "order": 0,
-                "string": "Trump’s announcement of the accord between the Congo and Rwanda is premature\nUpdated - December 06, 2025 12:21 am IST\n",
-                "uid": "n3HYq22gn"
-              },
-              {
-                "order": 1,
-                "string": "Google Preferred Source\n",
-                "uid": "Zni72KMz_"
-              },
-              {
-                "order": 2,
-                "string": "President Donald Trump counts the crisis in Congo as among the conflicts he has helped resolve. On December 4, he hosted the leaders of Rwanda and the Democratic Republic of Congo in Washington for the signing of a formal peace agreement, which endorsed an earlier deal concluded by the Foreign Ministers of both countries. Mr. Trump hailed the accord as a “historic” step towards bringing prosperity to Africa, while Congolese President Félix Tshisekedi and his Rwandan counterpart Paul Kagame, who had frequently exchanged insults, praised his mediation. ",
-                "uid": "gkfg_q4X-"
-              },
-              {
-                "order": 3,
-                "string": "Mr. Trump also promised American investments in the resource-rich Congo if peace holds. On Thursday, he said he would send “our biggest and greatest companies over to the two countries”, adding that “we are going to take some of the rare earth, take out some of the assets and pay ... and everybody is going to make a lot of money”. But beyond the grandiosity of the ceremony, the situation remains complex and violent, with fighting continuing to rage in eastern Congo between Congolese forces and the M23 rebels. Under the agreement, Rwanda wants Congo to disarm the Hutu militias operating from its territory, while Congo wants Rwanda to withdraw troops from the east. ",
-                "uid": "vDgcmIT5s"
-              },
-              {
-                "order": 4,
-                "string": "Ultimately, however, the success of the deal hinges on securing peace between the Congolese government and M23.\n",
-                "uid": "VEFlMHIWQ"
-              },
-              {
-                "order": 5,
-                "string": "The crisis in Congo can be traced back to the 1994 Rwandan genocide in which about 8,00,000 people, mostly Tutsis, were massacred by ethnic Hutu militias. After the genocidal regime in Kigali fell, thousands of Hutus fled to Congo in the mid-1990s. Rwanda now claims that some of the militias that took part in the genocide continue to operate from Congolese territory. M23, which takes its name from a failed peace agreement signed between a Tutsi-led rebel group and the Congolese government on March 23, 2009, says it is fighting to protect the rights of Congo’s Tutsi ethnic minority. ",
-                "uid": "LUawJtX5A"
-              },
-              {
-                "order": 6,
-                "string": "The Congo and UN experts say neighbouring Rwanda, ruled by a Tutsi-led government, is backing M23. In 2012, shortly after its formation, M23 seized much of Goma in eastern Congo, but withdrew when Rwanda came under international pressure. It started another rebellion in 2021, capturing Goma again and expanding its reach. Alongside the U.S.-brokered talks between the Congo and Rwanda, a parallel dialogue between M23 and Kinshasa, facilitated by Qatar, is also under way. Congo wants ",
-                "uid": "kiqvQVGPz"
-              },
-              {
-                "children": [
-                  {
-                    "order": 0,
-                    "string": "M23 to withdraw from the eastern regions it controls, but the rebels have shown little interest in doing so. Mr. Trump’s declaration that he brought the war to an end appears premature, given the complexity of the crisis. For peace, the wounds of the genocide must be healed, inter-racial relations between Hutus and Tutsis improved, non-state militias disarmed and ties between Rwanda and the Congo stabilised.",
-                    "uid": "J7y_gwq5K"
-                  }
-                ],
-                "heading": 3,
-                "order": 7,
-                "string": "New Heading 31",
-                "uid": "sBq3C-dj3"
-              },
-              {
-                "children": [
-                  {
-                    "order": 0,
-                    "string": "M23 to withdraw from the eastern regions it controls, but the rebels have shown little interest in doing so. Mr. Trump’s declaration that he brought the war to an end appears premature, given the complexity of the crisis. For peace, the wounds of the genocide must be healed, inter-racial relations between Hutus and Tutsis improved, non-state militias disarmed and ties between Rwanda and the Congo stabilised.",
-                    "uid": "xzpUA73S4"
-                  },
-                  {
-                    "children": [
-                      {
-                        "order": 0,
-                        "string": "M23 to withdraw from the eastern regions it controls, but the rebels have shown little interest in doing so. Mr. Trump’s declaration that he brought the war to an end appears premature, given the [[Test Notes Page 2]] complexity of the crisis. For peace, the wounds of the genocide must be healed, inter-racial relations between Hutus and Tutsis improved, non-state militias disarmed and ties between Rwanda and the Congo stabilised.",
-                        "uid": "wY_VaEJrq"
-                      }
-                    ],
-                    "heading": 3,
-                    "order": 1,
-                    "string": "New Heading 33",
-                    "uid": "FbuRET7Do"
-                  },
-                  {
-                    "children": [
-                      {
-                        "order": 0,
-                        "string": "M23 to withdraw from the eastern regions it controls, but the rebels have shown little interest in doing so. Mr. Trump’s declaration that he brought the war to an end appears premature, given the [[Test Notes Page]] complexity of the crisis. For peace, the wounds of the genocide must be healed, inter-racial relations between Hutus and Tutsis improved, non-state militias disarmed and ties between Rwanda and the Congo stabilised.",
-                        "uid": "kbIr-o7s5"
-                      }
-                    ],
-                    "heading": 3,
-                    "order": 2,
-                    "string": "New Heading 34",
-                    "uid": "Gayt-GMAY"
-                  }
-                ],
-                "heading": 3,
-                "order": 8,
-                "string": "New Heading 32",
-                "uid": "nC5Dr3vVL"
-              },
-              {
-                "order": 9,
-                "string": "This is a Linked Bolock ...\n((oJ7EuWsKr))",
-                "uid": "Q82u5tBAj"
-              },
-              {
-                "order": 10,
-                "string": "This is [embed linked block](((oJ7EuWsKr)))",
-                "uid": "4LQZuDFSO"
-              }
-            ],
-            "heading": 3,
-            "order": 11,
-            "string": "TESTING H3",
-            "uid": "nKqc_ZLjd"
-          }
-        ],
-        "heading": 3,
-        "order": 1,
-        "string": "TESTING H3\n",
-        "uid": "ytxa1-29u"
-      }
-    ]
-  },
-  {
-    "page_title": "Test Notes Page",
-    "page_uid": "COVdYoMzb",
-    "blocks": [
-      {
-        "heading": 2,
-        "order": 0,
-        "string": "Header 2",
-        "uid": "ThK2KxUu1"
-      },
-      {
-        "heading": 3,
-        "order": 1,
-        "string": "Header 3",
-        "uid": "cdFQxORiX"
-      },
-      {
-        "order": 2,
-        "string": "**INTRODUCTION**\n▪️ The **Indus Valley Civilization** was established **around 3300** BC. Thus is a dummy text to see if things are ^^working clearly^^ or not amd that does not means that they will work properly. \n▪️ This is a **Bold Text** and let see how **bold** texts will appear in the find app. \n▪️ This is a ^^Bold Text and let^^ see how **bold** texts will appear in the find app. This is a Bold Text and let see ^^how bold^^ texts will appear in the find app. \n▪️ This is an _._ Underline Text _._ let see how it appears..  \n▪️  Thus a block with a page text [[Test Notes Page 2]]\n▪️ This is a [linked Block](((oJ7EuWsKr))) for the texting purpose.\n▪️ This [external link](https://www.wikipedia.org/) text from app. \nWatch Video: {video:J9qDaFTP9ao:188} \n\nThis is an image:\n![This Alt Image Text](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprepmobile%2FN1eXhsiGQ5.png?alt=media&token=b035750d-3613-41ec-95cf-f7b0271bbf10)",
-        "uid": "-UxFuVlpV"
-      },
-      {
-        "order": 3,
-        "string": "This is a New Block Text",
-        "uid": "4mQi_fmEG"
-      }
-    ]
-  },
-  {
-    "page_title": "Test Notes Page 2",
-    "page_uid": "fm5HhtcjK",
-    "blocks": [
-      {
-        "order": 0,
-        "string": "This is the Text Page 2 which was called from [[Test Notes Page]]",
-        "uid": "oJ7EuWsKr"
-      }
-    ]
-  },
-  {
     "page_title": "Ladakh GK Notes",
     "page_uid": "NtRNtmcey",
     "blocks": [
       {
+        "children": [
+          {
+            "children": [
+              {
+                "order": 0,
+                "string": "**Ladakh as Union Territory**\n▪️Ladakh as Union Territory was officially established on October 31, 2019. Thus Oct 31 is celebrated as UT foundation day in Ladakh.\n▪️ In Aug 2019 the state of Jammu and Kashmir was formally reorganised into two UTs i.e UT Jammu and Kashmir and UT Ladakh.\n▪️ Then the  Jammu and Kashmir state was under President's Rule and had no chief minister. \n▪️ The Governor of Jammu and Kashmir at that time was Satya Pal Malik\n▪️ Ladakh is a UT without legislature i.e directly governed by Central Govt. via Lieutenant Governor (LG)\n▪️ Both Leh and Kargil are joint capitals of UT Ladakh.\n▪️ Ladakh is also known as = \"Little Tibet\"  or \"The Land of High Passes\" or \"Cold Desert\"\nNote: \n▪️ Ladakh is known as Cold Desert, but the Cold Desert Biosphere Reserve is in Himachal Pradesh.",
+                "uid": "zNlkiQNgL"
+              }
+            ],
+            "heading": 3,
+            "order": 0,
+            "string": "Ladakh as Union territory",
+            "uid": "EGoZyUttT"
+          },
+          {
+            "children": [
+              {
+                "order": 0,
+                "string": "**Lieutenant Governors of UT Ladakh**\n▪️ First Lt. governor was  Radha Krishna Mathur (Oct 2019 to Feb 2023)\n▪️ Second Lt. governor was  Brig. (Dr.) B.D. Mishra (Feb 2023 to July 2025)\n▪️ Third and Current Lt. governor is  Kavinder Gupta (From July 2025 ...) \nMnemonics: MaMi Kavi hai: Ma-thur, Mishra Kavi-nder\n----\n▪️ The Lieutenant Governor (LG) in a union territory are appointed by the President.\n▪️ The tenure of a Lieutenant Governor (LG) in a union territory (UT) of India is five years, but they serve at the pleasure of the President. This means their term can be shorter or longer than five years, depending on the President's discretion and can be terminated by the President's dismissal or the LG's resignation.",
+                "uid": "s95T7PUCH"
+              }
+            ],
+            "heading": 3,
+            "order": 1,
+            "string": "Lieutenant Governors of Ladakh",
+            "uid": "dKWszOc93"
+          }
+        ],
+        "heading": 2,
         "order": 0,
-        "string": "**Ladakh as Union Territory**\n▪️Ladakh as Union Territory was officially established on October 31, 2019. Thus Oct 31 is celebrated as UT foundation day in Ladakh.\n▪️ In Aug 2019 the state of Jammu and Kashmir was formally reorganised into two UTs i.e UT Jammu and Kashmir and UT Ladakh.\n▪️ Then the  Jammu and Kashmir state was under President's Rule and had no chief minister. \n▪️ The Governor of Jammu and Kashmir at that time was Satya Pal Malik\n▪️ Ladakh is a UT without legislature i.e directly governed by Central Govt. via Lieutenant Governor (LG)\n▪️ Both Leh and Kargil are joint capitals of UT Ladakh.\n▪️ Ladakh is also known as = \"Little Tibet\"  or \"The Land of High Passes\" or \"Cold Desert\"\nNote: \n▪️ Ladakh is known as Cold Desert, but the Cold Desert Biosphere Reserve is in Himachal Pradesh.",
-        "uid": "zNlkiQNgL"
-      },
-      {
-        "order": 1,
-        "string": "**Lieutenant Governors of UT Ladakh**\n▪️ First Lt. governor was  Radha Krishna Mathur (Oct 2019 to Feb 2023)\n▪️ Second Lt. governor was  Brig. (Dr.) B.D. Mishra (Feb 2023 to July 2025)\n▪️ Third and Current Lt. governor is  Kavinder Gupta (From July 2025 ...) \nMnemonics: MaMi Kavi hai: Ma-thur, Mishra Kavi-nder\n----\n▪️ The Lieutenant Governor (LG) in a union territory are appointed by the President.\n▪️ The tenure of a Lieutenant Governor (LG) in a union territory (UT) of India is five years, but they serve at the pleasure of the President. This means their term can be shorter or longer than five years, depending on the President's discretion and can be terminated by the President's dismissal or the LG's resignation.",
-        "uid": "s95T7PUCH"
-      },
-      {
-        "order": 2,
-        "string": "**LAHDC**\n▪️ LAHDC = Ladakh Autonomous Hill Development Council\n▪️ Created under the Ladakh Autonomous Hill Development Council Act, 1995\n▪️ Established on the pattern of Darjeeling Hill Development Council.\n▪️ LAHDC Leh was established in 1995.\n▪️ LAHDC Kargil was established in 2003.\n\n**LAHDC Structure:**\n▪️ Total Councillors: 30\n▪️ Elected members: 26\n▪️ Nominated members: 4 \n▪️ The nominated are appointed by the LG Ladakh. \n▪️ These four members are typically nominated from amongst the principal religious minorities and women in the district to ensure balanced representation\n▪️ The executive committee consists of 5 members.\n▪️ The council is led by a Chief Executive Councillor, who leads an executive committee.\n\n**Oath of Members**\n▪️ The Principal District and Sessions Judge of district, a designated authority, administers the oath to the newly elected or nominated Chief Executive Councillor (CEC) and other members.\n\n**Ranks**\n▪️ Chief Executive Councillor (CEC) = Cabinet Minister rank\n▪️ Executive Councillors = Deputy Minister rank\n▪️ The DC of the district also serves as Chief Executive Officer (CEO) of LAHDC.\n\n▪️ First CEC of LAHDC Kargil: Qamar Ali Akhoon\n▪️ First CEC of LAHDC Leh: Thupstan Chhewang",
-        "uid": "ZoOYj9Rzf"
-      },
-      {
-        "order": 3,
-        "string": "**Current Office Holders in UT Ladakh**\nDated: as of Nov 2025:\n\n▪️ Lieutenant Governor: Kavinder Gupta\n▪️ Chief Secretary: Dr. Pawan Kotwal\n▪️ Chief Justice of J&K Ladakh HC: Justice Arun Palli\n▪️ Vice Chancellor of the University of Ladakh: Prof. Saket Kushwaha\n\n**In Kargil District**\n▪️ Current CEC LAHDC Kargil: Dr Mohd Jaffer Akhoon.\n▪️ Current CEO of LAHDC Kargil = DC Kargil\n▪️ Current DC Kargil: Rakesh Kumar (IAS)\n▪️ Current Chairman of DSSRB Kargil: = DC Kargil\n\n**In Leh District**\n▪️ Current CEC LAHDC Leh: Adv. Tashi Gyalson\n▪️ Current CEO of LAHDC Leh = DC Leh\n▪️ Current DC Leh: Shri Romil Singh Donk, (IAS)\n▪️ Current Chairman of DSSRB Leh: = DC Leh",
-        "uid": "jTRcFbs1r"
-      },
-      {
-        "order": 4,
-        "string": "**Map of UT Ladakh**\nWatch video:  {video:T6b52yxgZHM:465}\n▪️ Ladakh has two districts i.e Leh and kargil.\n▪️ Both Leh and Kargil are the capitals of UT Ladakh.\n▪️ The UT Ladakh shares border with three countries i.e Pakistan, Afghanistan and China.\n▪️ The PoK shares border with Pakistan and Afghanistan, and PoK is the official part of India. \n▪️ Leh district shares border with all the above three countries.\n▪️ Kargil district does not share border with any country. \n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FpOAaoMr1wp.png?alt=media&token=4fb1cd20-966b-420a-b3b9-da9b77e4e71b)\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F2Mz5U0pq_9.png?alt=media&token=c7e0444e-9660-4ebb-aaf7-f463bb8429c8)",
-        "uid": "05t5nFQqo"
-      },
-      {
-        "order": 5,
-        "string": "**About Leh**\n▪️ The Municipal Committee Leh has 13 wards",
-        "uid": "lk8pjD-T2"
-      },
-      {
-        "order": 6,
-        "string": "**About Kargil:**\n▪️ Kargil became a separate district in the Ladakh region during the year 1979 when it was bifurcated from the earstwhile Leh ditrict.\n▪️ Ladakh Autonomous Hill Development Council Kargil was commissioned in July 2003 in the district.\n▪️ Islam came to Kargil in 15th century. Mir Shams-ud-Din Iraqi, a scholar of Shia school of central Asia visited Baltistan and Kargil with his missionaries to preach Islam.\n▪️ The book “Kargil Blunder” was written by Parvez Dewan. \n▪️ Hill Council was established for Kargil in 2003, by the then CM of erstwhile J&K state Mufti Mohammad Sayeed\nSource: [kargil.nic.in](https://kargil.nic.in/history/)",
-        "uid": "eI8F5T8E2"
-      },
-      {
-        "order": 7,
-        "string": "**Kargil District:**\n▪️ 4 Sub Divisions: Drass, Zanskar, Sankoo, Shakar-Chiktan\n▪️ 7 Tehsils: Drass, Kargil, Shargole, Shakar-Chiktan, Sankoo, Taisuru, Zanskar\n▪️ 12 Niabats: Drass, Kargil, Shargole, Chiktan, TSG, G.M. Pore, Sankoo, Taisuru, Padum, Lungnaq, Cha, Zangla\n▪️ Kargil has 15 blocks, \n\n**Leh District:**\n▪️ 8 Tehsils: Leh, Khaltsi, Nyoma, Kharu, Diskit Nubra, Saspol, Durbuk, Sumoor\n▪️ Leh has 16 blocks",
-        "uid": "6GgGd1_BD"
-      },
-      {
-        "order": 8,
-        "string": "**About Kargil War**\n▪️ Fought in 1999 between India & Pakistan.\n▪️ Cause: Pakistani infiltrators occupied Indian positions along the Line of Control (LoC).\n▪️ Operation Vijay: India’s military mission to expel intruders.\n▪️ Kargil Vijay Diwas: Celebrated on July 26, 1999 (victory day).\n▪️ Operation Safed Sagar: Conducted by Indian Air Force → supported ground troops with precision airstrikes.\n----\n**Note**\n▪️ Kargil Vijay Diwas on July 26 commemorates India's victory in the 1999 Kargil War\n▪️ Vijay Diwas on December 16 marks the victory in the 1971 Indo-Pakistani War, which led to the creation of Bangladesh. \n▪️ Both days are dedicated to the bravery of the Indian armed forces in their respective conflicts.",
-        "uid": "lhc025XLB"
+        "string": "Ladakh Polity",
+        "uid": "hPLRTrJ2U"
       },
       {
         "children": [
           {
             "order": 0,
-            "string": "**Hemis National Park**\n▪️ Only National Park in Ladakh\n▪️ Only National Park in India north of the Greater Himalayas\n▪️ India's highest altitude National Park.\n▪️ Bounded by Indus river in north, and Zanskar range in south.\n▪️ Famous for Snow Leopards, which is also the state animal of Ladakh.\n▪️ Only refuge in India for Shapu (Ladakhi Urial)\n---\n▪️ Note: Ladakh is known as ^^Cold Desert^^, but the Cold Desert Biosphere Reserve is in Himachal.\n((HCOmC27QE))",
-            "uid": "r07NZ2eX1"
+            "string": "**LAHDC**\n▪️ LAHDC = Ladakh Autonomous Hill Development Council\n▪️ Created under the Ladakh Autonomous Hill Development Council Act, 1995\n▪️ Established on the pattern of Darjeeling Hill Development Council.\n▪️ LAHDC Leh was established in 1995.\n▪️ LAHDC Kargil was established in 2003.\n\n**LAHDC Structure:**\n▪️ Total Councillors: 30\n▪️ Elected members: 26\n▪️ Nominated members: 4 \n▪️ The nominated are appointed by the LG Ladakh. \n▪️ These four members are typically nominated from amongst the principal religious minorities and women in the district to ensure balanced representation\n▪️ The executive committee consists of 5 members.\n▪️ The council is led by a Chief Executive Councillor, who leads an executive committee.\n\n**Oath of Members**\n▪️ The Principal District and Sessions Judge of district, a designated authority, administers the oath to the newly elected or nominated Chief Executive Councillor (CEC) and other members.\n\n**Ranks**\n▪️ Chief Executive Councillor (CEC) = Cabinet Minister rank\n▪️ Executive Councillors = Deputy Minister rank\n▪️ The DC of the district also serves as Chief Executive Officer (CEO) of LAHDC.\n\n▪️ First CEC of LAHDC Kargil: Qamar Ali Akhoon\n▪️ First CEC of LAHDC Leh: Thupstan Chhewang",
+            "uid": "ZoOYj9Rzf"
           },
           {
             "order": 1,
-            "string": "**Changthang Wildlife Sanctuary**\n▪️ Located in the Changthang Plateau\n▪️ Includes Tso Moriri Lake (4595 m) – one of the highest lakes on Earth\n▪️ Korzok Monastery located on NW bank of Tso Moriri\n▪️ Major Fauna: Snow Leopard, Kiang (Tibetan Wild Ass – LC), Argali (Great Tibetan Sheep – NT)\n\n**Karakoram (Nubra Shyok) Wildlife Sanctuary**\n▪️ High-altitude WLS located in the eastern Karakoram range\n▪️ Known for migratory population of Chiru / Tibetan Antelope (NT)",
-            "uid": "pYWfWQvXN"
-          },
-          {
-            "order": 2,
-            "string": "**Ramsar Sites in Ladakh (2)**\n▪️ There are TWO ramsar sites from Ladakh i.e Tso kar and Tso moriri.\n▪️ Both are saline lakes.\n▪️ Feb 02 is celebrated as International wetland day\n\n\n**Tso Kar**\n▪️ Tso Kar is a high-altitude wetland complex consisting of two connected lakes, Startsapuk Tso (freshwater) and the hypersaline Tso Kar. \n▪️ It was designated as ramsar site in 2020\n▪️ Tso Kar, meaning \"White Lake,\" is a hypersaline lake in Ladakh, India, named for the white salt deposits on its shores. It is part of a larger wetland complex that includes a freshwater lake, and the area is a critical habitat for various bird species, including the black-necked crane.\n\n**Tso Moriri**\n▪️ Tsomoriri Lake is a high-altitude, freshwater lake in the Changthang region, designated as a Ramsar site in 2002.\n▪️ It is the only breeding ground outside China for Black-Necked Crane, which is state animal of Ladakh.",
-            "uid": "gz1wdRg0c"
-          },
-          {
-            "order": 3,
-            "string": "**State Animal of Ladakh**\n▪️ Snow leopard is the state animal of Ladakh.\n▪️ The scientific name of snow leopard is \"Panthera uncia\".\n▪️ The IUCN status of snow leopard is Vulnerable.\n▪️ October 23 is celebrated as International Day of the Snow Leopard.\n▪️ Ladakh has emerged as the world’s top hotspot for snow leopards. The Hemis national park is known for snow leopards.\n\n▪️ The Project Snow Leopard was launched in 2009.\n▪️ It was an initiative by the Indian government to conserve snow leopard. \n▪️ The project is active in five himaliyan states: Jammu & Kashmir, Himachal Pradesh, Uttarakhand, Sikkim, and Arunachal Pradesh.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUl0fO13630.png?alt=media&token=61e610ce-f3bb-4ec5-ad51-3d25d4c06a26)",
-            "uid": "rHdCrXI6F"
-          },
-          {
-            "order": 4,
-            "string": "**State Bird of Ladakh**\n▪️ State bird of Ladakh is **Black necked crane**.\n▪️ The Tso Moriri Ramsar site, located in Ladakh, is recognized as the only breeding ground in India for this globally threatened species. \n▪️ It is also a significant breeding site for other species, including the bar-headed goose.\n\nLinked Note:\n▪️ The Sarus Crane is the state bird of Uttar Pradesh (UP), and is known for being the world's tallest flying bird.\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fx78RKSU1S6.png?alt=media&token=969c0a90-80e3-4bac-b5b7-7cdcea5902dc)\n\n**State Tree of Ladakh**\n▪️ The State Tree of the Ladakh is the **Juniper**, known locally as Shukpa.\n▪️ Scientific name is Juniperus semiglobosa.\nLinked:\n▪️ The national tree of India is the **Banyan tree** (Ficus benghalensis), which symbolizes national unity, strength, and longevity due to its vast, spreading branches that form new roots.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fd5bNFMtEtE.png?alt=media&token=2232c9e3-d245-48be-8edd-e150294714dc)\n\n**State Flower of Ladakh**\n▪️ The state flower of Ladakh is the Himalayan Blue Poppy (Meconopsis aculeata).\n▪️ It is also known in the local language as \"Tsersnon\" or \"Tser-sNon\". \n▪️ It was officially declared the state flower in late December 2023.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F4IUp3HTbWI.png?alt=media&token=53308b85-3b6f-4fbc-bd8c-a3949a97698a)",
-            "uid": "-tfFu-Una"
+            "string": "**Current Office Holders in UT Ladakh**\nDated: as of Nov 2025:\n\n▪️ Lieutenant Governor: Kavinder Gupta\n▪️ Chief Secretary: Dr. Pawan Kotwal\n▪️ Chief Justice of J&K Ladakh HC: Justice Arun Palli\n▪️ Vice Chancellor of the University of Ladakh: Prof. Saket Kushwaha\n\n**In Kargil District**\n▪️ Current CEC LAHDC Kargil: Dr Mohd Jaffer Akhoon.\n▪️ Current CEO of LAHDC Kargil = DC Kargil\n▪️ Current DC Kargil: Rakesh Kumar (IAS)\n▪️ Current Chairman of DSSRB Kargil: = DC Kargil\n\n**In Leh District**\n▪️ Current CEC LAHDC Leh: Adv. Tashi Gyalson\n▪️ Current CEO of LAHDC Leh = DC Leh\n▪️ Current DC Leh: Shri Romil Singh Donk, (IAS)\n▪️ Current Chairman of DSSRB Leh: = DC Leh",
+            "uid": "jTRcFbs1r"
           }
         ],
-        "order": 9,
-        "string": "**Protected Areas in Ladakh:**\n▪️ Ladakh has only ONE national park i.e Hemis National Park.\n▪️ Ladakh has TWO Wildlife Sanctuaries i.e Changthang Wildlife Sanctuary and Karakoram (Nubra Shyok) Wildlife Sanctuary\n▪️ Ladakh has TWO ramsar sites i.e Tso Kar  and Tso Moriri",
-        "uid": "zxZ8F7eer"
+        "heading": 3,
+        "order": 1,
+        "string": "Ladakh Autonomous Hill Development Council",
+        "uid": "wkN0t2TeD"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Map of UT Ladakh**\nWatch video:  {video:T6b52yxgZHM:465}\n▪️ Ladakh has two districts i.e Leh and kargil.\n▪️ Both Leh and Kargil are the capitals of UT Ladakh.\n▪️ The UT Ladakh shares border with three countries i.e Pakistan, Afghanistan and China.\n▪️ The PoK shares border with Pakistan and Afghanistan, and PoK is the official part of India. \n▪️ Leh district shares border with all the above three countries.\n▪️ Kargil district does not share border with any country. \n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FpOAaoMr1wp.png?alt=media&token=4fb1cd20-966b-420a-b3b9-da9b77e4e71b)\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F2Mz5U0pq_9.png?alt=media&token=c7e0444e-9660-4ebb-aaf7-f463bb8429c8)",
+            "uid": "05t5nFQqo"
+          }
+        ],
+        "heading": 3,
+        "order": 2,
+        "string": "Map of Ladakh",
+        "uid": "99MkWiI8Z"
+      },
+      {
+        "order": 3,
+        "string": "**About Leh**\n▪️ The Municipal Committee Leh has 13 wards",
+        "uid": "lk8pjD-T2"
+      },
+      {
+        "order": 4,
+        "string": "**About Kargil:**\n▪️ Kargil became a separate district in the Ladakh region during the year 1979 when it was bifurcated from the earstwhile Leh ditrict.\n▪️ Ladakh Autonomous Hill Development Council Kargil was commissioned in July 2003 in the district.\n▪️ Islam came to Kargil in 15th century. Mir Shams-ud-Din Iraqi, a scholar of Shia school of central Asia visited Baltistan and Kargil with his missionaries to preach Islam.\n▪️ The book “Kargil Blunder” was written by Parvez Dewan. \n▪️ Hill Council was established for Kargil in 2003, by the then CM of erstwhile J&K state Mufti Mohammad Sayeed\nSource: [kargil.nic.in](https://kargil.nic.in/history/)",
+        "uid": "eI8F5T8E2"
+      },
+      {
+        "order": 5,
+        "string": "**Kargil District:**\n▪️ 4 Sub Divisions: Drass, Zanskar, Sankoo, Shakar-Chiktan\n▪️ 7 Tehsils: Drass, Kargil, Shargole, Shakar-Chiktan, Sankoo, Taisuru, Zanskar\n▪️ 12 Niabats: Drass, Kargil, Shargole, Chiktan, TSG, G.M. Pore, Sankoo, Taisuru, Padum, Lungnaq, Cha, Zangla\n▪️ Kargil has 15 blocks, \n\n**Leh District:**\n▪️ 8 Tehsils: Leh, Khaltsi, Nyoma, Kharu, Diskit Nubra, Saspol, Durbuk, Sumoor\n▪️ Leh has 16 blocks",
+        "uid": "6GgGd1_BD"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**About Kargil War**\n▪️ Fought in 1999 between India & Pakistan.\n▪️ Cause: Pakistani infiltrators occupied Indian positions along the Line of Control (LoC).\n▪️ Operation Vijay: India’s military mission to expel intruders.\n▪️ Kargil Vijay Diwas: Celebrated on July 26, 1999 (victory day).\n▪️ Operation Safed Sagar: Conducted by Indian Air Force → supported ground troops with precision airstrikes.\n----\n**Note**\n▪️ Kargil Vijay Diwas on July 26 commemorates India's victory in the 1999 Kargil War\n▪️ Vijay Diwas on December 16 marks the victory in the 1971 Indo-Pakistani War, which led to the creation of Bangladesh. \n▪️ Both days are dedicated to the bravery of the Indian armed forces in their respective conflicts.",
+            "uid": "lhc025XLB"
+          }
+        ],
+        "heading": 3,
+        "order": 6,
+        "string": "Kargil War",
+        "uid": "xJcCbymj0"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "order": 0,
+                "string": "**Hemis National Park**\n▪️ Only National Park in Ladakh\n▪️ Only National Park in India north of the Greater Himalayas\n▪️ India's highest altitude National Park.\n▪️ Bounded by Indus river in north, and Zanskar range in south.\n▪️ Famous for Snow Leopards, which is also the state animal of Ladakh.\n▪️ Only refuge in India for Shapu (Ladakhi Urial)\n---\n▪️ Note: Ladakh is known as ^^Cold Desert^^, but the Cold Desert Biosphere Reserve is in Himachal.\n((HCOmC27QE))",
+                "uid": "r07NZ2eX1"
+              },
+              {
+                "order": 1,
+                "string": "**Changthang Wildlife Sanctuary**\n▪️ Located in the Changthang Plateau\n▪️ Includes Tso Moriri Lake (4595 m) – one of the highest lakes on Earth\n▪️ Korzok Monastery located on NW bank of Tso Moriri\n▪️ Major Fauna: Snow Leopard, Kiang (Tibetan Wild Ass – LC), Argali (Great Tibetan Sheep – NT)\n\n**Karakoram (Nubra Shyok) Wildlife Sanctuary**\n▪️ High-altitude WLS located in the eastern Karakoram range\n▪️ Known for migratory population of Chiru / Tibetan Antelope (NT)",
+                "uid": "pYWfWQvXN"
+              },
+              {
+                "order": 2,
+                "string": "**Ramsar Sites in Ladakh (2)**\n▪️ There are TWO ramsar sites from Ladakh i.e Tso kar and Tso moriri.\n▪️ Both are saline lakes.\n▪️ Feb 02 is celebrated as International wetland day\n\n\n**Tso Kar**\n▪️ Tso Kar is a high-altitude wetland complex consisting of two connected lakes, Startsapuk Tso (freshwater) and the hypersaline Tso Kar. \n▪️ It was designated as ramsar site in 2020\n▪️ Tso Kar, meaning \"White Lake,\" is a hypersaline lake in Ladakh, India, named for the white salt deposits on its shores. It is part of a larger wetland complex that includes a freshwater lake, and the area is a critical habitat for various bird species, including the black-necked crane.\n\n**Tso Moriri**\n▪️ Tsomoriri Lake is a high-altitude, freshwater lake in the Changthang region, designated as a Ramsar site in 2002.\n▪️ It is the only breeding ground outside China for Black-Necked Crane, which is state animal of Ladakh.",
+                "uid": "gz1wdRg0c"
+              },
+              {
+                "order": 3,
+                "string": "**State Animal of Ladakh**\n▪️ Snow leopard is the state animal of Ladakh.\n▪️ The scientific name of snow leopard is \"Panthera uncia\".\n▪️ The IUCN status of snow leopard is Vulnerable.\n▪️ October 23 is celebrated as International Day of the Snow Leopard.\n▪️ Ladakh has emerged as the world’s top hotspot for snow leopards. The Hemis national park is known for snow leopards.\n\n▪️ The Project Snow Leopard was launched in 2009.\n▪️ It was an initiative by the Indian government to conserve snow leopard. \n▪️ The project is active in five himaliyan states: Jammu & Kashmir, Himachal Pradesh, Uttarakhand, Sikkim, and Arunachal Pradesh.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUl0fO13630.png?alt=media&token=61e610ce-f3bb-4ec5-ad51-3d25d4c06a26)",
+                "uid": "rHdCrXI6F"
+              },
+              {
+                "order": 4,
+                "string": "**State Bird of Ladakh**\n▪️ State bird of Ladakh is **Black necked crane**.\n▪️ The Tso Moriri Ramsar site, located in Ladakh, is recognized as the only breeding ground in India for this globally threatened species. \n▪️ It is also a significant breeding site for other species, including the bar-headed goose.\n\nLinked Note:\n▪️ The Sarus Crane is the state bird of Uttar Pradesh (UP), and is known for being the world's tallest flying bird.\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fx78RKSU1S6.png?alt=media&token=969c0a90-80e3-4bac-b5b7-7cdcea5902dc)\n\n**State Tree of Ladakh**\n▪️ The State Tree of the Ladakh is the **Juniper**, known locally as Shukpa.\n▪️ Scientific name is Juniperus semiglobosa.\nLinked:\n▪️ The national tree of India is the **Banyan tree** (Ficus benghalensis), which symbolizes national unity, strength, and longevity due to its vast, spreading branches that form new roots.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fd5bNFMtEtE.png?alt=media&token=2232c9e3-d245-48be-8edd-e150294714dc)\n\n**State Flower of Ladakh**\n▪️ The state flower of Ladakh is the Himalayan Blue Poppy (Meconopsis aculeata).\n▪️ It is also known in the local language as \"Tsersnon\" or \"Tser-sNon\". \n▪️ It was officially declared the state flower in late December 2023.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F4IUp3HTbWI.png?alt=media&token=53308b85-3b6f-4fbc-bd8c-a3949a97698a)",
+                "uid": "-tfFu-Una"
+              }
+            ],
+            "order": 0,
+            "string": "**Protected Areas in Ladakh:**\n▪️ Ladakh has only ONE national park i.e Hemis National Park.\n▪️ Ladakh has TWO Wildlife Sanctuaries i.e Changthang Wildlife Sanctuary and Karakoram (Nubra Shyok) Wildlife Sanctuary\n▪️ Ladakh has TWO ramsar sites i.e Tso Kar  and Tso Moriri",
+            "uid": "zxZ8F7eer"
+          }
+        ],
+        "heading": 2,
+        "order": 7,
+        "string": "Protected Areas in Ladakh",
+        "uid": "9m5gfv8bI"
       },
       {
         "children": [
@@ -364,97 +159,97 @@
             "uid": "ljRvDid-D"
           }
         ],
-        "order": 10,
+        "order": 8,
         "string": "**Important Rivers of Ladakh:**\n▪️ The Leh city is on the bank of Indus river.\n▪️ The Kargil city is on the bank of Suru river.",
         "uid": "0On4XhxHw"
       },
       {
-        "order": 11,
+        "order": 9,
         "string": "**Official Languages of UT Ladakh**\n▪️ Ladakh has 5 official [[language]]s.\n▪️ These are: Purgi, Bhoti, Urdu, Hindi, and English.\n▪️ English will continue to be used for most official purposes, while the other languages are now also officially recognized\n((sWmW83hRj))",
         "uid": "AiGr3c3fA"
       },
       {
-        "order": 12,
+        "order": 10,
         "string": "**Project Name: Nimoo Bazgo (on Indus River)**\nCapacity (MW): 45\nStatus: Operational (2011)\nKey Notes: Largest in Ladakh; developed by NHPC; supplies power to Leh region; compliant with Indus Waters Treaty.\n\n\n**Project Name: Chutak (on Suru River)**\nCapacity (MW): 44\nStatus: Operational (2013)\nKey Notes: Major NHPC project; dedicated to Kargil supply; 4x11 MW units; connected to Northern Grid.",
         "uid": "F-UcZPpHl"
       },
       {
-        "order": 13,
+        "order": 11,
         "string": "**About Pangong Lake**\n▪️ Pangong Lake is a high-altitude, endorheic salt lake in the Himalayas.\n▪️ It is  one of the highest brackish water lakes in the world\n▪️ It is spread both in India and China\n▪️ The lake is almost 5km wide and 134km long, with **one-third** of it lying in India and the other two-thirds in China.\n▪️ It is not a ramsar site. \n▪️ The most gripping fact about this lake is that it changes color appearing blue, grey-green, and red at varied points in time. \n▪️ During winter, the lake freezes completely despite being saline water.\n▪️ The ^^first frozen lake marathon^^ was the ^^Pangong Frozen Lake Marathon in Ladakh^^, India, held on February 20, 2023. It was registered in the ^^Guinness Book of World Records^^ as the world's highest frozen lake marathon, taking place on the frozen surface of Pangong Tso at an altitude of roughly 13,862 feet.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FkkyUTufqdG.png?alt=media&token=e4452dc4-6631-42a7-8bfe-0075705120b4)",
         "uid": "2NtJe83hf"
       },
       {
-        "order": 14,
+        "order": 12,
         "string": "**Shanti stupa**\n▪️ The Shanti stupa is located in Leh district of Ladakh.\n▪️ It was built in 1991 by Japanese Buddhist Bhikshu and Gyomyo Nakamura.\n▪️ The stupa consists of a photograph of the Dalai Lama with the relics of the Buddha at the base.\n▪️ The structure of the stupa is a \"two-level structure\".\nThe purpose of the construction of Stupa is to promote world peace and prosperity.\n▪️ It symbolizes the relationship between the people of Japan and Ladakh.\n▪️ A similar structure is built in New Delhi in Kale Khan \n▪️ It was inaugurated by current 14th Dalai Lama\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fz4VFLtGrTQ.png?alt=media&token=47b5b044-1309-466c-836e-4c4ecaa896fc)",
         "uid": "gzTMcTxPV"
       },
       {
-        "order": 15,
+        "order": 13,
         "string": "**Passes in Ladakh**\n▪️ Ladakh UT is also known as \"The Land of High Passes\"\n▪️ The highest pass in Ladakh is Mig La Pass, which is also the world's highest motorable road at 19,400 feet. \n▪️ The Border Roads Organisation (BRO) constructed this road, which was completed in October 2025, surpassing the previous record held by Umling La Pass. \n\n**Top three passes of Ladakh:**\n1. Mig La pass (19400 ft)\n2. Umling La pass (19,024 ft)\n3. Khardung la pass (18,379 ft)\n\n▪️ Khardung la is the gateway to Shyok and Nubra valleys and it leads to endless scenic vistas.\n\n▪️ Mig La is situated in the Himalayan mountain range. \n▪️ Umling La is part of the Ladakh mountain ranges. \n▪️ Khardung La Pass is located in the Ladakh Range, a sub-range of the Himalayas. \n▪️ The Zojila Pass ( 11500 ft) is in the Zanskar Range of the Himalayas. \n▪️ The approximate length of Zojila Tunnel is 14.15 Km.",
         "uid": "l1mUv520q"
       },
       {
-        "order": 16,
+        "order": 14,
         "string": "**Shinku La Tunnel**\n▪️ Length 4.1-Km-long tunnel \n▪️ Connect Zanskar (in Ladakh) with Himachal Pradesh.\n▪️ Constructed by BRO under \"Project Yojak\".\n▪️ Across Shinku La Pass\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F7JwdLwKLJS.png?alt=media&token=2ad99a3e-cd70-415b-97a1-f5d60d4d7d19)",
         "uid": "idqsBg5eB"
       },
       {
-        "order": 17,
+        "order": 15,
         "string": "**Atal Tunnel** \n▪️ Under the Rohtang Pass in the eastern Pir Panjal range of the Himalayas. \n▪️ It runs on the Leh-Manali Highway in Himachal Pradesh.\n▪️ Length approximately 9.02 Kms. \n▪️ Provides all-weather connectivity between Manali and the Lahaul-Spiti Valley. \n▪️ The tunnel is built under the Rohtang Pass.\n▪️ It is a part of the Leh-Manali Highway.\n▪️ It connects Manali and the Lahaul-Spiti Valley, which was previously inaccessible for about six months a year due to snow.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FbTEFf5tjV6.png?alt=media&token=dccb3d4c-a450-445a-adbe-dcb7144d7c37)",
         "uid": "3cXtq1plA"
       },
       {
-        "order": 18,
+        "order": 16,
         "string": "**Zojila Tunnel**\n▪️ The Zojila Pass ( 11500 ft) is in the Zanskar Range of the Himalayas. \n▪️ The approximate length of Zojila Tunnel is 14.15 Km.\n▪️ Connect Srinagar with Kargil-Leh, in ^^National Highway NH-01^^\n▪️ Zojila tunnel is ^^Asias Longest Tunnel^^\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fu95cLFAoQz.png?alt=media&token=57c3b20f-529a-4ed3-8d8d-6c000c760de7)",
         "uid": "VIHRlWBXl"
       },
       {
-        "order": 19,
+        "order": 17,
         "string": "**Other Important Facts:**\n\n▪️ ^^Lamayuru^^: it is also known as the Moonland of Ladakh.\n▪️ ^^Magnetic hill^^ that is believed to defy gravity is located at a distance of 30km(s) from Leh on the Leh-Kargil Highway\n\n**Nubra Vallye**\n▪️ NubraValley is known as the orchard of Ladakh\n▪️ Khardungla pass connects Nubra valley with Leh.\n▪️ The 108ft tall Statue of Maitreya Buddha is in Nubra valley.\n▪️ ^^Double-humped camels (Bactrian camels)^^ are mainly found in the Nubra Valley region of Ladakh, particularly in the Hunder village.",
         "uid": "0sPL9aH8e"
       },
       {
-        "order": 20,
+        "order": 18,
         "string": "**Schemes Mentioned in UT Ladakh Govt Website:**\n[link here](https://ladakh.gov.in/provider/central-government/)\n\n**Pradhan Mantri Awaas Yojana – Gramin (PMAY-G)**\n▪️ Provide pucca houses with basic amenities to rural poor/homeless and those living in kutcha houses.  \n\n**Pradhan Mantri Awaas Yojana (Urban)**  \n▪️ Ensure affordable housing for urban poor, slum dwellers, and EWS/LIG categories.  \n\n**Pradhan Mantri Gram Sadak Yojana (PMGSY)**  \n▪️ Provide all-weather road connectivity to unconnected rural habitations (250+ population in plains, 100+ in hilly areas).  \n\n**Pradhan Mantri Kaushal Vikas Yojana (PMKVY)**  \n▪️ Skill training of youth for employment/entrepreneurship through short-term courses and recognition of prior learning.  \n\n**Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)**  \n▪️ Provide ₹6,000 per year income support to small & marginal farmer families (in 3 equal installments).  \n\n**Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)**  \n▪️ ^^Provide 100 days of guaranteed wage employment per year^^ to rural households for unskilled manual work.",
         "uid": "yG51kj7w9"
       },
       {
-        "order": 21,
+        "order": 19,
         "string": "▪️ The ^^Changpa community^^ resides in the ^^Changthang region^^ of Ladakh.\n▪️ They are known for ^^rearing Pashmina goats^^.\n▪️ Pashmina is a high-quality, luxurious fabric made from the fine wool of these goats.\n▪️ Ladakhi Pashmina received the ^^GI-Tag in 2024.^^\n**Note:**\n2008: GI tag for Kashmiri Pashmina\n2024: Ladakh's Pashmina wool received a separate GI tag",
         "uid": "quFMuy7Yy"
       },
       {
-        "order": 22,
+        "order": 20,
         "string": "**GI Tags From UT Ladakh**\n▪️ As of late 2023, ^^four products^^ from the Union Territory of Ladakh have been granted a Geographical Indication (GI) tag. \n1. Raktsey Karpo (Ladakh Apricot in December 2022\n2. Ladakh Wood Carving in April 2023\n3. Ladakh Seabuckthorn: November 2023\n4. Ladakh Pashmina: October 2024\n\nNote:\n▪️ The first GI product of India was Darjeeling tea (in 2004-05).\n▪️ The first GI product of J&K state was Kashmiri Pashmina inDecember 2008. (Ladakh Pashmina in 2024)\n▪️ GI tag is valid for 10 years and can be renewed from time to time.",
         "uid": "BGb2E2TTW"
       },
       {
-        "order": 23,
+        "order": 21,
         "string": "**Raktsey Karpo (Ladakh Apricot):** \n▪️ This specific variety of apricot was **the first product from Ladakh to receive a GI tag**, in December 2022. \n▪️ It is known for its unique sweetness and white kernel stone.\n▪️ It is also selected as district product from Kargil district, under the One District One Product scheme.",
         "uid": "8SOYJF5gt"
       },
       {
-        "order": 24,
+        "order": 22,
         "string": "**Ladakh Wood Carving:** \n▪️ This art form is known for its intricate designs, often featuring motifs inspired by Tibetan Buddhism. \n▪️ A common item is the chokste, a low wooden table.\n▪️ Ladakh wood carving received its Geographical Indication (GI) tag in April 2023",
         "uid": "RNpbGc2Sk"
       },
       {
-        "order": 25,
+        "order": 23,
         "string": "**Ladakh Seabuckthorn:** \n▪️ Nicknamed the \"wonder plant\" or \"Ladakh Gold,\" this orange-yellow berry is packed with vitamins. \n▪️ Ladakh produces 90% of India's sea buckthorn, a plant that helps prevent soil erosion and is a source of fodder.\n▪️ Ladakh's sea buckthorn was granted a Geographical Indication (GI) tag in November 2023\n▪️ Also known as \"wonder plant\" or \"golden bush\".\n▪️ It is also selected as district product from Leh district, under the One District One Product scheme.",
         "uid": "FFsfuitgm"
       },
       {
-        "order": 26,
+        "order": 24,
         "string": "**Ladakh Pashmina:** \n▪️ Sourced from the Changthang region, this fine-quality wool comes from the undercoat of the Changthangi goat. \n▪️ It is globally recognized for its unparalleled softness and warmth.\n▪️ Ladakh Pashmina received its Geographical Indication (GI) tag on October 5, 2024.\n**Note:**\n2008: GI tag for Kashmiri Pashmina\n2024: Ladakh's Pashmina wool received a separate GI tag",
         "uid": "TkIGowxv4"
       },
       {
-        "order": 27,
+        "order": 25,
         "string": "**Festivals in Ladakh:**\n▪️ Ladakh is a region in the northernmost part of India, bordering with Tibet.\n▪️ Ladakhi dance is a traditional form of dance that is performed by the people of Ladakh on various occasions such as festivals, weddings, and other celebrations.\n▪️ This dance is known for its colorful costumes, intricate footwork, and rhythmic music.\n▪️ There are many types of Ladakhi dances, each with its own unique style and significance.\n\n**Shondol dance**\n▪️ This dance is performed by both men and women, and it is characterized by its slow and graceful movements.\n▪️ It is usually performed during the Losar festival, which is the Tibetan New Year, and it is believed to bring good luck and happiness to the community.\n^^▪️ **Shondol dance**, which got its place in the **Guinness Book of World Records** for being the largest Ladakhi dance performance, with 4087 participants dancing together in 2016.^^\n▪️ The largest Ladakhi dance is of 408 people and was achieved by Live to Love India, Pel Drukpa Charitable Trust and Young Drukpa Association Ladakh (all India) during Naropa Festival at Hemis, Ladakh, India on 20 September 2019. Traditional Ladakhi dance is called 'Shondol' in the local language.\n\n**Cham Dance** is a sacred, ritualistic mask dance of Tibetan Buddhism performed by monks in monasteries and Himalayan regions to represent the triumph of good over evil \n\n**Kathok Chenmo**\n▪️ Kathok Chenmo is a popular Ladakhi dance that is performed during the Ladakh Festival, which is held every year in September.\n▪️ This dance is performed by both men and women, and it is characterized by its slow and graceful movements.\n▪️ It is a tribute to the region's rich cultural heritage and is a symbol of the people's pride in their traditions and customs.\n\n**Spao dance:**\n▪️ Spao dance is a traditional dance form of the Changpa tribe, which is one of the nomadic communities living in the high altitude regions of Ladakh.\n▪️ This dance is performed by both men and women, and it is usually accompanied by the sound of drums and trumpets.\n▪️ It is performed during various occasions such as weddings, births, and other celebrations, and it is believed to bring good luck and prosperity to the community.\n\n**Hemis Festival**\n▪️ Celebrates birth anniversary of Guru Padmasambhava; \n▪️ Famous for Cham (masked) dances at Hemis Monastery \n▪️ Usually celebrated in June/July time\n\n**Losar Festival**\n▪️ Ladakhi New Year; \n▪️ Marked by family gatherings, feasts, dances, and prayers, usually in  December/January time. \n\n**Sindhu Darshan**\n▪️ Celebrates Indus River; held on full moon of June at Sindhu Ghat, Leh\n\n**Navroz**\n▪️ The Parsi new year, also known as Navroz, is celebrated to mark the beginning of the Iranian calendar.\n▪️ In the month of March (21 March, Navroz Day)\n▪️ Mainly celebrated by Shia community in Ladakh\n\n**Shon dance**\n▪️  Shon dance is a traditional dance form of the Monpa tribe, which is one of the ethnic groups living in the Himalayan region.\n▪️ This dance is performed by both men and women, and it is usually accompanied by the sound of cymbals and drums.\n▪️ It is performed during various festivals and ceremonies, and it is believed to bring good luck and prosperity to the community.",
         "uid": "MKasaDkeD"
       },
       {
-        "order": 28,
+        "order": 26,
         "string": "**Padma Awardees from UT Ladakh (2021–2025)**\n▪️ 2025 **Lama Lobzang** (Posthumous) received the **Padma Shri** for his contributions in **Spiritualism** (Others).\n▪️ 2024 **Togdan Rinpoche** (Posthumous) was honored with the **Padma Bhushan** for his work in **Spiritualism** (Others).\n▪️ 2022 **Akhon Asgar Ali Basharat** received the **Padma Shri** in the field of **Literature and Education**.\n▪️ 2021 **Tsultrim Chonjor** was awarded the **Padma Shri** for his contribution to **Social Work**.\n---\nPadma awards: three categories: \nPadma Vibhushan, Padma Bhushan, and Padma Shri",
         "uid": "UFhV1LEKt"
       },
@@ -471,27 +266,27 @@
             "uid": "1KoVOVWfe"
           }
         ],
-        "order": 29,
+        "order": 27,
         "string": "**One District One Product (ODOP) Scheme**\n▪️ The One District One Product (ODOP) scheme is an initiative by the Government of India to ^^promote balanced regional development^^ by identifying, branding, and promoting one specialized product from each district across the country. \n▪️ Its goals are to boost socioeconomic growth, generate employment, support local artisans and manufacturers, and attract investment by enhancing the competitiveness of local products in domestic and international markets\n▪️ Ministry: ^^Ministry of Food Processing Industries^^ (MoFPI)\n▪️ Launched in ^^Jan 2018^^",
         "uid": "uqNMne7LF"
       },
       {
-        "order": 30,
+        "order": 28,
         "string": "**History of Ladakh**\n▪️ 1460: Lhachen Bhagan founded the Namgyal dynasty by uniting Ladakh after overthrowing the king of Leh.\n▪️ 17th Century: Sengge Namgyal, known as the \"Lion of Ladakh,\" ruled and commissioned major constructions like Leh Palace and monasteries.\n\n▪️ 1834: Ladakh came under Sikh suzerainty through Dogra general Zorawar Singh's invasion, dethroning Tshespal Namgyal.\n▪️ 1841-1842: Dogra-Tibetan War; Dogras defeated Tibetan-Qing forces, consolidating control over Ladakh.\n\n▪️ 1846: Ladakh came under Dogra rule via the Treaty of Amritsar, integrated into the princely state of Jammu and Kashmir under British suzerainty. Kashmir was \"sold\" to Dogra Raja Gulab Singh by the British East India Company under the Treaty of Amritsar. Signed on March 16, 1846, this treaty followed the First Anglo-Sikh War and granted Gulab Singh dominion over the region for a payment of Rs. 75 lakhs.\n\n▪️ 1947: Ladakh came under India after Maharaja Hari Singh's accession; Pakistani raiders repulsed.\n\n▪️ 2019: Ladakh came under direct Union Territory status, bifurcated from Jammu and Kashmir on October 31.",
         "uid": "CBCb8KFDW"
       },
       {
-        "order": 31,
+        "order": 29,
         "string": "**Namgyal dynasty**\n▪️ The Namgyal dynasty ruled the kingdom of Ladakh from approximately 1460 to 1842.\n▪️ Lhachen Bhagan. Lhachen Bhagan was a Basgo king who united Ladakh in 1460 by overthrowing the king of Leh. He took on the surname Namgyal (meaning victorious) and founded the Namgyal dynasty of Ladakh.\n▪️ The dynasty ended when its kingdom was conquered by the Sikh Empire and Dogras of Jammu, after which the Namgyal family was granted the Stok Palace as a jagir. \n\n**Sengge Namgyal (1616–1642)**\n▪️ Sengge Namgyal (1616–1642), known as the '^^lion' king^^\n▪️ He made efforts to restore Ladakh to its old glory by an ambitious and energetic building programme by rebuilding several gompas and shrines, the most famous of which is Hemis. \n▪️ He also ^^moved the royal headquarters from Shey Palace to Leh Palace^^ and expanded the kingdom into Zanskar and Spiti, but was defeated by the Mughals, who had already occupied Kashmir and Baltistan",
         "uid": "GwzFLNszh"
       },
       {
-        "order": 32,
+        "order": 30,
         "string": "**Gyal Khatun's Marriage with Namgyal Dynasty** \n▪️   Gyal Khatun was daughter of Ali Sher Khan Anchan, King of Baltistan (Maqpon Dynasty).  \n▪️ She is also called  as **Silima Khatun** in songs.\n▪️ She married  **Jamyang Namgyal**, 17th-century ruler of Ladakh (Namgyal Dynasty).\nTheir Son **Sengge Namgyal** (1616-1642-) – became the famous \"Lion King\" of Ladakh.  One of the greatest rulers in Ladakhi history.\n\n**Background of Marriage**  \n▪️   Jamyang Namgyal attacked Baltistan but was defeated and captured by Ali Sher Khan Anchan. \n▪️ He was held as a prisoner.\n▪️ To secure his release and return to Ladakh, Jamyang Namgyal married Gyal Khatun.  \n▪️ Marriage ended war and created peace between Ladakh and Baltistan.\n▪️ This led to settlement of Muslims in Leh, espcially Balti muslims, from Baltistan\n▪️   Her marriage turned defeat into alliance and war into friendship.",
         "uid": "9ZpEo3AXx"
       },
       {
-        "order": 33,
+        "order": 31,
         "string": "**Intangible cultural heritage from Ladakh **\nTwo main Intangible Cultural Heritage from Ladakh are:\n1. Buddhist Chanting \n2. Navroz\n\n**Buddhist Chanting**\n▪️ Buddhist chanting is a traditional practice performed by monks in Ladakh’s monasteries. It involves the rhythmic recitation of sacred Buddhist texts and mantras. The chants help in meditation, maintaining focus, and creating a peaceful spiritual environment.\n▪️ UNESCO recognized the Buddhist Chanting of Ladakh as an Intangible Cultural Heritage in 2012\n\n**Navroz**\n▪️ Navroz is a traditional festival celebrated mainly by the Shia Muslim community of Ladakh. It marks the beginning of the New Year, based on ancient Persian and Central Asian traditions.\n▪️UNESCO has recognized Nowruz as an Intangible Cultural Heritage of Humanity in 2009, with an extension in 2016.",
         "uid": "TWtnEVfy4"
       },
@@ -529,17 +324,17 @@
           }
         ],
         "heading": 3,
-        "order": 34,
+        "order": 32,
         "string": "Buddhism in Ladakh",
         "uid": "s5E9uO2bR"
       },
       {
-        "order": 35,
+        "order": 33,
         "string": "**Indian Astronomical Observatory - Hanle, Ladakh**\n▪️ Location: Hanle, Ladakh, India, in south-eastern Ladakh near Line of Actual Control, in Chanthang region  \n▪️ On ^^Mount Saraswati^^ (also called Digpa-ratsa Ri); peak at 4,517 meters above sea level\n▪️ Operator: Indian ^^Institute of Astrophysics^^ (IIA)\n▪️ Site Features: High-altitude station; one of the world's highest sites for optical, infrared, and gamma-ray telescopes; tenth-highest optical telescope in the world\n▪️ Main Telescope: ^^Himalayan Chandra Telescope (HCT)^^; 2-meter aperture optical-infrared telescope installed at the observatory\n▪️ Surroundings: Atop Mt. Saraswati in the vast Nilamkhul Plain in Hanle Valley of Changthang\n▪️ Purpose: Astronomy research; infrastructure developed by IIA\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F3Qv7lf3QKD.png?alt=media&token=e3a6a9a3-6db5-42e9-9201-4fb749e06bd7)",
         "uid": "HnRtR1ebm"
       },
       {
-        "order": 36,
+        "order": 34,
         "string": "",
         "uid": "LsrR4S9uD"
       }
@@ -3830,23 +3625,44 @@
         "children": [
           {
             "order": 0,
-            "string": "**First Battle of Tarain (1191 CE)**\n▪️ Ghori attacked Prithviraj's kingdom with a large cavalry-based army.\n▪️ Prithviraj, with Rajput confederacy, used traditional Indian tactics—archers, infantry, and war elephants.\n▪️ Ghori was wounded and defeated; captured and later released by Prithviraj (act of chivalry).\n▪️ Ghori retreated to Ghazni to regroup and plan revenge.",
-            "uid": "4cowohnON"
-          },
-          {
-            "order": 1,
-            "string": "**Second Battle of Tarain (1192 CE)**\n▪️ Ghori returned with 120,000 cavalry, better strategy, and Turkish archers.\n▪️ Used feigned retreat tactic to lure Rajput forces into disarray.\n▪️ Prithviraj defeated and executed; Delhi and Ajmer captured.\n▪️ Marked the beginning of Muslim rule in northern India.",
-            "uid": "UAWXUrVgx"
-          },
-          {
-            "order": 2,
-            "string": "**Consequences of the Battles**\n▪️ Foundation of Delhi Sultanate: Qutbuddin Aibak (Ghori’s slave general) established rule in 1206 CE.\n▪️ End of Rajput dominance in northern India; shift in political power.\n▪️ Opened gates for further Turkish invasions and cultural synthesis.\n▪️ Ghori assassinated in 1206 CE by Khokhar tribesmen; no direct successor in India.",
-            "uid": "Pu-2hDC2T"
+            "string": "▪️ In 712 A.D., **Muhammad bin Qasim**, a commander of the Umayyad Caliphate, invaded **Sind** (part of modern-day Pakistan). \n▪️ Qasim fought a tough battle against **Dahir**, the local ruler of Sind, defeated him, and killed him. \n▪️ Dahir's capital city, **Aror**, was captured.\n▪️ Qasim continued his conquest and captured Multan.\n▪️ After the conquest, Muhammad bin Qasim set up an organized administration in Sind.\n",
+            "uid": "vhAtmDLHy"
           }
         ],
+        "heading": 3,
         "order": 0,
-        "string": "**Muhammad Ghori's Invasion of India**\n▪️ Muhammad Ghori (Shihabuddin Muhammad), ruler of Ghor (Afghanistan), invaded India in 1175 CE to expand the Ghurid Empire.\n▪️ First major raid in 1175 CE: Captured Multan and Uch; later annexed Sindh.\n▪️ Targeted wealthy Indian kingdoms for plunder and territorial control, unlike earlier raiders.\n▪️ Faced Prithviraj Chauhan of Delhi-Ajmer in two major battles at Tarain (present-day Taraori, Haryana).",
-        "uid": "6RYcQCJu6"
+        "string": "Invasion of Sind",
+        "uid": "LpRuGTBoM"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "order": 0,
+                "string": "**First Battle of Tarain (1191 CE)**\n▪️ Ghori attacked Prithviraj's kingdom with a large cavalry-based army.\n▪️ Prithviraj, with Rajput confederacy, used traditional Indian tactics—archers, infantry, and war elephants.\n▪️ Ghori was wounded and defeated; captured and later released by Prithviraj (act of chivalry).\n▪️ Ghori retreated to Ghazni to regroup and plan revenge.",
+                "uid": "4cowohnON"
+              },
+              {
+                "order": 1,
+                "string": "**Second Battle of Tarain (1192 CE)**\n▪️ Ghori returned with 120,000 cavalry, better strategy, and Turkish archers.\n▪️ Used feigned retreat tactic to lure Rajput forces into disarray.\n▪️ Prithviraj defeated and executed; Delhi and Ajmer captured.\n▪️ Marked the beginning of Muslim rule in northern India.",
+                "uid": "UAWXUrVgx"
+              },
+              {
+                "order": 2,
+                "string": "**Consequences of the Battles**\n▪️ Foundation of Delhi Sultanate: Qutbuddin Aibak (Ghori’s slave general) established rule in 1206 CE.\n▪️ End of Rajput dominance in northern India; shift in political power.\n▪️ Opened gates for further Turkish invasions and cultural synthesis.\n▪️ Ghori assassinated in 1206 CE by Khokhar tribesmen; no direct successor in India.",
+                "uid": "Pu-2hDC2T"
+              }
+            ],
+            "order": 0,
+            "string": "**Muhammad Ghori's Invasion of India**\n▪️ Muhammad Ghori (Shihabuddin Muhammad), ruler of Ghor (Afghanistan), invaded India in 1175 CE to expand the Ghurid Empire.\n▪️ First major raid in 1175 CE: Captured Multan and Uch; later annexed Sindh.\n▪️ Targeted wealthy Indian kingdoms for plunder and territorial control, unlike earlier raiders.\n▪️ Faced Prithviraj Chauhan of Delhi-Ajmer in two major battles at Tarain (present-day Taraori, Haryana).",
+            "uid": "6RYcQCJu6"
+          }
+        ],
+        "heading": 3,
+        "order": 1,
+        "string": "Invasion by Muhammad Ghori",
+        "uid": "MgCmzHeD_"
       }
     ]
   },
@@ -3856,12 +3672,12 @@
     "blocks": [
       {
         "order": 0,
-        "string": "The Delhi Sultanate marked a significant era in Indian history, lasting from A.D. 1206 to 1526, during which five different dynasties ruled over North India and parts of South India. The Sultanate brought extensive changes in society, administration, and culture.\n",
+        "string": "The Delhi Sultanate marked a significant era in Indian history, lasting from A.D. 1206 to 1526, during which five different dynasties ruled over North India and parts of South India. The Sultanate brought extensive changes in society, administration, and culture.",
         "uid": "SYhPGvroE"
       },
       {
         "order": 1,
-        "string": "**Dynasties of the Delhi Sultanate (1206–1526)**\nThe Delhi Sultanate ruled from 1206 to 1526 and consisted of five major dynasties:\n1. Slave (Mamluk) Dynasty – 1206–1290\n2. Khalji Dynasty – 1290–1320\n3. Tughlaq Dynasty – 1320–1414\n4. Sayyid Dynasty – 1414–1451\n5. Lodi Dynasty – 1451–1526\n\nKey Point\n▪️ The first four dynasties (Slave, Khalji, Tughlaq, Sayyid) were Turkish in origin.\n▪️ The Lodi Dynasty was the only Afghan dynasty of the Delhi Sultanate.",
+        "string": "**Dynasties of the Delhi Sultanate**\n▪️ Time period: 1206 - 1526\n\nThe Delhi Sultanate ruled from 1206 to 1526 and consisted of five major dynasties:\n1. Slave (Mamluk) Dynasty – 1206–1290\n2. Khalji Dynasty – 1290–1320\n3. Tughlaq Dynasty – 1320–1414\n4. Sayyid Dynasty – 1414–1451\n5. Lodi Dynasty – 1451–1526\n\n**Key Point**\n▪️ The first four dynasties (Slave, Khalji, Tughlaq, Sayyid) were Turkish in origin.\n▪️ The Lodi Dynasty was the only Afghan dynasty of the Delhi Sultanate.",
         "uid": "d9ok-KkWf"
       },
       {
@@ -3958,9 +3774,17 @@
     "page_uid": "gEBNErqkd",
     "blocks": [
       {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Babur (1526 - 1530)**\n▪️ Real name: Zahir-ud-din Muhammad Babur (Babur means \"Tiger\" in Persian).\n▪️ Lineage: Descendant of Timur (on his father's side) and Genghis Khan (on his mother's side).\n▪️ Born in Fergana Valley (present-day Uzbekistan).\n▪️ Became ruler of Fergana at the age of 12 (1494) but was repeatedly driven out of his Central Asian kingdom by the Uzbeks.\n▪️ Capital: Established a kingdom in **Kabul** (Afghanistan) in 1504, which served as his base for invading India (his tomb is also in Kabul)\n\n**Conquest and Founding the Empire (1526-1530)**\n▪️ Invited to India by discontented local rulers like Daulat Khan Lodi.\n**First Battle of Panipat (1526):**\n▪️ Opponent: Ibrahim Lodi, the last Sultan of the Delhi Sultanate.\n▪️ Result: Decisive victory for Babur. This battle marked the foundation of the Mughal Empire in India.\n\n**Battle of Khanwa (1527):**\n▪️ Opponent: Rana Sanga of Mewar and a confederacy of Rajput rulers.\n▪️ Result: Babur won, establishing Mughal supremacy over the powerful Rajput states and consolidating his position in northern India.\n\n▪️ Battle of Chanderi (1528) and Battle of Ghagra (1529) against Afghan rebels.\n▪️ Reign in India: Ruled the new empire for a short period, from 1526 to his death in 1530.\n▪️ Autobiography: Wrote his famous memoirs, the Tuzuk-i-Baburi (or Baburnama), in the Chaghatai Turkic language.\n\n▪️ Introduced new military tactics and technologies.\n▪️ Known for his love of nature and established formal Persian-style gardens (e.g., Aram Bagh in Agra).\n▪️ Died in Agra in 1530 and was succeeded by his son, Humayun. \n▪️ His body was later moved and buried in Kabul as per his wish. Thus his tomb is in Kabul",
+            "uid": "DMWW1VYY6"
+          }
+        ],
+        "heading": 3,
         "order": 0,
-        "string": "**Babur (1526 - 1530)**\n▪️ Full Name: Zahir-ud-din Muhammad Babur (Babur means \"Tiger\" in Persian).\n▪️ Lineage: Descendant of Timur (on his father's side) and Genghis Khan (on his mother's side).\n▪️ Born in Fergana Valley (present-day Uzbekistan).\n▪️ Became ruler of Fergana at the age of 12 (1494) but was repeatedly driven out of his Central Asian kingdom by the Uzbeks.\n▪️ Capital: Established a kingdom in Kabul (Afghanistan) in 1504, which served as his base for invading India.\n\n**Conquest and Founding the Empire (1526-1530)**\n▪️ Invited to India by discontented local rulers like Daulat Khan Lodi.\n**First Battle of Panipat (1526):**\n▪️ Opponent: Ibrahim Lodi, the last Sultan of the Delhi Sultanate.\n▪️ Result: Decisive victory for Babur. This battle marked the foundation of the Mughal Empire in India.\n\n**Battle of Khanwa (1527):**\n▪️ Opponent: Rana Sanga of Mewar and a confederacy of Rajput rulers.\n▪️ Result: Babur won, establishing Mughal supremacy over the powerful Rajput states and consolidating his position in northern India.\n\n▪️ Battle of Chanderi (1528) and Battle of Ghagra (1529) against Afghan rebels.\n▪️ Reign in India: Ruled the new empire for a short period, from 1526 to his death in 1530.\n▪️ Autobiography: Wrote his famous memoirs, the Tuzuk-i-Baburi (or Baburnama), in the Chaghatai Turkic language.\n\n▪️ Introduced new military tactics and technologies.\n▪️ Known for his love of nature and established formal Persian-style gardens (e.g., Aram Bagh in Agra).\n▪️ Died in Agra in 1530 and was succeeded by his son, Humayun. \n▪️ His body was later moved and buried in Kabul as per his wish. Thus his tomb is in Kabul",
-        "uid": "DMWW1VYY6"
+        "string": "Babur",
+        "uid": "OKDxCpR6B"
       },
       {
         "order": 1,
@@ -4349,27 +4173,6 @@
     ]
   },
   {
-    "page_title": "Timeline Notes",
-    "page_uid": "bPD9HMujZ",
-    "blocks": [
-      {
-        "order": 0,
-        "string": "**Important Events Modern History Timeline:**\n▪️1857: First War of Indian Independence (Sepoy Mutiny)\n▪️1885: Formation of Indian National Congress\n▪️1905: Partition of Bengal\n▪️1905: Swadeshi & Boycott Movement\n▪️1906: Formation of Muslim League\n▪️1915: Return of Mahatma Gandhi to India\n▪️ 1917: Champaran Satyagrah\n▪️ 1917: Allahabad Mill Strike\n▪️1919: Jallianwala Bagh Massacre\n▪️1919: Rowlatt Act\n▪️1920: Non-Cooperation Movement launched\n▪️1922: Chauri Chaura incident; Non-Cooperation withdrawn\n▪️1928: Simon Commission arrives in India\n▪️1929: Lahore Session; Purna Swaraj declaration\n▪️1930: Civil Disobedience Movement; Dandi Salt March\n▪️1931: Gandhi-Irwin Pact\n▪️1932: Poona Pact\n▪️1935: Government of India Act\n▪️1940: Lahore Resolution (Pakistan demand)\n▪️1942: Quit India Movement\n▪️1942: Cripps Mission fails\n▪️1946: Cabinet Mission Plan\n▪️1947: Indian Independence Act\n▪️1947: Partition of India; Independence (15 August)\n▪️1950: India becomes a Republic; Constitution adopted (26 January)",
-        "uid": "rVlK0Zoul"
-      },
-      {
-        "order": 1,
-        "string": "**Important Battles Notes:**\n▪️1526: First Battle of Panipat (Babur defeats Ibrahim Lodi; Mughal Empire founded)\n▪️1556: Second Battle of Panipat (Akbar defeats Hemu; Mughal control restored)\n▪️1565: Battle of ^^Talikota^^ (Deccan Sultanates defeat Vijayanagara Empire)\n▪️1576: Battle of ^^Haldighati^^ (Akbar defeats Maharana Pratap; Mewar resists)\n▪️1615: Mewar submits to Mughals (Treaty after prolonged resistance)\n▪️1659: Battle of Khajwa (Aurangzeb defeats Shah Shuja; consolidates power)\n▪️1664: Shivaji defeats Mughals at Battle of Surat (loots city)\n▪️1680: Battle of Sangamner (Shivaji’s last major victory)\n▪️1707: Battle of Jajau (Bahadur Shah I defeats Azam Shah; succession war)\n▪️1737: Battle of Bhopal (Bajirao I defeats Mughals; Maratha dominance rises)\n▪️1739: Battle of Karnal (Nadir Shah defeats Mughals; Delhi sacked)\n▪️1741: Battle of Colachel (Travancore defeats Dutch East India Company)\n▪️1757: Battle of ^^Plassey^^ (British defeat Siraj-ud-Daulah; East India Company gains Bengal)\n▪️1761: Third Battle of Panipat (Ahmad Shah Abdali defeats Marathas)\n▪️1764: Battle of ^^Buxar^^ (British defeat combined Indian forces; gains Diwani rights)\n▪️1775: First Anglo-Maratha War begins (ends 1782 with Treaty of Salbai)\n▪️1799: Fourth Anglo-Mysore War; Battle of Seringapatam (Tipu Sultan killed)\n▪️1803: Second Anglo-Maratha War; Battle of Assaye (Wellesley defeats Scindia & Bhonsle)\n▪️1817: Third Anglo-Maratha War (Maratha Confederacy dissolved)\n▪️1826: Siege of Bharatpur (British capture last major Indian stronghold)\n▪️1857: Siege of Delhi (British recapture Delhi from rebels)\n▪️1857: Siege of Lucknow (British relieve Residency during Revolt)\n▪️1858: Battle of Jhansi (British defeat Rani Lakshmibai’s forces)\n▪️1897: Battle of Saragarhi (36 Sikhs vs 10,000 Afghans; heroic last stand)\n▪️1914: Battle of Tanga (WW1; Indian troops under British vs Germans in East Africa)\n▪️1915: Battle of Neuve Chapelle (WW1; Indian troops in France)\n▪️1942: Fall of Singapore (WW2; largest British surrender; Indian troops involved)\n▪️1944: Battle of Imphal-Kohima (WW2; Allied victory halts Japanese advance)\n▪️1962: Battle of Rezang La (Sino-Indian War; 114 Indian soldiers vs 3000 Chinese)\n▪️1965: Battle of Phillora (Indo-Pak; largest tank battle since WW2)\n▪️1971: Battle of Longewala (Indo-Pak; 120 Indian troops vs 2000+ Pakistani)\n▪️1971: Battle of Basantar (Indo-Pak; major tank engagements)\n▪️1999: Kargil War – Battle of Tololing (Indian Army recaptures key peak)\n▪️1999: Kargil War – Tiger Hill captured (decisive high-altitude victory)",
-        "uid": "9LW9SIyhj"
-      },
-      {
-        "order": 2,
-        "string": "**Subhas Chandra Bose and INA**\n▪️1921: Resigns from Indian Civil Service (ICS) to join Non-Cooperation Movement\n▪️1938: Elected President of Indian National Congress (Haripura Session)\n▪️1939: Re-elected President (Tripuri Session); resigns due to differences with Gandhi\n▪️1939: Founds Forward Bloc within Congress\n▪️1940: Arrested by British; begins fast-unto-death\n▪️1941: Escapes house arrest in Calcutta; reaches Germany via Afghanistan\n▪️1941: Meets Hitler; forms Free India Centre in Berlin\n▪️1942: Launches Free India Radio from Germany\n▪️1943: Travels by German U-boat to Japan; reaches Tokyo via Madagascar\n▪️1943: Takes leadership of Indian Independence League in East Asia\n▪️1943: Revives Indian National Army (INA) in Singapore (originally formed by ^^Mohan Singh^^ in 1942)\n▪️1943: Proclaims Provisional Government of Free India (Arzi Hukumat-e-Azad Hind) in Singapore. INA motto: \"Ittehad, Itmad, Qurbani\" (Unity, Faith, Sacrifice). INA forms Rani of Jhansi Regiment (first women’s military unit in Asia)\n▪️1944: INA launches Imphal-Kohima Offensive with Japanese support\n▪️1944: Battle of Moirang – INA hoists Indian Tricolor on Indian soil for the first time\n▪️1944: INA captures Moirang (Manipur); establishes provisional administration\n▪️1945: INA retreats after Japanese defeat in Burma\n▪️1945: Bose reportedly dies in plane crash in Taipei (18 August)\n▪️1945: Red Fort Trials of INA officers (Prem Sahgal, Shah Nawaz, Gurbaksh Dhillon) begin in Delhi\n▪️1946: INA Trials spark widespread protests and naval mutiny (RIN Mutiny)\n▪️1946: INA veterans inspire post-war nationalist surge\n▪️1956: Shah Nawaz Committee formed to inquire into Bose’s death\n▪️1970s: Mukherjee Commission investigates Bose’s disappearance\n▪️1990s: Justice Manoj Mukherjee Commission concludes no plane crash occurred\n▪️2021: INA Memorial Complex inaugurated at Moirang by PM Modi\n▪️2023: Netaji Subhas Chandra Bose declared \"Rashtrapita\" by some political groups (symbolic)",
-        "uid": "bZh6BqFX8"
-      }
-    ]
-  },
-  {
     "page_title": "Mahatama Gandhi Events",
     "page_uid": "bSuXMVAZ-",
     "blocks": [
@@ -4402,6 +4205,27 @@
         "order": 5,
         "string": "**Titles and Honorifics of Indian Freedom Leaders**\n▪️ **Mahatma Gandhi** – The title **“Mahatma”** (Great Soul) was given to him by **Rabindranath Tagore**.\n\n▪️ **Khan Abdul Ghaffar Khan** – Also known as the **“Frontier Gandhi”** for his non-violent struggle in the North-West Frontier Province (now in Pakistan).\n\n▪️ The title **“Father of the Nation”** was given to **Mahatma Gandhi** by **Subhas Chandra Bose** in a 1944 radio address from Singapore.\n\n▪️ Gandhi gave the title **“Mahamana”** to **Pandit Madan Mohan Malaviya** (founder of Banaras Hindu University).\n\n▪️ **K. Kelappan** is known as the **“Kerala Gandhi”** for his leadership in social reform and the freedom movement in Kerala.\n---\n▪️ **Subhas Chandra Bose** was given the title **“Netaji”** by **Indian soldiers in Germany** (Azad Hind members) in 1942.\n-----\n▪️ **Vallabhbhai Patel** was given the title **“Sardar”** (Leader) by **the women of Bardoli** during the Bardoli Satyagraha of 1928.\n----\n▪️ Ishwar Chandra was given the title \"**Vidyasagar**\" by the Sanskrit College in Calcutta due to his excellent performance in Sanskrit studies and philosophy. The title means \"Ocean of Knowledge\". ",
         "uid": "hs5g9SaE5"
+      }
+    ]
+  },
+  {
+    "page_title": "History Timeline Notes",
+    "page_uid": "bPD9HMujZ",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Important Events Modern History Timeline:**\n▪️1857: First War of Indian Independence (Sepoy Mutiny)\n▪️1885: Formation of Indian National Congress\n▪️1905: Partition of Bengal\n▪️1905: Swadeshi & Boycott Movement\n▪️1906: Formation of Muslim League\n▪️1915: Return of Mahatma Gandhi to India\n▪️ 1917: Champaran Satyagrah\n▪️ 1917: Allahabad Mill Strike\n▪️1919: Jallianwala Bagh Massacre\n▪️1919: Rowlatt Act\n▪️1920: Non-Cooperation Movement launched\n▪️1922: Chauri Chaura incident; Non-Cooperation withdrawn\n▪️1928: Simon Commission arrives in India\n▪️1929: Lahore Session; Purna Swaraj declaration\n▪️1930: Civil Disobedience Movement; Dandi Salt March\n▪️1931: Gandhi-Irwin Pact\n▪️1932: Poona Pact\n▪️1935: Government of India Act\n▪️1940: Lahore Resolution (Pakistan demand)\n▪️1942: Quit India Movement\n▪️1942: Cripps Mission fails\n▪️1946: Cabinet Mission Plan\n▪️1947: Indian Independence Act\n▪️1947: Partition of India; Independence (15 August)\n▪️1950: India becomes a Republic; Constitution adopted (26 January)",
+        "uid": "rVlK0Zoul"
+      },
+      {
+        "order": 1,
+        "string": "**Important Battles Notes:**\n▪️1526: First Battle of Panipat (Babur defeats Ibrahim Lodi; Mughal Empire founded)\n▪️1556: Second Battle of Panipat (Akbar defeats Hemu; Mughal control restored)\n▪️1565: Battle of ^^Talikota^^ (Deccan Sultanates defeat Vijayanagara Empire)\n▪️1576: Battle of ^^Haldighati^^ (Akbar defeats Maharana Pratap; Mewar resists)\n▪️1615: Mewar submits to Mughals (Treaty after prolonged resistance)\n▪️1659: Battle of Khajwa (Aurangzeb defeats Shah Shuja; consolidates power)\n▪️1664: Shivaji defeats Mughals at Battle of Surat (loots city)\n▪️1680: Battle of Sangamner (Shivaji’s last major victory)\n▪️1707: Battle of Jajau (Bahadur Shah I defeats Azam Shah; succession war)\n▪️1737: Battle of Bhopal (Bajirao I defeats Mughals; Maratha dominance rises)\n▪️1739: Battle of Karnal (Nadir Shah defeats Mughals; Delhi sacked)\n▪️1741: Battle of Colachel (Travancore defeats Dutch East India Company)\n▪️1757: Battle of ^^Plassey^^ (British defeat Siraj-ud-Daulah; East India Company gains Bengal)\n▪️1761: Third Battle of Panipat (Ahmad Shah Abdali defeats Marathas)\n▪️1764: Battle of ^^Buxar^^ (British defeat combined Indian forces; gains Diwani rights)\n▪️1775: First Anglo-Maratha War begins (ends 1782 with Treaty of Salbai)\n▪️1799: Fourth Anglo-Mysore War; Battle of Seringapatam (Tipu Sultan killed)\n▪️1803: Second Anglo-Maratha War; Battle of Assaye (Wellesley defeats Scindia & Bhonsle)\n▪️1817: Third Anglo-Maratha War (Maratha Confederacy dissolved)\n▪️1826: Siege of Bharatpur (British capture last major Indian stronghold)\n▪️1857: Siege of Delhi (British recapture Delhi from rebels)\n▪️1857: Siege of Lucknow (British relieve Residency during Revolt)\n▪️1858: Battle of Jhansi (British defeat Rani Lakshmibai’s forces)\n▪️1897: Battle of Saragarhi (36 Sikhs vs 10,000 Afghans; heroic last stand)\n▪️1914: Battle of Tanga (WW1; Indian troops under British vs Germans in East Africa)\n▪️1915: Battle of Neuve Chapelle (WW1; Indian troops in France)\n▪️1942: Fall of Singapore (WW2; largest British surrender; Indian troops involved)\n▪️1944: Battle of Imphal-Kohima (WW2; Allied victory halts Japanese advance)\n▪️1962: Battle of Rezang La (Sino-Indian War; 114 Indian soldiers vs 3000 Chinese)\n▪️1965: Battle of Phillora (Indo-Pak; largest tank battle since WW2)\n▪️1971: Battle of Longewala (Indo-Pak; 120 Indian troops vs 2000+ Pakistani)\n▪️1971: Battle of Basantar (Indo-Pak; major tank engagements)\n▪️1999: Kargil War – Battle of Tololing (Indian Army recaptures key peak)\n▪️1999: Kargil War – Tiger Hill captured (decisive high-altitude victory)",
+        "uid": "9LW9SIyhj"
+      },
+      {
+        "order": 2,
+        "string": "**Subhas Chandra Bose and INA**\n▪️1921: Resigns from Indian Civil Service (ICS) to join Non-Cooperation Movement\n▪️1938: Elected President of Indian National Congress (Haripura Session)\n▪️1939: Re-elected President (Tripuri Session); resigns due to differences with Gandhi\n▪️1939: Founds Forward Bloc within Congress\n▪️1940: Arrested by British; begins fast-unto-death\n▪️1941: Escapes house arrest in Calcutta; reaches Germany via Afghanistan\n▪️1941: Meets Hitler; forms Free India Centre in Berlin\n▪️1942: Launches Free India Radio from Germany\n▪️1943: Travels by German U-boat to Japan; reaches Tokyo via Madagascar\n▪️1943: Takes leadership of Indian Independence League in East Asia\n▪️1943: Revives Indian National Army (INA) in Singapore (originally formed by ^^Mohan Singh^^ in 1942)\n▪️1943: Proclaims Provisional Government of Free India (Arzi Hukumat-e-Azad Hind) in Singapore. INA motto: \"Ittehad, Itmad, Qurbani\" (Unity, Faith, Sacrifice). INA forms Rani of Jhansi Regiment (first women’s military unit in Asia)\n▪️1944: INA launches Imphal-Kohima Offensive with Japanese support\n▪️1944: Battle of Moirang – INA hoists Indian Tricolor on Indian soil for the first time\n▪️1944: INA captures Moirang (Manipur); establishes provisional administration\n▪️1945: INA retreats after Japanese defeat in Burma\n▪️1945: Bose reportedly dies in plane crash in Taipei (18 August)\n▪️1945: Red Fort Trials of INA officers (Prem Sahgal, Shah Nawaz, Gurbaksh Dhillon) begin in Delhi\n▪️1946: INA Trials spark widespread protests and naval mutiny (RIN Mutiny)\n▪️1946: INA veterans inspire post-war nationalist surge\n▪️1956: Shah Nawaz Committee formed to inquire into Bose’s death\n▪️1970s: Mukherjee Commission investigates Bose’s disappearance\n▪️1990s: Justice Manoj Mukherjee Commission concludes no plane crash occurred\n▪️2021: INA Memorial Complex inaugurated at Moirang by PM Modi\n▪️2023: Netaji Subhas Chandra Bose declared \"Rashtrapita\" by some political groups (symbolic)",
+        "uid": "bZh6BqFX8"
       }
     ]
   },
@@ -4628,7 +4452,7 @@
     ]
   },
   {
-    "page_title": "River Systems",
+    "page_title": "Rivers",
     "page_uid": "Iw7MWhazb",
     "blocks": [
       {
@@ -4655,7 +4479,7 @@
           },
           {
             "order": 4,
-            "string": "**Chenab river:**\n▪️ The ancient name of Chenab was \"Askini\".\n▪️ It originates from Baralacha pass. \n▪️ It originates from Baralacha Pass in Himachal Pradesh, as two streams\n▪️ The two streams Chandra and Bhaga, merge to form the Chenab. \n▪️ Chenab is the ^^largest tributary^^ of Indus. ",
+            "string": "**Chenab river:**\n▪️ The ancient name of Chenab was **Asikni**, in the Rigveda (Saptha Sindhu).\n▪️ It originates from **Baralacha Pass** in Himachal Pradesh, as two streams named Chandra and bagha. **Chandra** originates from Chandra glacier, and **Bagha** originates from Bagha glacier. They join at **Tandi** and forms **Chandrabagha** (or **Chenab**). \n▪️ Chenab is the **largest tributary** of Indus, in terms of discharge of water.\n\n**Important Dams on Chenab**\n1. **Salal** dam\n2. **Baglihar** dam.\n3. Dul Hasti dam \n4. Pakal Dul dam\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprepmobile%2FqgrlFmlK0g.png?alt=media&token=2289719c-53bb-497a-85df-543e510ce9f7)",
             "uid": "UKmm61zf1"
           },
           {
@@ -5501,13 +5325,89 @@
     "blocks": [
       {
         "order": 0,
-        "string": "**Days Asked in Previous Exams**\n▪️ June 5: World Environment Day",
+        "string": "**Days Asked in Previous Exams**\n▪️ April 22: World Earth Day\n▪️ June 5: World Environment Day",
         "uid": "IdnnLoQF8"
       },
       {
         "order": 1,
         "string": "**Important National & International Days**\n▪️ January 12: National Youth Day (birth anniversary of Swami Vivekananda)\n▪️ January 26: Republic Day\n\n▪️ February 28: National Science Day\n\n▪️ March 8: International Women's Day\n▪️ March 22: Water day\n\n▪️ April 2: World Autism Awareness Day\n▪️ April 5: National Maritime Day\n▪️ April 7: World Health Day\n▪️ April 22: Earth Day\n\n▪️ May 1: Labour Day\n▪️ May  22: Biodiversity day\n▪️ May 31: World No Tobacco Day\n\n▪️ June 5: World Environment Day\n▪️ June 21: International Yoga Day\n\n▪️ July 1: National Doctor's Day\n▪️ July 11: World Population Day\n\n▪️ August 15: Independence Day\n▪️ August 29: National Sports Day (birth anniversary of Dhyan Chand)\n\n▪️ September 5: Teacher's Day (birth anniversary of Sarvepalli Radhakrishnan)\n▪️ September 8: International Literacy Day\n▪️ September 16: Ozone day\n\n▪️ October 2: Gandhi Jayanti\n▪️ October 8: Indian Air Force Day\n▪️ October 10: Human Rights Day\n▪️ October 17: International Day for the Eradication of Poverty\n▪️ October 23: International Snow Leopard Day\n▪️ October 31: National Unity Day (birth anniversary of Sardar Vallabhbhai Patel)\n\n▪️ November 14: Children's Day\n▪️ November 26: Constitution Day\n\n▪️ December 1: World AIDS Day \n▪️ December 4: Indian Navy Day\n▪️ December 14: World Energy Conservation Day\n▪️ December 22: National Mathematics Day (birth anniversary of Ramanujan)\n▪️ December 23: Kisan Diwas (Farmers' Day) \n",
         "uid": "sdtDIGkrS"
+      }
+    ]
+  },
+  {
+    "page_title": "Timeline Page",
+    "page_uid": "-9-T_2ryy",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "326 BC: Alexander invaded Indian subcontinent, and defeated Porus in the battle of Hydaspes (Jhelum)",
+        "uid": "wKA88DJXi"
+      },
+      {
+        "order": 1,
+        "string": "712: Invasion of Sind by [Muhammad Bin Qasim](((vhAtmDLHy)))",
+        "uid": "v1NgePJXV"
+      },
+      {
+        "order": 2,
+        "string": "1001: Battle of Peshawar, where Mahmud of Gahzni defeated Jayapala, ruler of Hindu Kush Dynasty. ",
+        "uid": "Teiy5gisb"
+      },
+      {
+        "order": 3,
+        "string": "1001: Battle of Waihind, where Mahmud of Gahzni defeated Anandapapa, ruler of Hindu Kush Dynasty.",
+        "uid": "RGZkgx74u"
+      },
+      {
+        "order": 4,
+        "string": "1024: Mahmud of Gahzni invaded Solanki dynasty and plundered Somnath temple. ",
+        "uid": "d2ysB2fwy"
+      },
+      {
+        "order": 5,
+        "string": "1191: Battle of terrain-I, where Prithviraj Chauhan defeated Muhammad Ghori",
+        "uid": "-JJY4XZdk"
+      },
+      {
+        "order": 6,
+        "string": "1192: Battle of terrain-II, where Prithviraj Chauhan was defeated by Mohammad Ghori and Delhi came under Muslims.",
+        "uid": "01L4nU8Ck"
+      },
+      {
+        "order": 7,
+        "string": "1194: Battle of Chandewar, where Mohammad Ghori defeated Jayachandra of the Gahadavala dynasty and captured Kannuj",
+        "uid": "A7cQ0XpOW"
+      },
+      {
+        "order": 8,
+        "string": "1526: Babur defeated Ibrahim Lodi in the First Battle of Panipat and founded the Mughal Empire in India.",
+        "uid": "suq3_SwZ7"
+      },
+      {
+        "order": 9,
+        "string": "1527: Babur defeated Rana Sanga of Mewar in the Battle of Khanwa and strengthened Mughal rule in north India.",
+        "uid": "MNxjHKb_H"
+      },
+      {
+        "order": 10,
+        "string": "1528: Babur defeated Medini Rai in the Battle of Chanderi and captured the fort to control Malwa region.",
+        "uid": "J6aykmdgv"
+      },
+      {
+        "order": 11,
+        "string": "1529: Babur defeated the Afghans and Bengal forces in the Battle of Ghaghra and secured eastern territories.",
+        "uid": "Dy6132CJ8"
+      },
+      {
+        "order": 12,
+        "string": "1539: Humayun defeated by Sher Shah Suri in the Battle of Chausa and lost control of Bihar region.",
+        "uid": "FQhT51YAm"
+      },
+      {
+        "order": 13,
+        "string": "1540: Humayun again defeated by Sher Shah Suri in the Battle of Kannauj and fled from India, ending early Mughal rule temporarily.",
+        "uid": "SnTQJQ0MG"
       }
     ]
   },
