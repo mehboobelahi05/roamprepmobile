@@ -174,11 +174,19 @@
             "name": "Environment",
             "sub_chapters": [
               {
-                "name": "Wildlife",
+                "name": "Pollution",
                 "sub_chapters": []
               },
               {
-                "name": "Protected Area",
+                "name": "Climate Change",
+                "sub_chapters": []
+              },
+              {
+                "name": "Protected Areas",
+                "sub_chapters": []
+              },
+              {
+                "name": "Wildlife",
                 "sub_chapters": []
               }
             ]
