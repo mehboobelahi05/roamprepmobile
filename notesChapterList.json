@@ -4,21 +4,6 @@
     "uid": null,
     "sub_chapters": [
       {
-        "name": "This is Another Long Page Test Page For Checking the App data",
-        "uid": "EQhp2sb7x",
-        "sub_chapters": []
-      },
-      {
-        "name": "Test Notes Page",
-        "uid": "COVdYoMzb",
-        "sub_chapters": []
-      },
-      {
-        "name": "Test Notes Page 2",
-        "uid": "fm5HhtcjK",
-        "sub_chapters": []
-      },
-      {
         "name": "Ladakh GK Notes",
         "uid": "NtRNtmcey",
         "sub_chapters": []
@@ -240,7 +225,7 @@
             "sub_chapters": []
           },
           {
-            "name": "River Systems",
+            "name": "Rivers",
             "uid": "Iw7MWhazb",
             "sub_chapters": []
           },
