@@ -11,7 +11,7 @@
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Ladakh GK",
         "hasVideos": true,
         "videoIds": [
           "f7xpNpOq_24",
@@ -21,7 +21,7 @@
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Polity",
         "hasVideos": true,
         "videoIds": [
           "xZx4wbcyDvM",
@@ -31,25 +31,25 @@
         ]
       },
       {
-        "label": "(empty)",
+        "label": "History",
         "hasVideos": true,
         "videoIds": [
           "OqjR97NfGKg"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Geography",
         "hasVideos": true,
         "videoIds": [
           "T6b52yxgZHM"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Economy",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Static GK",
         "hasVideos": false
       }
     ]
@@ -78,35 +78,35 @@
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Active Passive",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Direct Indirect",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Tenses",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Noun",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Pronoun",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Adjective",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Preposition",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Para Jumbles",
         "hasVideos": false
       }
     ]
@@ -126,101 +126,101 @@
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Number System",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Mensuration",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Percentage",
         "hasVideos": true,
         "videoIds": [
           "wH1Up7WTefU"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Profit and Loss",
         "hasVideos": true,
         "videoIds": [
           "NJqHxUU1ezs"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Time Speed and Distance",
         "hasVideos": true,
         "videoIds": [
           "2GgfyxFsj4o"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Ratio and Proportion",
         "hasVideos": true,
         "videoIds": [
           "V8tcZZIFJew"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Average",
         "hasVideos": true,
         "videoIds": [
           "l4R5OVIeAi4"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Time and Work",
         "hasVideos": true,
         "videoIds": [
           "NnHawIe7bXc"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Simple Interest",
         "hasVideos": true,
         "videoIds": [
           "teet4LaQur8"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Compound Interest",
         "hasVideos": true,
         "videoIds": [
           "kHZJEI9jNGw"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Problem on Ages",
         "hasVideos": true,
         "videoIds": [
           "88amN0GMrY4"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Trigonometry",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Fractions",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Algebra",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Mixture and Allegations",
         "hasVideos": true,
         "videoIds": [
           "BS7XZujeB2M"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Table Based Aptitude",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Pipes and Cisterns",
         "hasVideos": true,
         "videoIds": [
           "B-TSxgLHMM0"
@@ -233,7 +233,11 @@
     "hasVideos": true,
     "children": [
       {
-        "label": "(empty)",
+        "label": "Recent",
+        "hasVideos": false
+      },
+      {
+        "label": "Number Series",
         "hasVideos": true,
         "videoIds": [
           "RZDwpddc6UQ",
@@ -242,74 +246,74 @@
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Coding Decoding",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Dices and Cubes",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Syllogism",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Calendar",
         "hasVideos": true,
         "videoIds": [
           "OQarroTPk-U"
         ]
       },
       {
-        "label": "(empty)",
+        "label": "Blood Relations",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "BODMAS",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Water Images",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Mirror Images",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Shape Based Reasoning",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Words Order in Dictionary",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Clock",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Sitting Arrangement",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Missing Number",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Missing Character",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Sitting Arrangement",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Direction Based",
         "hasVideos": false
       },
       {
-        "label": "(empty)",
+        "label": "Find Odd One",
         "hasVideos": false
       }
     ]
