@@ -54,7 +54,7 @@
       "timeInSeconds": 3214
     }
   },
-  "dataUpdateDateTime": "January 1st, 2026 2:34 AM",
+  "dataUpdateDateTime": "January 1st, 2026 2:54 AM",
   "timelineBlocks": [
     "326 BC: Alexander invaded Indian subcontinent, and defeated Porus in the battle of Hydaspes (Jhelum)",
     "712: Invasion of Sind by [Muhammad Bin Qasim](((vhAtmDLHy)))",
@@ -70,5 +70,9 @@
     "1529: Babur defeated the Afghans and Bengal forces in the Battle of Ghaghra and secured eastern territories.",
     "1539: Humayun defeated by Sher Shah Suri in the Battle of Chausa and lost control of Bihar region.",
     "1540: Humayun again defeated by Sher Shah Suri in the Battle of Kannauj and fled from India, ending early Mughal rule temporarily."
-  ]
+  ],
+  "quoteObject": {
+    "quote": "Your future is created by what you do today, not tomorrow.",
+    "author": "Thomas Edison"
+  }
 }
