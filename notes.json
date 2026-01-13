@@ -2583,7 +2583,7 @@
       },
       {
         "order": 10,
-        "string": "**Right to Constitutional Remedies (Article 32)**\n▪️ Article 32 provides the right to move the Supreme Court for enforcement of Fundamental Rights.\n▪️ Dr. B. R. Ambedkar called it the \"Heart and Soul\" of the Constitution.\n▪️ It makes Fundamental Rights enforceable and justiciable.\n▪️ Both Supreme Court (Art. 32) and High Courts (Art. 226) can issue writs.\n▪️ This right acts as a guarantee against violation of Fundamental Rights.\n\n**Five Writs under Article 32**\n\n**Habeas Corpus** \n▪️ “Produce the body” \n▪️ Issued to release a person unlawfully detained.\n\n**Mandamus** \n▪️ Means “We Command”\n▪️ Issued to direct a public authority to perform its duty.\n\n**Prohibition** \n▪️ Issued by a higher court to a lower court to stop it from exceeding its jurisdiction.\n\n**Certiorari** \n▪️ Issued by a higher court to transfer or quash the order of a lower court.\n\n**Quo Warranto** \n▪️ Means  “By what authority” \n▪️ Issued to check the legality of a person holding a public office.",
+        "string": "**Right to Constitutional Remedies (Article 32)**\n▪️ Article 32 gives citizens the right to approach the Supreme Court for the enforcement of Fundamental Rights. Dr. B. R. Ambedkar called it the “Heart and Soul” of the Constitution because it makes Fundamental Rights enforceable and justiciable.\n\n▪️ Both the Supreme Court under Article 32 and the High Courts under Article 226 have the power to issue writs. However, **the writ jurisdiction of the High Courts is wider than that of the Supreme Court**. This is because the Supreme Court can issue writs only for the enforcement of Fundamental Rights, whereas the High Courts can issue writs for the enforcement of Fundamental Rights as well as for other legal rights.\n\n\n**Five Writs under Article 32**\n**Habeas Corpus** \n▪️ “Produce the body” \n▪️ Issued to release a person unlawfully detained.\n**Mandamus** \n▪️ Means “We Command”\n▪️ Issued to direct a public authority to perform its duty.\n**Prohibition** \n▪️ Issued by a higher court to a lower court to stop it from exceeding its jurisdiction.\n**Certiorari** \n▪️ Issued by a higher court to transfer or quash the order of a lower court.\n**Quo Warranto** \n▪️ Means  “By what authority” \n▪️ Issued to check the legality of a person holding a public office.",
         "uid": "srf8G8i55"
       }
     ]
@@ -5289,6 +5289,25 @@
     ]
   },
   {
+    "page_title": "Wildlife",
+    "page_uid": "xAwf8XdxT",
+    "blocks": [
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "Project Tiger – 1973\nProject Crocodile – 1975\nProject Elephant – 1992\nProject Sea Turtle – 1999\nProject Seahorse – 1999\nProject Snow Leopard – 2009\nProject Gangetic Dolphin – 2009\nIndian Rhino Vision 2020 – 2005\nProject Great Indian Bustard – 2013\nProject Dolphin – 2020\nProject Lion – 2020\nProject Cheetah – 2022",
+            "uid": "u1yqHxWBr"
+          }
+        ],
+        "heading": 3,
+        "order": 0,
+        "string": "Wildlife Conservation Projects",
+        "uid": "svlaYuu5_"
+      }
+    ]
+  },
+  {
     "page_title": "Static GK",
     "page_uid": "Z0mqI4Hup",
     "blocks": [
@@ -5341,73 +5360,308 @@
     "blocks": [
       {
         "order": 0,
-        "string": "326 BC: Alexander invaded Indian subcontinent, and defeated Porus in the battle of Hydaspes (Jhelum)",
-        "uid": "wKA88DJXi"
+        "string": "2300–1750 BC: Indus Valley Civilization (Harappan culture) existed.",
+        "uid": "55UhwjsPR"
       },
       {
         "order": 1,
-        "string": "712: Invasion of Sind by [Muhammad Bin Qasim](((vhAtmDLHy)))",
-        "uid": "v1NgePJXV"
+        "string": "1500 BC: Aryans came to India.",
+        "uid": "zpOjJhryn"
       },
       {
         "order": 2,
-        "string": "1001: Battle of Peshawar, where Mahmud of Gahzni defeated Jayapala, ruler of Hindu Kush Dynasty. ",
-        "uid": "Teiy5gisb"
+        "string": "563 BC: Gautama Buddha was born.",
+        "uid": "XbNtSXYla"
       },
       {
         "order": 3,
-        "string": "1001: Battle of Waihind, where Mahmud of Gahzni defeated Anandapapa, ruler of Hindu Kush Dynasty.",
-        "uid": "RGZkgx74u"
+        "string": "540–468 BC: Mahavira (founder of Jainism) lived.",
+        "uid": "aHr2l67ko"
       },
       {
         "order": 4,
-        "string": "1024: Mahmud of Gahzni invaded Solanki dynasty and plundered Somnath temple. ",
-        "uid": "d2ysB2fwy"
+        "string": "483 BCE: First Buddhist council convened by Ajatashatru",
+        "uid": "6S_k3GDF5"
       },
       {
         "order": 5,
-        "string": "1191: Battle of terrain-I, where Prithviraj Chauhan defeated Muhammad Ghori",
-        "uid": "-JJY4XZdk"
+        "string": "383 BCE: Second Buddhist council convened by Kalasoka",
+        "uid": "t6B0fW24W"
       },
       {
         "order": 6,
-        "string": "1192: Battle of terrain-II, where Prithviraj Chauhan was defeated by Mohammad Ghori and Delhi came under Muslims.",
-        "uid": "01L4nU8Ck"
+        "string": "326 BC: Alexander invaded India.",
+        "uid": "cuHWCIfes"
       },
       {
         "order": 7,
-        "string": "1194: Battle of Chandewar, where Mohammad Ghori defeated Jayachandra of the Gahadavala dynasty and captured Kannuj",
-        "uid": "A7cQ0XpOW"
+        "string": "322 BC: Chandragupta Maurya started Maurya Empire.",
+        "uid": "BQz-Zmtm6"
       },
       {
         "order": 8,
-        "string": "1526: Babur defeated Ibrahim Lodi in the First Battle of Panipat and founded the Mughal Empire in India.",
-        "uid": "suq3_SwZ7"
+        "string": "269 BCE: Ashoka became ruler",
+        "uid": "AhpkCm4ti"
       },
       {
         "order": 9,
-        "string": "1527: Babur defeated Rana Sanga of Mewar in the Battle of Khanwa and strengthened Mughal rule in north India.",
-        "uid": "MNxjHKb_H"
+        "string": "261 BCE: Battle of Kalinga took place ",
+        "uid": "CM9v1HPf0"
       },
       {
         "order": 10,
-        "string": "1528: Babur defeated Medini Rai in the Battle of Chanderi and captured the fort to control Malwa region.",
-        "uid": "J6aykmdgv"
+        "string": "250 BCE: Third Buddhist council convened by Ashoka",
+        "uid": "Ybi-xsX0z"
       },
       {
         "order": 11,
-        "string": "1529: Babur defeated the Afghans and Bengal forces in the Battle of Ghaghra and secured eastern territories.",
-        "uid": "Dy6132CJ8"
+        "string": "72 CE: \nFourth Buddhist council convened by Kanishka",
+        "uid": "sWAvf0Aau"
       },
       {
         "order": 12,
-        "string": "1539: Humayun defeated by Sher Shah Suri in the Battle of Chausa and lost control of Bihar region.",
-        "uid": "FQhT51YAm"
+        "string": "78 AD: Saka era began.",
+        "uid": "tImspkjpY"
       },
       {
         "order": 13,
-        "string": "1540: Humayun again defeated by Sher Shah Suri in the Battle of Kannauj and fled from India, ending early Mughal rule temporarily.",
+        "string": "319: \n[[Gupta dynasty]] started by Sai Gupta (Golden Age of India).",
+        "uid": "5J2iO_V9h"
+      },
+      {
+        "order": 14,
+        "string": "380 AD: \nChandragupta II (Vikramaditya) became king.",
+        "uid": "JFWIa-gdd"
+      },
+      {
+        "order": 15,
+        "string": "606: \nHarshavardhana ruled ( 606-647).",
+        "uid": "3Xae9fOdJ"
+      },
+      {
+        "order": 16,
+        "string": "712 AD: Muhammad bin Qasim invaded Sindh (first Arab attack).",
+        "uid": "e9ESBn_wJ"
+      },
+      {
+        "order": 17,
+        "string": "1000: Mahmud of Ghazni attacked India, in total 17 times, and looted Somnath Temple.",
+        "uid": "ImMKMccDe"
+      },
+      {
+        "order": 18,
+        "string": "1001: \nBattle of Peshawar, where Mahmud of Gahazni defeated Jayapala, ruler of Hindu Kush Dynasty. ",
+        "uid": "Teiy5gisb"
+      },
+      {
+        "order": 19,
+        "string": "1001: \nBattle of Waihind, where Mahmud of Gahzni defeated Anandapapa, ruler of Hindu Kush Dynasty.",
+        "uid": "RGZkgx74u"
+      },
+      {
+        "order": 20,
+        "string": "1024: \nMahmud of Ghazni invaded Solanki dynasty and plundered Somnath temple. ",
+        "uid": "d2ysB2fwy"
+      },
+      {
+        "order": 21,
+        "string": "1191: \nBattle of Terrain-I, where Prithviraj Chauhan defeated Muhammad Ghori",
+        "uid": "-JJY4XZdk"
+      },
+      {
+        "order": 22,
+        "string": "1192: \nBattle of Terrain-II, where Prithviraj Chauhan was defeated by Mohammad Ghori and Delhi came under Muslims.",
+        "uid": "01L4nU8Ck"
+      },
+      {
+        "order": 23,
+        "string": "1194: \nBattle of Chandewar, where Mohammad Ghori defeated Jayachandra of the Gahadavala dynasty and captured Kannuj",
+        "uid": "A7cQ0XpOW"
+      },
+      {
+        "order": 24,
+        "string": "1206: \nEstablishment of Delhi Sultanate by Qutb-ud-din Aibak",
+        "uid": "tnE2D2kB3"
+      },
+      {
+        "order": 25,
+        "string": "1296: \nAlauddin Khilji ruled (famous for market reforms).",
+        "uid": "amRmbO1Jy"
+      },
+      {
+        "order": 26,
+        "string": "1398: \nTimur's invasion of Delhi; weakened Sultanate",
+        "uid": "Qr2M9894y"
+      },
+      {
+        "order": 27,
+        "string": "1498: \nVasco da Gama reaches Calicut; Portuguese arrival in India",
+        "uid": "DoXUS6Mgb"
+      },
+      {
+        "order": 28,
+        "string": "1510:\nBattle of Goa in which Portuguese defeated Bijapur ruler and captured Goa.",
+        "uid": "dJ_k3x_Qf"
+      },
+      {
+        "order": 29,
+        "string": "1526: \nBabur defeated Ibrahim Lodi in the First Battle of Panipat and founded the Mughal Empire in India.",
+        "uid": "suq3_SwZ7"
+      },
+      {
+        "order": 30,
+        "string": "1527: \nBattle of Khanwa (Babur defeated Rana Sanga).",
+        "uid": "dKDDuZvpu"
+      },
+      {
+        "order": 31,
+        "string": "1527: \nBabur defeated Rana Sanga of Mewar in the Battle of Khanwa and strengthened Mughal rule in north India.",
+        "uid": "MNxjHKb_H"
+      },
+      {
+        "order": 32,
+        "string": "1528: \nBabur defeated Medini Rai in the Battle of Chanderi and captured the fort to control Malwa region.",
+        "uid": "J6aykmdgv"
+      },
+      {
+        "order": 33,
+        "string": "1529: \nBabur defeated the Afghans and Bengal forces in the Battle of Ghaghra and secured eastern territories.",
+        "uid": "Dy6132CJ8"
+      },
+      {
+        "order": 34,
+        "string": "1539: \nHumayun was defeated by Sher Shah Suri in the Battle of Chausa and lost control of Bihar region.",
+        "uid": "FQhT51YAm"
+      },
+      {
+        "order": 35,
+        "string": "1540: \nHumayun was again defeated by Sher Shah Suri in the Battle of Kannauj and fled from India, ending early Mughal rule temporarily.",
         "uid": "SnTQJQ0MG"
+      },
+      {
+        "order": 36,
+        "string": "1556: \nSecond Battle of Panipat (Akbar defeated Hemu).",
+        "uid": "cYkVanIxC"
+      },
+      {
+        "order": 37,
+        "string": "1600: \nBritish East India Company established on 31 December 1600",
+        "uid": "pGzapvKq5"
+      },
+      {
+        "order": 38,
+        "string": "1658 AD: \nAurangzeb became Mughal emperor.",
+        "uid": "opX5JxFGp"
+      },
+      {
+        "order": 39,
+        "string": "1707: \nDeath of Aurangzeb; decline of Mughal Empire",
+        "uid": "w54nyukmg"
+      },
+      {
+        "order": 40,
+        "string": "1757: \nBattle of Plassey took place in which British (Robert Clive) defeated Siraj-ud-Daulah (British became strong in Bengal).",
+        "uid": "OdrQhNCrL"
+      },
+      {
+        "order": 41,
+        "string": "1764: \nBattle of Buxar in which British defeated combined forces of Mir Qasim, Shuja-ud-Daula, Shah Alam II.",
+        "uid": "K8H728hRU"
+      },
+      {
+        "order": 42,
+        "string": "1765: \nTreaty of Allahabad",
+        "uid": "8Gz2nDQ2F"
+      },
+      {
+        "order": 43,
+        "string": "1857: Revolt of 1857 (First War of Independence); started as Sepoy Mutiny, spread widely but suppressed",
+        "uid": "xuNzFEV0D"
+      },
+      {
+        "order": 44,
+        "string": "1885: \nIndian National Congress founded by A.O. Hume",
+        "uid": "zaGfxt9nq"
+      },
+      {
+        "order": 45,
+        "string": "1905: \nPartition of Bengal (by Lord Curzon; sparked Swadeshi Movement).\nPartition of Bengal by Curzon; sparked Swadeshi Movement",
+        "uid": "0Da7hnkQv"
+      },
+      {
+        "order": 46,
+        "string": "1906: \nAll India Muslim League formed Dhaka",
+        "uid": "Ez-j1akXC"
+      },
+      {
+        "order": 47,
+        "string": "1915: \nGandhi returns to India from South Africa\n",
+        "uid": "Oc0gtE3GP"
+      },
+      {
+        "order": 48,
+        "string": "1919: \nJallianwala Bagh massacre happened.\nRowlatt Act passed; Jallianwala Bagh massacre in Amritsar by Dyer\n",
+        "uid": "b6ZK33O7r"
+      },
+      {
+        "order": 49,
+        "string": "1920: Non-Cooperation Movement launched by Gandhi; included boycott of British goods, Khilafat alliance\n",
+        "uid": "eH-v1A325"
+      },
+      {
+        "order": 50,
+        "string": "1920: Non-Cooperation Movement started by Gandhi.",
+        "uid": "i3QCL4QRr"
+      },
+      {
+        "order": 51,
+        "string": "1922: Chauri Chaura incident; Gandhi suspends Non-Cooperation\n",
+        "uid": "PE-u1F6wQ"
+      },
+      {
+        "order": 52,
+        "string": "1928: Simon Commission boycotted (\"Go Back Simon\")\n",
+        "uid": "iQvQ1vAiD"
+      },
+      {
+        "order": 53,
+        "string": "1929: \n**Lahore Session of Congress**; demand for Purna Swaraj (Complete Independence)",
+        "uid": "WByTmP6OJ"
+      },
+      {
+        "order": 54,
+        "string": "1930: \n**Civil Disobedience Movement** started (Dandi Salt March).",
+        "uid": "vITSGs-Kc"
+      },
+      {
+        "order": 55,
+        "string": "1931: \n**Gandhi-Irwin Pact**; Gandhi attends Second Round Table Conference",
+        "uid": "jOd3IIjc6"
+      },
+      {
+        "order": 56,
+        "string": "1935: \n[[GoI Act 1935]]; provided provincial autonomy",
+        "uid": "2Z4LKwM5U"
+      },
+      {
+        "order": 57,
+        "string": "1942: \n**Quit India Movement** launched (\"Do or Die\"); mass arrests of leaders",
+        "uid": "ykeP8p9vx"
+      },
+      {
+        "order": 58,
+        "string": "1946: **Cabinet Mission Plan**; proposal for united India with loose federation\n",
+        "uid": "8rw5SQ978"
+      },
+      {
+        "order": 59,
+        "string": "1947: \n**Indian Independence Act**; partition into India and Pakistan; independence on 15 August 1947\n**Mountbatten Plan accepted**; led to partition and independence\nIndia became independent (15 August); Partition happened.",
+        "uid": "tLuV43T7Z"
+      },
+      {
+        "order": 60,
+        "string": "1950: India became a Republic (26 January; Constitution came into force).",
+        "uid": "yh7nsPx-g"
       }
     ]
   },
