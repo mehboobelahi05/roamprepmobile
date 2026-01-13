@@ -350,8 +350,19 @@
       },
       {
         "name": "Environment",
-        "uid": "sxK3q0Ttj",
-        "sub_chapters": []
+        "uid": null,
+        "sub_chapters": [
+          {
+            "name": "Environment",
+            "uid": "sxK3q0Ttj",
+            "sub_chapters": []
+          },
+          {
+            "name": "Wildlife",
+            "uid": "xAwf8XdxT",
+            "sub_chapters": []
+          }
+        ]
       },
       {
         "name": "General Static GS",
