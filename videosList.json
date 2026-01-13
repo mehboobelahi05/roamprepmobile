@@ -49,6 +49,10 @@
         "hasVideos": false
       },
       {
+        "label": "Science",
+        "hasVideos": false
+      },
+      {
         "label": "Static GK",
         "hasVideos": false
       }
@@ -87,6 +91,10 @@
       },
       {
         "label": "Tenses",
+        "hasVideos": false
+      },
+      {
+        "label": "Subject Verb Agreement",
         "hasVideos": false
       },
       {
@@ -251,7 +259,10 @@
       },
       {
         "label": "Dices and Cubes",
-        "hasVideos": false
+        "hasVideos": true,
+        "videoIds": [
+          "nwF396P3QoI"
+        ]
       },
       {
         "label": "Syllogism",
