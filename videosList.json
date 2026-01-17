@@ -125,17 +125,29 @@
     "children": [
       {
         "label": "Recent",
-        "hasVideos": false,
-        "children": [
-          {
-            "label": "(empty)",
-            "hasVideos": false
-          }
+        "hasVideos": true,
+        "videoIds": [
+          "d8s7P5_QYVU",
+          "SQnBgocyLag"
+        ]
+      },
+      {
+        "label": "Maths Tricks",
+        "hasVideos": true,
+        "videoIds": [
+          "HcadyRMpjxA"
         ]
       },
       {
         "label": "Number System",
-        "hasVideos": false
+        "hasVideos": true,
+        "videoIds": [
+          "LrEMYWxfbxo",
+          "BUrlJZaqfHM",
+          "dH8vYjbv2zE",
+          "faBOc_VVBQs",
+          "SQnBgocyLag"
+        ]
       },
       {
         "label": "Mensuration",
@@ -145,6 +157,7 @@
         "label": "Percentage",
         "hasVideos": true,
         "videoIds": [
+          "d8s7P5_QYVU",
           "wH1Up7WTefU"
         ]
       },
