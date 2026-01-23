@@ -70,8 +70,7 @@
         "label": "Mixed:",
         "hasVideos": true,
         "videoIds": [
-          "6OW1mJTLms0",
-          "w0dzG8Lc_DQ"
+          "6OW1mJTLms0"
         ]
       },
       {
@@ -96,6 +95,13 @@
       {
         "label": "Subject Verb Agreement",
         "hasVideos": false
+      },
+      {
+        "label": "Error Detection",
+        "hasVideos": true,
+        "videoIds": [
+          "Nwk5WmgV7Xs"
+        ]
       },
       {
         "label": "Noun",
