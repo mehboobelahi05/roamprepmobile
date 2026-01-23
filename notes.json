@@ -3317,7 +3317,7 @@
         "children": [
           {
             "order": 0,
-            "string": "**First Buddhist Council**\n▪️ Held in around 483 BC, just after the death of Buddha.\n▪️ Patronage by Ajatashatru  king of Haryanka dynasty.\n▪️ Presided by Mahakashyapa.\n**Outcome:**\n▪️ Compilation of Vinaya Pitaka and Sutta Pitaka.\n▪️ Vinaya pitaka deals with the \"monastic code of conduct\".\n▪️ Sutta pitaka deals with \"teachings of Buddha\"\n((lArU0ei39))",
+            "string": "**First Buddhist Council**\n▪️ Held in around 483 BC, just after the death of Buddha.\n▪️ Patronage by **Ajatashatru**, king of Haryanka dynasty.\n▪️ Presided by **Mahakashyapa**.\n\n**Outcome:**\n▪️ Compilation of Vinaya Pitaka and Sutta Pitaka.\n▪️ Vinaya pitaka deals with the \"monastic code of conduct\".\n▪️ Sutta pitaka deals with \"teachings of Buddha\"\n((lArU0ei39))",
             "uid": "1EzmrZJZh"
           },
           {
@@ -3495,6 +3495,17 @@
         "order": 6,
         "string": "** Important Rulers Associated with Jainism**\n\n**Bimbisara**\n▪️ Founder of the Haryanka Dynasty, of the Magadh Empire\n\n\n**Chandragupta Maurya**\n▪️ Founder of the Maurya Dynasty\n▪️ Became a follower of Jainism in his later life\n▪️ Accompanied Bhadrabahu to South India and spent his final years as a Jain monk at Shravanabelagola\n\n**Ravikirti**\n▪️  A court poet of Pulakesin II of the Chalukya dynasty\n▪️  Praised Jainism in his works, indicating the religious influence in the Chalukya court",
         "uid": "ed3aGjKk_"
+      }
+    ]
+  },
+  {
+    "page_title": "Invasion of Alexander",
+    "page_uid": "QDQcnt7b8",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Alexander's Invasion of India** \n\n▪️ Alexander the Great, king of Macedonia, invaded India in 326 BCE as part of his campaign to conquer the Persian Empire.\n▪️ Crossed the Indus River after defeating King Porus at the Battle of Hydaspes (Jhelum River) in 326 BCE.\n▪️ Used advanced Greek phalanx formation and cavalry tactics against Indian war elephants and archers.\n▪️ Porus fought bravely but was defeated; Alexander reinstated him as a satrap (governor) due to his valor.\n\n**Key Battles and Events**\n\n▪️ Battle of Hydaspes (326 BCE): Major confrontation with Porus; Alexander won using tactical river crossing at night.\n▪️ Soldiers mutinied at the Beas River (Hyphasis) due to exhaustion, monsoon, and fear of larger kingdoms ahead (Nanda Empire).\n▪️ Alexander turned back instead of proceeding further east into the Gangetic plains.\n▪️ Built a fleet on the Jhelum and sailed down the Indus to the Arabian Sea.\n\n**Impact and Legacy**\n\n▪️ Introduced Greek and Indian cultural exchange (Hellenistic influence in Gandhara art).\n▪️ Established Greek settlements and satrapies in northwest India (e.g., Taxila).\n▪️ Weakened local rulers, paving way for Mauryan Empire under Chandragupta Maurya.\n▪️ Marked the westernmost extent of Alexander’s empire; he died in Babylon in 323 BCE.",
+        "uid": "hzxUOjlEO"
       }
     ]
   },
@@ -5360,307 +5371,322 @@
     "blocks": [
       {
         "order": 0,
-        "string": "2300–1750 BC: Indus Valley Civilization (Harappan culture) existed.",
+        "string": "2300–1750 BC: \nIndus Valley Civilization ([[Harappan Civilization]]) existed.",
         "uid": "55UhwjsPR"
       },
       {
         "order": 1,
-        "string": "1500 BC: Aryans came to India.",
+        "string": "1500 BC: \nAryans came to India.\n",
         "uid": "zpOjJhryn"
       },
       {
         "order": 2,
-        "string": "563 BC: Gautama Buddha was born.",
-        "uid": "XbNtSXYla"
+        "string": "600 BCE:\nEmergence of 16 Mahajanapadas",
+        "uid": "nQgNSoeXf"
       },
       {
         "order": 3,
-        "string": "540–468 BC: Mahavira (founder of Jainism) lived.",
-        "uid": "aHr2l67ko"
+        "string": "599 BC:\nBirth of Mahavira, the founder of [[Jainism]], in Kundagrama, Bihar",
+        "uid": "1wyHBA4R-"
       },
       {
         "order": 4,
-        "string": "483 BCE: First Buddhist council convened by Ajatashatru",
-        "uid": "6S_k3GDF5"
+        "string": "563 BC: \n[Birth of Gautam Buddha](((dW2OI3pN6))), the founder of [[Buddhism]], in Lumbini, Kapilavastu (present day Nepal).",
+        "uid": "XbNtSXYla"
       },
       {
         "order": 5,
-        "string": "383 BCE: Second Buddhist council convened by Kalasoka",
-        "uid": "t6B0fW24W"
+        "string": "483 BCE: \nDeath of Gautam Buddha at Kushinagar, Uttar Pradesh and the [first buddhist council](((1EzmrZJZh))) convened by Ajatashatru.",
+        "uid": "6S_k3GDF5"
       },
       {
         "order": 6,
-        "string": "326 BC: Alexander invaded India.",
-        "uid": "cuHWCIfes"
+        "string": "383 BCE: \nThe [second buddhist council](((bcbm6Yowq))) convened by Kalasoka at Vaishali. ",
+        "uid": "t6B0fW24W"
       },
       {
         "order": 7,
-        "string": "322 BC: Chandragupta Maurya started Maurya Empire.",
-        "uid": "BQz-Zmtm6"
+        "string": "326 BC: \n[[Invasion of Alexander]] of the subcontinent and the battle of Hydaspes",
+        "uid": "cuHWCIfes"
       },
       {
         "order": 8,
-        "string": "269 BCE: Ashoka became ruler",
-        "uid": "AhpkCm4ti"
+        "string": "321 BC: \nChandragupta Maurya founded the [[Maurya Empire]] in Magadh region.",
+        "uid": "BQz-Zmtm6"
       },
       {
         "order": 9,
-        "string": "261 BCE: Battle of Kalinga took place ",
-        "uid": "CM9v1HPf0"
+        "string": "269 BCE: \n[Ashoka](((Qx6J43Itb))) became ruler of [[Maurya Empire]].",
+        "uid": "AhpkCm4ti"
       },
       {
         "order": 10,
-        "string": "250 BCE: Third Buddhist council convened by Ashoka",
-        "uid": "Ybi-xsX0z"
+        "string": "261 BCE: \n[Battle of Kalinga](((tUidxDj8O))) took place by Ashoka",
+        "uid": "CM9v1HPf0"
       },
       {
         "order": 11,
-        "string": "72 CE: \nFourth Buddhist council convened by Kanishka",
-        "uid": "sWAvf0Aau"
+        "string": "250 BCE: \nThe [third buddhist council](((fmmC9-AmB))) was convened by Ashoka at Pataliputra.",
+        "uid": "Ybi-xsX0z"
       },
       {
         "order": 12,
-        "string": "78 AD: Saka era began.",
-        "uid": "tImspkjpY"
+        "string": "72 CE: \nThe [fourth buddhist council](((Zjzo-Auh-))) convened by Kanishka of [[Kushana dynasty]]",
+        "uid": "sWAvf0Aau"
       },
       {
         "order": 13,
+        "string": "78 AD: \nSaka era began.",
+        "uid": "tImspkjpY"
+      },
+      {
+        "order": 14,
         "string": "319: \n[[Gupta dynasty]] started by Sai Gupta (Golden Age of India).",
         "uid": "5J2iO_V9h"
       },
       {
-        "order": 14,
+        "order": 15,
         "string": "380 AD: \nChandragupta II (Vikramaditya) became king.",
         "uid": "JFWIa-gdd"
       },
       {
-        "order": 15,
+        "order": 16,
         "string": "606: \nHarshavardhana ruled ( 606-647).",
         "uid": "3Xae9fOdJ"
       },
       {
-        "order": 16,
-        "string": "712 AD: Muhammad bin Qasim invaded Sindh (first Arab attack).",
+        "order": 17,
+        "string": "712 AD: \n[Muhammad bin Qasim](((vhAtmDLHy))) invaded Sindh (first Arab attack).",
         "uid": "e9ESBn_wJ"
       },
       {
-        "order": 17,
-        "string": "1000: Mahmud of Ghazni attacked India, in total 17 times, and looted Somnath Temple.",
+        "order": 18,
+        "string": "1000: \nMahmud of Ghazni attacked India, in total 17 times, and looted Somnath Temple.",
         "uid": "ImMKMccDe"
       },
       {
-        "order": 18,
+        "order": 19,
         "string": "1001: \nBattle of Peshawar, where Mahmud of Gahazni defeated Jayapala, ruler of Hindu Kush Dynasty. ",
         "uid": "Teiy5gisb"
       },
       {
-        "order": 19,
+        "order": 20,
         "string": "1001: \nBattle of Waihind, where Mahmud of Gahzni defeated Anandapapa, ruler of Hindu Kush Dynasty.",
         "uid": "RGZkgx74u"
       },
       {
-        "order": 20,
+        "order": 21,
         "string": "1024: \nMahmud of Ghazni invaded Solanki dynasty and plundered Somnath temple. ",
         "uid": "d2ysB2fwy"
       },
       {
-        "order": 21,
-        "string": "1191: \nBattle of Terrain-I, where Prithviraj Chauhan defeated Muhammad Ghori",
+        "order": 22,
+        "string": "1191: \n[Battle of Terrain-I](((4cowohnON))), where Prithviraj Chauhan defeated Muhammad Ghori",
         "uid": "-JJY4XZdk"
       },
       {
-        "order": 22,
-        "string": "1192: \nBattle of Terrain-II, where Prithviraj Chauhan was defeated by Mohammad Ghori and Delhi came under Muslims.",
+        "order": 23,
+        "string": "1192: \n[Battle of Terrain-II](((UAWXUrVgx))), where Prithviraj Chauhan was defeated by Mohammad Ghori and Delhi came under Muslims.",
         "uid": "01L4nU8Ck"
       },
       {
-        "order": 23,
+        "order": 24,
         "string": "1194: \nBattle of Chandewar, where Mohammad Ghori defeated Jayachandra of the Gahadavala dynasty and captured Kannuj",
         "uid": "A7cQ0XpOW"
       },
       {
-        "order": 24,
-        "string": "1206: \nEstablishment of Delhi Sultanate by Qutb-ud-din Aibak",
+        "order": 25,
+        "string": "1206: \nEstablishment of [[Delhi Sultanate]] by [Qutbuddin Aibak](((mSqc7xBhZ)))",
         "uid": "tnE2D2kB3"
       },
       {
-        "order": 25,
+        "order": 26,
         "string": "1296: \nAlauddin Khilji ruled (famous for market reforms).",
         "uid": "amRmbO1Jy"
       },
       {
-        "order": 26,
+        "order": 27,
         "string": "1398: \nTimur's invasion of Delhi; weakened Sultanate",
         "uid": "Qr2M9894y"
       },
       {
-        "order": 27,
+        "order": 28,
         "string": "1498: \nVasco da Gama reaches Calicut; Portuguese arrival in India",
         "uid": "DoXUS6Mgb"
       },
       {
-        "order": 28,
+        "order": 29,
         "string": "1510:\nBattle of Goa in which Portuguese defeated Bijapur ruler and captured Goa.",
         "uid": "dJ_k3x_Qf"
       },
       {
-        "order": 29,
+        "order": 30,
         "string": "1526: \nBabur defeated Ibrahim Lodi in the First Battle of Panipat and founded the Mughal Empire in India.",
         "uid": "suq3_SwZ7"
       },
       {
-        "order": 30,
+        "order": 31,
         "string": "1527: \nBattle of Khanwa (Babur defeated Rana Sanga).",
         "uid": "dKDDuZvpu"
       },
       {
-        "order": 31,
+        "order": 32,
         "string": "1527: \nBabur defeated Rana Sanga of Mewar in the Battle of Khanwa and strengthened Mughal rule in north India.",
         "uid": "MNxjHKb_H"
       },
       {
-        "order": 32,
+        "order": 33,
         "string": "1528: \nBabur defeated Medini Rai in the Battle of Chanderi and captured the fort to control Malwa region.",
         "uid": "J6aykmdgv"
       },
       {
-        "order": 33,
+        "order": 34,
         "string": "1529: \nBabur defeated the Afghans and Bengal forces in the Battle of Ghaghra and secured eastern territories.",
         "uid": "Dy6132CJ8"
       },
       {
-        "order": 34,
+        "order": 35,
         "string": "1539: \nHumayun was defeated by Sher Shah Suri in the Battle of Chausa and lost control of Bihar region.",
         "uid": "FQhT51YAm"
       },
       {
-        "order": 35,
+        "order": 36,
         "string": "1540: \nHumayun was again defeated by Sher Shah Suri in the Battle of Kannauj and fled from India, ending early Mughal rule temporarily.",
         "uid": "SnTQJQ0MG"
       },
       {
-        "order": 36,
+        "order": 37,
         "string": "1556: \nSecond Battle of Panipat (Akbar defeated Hemu).",
         "uid": "cYkVanIxC"
       },
       {
-        "order": 37,
+        "order": 38,
         "string": "1600: \nBritish East India Company established on 31 December 1600",
         "uid": "pGzapvKq5"
       },
       {
-        "order": 38,
+        "order": 39,
         "string": "1658 AD: \nAurangzeb became Mughal emperor.",
         "uid": "opX5JxFGp"
       },
       {
-        "order": 39,
+        "order": 40,
         "string": "1707: \nDeath of Aurangzeb; decline of Mughal Empire",
         "uid": "w54nyukmg"
       },
       {
-        "order": 40,
+        "order": 41,
         "string": "1757: \nBattle of Plassey took place in which British (Robert Clive) defeated Siraj-ud-Daulah (British became strong in Bengal).",
         "uid": "OdrQhNCrL"
       },
       {
-        "order": 41,
+        "order": 42,
         "string": "1764: \nBattle of Buxar in which British defeated combined forces of Mir Qasim, Shuja-ud-Daula, Shah Alam II.",
         "uid": "K8H728hRU"
       },
       {
-        "order": 42,
+        "order": 43,
         "string": "1765: \nTreaty of Allahabad",
         "uid": "8Gz2nDQ2F"
       },
       {
-        "order": 43,
-        "string": "1857: Revolt of 1857 (First War of Independence); started as Sepoy Mutiny, spread widely but suppressed",
+        "order": 44,
+        "string": "1857: \nRevolt of 1857 (First War of Independence); started as Sepoy Mutiny, spread widely but suppressed",
         "uid": "xuNzFEV0D"
       },
       {
-        "order": 44,
+        "order": 45,
         "string": "1885: \nIndian National Congress founded by A.O. Hume",
         "uid": "zaGfxt9nq"
       },
       {
-        "order": 45,
-        "string": "1905: \nPartition of Bengal (by Lord Curzon; sparked Swadeshi Movement).\nPartition of Bengal by Curzon; sparked Swadeshi Movement",
+        "order": 46,
+        "string": "1905: \nPartition of Bengal (by Lord Curzon and launch of Swadeshi and Boycott Movement.\nINC session 1905 at Banaras (or Varanasi) presided by Gokhale",
         "uid": "0Da7hnkQv"
       },
       {
-        "order": 46,
+        "order": 47,
         "string": "1906: \nAll India Muslim League formed Dhaka",
         "uid": "Ez-j1akXC"
       },
       {
-        "order": 47,
+        "order": 48,
         "string": "1915: \nGandhi returns to India from South Africa\n",
         "uid": "Oc0gtE3GP"
       },
       {
-        "order": 48,
-        "string": "1919: \nJallianwala Bagh massacre happened.\nRowlatt Act passed; Jallianwala Bagh massacre in Amritsar by Dyer\n",
+        "order": 49,
+        "string": "1919: \nRowlatt Act passed\nJallianwala Bagh massacre in Amritsar by Dyer\nINC Session at Amritsar presided by Motilal Nehru",
         "uid": "b6ZK33O7r"
       },
       {
-        "order": 49,
-        "string": "1920: Non-Cooperation Movement launched by Gandhi; included boycott of British goods, Khilafat alliance\n",
-        "uid": "eH-v1A325"
-      },
-      {
         "order": 50,
-        "string": "1920: Non-Cooperation Movement started by Gandhi.",
+        "string": "1920: \nNon-Cooperation Movement started by Gandhi.",
         "uid": "i3QCL4QRr"
       },
       {
         "order": 51,
-        "string": "1922: Chauri Chaura incident; Gandhi suspends Non-Cooperation\n",
+        "string": "1922: \nChauri Chaura incident and Gandhi suspended Non-Cooperation",
         "uid": "PE-u1F6wQ"
       },
       {
         "order": 52,
-        "string": "1928: Simon Commission boycotted (\"Go Back Simon\")\n",
-        "uid": "iQvQ1vAiD"
+        "string": "1923:\nFormation of Swaraj Party by CR Das and Motilal Nehru",
+        "uid": "AFQ1-YdFx"
       },
       {
         "order": 53,
+        "string": "1924:\nINC Session of 1924 at Belgaum, only session presided by Gandhi",
+        "uid": "aZwYYheax"
+      },
+      {
+        "order": 54,
+        "string": "1928: \nSimon Commission boycotted (\"Go Back Simon\")",
+        "uid": "iQvQ1vAiD"
+      },
+      {
+        "order": 55,
         "string": "1929: \n**Lahore Session of Congress**; demand for Purna Swaraj (Complete Independence)",
         "uid": "WByTmP6OJ"
       },
       {
-        "order": 54,
+        "order": 56,
         "string": "1930: \n**Civil Disobedience Movement** started (Dandi Salt March).",
         "uid": "vITSGs-Kc"
       },
       {
-        "order": 55,
+        "order": 57,
         "string": "1931: \n**Gandhi-Irwin Pact**; Gandhi attends Second Round Table Conference",
         "uid": "jOd3IIjc6"
       },
       {
-        "order": 56,
-        "string": "1935: \n[[GoI Act 1935]]; provided provincial autonomy",
+        "order": 58,
+        "string": "1935: \nThe GoI Act 1935 was enacted by the British Parliament",
         "uid": "2Z4LKwM5U"
       },
       {
-        "order": 57,
-        "string": "1942: \n**Quit India Movement** launched (\"Do or Die\"); mass arrests of leaders",
+        "order": 59,
+        "string": "1942: \n**Quit India Movement** launched by INC and led by Gandhi.",
         "uid": "ykeP8p9vx"
       },
       {
-        "order": 58,
-        "string": "1946: **Cabinet Mission Plan**; proposal for united India with loose federation\n",
+        "order": 60,
+        "string": "1946: \n**Cabinet Mission Plan**; proposal for united India with loose federation",
         "uid": "8rw5SQ978"
       },
       {
-        "order": 59,
-        "string": "1947: \n**Indian Independence Act**; partition into India and Pakistan; independence on 15 August 1947\n**Mountbatten Plan accepted**; led to partition and independence\nIndia became independent (15 August); Partition happened.",
+        "order": 61,
+        "string": "1947: \n**Indian Independence Act**; partition into India and Pakistan; independence on 15 August 1947\n**Mountbatten Plan accepted**; led to partition and independence\nIndia became independent (15 August) with Partition happened.",
         "uid": "tLuV43T7Z"
       },
       {
-        "order": 60,
-        "string": "1950: India became a Republic (26 January; Constitution came into force).",
+        "order": 62,
+        "string": "1949:\nNov 26 1949 constitution was adopted. ",
+        "uid": "AT5UBeKiT"
+      },
+      {
+        "order": 63,
+        "string": "1950: \nIndia became a Republic (26 January; Constitution came into force).",
         "uid": "yh7nsPx-g"
       }
     ]
@@ -5690,124 +5716,6 @@
         "order": 2,
         "string": "https://www.scribd.com/document/459458243/500-Important-Vocabulary-PDF-For-SSC-CGL-Copy-pdf",
         "uid": "OxAL4_1kK"
-      }
-    ]
-  },
-  {
-    "page_title": "60 Important Rules of Grammar | By Rani Maam",
-    "page_uid": "lERgSdUkl",
-    "blocks": [
-      {
-        "order": 0,
-        "string": "Video credit to: [English With Rani Mam](https://www.youtube.com/@EnglishWithRaniMam)",
-        "uid": "UyJP1r-2o"
-      },
-      {
-        "children": [
-          {
-            "order": 0,
-            "string": "2. Nobody → Nothing\nRule: Use \"nothing\" for objects or things when the subject is \"nobody\".\nExample:\nNobody found nothing interesting in the movie.\n(No person found any interesting thing.)\n3. Somebody → Something\nRule: Use \"something\" for objects or things when the subject is \"somebody\".\nExample:\nSomebody brought something for you.\n(A person brought an item for you.)\n4. Anybody → Anything\nRule: Use \"anything\" for objects or things when the subject is \"anybody\".\nExample:\nAnybody can do anything if they try hard.\n(Any person can accomplish any task.)\nKey Points:\n\"Everybody,\" \"Nobody,\" \"Somebody,\" \"Anybody\" → refer to people.\n\"Everything,\" \"Nothing,\" \"Something,\" \"Anything\" → refer to things or objects.\n",
-            "uid": "WO_dpknIA"
-          }
-        ],
-        "order": 1,
-        "string": "**Rule 1: Use of everybody and everything:** {video:6OW1mJTLms0:11} \nEverybody is used with person.\nEverything is used with objects or things. ",
-        "uid": "UsM9o33L6"
-      },
-      {
-        "order": 2,
-        "string": "**Rule 2:** {video:6OW1mJTLms0:1540} \nEach -- Every \nEither -- Neither\nAny -- None",
-        "uid": "rTH7pcdoD"
-      },
-      {
-        "order": 3,
-        "string": "**Rule 3:** {video:6OW1mJTLms0:2789} \nBoth .. in Positive Sentences\nBoth .. And ",
-        "uid": "OtmwtGSw6"
-      },
-      {
-        "order": 4,
-        "string": "**Rule 4:** {video:6OW1mJTLms0:3178} \nEither -- Or\nNeither  -- Not\nNot only -- But also",
-        "uid": "LX2cYep0v"
-      },
-      {
-        "order": 5,
-        "string": "**Rule 5:** {video:6OW1mJTLms0:3694} \nWords like hundred, thousand, million, dozens used in singular form",
-        "uid": "X10ouk4rP"
-      },
-      {
-        "order": 6,
-        "string": "**Rule 6:** {video:6OW1mJTLms0:4004} \nUntil / Unless / If / Whether /That",
-        "uid": "9wezhRpw6"
-      },
-      {
-        "order": 7,
-        "string": "**Rule 7:** {video:6OW1mJTLms0:5716} \nAvoid using double comparatives and double superlatives",
-        "uid": "XmjHTIOIG"
-      },
-      {
-        "order": 8,
-        "string": "**Rule 8:** {video:6OW1mJTLms0:6089} \nThe words \"comparatively\" and \"relatively\" take adjective of POSITIVE DEGREE",
-        "uid": "ih3C1EVVD"
-      },
-      {
-        "order": 9,
-        "string": "**Rule 9:** {video:6OW1mJTLms0:6267} \nTwice / Two times ??",
-        "uid": "xkOdAb-81"
-      },
-      {
-        "order": 10,
-        "string": "**Rule 10:** {video:6OW1mJTLms0:6753}\nIf two qualities of same person/thing are compared, the comparative degree  is made not by using \"er\" but by using \"more\"",
-        "uid": "ZJPiuS1Db"
-      },
-      {
-        "order": 11,
-        "string": "**Rule 11:** {video:6OW1mJTLms0:7021} \nEnsure that the verb is according to the main subject (and not qualifier).",
-        "uid": "ojxNuBZLl"
-      },
-      {
-        "order": 12,
-        "string": "**Rule 12:** {video:6OW1mJTLms0:8142} \n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fsilju_ssc%2FW4VH6cpW9Q.png?alt=media&token=1c9ae4b3-5c99-49ff-a9d1-f0afe1354ef4)",
-        "uid": "r69NMw_th"
-      },
-      {
-        "order": 13,
-        "string": "**Rule 13:** {video:6OW1mJTLms0:8568} \nOne of,\nOnly one of,\none of our only",
-        "uid": "SUs8tIah0"
-      },
-      {
-        "order": 14,
-        "string": "**Rule 14:** {video:6OW1mJTLms0:8986} \nOn Tenses Conditional",
-        "uid": "1Ia8wsQ8X"
-      },
-      {
-        "order": 15,
-        "string": "**Rule 15:** {video:6OW1mJTLms0:10192} \nOn Tenses Conditional",
-        "uid": "b4Q3LIegF"
-      },
-      {
-        "order": 16,
-        "string": "**Rule 16:** {video:6OW1mJTLms0:10823} \nWith expressions such as,\nIt's time,\nIt's high time,\nIt's about time etc,",
-        "uid": "0aUYmlDDm"
-      },
-      {
-        "order": 17,
-        "string": "**Rule 17:** {video:6OW1mJTLms0:11042} \nSuppositional sentences having phrases like \"I wish\", \"He/She wishes\" etc",
-        "uid": "1Z5Pyaqgh"
-      },
-      {
-        "order": 18,
-        "string": "**Rule 18:** {video:6OW1mJTLms0:11229} \nIf two nouns are joined by preposition, the noun on either side is singular and the verb is also singular.",
-        "uid": "O66i9Gr2F"
-      },
-      {
-        "order": 19,
-        "string": "**Rule 19:** {video:6OW1mJTLms0:11425} \nPronouns like somebody, anybody, everybody etc",
-        "uid": "swhcuAlyl"
-      },
-      {
-        "order": 20,
-        "string": "**Rule 20:** {video:6OW1mJTLms0:11660} \n\n",
-        "uid": "bPtBvf3DZ"
       }
     ]
   },
