@@ -163,15 +163,39 @@
       ]
     },
     {
+      "date": "1336",
+      "items": [
+        "Founded **Sangama dynasty** (Vijayanagara empire) by Harihara Raya and Bukka raya"
+      ]
+    },
+    {
       "date": "1398",
       "items": [
         "Timur's invasion of Delhi; weakened Sultanate"
       ]
     },
     {
+      "date": "1485",
+      "items": [
+        "Founded Saluva dynasty of VIjayanagara empire by Saluva Narasimha"
+      ]
+    },
+    {
       "date": "1498",
       "items": [
         "Vasco da Gama reaches Calicut; Portuguese arrival in India"
+      ]
+    },
+    {
+      "date": "1502",
+      "items": [
+        "Founded Tuluva (of Vijayanagara empire) dynasty by Vira Narasimha"
+      ]
+    },
+    {
+      "date": "1509",
+      "items": [
+        "Krishnadeva Raya accession to thrown (1509-30)"
       ]
     },
     {
@@ -223,9 +247,21 @@
       ]
     },
     {
+      "date": "1545",
+      "items": [
+        "Founded Aravidu dynasty, in vijayanagara empire, by Tirumala"
+      ]
+    },
+    {
       "date": "1556",
       "items": [
         "Second Battle of Panipat (Akbar defeated Hemu)."
+      ]
+    },
+    {
+      "date": "1556",
+      "items": [
+        "The Battle of Talikota (or Rakshasi-Tangadi) in 1565, where a united alliance of Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) defeated the Vijayanagara Empire"
       ]
     },
     {
@@ -253,6 +289,12 @@
       ]
     },
     {
+      "date": "1761",
+      "items": [
+        "Hyder Ali became the defecto ruler of Mysore"
+      ]
+    },
+    {
       "date": "1764",
       "items": [
         "Battle of Buxar in which British defeated combined forces of Mir Qasim, Shuja-ud-Daula, Shah Alam II."
@@ -262,6 +304,12 @@
       "date": "1765",
       "items": [
         "Treaty of Allahabad"
+      ]
+    },
+    {
+      "date": "1833",
+      "items": [
+        "Mysore annexed under misgovernance"
       ]
     },
     {
@@ -388,6 +436,36 @@
       "items": [
         "India became a Republic (26 January; Constitution came into force)."
       ]
+    },
+    {
+      "date": "1971",
+      "items": [
+        "[Ramsar convention](((8ReUdEBKH))) was signed on **February 2, 1971**"
+      ]
+    },
+    {
+      "date": "1975",
+      "items": [
+        "[Ramsar convention](((8ReUdEBKH))) on Wetlands officially came into force on **December 21, 1975**"
+      ]
+    },
+    {
+      "date": "1982",
+      "items": [
+        "India joined the [Ramsar convention](((8ReUdEBKH))) by becoming a party on **February 1, 1982**, designating Chilika Lake and Keoladeo National Park as its first sites"
+      ]
+    },
+    {
+      "date": "1985",
+      "items": [
+        "Vienna convention on ozone layer protection"
+      ]
+    },
+    {
+      "date": "1987",
+      "items": [
+        "Montreal Protocol on ozone layer protection was adopted."
+      ]
     }
   ],
   "timelineBlocks": [],
@@ -440,12 +518,12 @@
       "timeInSeconds": 23
     },
     "mocks": {
-      "videoId": "H8BusekwcT8",
-      "timeInSeconds": 213
+      "videoId": "lz3E6P35Xw4",
+      "timeInSeconds": 0
     },
     "videosList": {
-      "videoId": "H8BusekwcT8",
-      "timeInSeconds": 21
+      "videoId": "0pwfl7dmHOY)",
+      "timeInSeconds": 0
     },
     "noteChapter": {
       "videoId": "H8BusekwcT8",
@@ -456,8 +534,8 @@
       "timeInSeconds": 1234
     },
     "timelineSection": {
-      "videoId": "H8BusekwcT8",
-      "timeInSeconds": 3214
+      "videoId": "pVpNINgAYkk",
+      "timeInSeconds": 0
     }
   },
   "learnRoamPrepVideos": [
@@ -466,5 +544,5 @@
     "6uwY8Nm9KdY",
     "odAT7b4wKwM"
   ],
-  "dataUpdateDateTime": 1769328872118
+  "dataUpdateDateTime": 1771344623311
 }
