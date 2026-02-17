@@ -2063,6 +2063,69 @@
     ]
   },
   {
+    "page_title": "Borrowed Features in Constitution",
+    "page_uid": "2Tudpxiul",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "**Constitution Features Borrowed From USA:**\n▪️ Fundamental rights\n▪️ Independence of judiciary\n▪️ Judicial review\n▪️ Impeachment of the president\n▪️ Removal of Supreme Court and High Court judges\n▪️ Post of vice-president",
+        "uid": "PvryMwJ_h"
+      },
+      {
+        "order": 1,
+        "string": "**Features borrowed from UK constitution:**\n▪️ Parliamentary government\n▪️ Rule of Law\n▪️ Legislative procedure\n▪️ Single Citizenship\n▪️ Cabinet system\n▪️ Prerogative writs\n▪️ Parliamentary privileges\n▪️ Bicameralism\n",
+        "uid": "i7RNRHG0J"
+      },
+      {
+        "order": 2,
+        "string": "**Features borrowed from Canada constitution:**\n▪️ Federation with a strong Centre\n▪️ Vesting of residuary powers in the Centre\n▪️ Appointment of state governors by the Centre\n▪️ Advisory jurisdiction of the Supreme Court",
+        "uid": "QsVzLPita"
+      },
+      {
+        "order": 3,
+        "string": "**Features borrowed from Ireland constitution:**\n▪️ Directive principles of state policy ( [[DPSP]]) \n▪️ [Nomination of members to Rajya Sabha](((S0k7ysuhi))) \n▪️ Method of election of President ",
+        "uid": "ASYlvxt0C"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "((zsmBFqaQN))",
+            "uid": "HC9972Q5x"
+          }
+        ],
+        "order": 4,
+        "string": "**Features borrowed from USSR (Russia):**\n▪️ [[Fundamental Duties]]\n▪️ [JUSTICE](((t7r_ZiQFl))) in the [[Preamble]]",
+        "uid": "r-5AUMHrP"
+      },
+      {
+        "order": 5,
+        "string": "**Features borrowed from Australia constitution:**\n▪️ Concurrent list\n▪️ Freedom of trade, commerce and intercourse\n▪️ Joint-sitting of the two Houses of Parliament",
+        "uid": "aJ_jBuAAG"
+      },
+      {
+        "order": 6,
+        "string": "**Features borrowed from France constitution:**\n▪️ Idea of Republic\n▪️ Ideals of liberty, equality and fraternity in the Preamble",
+        "uid": "YFqqA47F2"
+      },
+      {
+        "order": 7,
+        "string": "**Features borrowed from South Africa constitution:**\n▪️ Procedure for amendment in the Indian Constitution\n▪️ Election of members of Rajya Sabha\n",
+        "uid": "zMvn3S90U"
+      },
+      {
+        "order": 8,
+        "string": "**Features borrowed from Japan constitution:**\n▪️ Procedure Established by law\n",
+        "uid": "6hLVaL3MH"
+      },
+      {
+        "order": 9,
+        "string": "**Features borrowed from German constitution:**\n▪️ Suspension of Fundamental Rights during emergency\n",
+        "uid": "72ZvIRa2Q"
+      }
+    ]
+  },
+  {
     "page_title": "Important Amendments",
     "page_uid": "Ea5l72K0H",
     "blocks": [
@@ -2432,23 +2495,6 @@
         "order": 7,
         "string": "PREAMBLE AS PART OF THE CONSTITUTION",
         "uid": "2wtgZheGC"
-      },
-      {
-        "order": 8,
-        "string": "**Borrowed Features of Indian Constitution**\n**1. Australia**\n▪️ Concurrent list\n▪️ Freedom of trade, commerce and intercourse\n▪️ Joint-sitting of the two Houses of Parliament\n\n**2.Canada**\n▪️ Federation with a strong Centre\n▪️ Vesting of residuary powers in the Centre\n▪️ Appointment of state governors by the Centre\n▪️ Advisory jurisdiction of the Supreme Court\n\n**3. Ireland**\n▪️ Directive Principles of State Policy\n▪️ Nomination of members to Rajya Sabha\n▪️ Method of election of the president\n\n**4. Japan**\n▪️ Procedure Established by law\n\n**5. Soviet Union (USSR) (now, Russia)**\n▪️ Fundamental duties\n▪️ Ideals of JUSTICE (social, economic and political) in the Preamble\n\n**6.UK**\n▪️ Parliamentary government\n▪️ Rule of Law\n▪️ Legislative procedure\n▪️ Single Citizenship\n▪️ Cabinet system\n▪️ Prerogative writs\n▪️ Parliamentary privileges\n▪️ Bicameralism\n\n**7. USA**\n▪️ Fundamental rights\n▪️ Independence of judiciary\n▪️ Judicial review\n▪️ Impeachment of the president\n▪️ Removal of Supreme Court and High Court judges\n▪️ Post of vice-president\n\n**8.Germany (Weimar)**\n▪️ Suspension of Fundamental Rights during emergency\n\n**9.South Africa**\n▪️ Procedure for amendment in the Indian Constitution\n▪️ Election of members of Rajya Sabha\n\n**10.France**\n▪️ Idea of Republic\n▪️ Ideals of liberty, equality and fraternity in the Preamble",
-        "uid": "1mUbGPm6U"
-      },
-      {
-        "children": [
-          {
-            "order": 0,
-            "string": "**Constitution Features Borrowed From USA:**\n▪️ Fundamental rights\n▪️ Independence of judiciary\n▪️ Judicial review\n▪️ Impeachment of the president\n▪️ Removal of Supreme Court and High Court judges\n▪️ Post of vice-president",
-            "uid": "PvryMwJ_h"
-          }
-        ],
-        "order": 9,
-        "string": "Borrowed Features:",
-        "uid": "Fo66x4C_A"
       }
     ]
   },
@@ -2458,7 +2504,17 @@
     "blocks": [
       {
         "order": 0,
-        "string": "Citizenship of India\n\n▪️ Articles Covered: Article 5 to 11 (Part II of the Constitution)\n▪️ Citizenship Act: Citizenship Act, 1955 — governs acquisition and termination of citizenship in India.\n▪️ **Single Citizenship: Article 9** – Voluntary acquisition of citizenship of another country.  If an Indian citizen voluntarily acquires citizenship of another country, he/she ceases to be an Indian citizen.\n\n**Under the Citizenship Act, 1955:**\n**Modes of Acquisition of Citizenship**\n▪️ By Birth – Born in India (conditions depend on date of birth).\n▪️ By Descent – If born outside India to Indian parents.\n▪️ By Registration – For persons of Indian origin or married to Indian citizens.\n▪️ By Naturalization – If a foreigner lives in India for a specified period (usually 12 years).\n▪️ By Incorporation of Territory – If any new territory becomes part of India, people of that territory become Indian citizens.\n\n**Modes of Loss of Citizenship:**\n▪️ By Renunciation – Voluntary giving up of citizenship.\n▪️ By Termination – Automatically ends when acquiring foreign citizenship.\n▪️ By Deprivation – Government can cancel citizenship for fraud, disloyalty, etc.",
+        "string": "**Citizenship of India**\n\n**Articles Covered: **\n▪️ Part-II of the Constitution\n▪️ Article 5 to 11 (Part II of the Constitution)\n**Citizenship Act: **\n▪️ Citizenship Act, 1955 — governs acquisition and termination of citizenship in India.\n",
+        "uid": "AHwAPl-Uq"
+      },
+      {
+        "order": 1,
+        "string": "**Single Citizenship: Article 9** – Voluntary acquisition of citizenship of another country.  If an Indian citizen voluntarily acquires citizenship of another country, he/she ceases to be an Indian citizen.\n\n",
+        "uid": "ghUSTe67f"
+      },
+      {
+        "order": 2,
+        "string": "**Under the Citizenship Act, 1955:**\n**Modes of Acquisition of Citizenship**\n▪️ By Birth – Born in India (conditions depend on date of birth).\n▪️ By Descent – If born outside India to Indian parents.\n▪️ By Registration – For persons of Indian origin or married to Indian citizens.\n▪️ By Naturalization – If a foreigner lives in India for a specified period (usually 12 years).\n▪️ By Incorporation of Territory – If any new territory becomes part of India, people of that territory become Indian citizens (which all citizens is decided by the GoI).\n\n**Modes of Loss of Citizenship:**\n▪️ By Renunciation – Voluntary giving up of citizenship.\n▪️ By Termination – Automatically ends when acquiring foreign citizenship.\n▪️ By Deprivation – Government can cancel citizenship for fraud, disloyalty, etc.",
         "uid": "UkLDw5z-K"
       }
     ]
@@ -5319,6 +5375,30 @@
     ]
   },
   {
+    "page_title": "Wetlands",
+    "page_uid": "GAcHpUKs3",
+    "blocks": [
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "The Ramsar Convention on Wetlands is an **intergovernmental treaty** signed in 1971 in Ramsar, Iran, **providing the framework for national action and international cooperation for the conservation and \"wise use\" of wetlands**. \n\nAs the **only global treaty dedicated to a specific ecosystem**, it aims to stem the loss of wetlands, which are crucial for biodiversity, water supply, and climate mitigation. ",
+            "uid": "3m1qoaMOm"
+          },
+          {
+            "order": 1,
+            "string": "The **Ramsar Convention on Wetlands** was signed on **February 2, 1971**, in the Iranian city of Ramsar. It officially **came into force on December 21, 1975**. \n\nThus **Feb 02** is celebrated as **World Wetlands Day** since 1997 onwards. \n\nIndia joined the convention by becoming a party on **February 1, 1982**, designating **Chilika Lake** and **Keoladeo National Park** as its first ramsar sites. ",
+            "uid": "8ReUdEBKH"
+          }
+        ],
+        "heading": 3,
+        "order": 0,
+        "string": "Ramsar Convention",
+        "uid": "vfl1yeAf0"
+      }
+    ]
+  },
+  {
     "page_title": "Static GK",
     "page_uid": "Z0mqI4Hup",
     "blocks": [
@@ -5506,188 +5586,253 @@
       },
       {
         "order": 27,
+        "string": "1336: \nFounded **Sangama dynasty** (Vijayanagara empire) by Harihara Raya and Bukka raya\n",
+        "uid": "v3DovVMK_"
+      },
+      {
+        "order": 28,
         "string": "1398: \nTimur's invasion of Delhi; weakened Sultanate",
         "uid": "Qr2M9894y"
       },
       {
-        "order": 28,
+        "order": 29,
+        "string": "1485: \nFounded Saluva dynasty of VIjayanagara empire by Saluva Narasimha",
+        "uid": "tg7_jui12"
+      },
+      {
+        "order": 30,
         "string": "1498: \nVasco da Gama reaches Calicut; Portuguese arrival in India",
         "uid": "DoXUS6Mgb"
       },
       {
-        "order": 29,
+        "order": 31,
+        "string": "1502: \nFounded Tuluva (of Vijayanagara empire) dynasty by Vira Narasimha",
+        "uid": "PR_rXiYHi"
+      },
+      {
+        "order": 32,
+        "string": "1509: \nKrishnadeva Raya accession to thrown (1509-30)",
+        "uid": "XSYxx_pjk"
+      },
+      {
+        "order": 33,
         "string": "1510:\nBattle of Goa in which Portuguese defeated Bijapur ruler and captured Goa.",
         "uid": "dJ_k3x_Qf"
       },
       {
-        "order": 30,
+        "order": 34,
         "string": "1526: \nBabur defeated Ibrahim Lodi in the First Battle of Panipat and founded the Mughal Empire in India.",
         "uid": "suq3_SwZ7"
       },
       {
-        "order": 31,
+        "order": 35,
         "string": "1527: \nBattle of Khanwa (Babur defeated Rana Sanga).",
         "uid": "dKDDuZvpu"
       },
       {
-        "order": 32,
+        "order": 36,
         "string": "1527: \nBabur defeated Rana Sanga of Mewar in the Battle of Khanwa and strengthened Mughal rule in north India.",
         "uid": "MNxjHKb_H"
       },
       {
-        "order": 33,
+        "order": 37,
         "string": "1528: \nBabur defeated Medini Rai in the Battle of Chanderi and captured the fort to control Malwa region.",
         "uid": "J6aykmdgv"
       },
       {
-        "order": 34,
+        "order": 38,
         "string": "1529: \nBabur defeated the Afghans and Bengal forces in the Battle of Ghaghra and secured eastern territories.",
         "uid": "Dy6132CJ8"
       },
       {
-        "order": 35,
+        "order": 39,
         "string": "1539: \nHumayun was defeated by Sher Shah Suri in the Battle of Chausa and lost control of Bihar region.",
         "uid": "FQhT51YAm"
       },
       {
-        "order": 36,
+        "order": 40,
         "string": "1540: \nHumayun was again defeated by Sher Shah Suri in the Battle of Kannauj and fled from India, ending early Mughal rule temporarily.",
         "uid": "SnTQJQ0MG"
       },
       {
-        "order": 37,
+        "order": 41,
+        "string": "1545: \nFounded Aravidu dynasty, in vijayanagara empire, by Tirumala",
+        "uid": "uf8uxCXAe"
+      },
+      {
+        "order": 42,
         "string": "1556: \nSecond Battle of Panipat (Akbar defeated Hemu).",
         "uid": "cYkVanIxC"
       },
       {
-        "order": 38,
+        "order": 43,
+        "string": "1556: \nThe Battle of Talikota (or Rakshasi-Tangadi) in 1565, where a united alliance of Deccan Sultanates (Bijapur, Golconda, Ahmadnagar, Bidar) defeated the Vijayanagara Empire",
+        "uid": "Dt7WsSwxb"
+      },
+      {
+        "order": 44,
         "string": "1600: \nBritish East India Company established on 31 December 1600",
         "uid": "pGzapvKq5"
       },
       {
-        "order": 39,
+        "order": 45,
         "string": "1658 AD: \nAurangzeb became Mughal emperor.",
         "uid": "opX5JxFGp"
       },
       {
-        "order": 40,
+        "order": 46,
         "string": "1707: \nDeath of Aurangzeb; decline of Mughal Empire",
         "uid": "w54nyukmg"
       },
       {
-        "order": 41,
+        "order": 47,
         "string": "1757: \nBattle of Plassey took place in which British (Robert Clive) defeated Siraj-ud-Daulah (British became strong in Bengal).",
         "uid": "OdrQhNCrL"
       },
       {
-        "order": 42,
+        "order": 48,
+        "string": "1761: \nHyder Ali became the defecto ruler of Mysore",
+        "uid": "AGo51dLx3"
+      },
+      {
+        "order": 49,
         "string": "1764: \nBattle of Buxar in which British defeated combined forces of Mir Qasim, Shuja-ud-Daula, Shah Alam II.",
         "uid": "K8H728hRU"
       },
       {
-        "order": 43,
+        "order": 50,
         "string": "1765: \nTreaty of Allahabad",
         "uid": "8Gz2nDQ2F"
       },
       {
-        "order": 44,
+        "order": 51,
+        "string": "1833: \nMysore annexed under misgovernance",
+        "uid": "cM5ZpV_JQ"
+      },
+      {
+        "order": 52,
         "string": "1857: \nRevolt of 1857 (First War of Independence); started as Sepoy Mutiny, spread widely but suppressed",
         "uid": "xuNzFEV0D"
       },
       {
-        "order": 45,
+        "order": 53,
         "string": "1885: \nIndian National Congress founded by A.O. Hume",
         "uid": "zaGfxt9nq"
       },
       {
-        "order": 46,
+        "order": 54,
         "string": "1905: \nPartition of Bengal (by Lord Curzon and launch of Swadeshi and Boycott Movement.\nINC session 1905 at Banaras (or Varanasi) presided by Gokhale",
         "uid": "0Da7hnkQv"
       },
       {
-        "order": 47,
+        "order": 55,
         "string": "1906: \nAll India Muslim League formed Dhaka",
         "uid": "Ez-j1akXC"
       },
       {
-        "order": 48,
+        "order": 56,
         "string": "1915: \nGandhi returns to India from South Africa\n",
         "uid": "Oc0gtE3GP"
       },
       {
-        "order": 49,
+        "order": 57,
         "string": "1919: \nRowlatt Act passed\nJallianwala Bagh massacre in Amritsar by Dyer\nINC Session at Amritsar presided by Motilal Nehru",
         "uid": "b6ZK33O7r"
       },
       {
-        "order": 50,
+        "order": 58,
         "string": "1920: \nNon-Cooperation Movement started by Gandhi.",
         "uid": "i3QCL4QRr"
       },
       {
-        "order": 51,
+        "order": 59,
         "string": "1922: \nChauri Chaura incident and Gandhi suspended Non-Cooperation",
         "uid": "PE-u1F6wQ"
       },
       {
-        "order": 52,
+        "order": 60,
         "string": "1923:\nFormation of Swaraj Party by CR Das and Motilal Nehru",
         "uid": "AFQ1-YdFx"
       },
       {
-        "order": 53,
+        "order": 61,
         "string": "1924:\nINC Session of 1924 at Belgaum, only session presided by Gandhi",
         "uid": "aZwYYheax"
       },
       {
-        "order": 54,
+        "order": 62,
         "string": "1928: \nSimon Commission boycotted (\"Go Back Simon\")",
         "uid": "iQvQ1vAiD"
       },
       {
-        "order": 55,
+        "order": 63,
         "string": "1929: \n**Lahore Session of Congress**; demand for Purna Swaraj (Complete Independence)",
         "uid": "WByTmP6OJ"
       },
       {
-        "order": 56,
+        "order": 64,
         "string": "1930: \n**Civil Disobedience Movement** started (Dandi Salt March).",
         "uid": "vITSGs-Kc"
       },
       {
-        "order": 57,
+        "order": 65,
         "string": "1931: \n**Gandhi-Irwin Pact**; Gandhi attends Second Round Table Conference",
         "uid": "jOd3IIjc6"
       },
       {
-        "order": 58,
+        "order": 66,
         "string": "1935: \nThe GoI Act 1935 was enacted by the British Parliament",
         "uid": "2Z4LKwM5U"
       },
       {
-        "order": 59,
+        "order": 67,
         "string": "1942: \n**Quit India Movement** launched by INC and led by Gandhi.",
         "uid": "ykeP8p9vx"
       },
       {
-        "order": 60,
+        "order": 68,
         "string": "1946: \n**Cabinet Mission Plan**; proposal for united India with loose federation",
         "uid": "8rw5SQ978"
       },
       {
-        "order": 61,
+        "order": 69,
         "string": "1947: \n**Indian Independence Act**; partition into India and Pakistan; independence on 15 August 1947\n**Mountbatten Plan accepted**; led to partition and independence\nIndia became independent (15 August) with Partition happened.",
         "uid": "tLuV43T7Z"
       },
       {
-        "order": 62,
+        "order": 70,
         "string": "1949:\nNov 26 1949 constitution was adopted. ",
         "uid": "AT5UBeKiT"
       },
       {
-        "order": 63,
+        "order": 71,
         "string": "1950: \nIndia became a Republic (26 January; Constitution came into force).",
         "uid": "yh7nsPx-g"
+      },
+      {
+        "order": 72,
+        "string": "1971:\n[Ramsar convention](((8ReUdEBKH))) was signed on **February 2, 1971**",
+        "uid": "23nPpYnar"
+      },
+      {
+        "order": 73,
+        "string": "1975:\n[Ramsar convention](((8ReUdEBKH))) on Wetlands officially came into force on **December 21, 1975**",
+        "uid": "Zige0ApD6"
+      },
+      {
+        "order": 74,
+        "string": "1982:\nIndia joined the [Ramsar convention](((8ReUdEBKH))) by becoming a party on **February 1, 1982**, designating Chilika Lake and Keoladeo National Park as its first sites ",
+        "uid": "ESUKTFoYw"
+      },
+      {
+        "order": 75,
+        "string": "1985:\nVienna convention on ozone layer protection",
+        "uid": "okJY9EBTg"
+      },
+      {
+        "order": 76,
+        "string": "1987:\nMontreal Protocol on ozone layer protection was adopted. ",
+        "uid": "xZn0Ii9on"
       }
     ]
   },
