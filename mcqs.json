@@ -18605,6 +18605,219 @@
     "isPassageBased": false
   },
   {
+    "id": "eNsR_LLdu",
+    "question": "From which country was Ibn Battuta a traveller?",
+    "options": [
+      "Spain",
+      "Morocco",
+      "Egypt",
+      "Persia"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Ibn Battuta was a traveller from Morocco",
+    "explanation_block_uid": "OpHDaVJIo",
+    "tags": [
+      "Vijayanagar Empire",
+      "Medieval History",
+      "MCQs",
+      "General Studies",
+      "History"
+    ],
+    "linked_block_uid": "JbcGSyQ7K",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "History",
+      "Medieval History",
+      "Vijayanagar Empire"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "aH1-J-pX7",
+    "question": "During which period did Ibn Battuta come to India?",
+    "options": [
+      "~ 1335-1347",
+      "~ 1400-1410",
+      "~ 1200-1210",
+      "~ 1500-1510"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Ibn Battuta came to India during the period ~ 1335-1347",
+    "explanation_block_uid": "ib3q3bbJY",
+    "tags": [
+      "Vijayanagar Empire",
+      "Medieval History",
+      "MCQs",
+      "General Studies",
+      "History"
+    ],
+    "linked_block_uid": "JbcGSyQ7K",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "History",
+      "Medieval History",
+      "Vijayanagar Empire"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "cTKvYK02M",
+    "question": "In whose court did Ibn Battuta live and get appointed as Qazi (Judge)?",
+    "options": [
+      "Alauddin Khilji",
+      "Giyazuddin Bin Tughlaq",
+      "Muhammad Bin Tughlaq",
+      "Feroz Shah Tughlaq"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Ibn Battuta lived in the court of Muhammad Bin Tughlaq, and he was appointed as Qazi (Judge) by the Sultan in his court",
+    "explanation_block_uid": "tkTW1gEJc",
+    "tags": [
+      "Tughluq dynasty",
+      "Muhammad Bin Tughlaq",
+      "Vijayanagar Empire",
+      "Medieval History",
+      "MCQs",
+      "General Studies",
+      "History"
+    ],
+    "linked_block_uid": "JbcGSyQ7K",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "History",
+      "Medieval History",
+      "Vijayanagar Empire"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "az3sU5FKe",
+    "question": "During whose reign did Ibn Battuta visit the Vijayanagara empire?",
+    "options": [
+      "Krishna Deva Raya",
+      "Deva Raya II",
+      "Hari Hara Bukka (1336-56)",
+      "Virupaksha Raya"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Ibn Battuta visited Vijayanagara empire during 1342-45, during the reign of Hari Hara Bukka (1336-56)",
+    "explanation_block_uid": "x8I4nJps2",
+    "tags": [
+      "Vijayanagar Empire",
+      "Medieval History",
+      "MCQs",
+      "General Studies",
+      "History"
+    ],
+    "linked_block_uid": "JbcGSyQ7K",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "History",
+      "Medieval History",
+      "Vijayanagar Empire"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "DLV1fnbux",
+    "question": "What was the name of Ibn Battuta's book ?",
+    "options": [
+      "Kitan al Hind",
+      "Rhila or Rehla",
+      "Tughlaqnama",
+      "Khaizan-ul-Futuh"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Ibn Battuta's book was Rhila or Rehla, and it was written in Arabic",
+    "explanation_block_uid": "FxF9BUCG9",
+    "tags": [
+      "book",
+      "author",
+      "Vijayanagar Empire",
+      "Medieval History",
+      "MCQs",
+      "General Studies",
+      "History"
+    ],
+    "linked_block_uid": "JbcGSyQ7K",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "History",
+      "Medieval History",
+      "Vijayanagar Empire"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6jPeeEqwC",
+    "question": "Book of Ibn Battuta \"Rhela\" was wrotten in which language ?",
+    "options": [
+      "Arabic",
+      "Persian",
+      "Urdu",
+      "Farsi & Arabic"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Ibn Battuta's book was Rhila or Rehla, and it was written in Arabic",
+    "explanation_block_uid": "2vmi-lQ4m",
+    "tags": [
+      "language",
+      "author",
+      "literature",
+      "book",
+      "Vijayanagar Empire",
+      "Medieval History",
+      "MCQs",
+      "General Studies",
+      "History"
+    ],
+    "linked_block_uid": "JbcGSyQ7K",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "History",
+      "Medieval History",
+      "Vijayanagar Empire"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qWdwhW5uY",
+    "question": "The book \"Rehla or Rhila\" was written by?",
+    "options": [
+      "Abdur Razak",
+      "Firdausi",
+      "Ibn Battuta",
+      "Alberuni"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Ibn Battuta's book was Rhila or Rehla, and it was written in Arabic",
+    "explanation_block_uid": "661C-QtRe",
+    "tags": [
+      "book",
+      "author",
+      "Vijayanagar Empire",
+      "Medieval History",
+      "MCQs",
+      "General Studies",
+      "History"
+    ],
+    "linked_block_uid": "JbcGSyQ7K",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "History",
+      "Medieval History",
+      "Vijayanagar Empire"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "h6A6prsBv",
     "question": "The famous Battle of Plassey was fought in the year ?",
     "options": [
@@ -35458,6 +35671,64 @@
     "isPassageBased": false
   },
   {
+    "id": "uu79TG5CV",
+    "question": "Which of the following constitutional provision has not been borrowed from Irish constitution by Indian constitution?",
+    "options": [
+      "Post of Vice-President",
+      "Directive principles of state policy",
+      "Nomination of members to Rajya Sabha",
+      "Method of election of President"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Post of Vice-President was borrowed from USA constitution.\n((ASYlvxt0C))\n((PvryMwJ_h))",
+    "explanation_block_uid": "vzqD9UzGu",
+    "tags": [
+      "Borrowed Features in Constitution",
+      "Constitution",
+      "MCQs",
+      "General Studies",
+      "Polity"
+    ],
+    "linked_block_uid": "ASYlvxt0C",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Polity",
+      "Constitution",
+      "Borrowed Features in Constitution"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "eN-cf4tK0",
+    "question": "Which of the below feature in India NOT borrowed from Russia (or USSR)?",
+    "options": [
+      "Five Year Plan",
+      "Fundamental Duties",
+      "JUSTICE in Preamble.",
+      "DPSP"
+    ],
+    "correct_option_index": 3,
+    "explanation": "DPSP was borrowed from Ireland constitution\n((zsmBFqaQN))\n((ASYlvxt0C))",
+    "explanation_block_uid": "x9ELlxiBF",
+    "tags": [
+      "Borrowed Features in Constitution",
+      "Constitution",
+      "MCQs",
+      "General Studies",
+      "Polity"
+    ],
+    "linked_block_uid": "zsmBFqaQN",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Polity",
+      "Constitution",
+      "Borrowed Features in Constitution"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "BV6giir9a",
     "question": "\"Indian Constitution\" was adopted by the Constituent Assembly on: ??",
     "options": [
@@ -38710,7 +38981,7 @@
   },
   {
     "id": "49Z21IMNX",
-    "question": "Which Article of the Constitution provides for single citizenship?",
+    "question": "Which Article of the Constitution provides for single citizenship in India?",
     "options": [
       "Article 1",
       "Article 5",
@@ -38718,12 +38989,40 @@
       "Article 11"
     ],
     "correct_option_index": 2,
-    "explanation": "Article 9 of the Indian Constitution provides that any person who voluntarily acquires citizenship of a foreign State shall cease to be a citizen of India, thereby reinforcing the principle of single citizenship by preventing dual citizenship.",
+    "explanation": "Article 9 of the Indian Constitution provides that **any person who voluntarily acquires citizenship of a foreign State shall cease to be a citizen of India**, thereby reinforcing the principle of single citizenship by preventing dual citizenship.",
     "explanation_block_uid": "H2wdBlI1u",
     "tags": [
-      "verified",
-      "Article",
       "Constitution",
+      "Article",
+      "Citizenship",
+      "MCQs",
+      "General Studies",
+      "Polity"
+    ],
+    "linked_block_uid": "ghUSTe67f",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Polity",
+      "Citizenship"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "RWa6UOgFF",
+    "question": "In which year was the Citizenship Act passed in India?",
+    "options": [
+      "1951",
+      "1955",
+      "1959",
+      "1964"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The Indian Citizenship Act was passed in 1955.",
+    "explanation_block_uid": "SJpXwqKJF",
+    "tags": [
+      "verified",
+      "bills and acts",
       "Citizenship",
       "MCQs",
       "General Studies",
@@ -64830,6 +65129,244 @@
     "isPassageBased": false
   },
   {
+    "id": "yeTJfAUHu",
+    "question": "The Ramsar Convention on Wetlands was signed on which date?",
+    "options": [
+      "February 2, 1971, Iran",
+      "December 21, 1975",
+      "January 1, 1971",
+      "February 2, 1982"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**February 2, 1971** in the Iranian city of **Ramsar** is the correct date and place where the convention was signed (adopted). This date is globally recognized and celebrated as **World Wetlands Day** to mark the adoption of the treaty focused on wetland conservation.",
+    "explanation_block_uid": "Lyp7DxyGh",
+    "tags": [
+      "year",
+      "date",
+      "Wetlands",
+      "Ecosystem",
+      "MCQs",
+      "General Studies",
+      "Environment"
+    ],
+    "linked_block_uid": "8ReUdEBKH",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Environment",
+      "Ecosystem",
+      "Wetlands"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "gh7Mn4Re7",
+    "question": "When did the Ramsar Convention officially come into force?",
+    "options": [
+      "February 2, 1971",
+      "December 21, 1975",
+      "February 1, 1982",
+      "January 1, 1980"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The convention **came into force on December 21, 1975**, after the required number of countries (7) had ratified it. This was four months after the seventh ratification, as per the treaty provisions.",
+    "explanation_block_uid": "XBZcbmk2D",
+    "tags": [
+      "date",
+      "year",
+      "Wetlands",
+      "Ecosystem",
+      "MCQs",
+      "General Studies",
+      "Environment"
+    ],
+    "linked_block_uid": "8ReUdEBKH",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Environment",
+      "Ecosystem",
+      "Wetlands"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "oeiyiZ5p6",
+    "question": "Why is February 2 celebrated every year as **World Wetlands Day**?",
+    "options": [
+      "It marks the date when the convention came into force",
+      "It is the date when India joined the convention",
+      "It marks the adoption/signing of the Ramsar Convention in 1971",
+      "It is the date of the first Ramsar site designation in the world"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**World Wetlands Day** is observed on **February 2** each year because it commemorates the **adoption of the Ramsar Convention on February 2, 1971**. The day aims to raise global awareness about the importance of wetlands and their conservation.",
+    "explanation_block_uid": "vYoosLzoH",
+    "tags": [
+      "Wetlands",
+      "Ecosystem",
+      "MCQs",
+      "General Studies",
+      "Environment"
+    ],
+    "linked_block_uid": "8ReUdEBKH",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Environment",
+      "Ecosystem",
+      "Wetlands"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "P-VIpEHkq",
+    "question": "On which date did India become a party (join) the Ramsar Convention?",
+    "options": [
+      "February 2, 1971",
+      "December 21, 1975",
+      "February 1, 1982",
+      "October 1, 1981"
+    ],
+    "correct_option_index": 2,
+    "explanation": "India joined the Ramsar Convention by becoming a party on **February 1, 1982**. This marked the entry into force of the convention for India, committing the country to the conservation and wise use of its wetlands.",
+    "explanation_block_uid": "ORQUk99DR",
+    "tags": [
+      "date",
+      "year",
+      "Wetlands",
+      "Ecosystem",
+      "MCQs",
+      "General Studies",
+      "Environment"
+    ],
+    "linked_block_uid": "8ReUdEBKH",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Environment",
+      "Ecosystem",
+      "Wetlands"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "kUubFydJn",
+    "question": "Which two wetlands were designated by India as its first Ramsar sites?",
+    "options": [
+      "Sundarbans and Wular Lake",
+      "Chilika Lake and Keoladeo National Park",
+      "Loktak Lake and Kaziranga",
+      "Bhitarkanika Mangroves and Nal Sarovar"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Upon joining, India designated **Chilika Lake** (Odisha) and **Keoladeo National Park** (Rajasthan) as its **first two Ramsar sites** in 1981/1982. These were recognized for their international importance, particularly for migratory birds and biodiversity.",
+    "explanation_block_uid": "3l61mq4_8",
+    "tags": [
+      "Wetlands",
+      "Ecosystem",
+      "MCQs",
+      "General Studies",
+      "Environment"
+    ],
+    "linked_block_uid": "8ReUdEBKH",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Environment",
+      "Ecosystem",
+      "Wetlands"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mYonWw3m2",
+    "question": "The Ramsar Convention is primarily focused on the conservation and wise use of:?",
+    "options": [
+      "Forests and tropical rainforests",
+      "Wetlands and their resources",
+      "Mountain ecosystems only",
+      "Desert and arid zones"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Ramsar Convention** is an intergovernmental treaty that provides the framework for national action and international cooperation for the **conservation** and **wise use** of **wetlands** and their resources, recognizing their ecological, economic, and cultural importance.",
+    "explanation_block_uid": "RZIbV57Cj",
+    "tags": [
+      "Wetlands",
+      "Ecosystem",
+      "MCQs",
+      "General Studies",
+      "Environment"
+    ],
+    "linked_block_uid": "8ReUdEBKH",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Environment",
+      "Ecosystem",
+      "Wetlands"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4MuBoJHiK",
+    "question": "In which year was **World Wetlands Day** first celebrated globally?",
+    "options": [
+      "1971",
+      "1975",
+      "1997",
+      "1982"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Although the Ramsar Convention was adopted in 1971, **World Wetlands Day** began to be celebrated globally from **1997** onwards to promote awareness about wetlands and the objectives of the convention.",
+    "explanation_block_uid": "-u0w88GPK",
+    "tags": [
+      "Wetlands",
+      "Ecosystem",
+      "MCQs",
+      "General Studies",
+      "Environment"
+    ],
+    "linked_block_uid": "8ReUdEBKH",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Environment",
+      "Ecosystem",
+      "Wetlands"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Aqf8-v7CJ",
+    "question": "Which statement is correct about India's Ramsar sites Chilika Lake and Keoladeo National Park?",
+    "options": [
+      "They were designated in 1971",
+      "They became India's first Ramsar sites along with Sundarbans",
+      "**They were the first two Ramsar sites designated by India in 1981**",
+      "They lost their Ramsar status in 1993"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Chilika Lake** and **Keoladeo National Park** were designated as India's **first Ramsar sites** on **October 1, 1981** (shortly before India's formal accession). **Keoladeo** is famous for birdlife, while **Chilika** is Asia's largest brackish water lagoon supporting rich biodiversity.",
+    "explanation_block_uid": "yiRVoR21b",
+    "tags": [
+      "Wetlands",
+      "Ecosystem",
+      "MCQs",
+      "General Studies",
+      "Environment"
+    ],
+    "linked_block_uid": "8ReUdEBKH",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Environment",
+      "Ecosystem",
+      "Wetlands"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "0FgdtdkRt",
     "question": "What is square of 4?",
     "options": [
@@ -68878,6 +69415,201 @@
       "MCQs",
       "Aptitude",
       "Average"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "dOLtsWZ0z",
+    "question": "What is the average of 1120, 1160, 1180, 1140 ?",
+    "options": [
+      "1130",
+      "1170",
+      "1150",
+      "1160"
+    ],
+    "correct_option_index": 2,
+    "explanation": "((VUpnIY9jL))",
+    "explanation_block_uid": "Ns_oOtRY7",
+    "tags": [
+      "MCQs by Rani Maam",
+      "Average",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "VUpnIY9jL",
+    "path_tags": [
+      "MCQs",
+      "Aptitude",
+      "Average",
+      "MCQs by Rani Maam"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YtBUEUAuJ",
+    "question": "What is the average of 112, 116, 126, 110, and 132 ?",
+    "options": [
+      "119.8",
+      "120.4",
+      "119.2",
+      "120.4"
+    ],
+    "correct_option_index": 2,
+    "explanation": "((6HGEPPive))",
+    "explanation_block_uid": "z1JooZ1NT",
+    "tags": [
+      "MCQs by Rani Maam",
+      "Average",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "6HGEPPive",
+    "path_tags": [
+      "MCQs",
+      "Aptitude",
+      "Average",
+      "MCQs by Rani Maam"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "CmKv0_NRL",
+    "question": "If the average of 24, 28, 27, 23, D and E is 29, then what is the average of D and E ?",
+    "options": [
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "correct_option_index": 1,
+    "explanation": "((DkAIZhQTA))",
+    "explanation_block_uid": "wR2lOo1jr",
+    "tags": [
+      "MCQs by Rani Maam",
+      "Average",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "DkAIZhQTA",
+    "path_tags": [
+      "MCQs",
+      "Aptitude",
+      "Average",
+      "MCQs by Rani Maam"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "JI_-Qe4gK",
+    "question": "The average of six numbers is 4. The average of two of them is 3.5, while the average of the other two is 3.75. What is the average of the remaining two numbers?",
+    "options": [
+      "4.65",
+      "8.375",
+      "4.85",
+      "4.75"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Sum of six numbers = 6 × 4\n⇒ Sum of six numbers = 24\nSum of two numbers with average 3.5 = 2 × 3.5 = 7\nSum of two numbers with average 3.75 = 2 × 3.75 = 7.5\n⇒ Sum of the remaining two numbers = 24 - (7 + 7.5)\n⇒ Sum of the remaining two numbers = 24 - 14.5 = 9.5\n⇒ Sum of the remaining two numbers = 9.5\n⇒ Average of the remaining two numbers = 9.5 / 2 = 4.75\n((adeEq15EE))",
+    "explanation_block_uid": "w6Vdj6yWt",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "MCQs by Rani Maam",
+      "Average",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "adeEq15EE",
+    "path_tags": [
+      "MCQs",
+      "Aptitude",
+      "Average",
+      "MCQs by Rani Maam"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1nIqnzoLP",
+    "question": "The average of six numbers is 18. The average of two of them is 15, while the average of the other three is 16. What is the average of the remaining one numbers?",
+    "options": [
+      "20",
+      "25",
+      "30",
+      "35"
+    ],
+    "correct_option_index": 2,
+    "explanation": "((f9QMujUaA))",
+    "explanation_block_uid": "oN2S-LSgo",
+    "tags": [
+      "MCQs by Rani Maam",
+      "Average",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "f9QMujUaA",
+    "path_tags": [
+      "MCQs",
+      "Aptitude",
+      "Average",
+      "MCQs by Rani Maam"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "18embc2Mw",
+    "question": "A fruit seller has 10 kg of apples and 5 kg of grapes. The price of 1 kg of apples is ₹94.50 and that of grapes is ₹105. He sold all the fruits with him. What is the average amount (in ₹) received by the fruit seller?",
+    "options": [
+      "97.50",
+      "101.50",
+      "98",
+      "100"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Total amount received from apples = 10 × 94.50\n⇒ Total amount received from apples = ₹945\nTotal amount received from grapes = 5 × 105\n⇒ Total amount received from grapes = ₹525\nTotal amount received = ₹945 + ₹525\n⇒ Total amount received = ₹1470\nTotal weight of fruits = 10 kg + 5 kg\n⇒ Total weight of fruits = 15 kg\nAverage amount = ₹1470 / 15\n⇒ Average amount = ₹98\n((DPVflaqdK))",
+    "explanation_block_uid": "0YndoNeWj",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "MCQs by Rani Maam",
+      "Average",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "DPVflaqdK",
+    "path_tags": [
+      "MCQs",
+      "Aptitude",
+      "Average",
+      "MCQs by Rani Maam"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "H-oHwarTd",
+    "question": "The university has 750 faculty (male and female only) out of which the females are 60%. The average height of females is 162 cm and that of males is 168 cm. What is the average height of the faculty (in cm) of the university?",
+    "options": [
+      "161.4",
+      "166.4",
+      "163.4",
+      "164.4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "((wmAnO4H6c))",
+    "explanation_block_uid": "uWgH92JFr",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "MCQs by Rani Maam",
+      "Average",
+      "MCQs",
+      "Aptitude"
+    ],
+    "linked_block_uid": "wmAnO4H6c",
+    "path_tags": [
+      "MCQs",
+      "Aptitude",
+      "Average",
+      "MCQs by Rani Maam"
     ],
     "isPassageBased": false
   },
@@ -116965,7 +117697,7 @@
       "Russia"
     ],
     "correct_option_index": 2,
-    "explanation": "The concept of \"Judicial Review\" is borrowed from the United States of America constitution. This power allows the judiciary to review and invalidate laws and executive actions that are found to be unconstitutional. The principle was established in the U.S. through the landmark Supreme Court case Marbury v. Madison in 1803.\n((1mUbGPm6U))",
+    "explanation": "The concept of \"Judicial Review\" is borrowed from the United States of America constitution. \nThis power allows the judiciary to review and invalidate laws and executive actions that are found to be unconstitutional.\n((PvryMwJ_h))",
     "explanation_block_uid": "CAX4o5Fb8",
     "tags": [
       "verified",
@@ -116984,7 +117716,7 @@
       "Full Mock Test",
       "November 23rd, 2025"
     ],
-    "linked_block_uid": "1mUbGPm6U",
+    "linked_block_uid": "PvryMwJ_h",
     "path_tags": [
       "KSSRB Exam 2025 - 12th Level - Shift 1",
       "General Studies"
@@ -139749,42 +140481,6 @@
     "isPassageBased": false
   },
   {
-    "id": "RWa6UOgFF",
-    "question": "In which year was the Citizenship Act passed in India?",
-    "options": [
-      "1951",
-      "1955",
-      "1959",
-      "1964"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The Indian Citizenship Act was passed in 1955. \n((UkLDw5z-K))",
-    "explanation_block_uid": "SJpXwqKJF",
-    "tags": [
-      "verified",
-      "Polity",
-      "bills and acts",
-      "General Studies",
-      "Mock Test 8",
-      "Medium",
-      "12th Level",
-      "pyq",
-      "mock",
-      "newmocktests",
-      "fullMockTest",
-      "Full Mock Test",
-      "All",
-      "Mixed",
-      "December 11th, 2025"
-    ],
-    "linked_block_uid": "UkLDw5z-K",
-    "path_tags": [
-      "Mock Test 8",
-      "General Studies"
-    ],
-    "isPassageBased": false
-  },
-  {
     "id": "BZbzZK6EY",
     "question": "Who among the following was famously known as the \"\"Tut-e-Hind .. The parrot of India\"?",
     "options": [
@@ -144234,7 +144930,7 @@
       "South Africa"
     ],
     "correct_option_index": 0,
-    "explanation": "Judicial Review in India has been borrowed from the United States Constitution.\nIt is a process under which executive or legislative actions are subject to review by the judiciary.\nThis feature helps in ensuring the constitutionality of laws and acts as a check on the powers of the legislature and executive.\nThe concept of Judicial Review in India is enshrined in Article 13 of the Indian Constitution.\n\n\n((1mUbGPm6U))",
+    "explanation": "Judicial Review in India has been borrowed from the United States Constitution.\n((PvryMwJ_h))\n((QsVzLPita))\n((ASYlvxt0C))\n((zMvn3S90U))",
     "explanation_block_uid": "nv6wvuzjL",
     "tags": [
       "verified",
@@ -144254,7 +144950,7 @@
       "Mixed",
       "December 11th, 2025"
     ],
-    "linked_block_uid": "1mUbGPm6U",
+    "linked_block_uid": "PvryMwJ_h",
     "path_tags": [
       "Mock Test 6",
       "General Studies"
@@ -154102,7 +154798,7 @@
       "Judicial Review: USA Constitution"
     ],
     "correct_option_index": 2,
-    "explanation": "The statement which is NOT correct is: Idea of Republic: UK Constitution \nIdea of Republic was borrowed from ^^France Constitution^^\nRest all other options are correct. \n\n((1mUbGPm6U))",
+    "explanation": "The statement which is NOT correct is: Idea of Republic: UK Constitution \nIdea of Republic was borrowed from ^^France Constitution^^\nRest all other options are correct. \n((YFqqA47F2))",
     "explanation_block_uid": "JQ9Si4gwA",
     "tags": [
       "verified",
@@ -154119,7 +154815,7 @@
       "newmocktests",
       "December 10th, 2025"
     ],
-    "linked_block_uid": "1mUbGPm6U",
+    "linked_block_uid": "YFqqA47F2",
     "path_tags": [
       "GS Full Mock Test 1",
       "General Studies",
