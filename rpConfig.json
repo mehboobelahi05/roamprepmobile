@@ -1,16 +1,16 @@
 {
-  "appDataVersion": "1.1.1364",
+  "appDataVersion": "1.1.1111",
   "quote": {
     "text": "This is HHHH  JJJJJ Text",
     "author": "Author Name"
   },
-  "isDisplayUpdatesSection": false,
+  "isDisplayUpdatesSection": true,
   "updates": [
     {
       "title": "CCC 1",
       "items": [
         "Test item 1",
-        "test **Bold test**",
+        "test **Bold test** and [link](https://roamprep.in/#home)",
         "Test ^^ high^^ hello"
       ]
     },
