@@ -341,6 +341,59 @@
     ]
   },
   {
+    "page_title": "Ladakh Geography",
+    "page_uid": "nLTcclhcw",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "⇒ Ladakh is a high-altitude, arid cold desert-plateau in northern India, situated between the Kunlun Mountains in the north and the Himalayas to the south. \n⇒ Covering ~60,000 sq km, it features altitudes from 2,300 to 5,000+ meters, characterized by three parallel ranges (Karakoram, Ladakh, Zanskar), deep valleys, and scarce vegetation. ",
+        "uid": "GnhLpLzME"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Mountain Ranges:** \n⇒ The region is flanked by the Karakoram Range in the north and the Zanskar Range, with the Ladakh Range lying between the Indus and Shyok rivers.\n**High-Altitude Desert:** \n⇒ Due to its location in the rain shadow of the Himalayas, it is an arid region receiving less than \n ( inches) of annual rainfall, with most precipitation falling as snow in winter.\n**Rivers and Valleys:** \n⇒ The Indus River is the backbone of the region, passing through it, along with tributaries like the Zanskar, Shyok, and Nubra.",
+            "uid": "mMLV-gmiw"
+          }
+        ],
+        "heading": 3,
+        "order": 1,
+        "string": "Key Geographical Features",
+        "uid": "bVb-mG8QH"
+      }
+    ]
+  },
+  {
+    "page_title": "Ladakh Environment",
+    "page_uid": "vC4xsrC8t",
+    "blocks": [
+      {
+        "order": 0,
+        "string": "Ladakh is a high-altitude cold desert, featuring a fragile ecosystem with arid conditions, sparse vegetation, and extreme temperatures, nestled between the Kunlun and Himalayan ranges. Rapid climate change causes glacial retreat, while tourism and development exacerbate water shortages. Key challenges include flash floods and the need for sustainable practices. \n",
+        "uid": "6oyF16aJZ"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**Climate & Geography:** \n⇒ Located at over 3,500 meters, this region is a \"cold desert\" combining arctic and desert conditions. It lies in the rain shadow of the Himalayas, resulting in minimal precipitation, mostly in the form of winter snow.\n",
+            "uid": "RR3Ef--AQ"
+          },
+          {
+            "order": 1,
+            "string": "**Water Resources:** \n=> The primary water source is glacial meltwater, making the ecosystem highly vulnerable to climate-induced glacier retreat and changes in hydrological patterns.\n",
+            "uid": "aeaoxdZzj"
+          }
+        ],
+        "heading": 3,
+        "order": 1,
+        "string": "Key Environmental Features:",
+        "uid": "Jgh8smzds"
+      }
+    ]
+  },
+  {
     "page_title": "Ladakh Current Affairs",
     "page_uid": "cKnNt7wXd",
     "blocks": [
