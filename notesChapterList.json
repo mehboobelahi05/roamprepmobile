@@ -5,8 +5,24 @@
     "sub_chapters": [
       {
         "name": "Ladakh GK Notes",
-        "uid": "NtRNtmcey",
-        "sub_chapters": []
+        "uid": null,
+        "sub_chapters": [
+          {
+            "name": "Ladakh GK Notes",
+            "uid": "NtRNtmcey",
+            "sub_chapters": []
+          },
+          {
+            "name": "Ladakh Geography",
+            "uid": "nLTcclhcw",
+            "sub_chapters": []
+          },
+          {
+            "name": "Ladakh Environment",
+            "uid": "vC4xsrC8t",
+            "sub_chapters": []
+          }
+        ]
       },
       {
         "name": "Ladakh Current Affairs",
