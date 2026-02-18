@@ -1,10 +1,10 @@
 {
-  "appDataVersion": "1.1.1234",
+  "appDataVersion": "1.1.1664",
   "quote": {
-    "text": "This is HHHH Text",
+    "text": "This is HHHH  JJJJJ Text",
     "author": "Author Name"
   },
-  "isDisplayUpdatesSection": true,
+  "isDisplayUpdatesSection": false,
   "updates": [
     {
       "title": "CCC 1",
