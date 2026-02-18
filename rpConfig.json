@@ -9,14 +9,15 @@
     {
       "title": "Refreshed App Launched",
       "items": [
-        "For the comming Grduation Level Exams, updated the app with better UI and data.",
-        "Share App Link Is Updated."
+        "More Mocks and Questions will be uploaded soon.",
+        "Updated the app.",
+        "Share the app with your friends, from Share button below in the home page."
       ]
     },
     {
       "title": "Do Support My Work",
       "items": [
-        "This time I will keep Roam Prep FREE, but if you realy find this useful and want me to add more data and mock tests, do support and contibute to my word, from the 'Donate' button, below in this home page section. Thanks!"
+        "If you find this useful, do support my work, 'Donate' button, below in 'Actions Section' below in the home page section. Thanks!"
       ]
     }
   ],
@@ -61,5 +62,5 @@
   "isSubscriptionActivate": false,
   "appShareURL": "https://roamprepapps.netlify.app/",
   "isDisplayAboutMe": true,
-  "dataUpdateDateTime": 1771434514058
+  "dataUpdateDateTime": 1771444171767
 }
