@@ -1,15 +1,16 @@
 {
-  "appDataVersion": "1.1.11",
+  "appDataVersion": "1.1.12",
   "quote": {
     "text": "Don’t stop when you’re tired. Stop when you’re done.",
-    "author": ""
+    "author": "Unknown"
   },
   "isDisplayUpdatesSection": true,
   "updates": [
     {
       "title": "Refreshed App Launched",
       "items": [
-        "For the comming Grduation Level Exams, updated the app with better UI and data."
+        "For the comming Grduation Level Exams, updated the app with better UI and data.",
+        "Added new mock tests for the comming Exams."
       ]
     },
     {
@@ -60,5 +61,5 @@
   "isSubscriptionActivate": false,
   "appShareURL": "https://play.google.com/store/apps/details?id=com.roamprep.app",
   "isDisplayAboutMe": true,
-  "dataUpdateDateTime": 1771427199500
+  "dataUpdateDateTime": 1771430619086
 }
