@@ -4,18 +4,18 @@
     "text": "Don’t stop when you’re tired. Stop when you’re done.",
     "author": ""
   },
-  "isDisplayUpdatesSection": false,
+  "isDisplayUpdatesSection": true,
   "updates": [
     {
-      "title": "New Notes",
+      "title": "Refreshed App Launched",
       "items": [
-        "Added two new notes [[Ladakh Geography]] and [[Ladakh Environment]]"
+        "For the comming Grduation Level Exams, updated the app with better UI and data."
       ]
     },
     {
-      "title": "Support My Work",
+      "title": "Do Support My Work",
       "items": [
-        "Support my work by subscribing to the app and sharing it with your friends"
+        "This time I will keep Roam Prep FREE, but if you realy find this useful and want me to add more data and mock tests, do support and contibute to my word, from the 'Donate' button, below in this home page section. Thanks!"
       ]
     }
   ],
@@ -60,5 +60,5 @@
   "isSubscriptionActivate": false,
   "appShareURL": "https://play.google.com/store/apps/details?id=com.roamprep.app",
   "isDisplayAboutMe": true,
-  "dataUpdateDateTime": 1771426575435
+  "dataUpdateDateTime": 1771427199500
 }
