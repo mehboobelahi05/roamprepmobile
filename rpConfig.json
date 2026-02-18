@@ -1,10 +1,10 @@
 {
-  "appDataVersion": "1.1.11",
+  "appDataVersion": "1.1.110",
   "quote": {
     "text": "Don’t stop when you’re tired. Stop when you’re done.",
     "author": ""
   },
-  "isDisplayUpdatesSection": false,
+  "isDisplayUpdatesSection": true,
   "updates": [
     {
       "title": "New Notes",
@@ -60,5 +60,5 @@
   "isSubscriptionActivate": false,
   "appShareURL": "https://play.google.com/store/apps/details?id=com.roamprep.app",
   "isDisplayAboutMe": true,
-  "dataUpdateDateTime": 1771426120244
+  "dataUpdateDateTime": 1771426121234
 }
