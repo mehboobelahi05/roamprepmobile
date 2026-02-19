@@ -7,17 +7,11 @@
   "isDisplayUpdatesSection": true,
   "updates": [
     {
-      "title": "Refreshed App Launched",
+      "title": "Roam Prep in Play Store",
       "items": [
-        "More Mocks and Questions will be uploaded soon.",
-        "Updated the app.",
+        "Hi all, Roam Prep app is now in Google Play Store. If you have installed it manually, then update the app from Google Play store.",
+        "Update the app from Google Play Store: [Link here](https://play.google.com/store/apps/details?id=com.roamprep.app)",
         "Share the app with your friends, from Share button below in the home page."
-      ]
-    },
-    {
-      "title": "Do Support My Work",
-      "items": [
-        "If you find this useful, do support my work, 'Donate' button, below in 'Actions Section' below in the home page section. Thanks!"
       ]
     }
   ],
@@ -60,7 +54,7 @@
   "youtubeLink": "",
   "telegramLink": "",
   "isSubscriptionActivate": false,
-  "appShareURL": "https://roamprepapps.netlify.app/",
+  "appShareURL": "https://play.google.com/store/apps/details?id=com.roamprep.app",
   "isDisplayAboutMe": true,
-  "dataUpdateDateTime": 1771444171767
+  "dataUpdateDateTime": 1771521233142
 }
