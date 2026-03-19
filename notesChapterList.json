@@ -8,6 +8,16 @@
         "uid": null,
         "sub_chapters": [
           {
+            "name": "Ladakh Polity",
+            "uid": "BLiiSu29m",
+            "sub_chapters": []
+          },
+          {
+            "name": "Ladakh Environment & Wildlife",
+            "uid": "vC4xsrC8t",
+            "sub_chapters": []
+          },
+          {
             "name": "Ladakh GK Notes",
             "uid": "NtRNtmcey",
             "sub_chapters": []
@@ -18,7 +28,7 @@
             "sub_chapters": []
           },
           {
-            "name": "Ladakh Environment",
+            "name": "Ladakh Environment & Wildlife",
             "uid": "vC4xsrC8t",
             "sub_chapters": []
           }
@@ -228,6 +238,11 @@
             "name": "History Timeline Notes",
             "uid": "bPD9HMujZ",
             "sub_chapters": []
+          },
+          {
+            "name": "Modern History 1921 - 1930",
+            "uid": "h0XUnBGHN",
+            "sub_chapters": []
           }
         ]
       },
@@ -391,6 +406,11 @@
           {
             "name": "Wetlands",
             "uid": "GAcHpUKs3",
+            "sub_chapters": []
+          },
+          {
+            "name": "Climate Change",
+            "uid": "6hEMTp9Km",
             "sub_chapters": []
           }
         ]
