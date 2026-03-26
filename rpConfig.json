@@ -7,12 +7,9 @@
   "isDisplayUpdatesSection": true,
   "updates": [
     {
-      "title": "Updates: March 19 2026",
+      "title": "Updates: March 26th 2026",
       "items": [
-        "Update the app to latest version (if not done already): [Link here](https://play.google.com/store/apps/details?id=com.roamprep.app)",
-        "New Previous Paper added: Mocks -> Previous Papers -> LSSRB Panchayat Accounts Assistant Exam 2021",
-        "New Subject Wise Mocks added in Aptitude (Average) and English (Rani Maam Videos Based)",
-        "In MCQs page: Filter > Tags: find 'MCQs by Kaushaq Sir' or 'MCQs by Aditya Ranjan' or 'MCQs by Rani Maam', these MCQs are taken from the videos of these teachers, all these MCQs will have video explanations "
+        "3 New Subject Wise GS Mocks added: Polity: Mixed, Vice President and President"
       ]
     }
   ],
@@ -57,5 +54,5 @@
   "isSubscriptionActivate": false,
   "appShareURL": "https://play.google.com/store/apps/details?id=com.roamprep.app",
   "isDisplayAboutMe": true,
-  "dataUpdateDateTime": 1773908267070
+  "dataUpdateDateTime": 1774501728801
 }
