@@ -165806,6 +165806,876 @@
     "isPassageBased": false
   },
   {
+    "id": "VXsPeI1mB",
+    "question": "Which of the following is a non-communicable disease?",
+    "options": [
+      "Cholera",
+      "Diabetes",
+      "Tuberculosis",
+      "Chickenpox"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Diabetes** is a **non-communicable** (chronic) disease. Unlike Cholera or TB, it cannot be spread from one person to another through contact or vectors.",
+    "explanation_block_uid": "nWRLA0e1J",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nO4_uhHLS",
+    "question": "The 'Mantoux Test' is used to screen for which disease?",
+    "options": [
+      "Diphtheria",
+      "Leprosy",
+      "Tuberculosis",
+      "Typhoid"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Mantoux Test** (or PPD test) is a tool for screening **Tuberculosis (TB)**. It involves injecting a small amount of tuberculin skin test antigen into the forearm.",
+    "explanation_block_uid": "2phxIsW8l",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "WzOxNZrPN",
+    "question": "Which of the following is a viral disease?",
+    "options": [
+      "Measles",
+      "Leprosy",
+      "Tetanus",
+      "Syphilis"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Measles** is a highly contagious infectious disease caused by the **Measles virus**. The other three options are caused by bacteria.",
+    "explanation_block_uid": "j_5QMNT7C",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "uDXEZk0qc",
+    "question": "Encephalitis is a disease that causes inflammation of the:?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Kidney",
+      "Heart"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Encephalitis** is inflammation of the **brain**. The most common cause is a viral infection, though bacteria and fungi can also cause it.",
+    "explanation_block_uid": "H1H9nNL8A",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1pBz-AurW",
+    "question": "Trachoma is a disease related to which organ?",
+    "options": [
+      "Ear",
+      "Nose",
+      "Eyes",
+      "Throat"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Trachoma** is a bacterial infection that affects the **eyes**. It is caused by the bacterium **Chlamydia trachomatis** and is a leading cause of preventable blindness.",
+    "explanation_block_uid": "TBnlZEG3O",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Gkpwbz8mN",
+    "question": "The deficiency of which of the following leads to 'Anaemia'?",
+    "options": [
+      "Iodine",
+      "Calcium",
+      "Iron",
+      "Zinc"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Anaemia** is a condition in which the blood lacks enough healthy red blood cells. It is most commonly caused by a deficiency of **Iron**, which is needed to make **haemoglobin**.",
+    "explanation_block_uid": "CLthtpuNa",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6kRf2iWev",
+    "question": "Hydrophobia (fear of water) is a symptom of which disease?",
+    "options": [
+      "Dengue",
+      "Rabies",
+      "Typhoid",
+      "Cholera"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Hydrophobia** is a characteristic symptom of **Rabies**. It is caused by the **Lyssavirus**, usually transmitted through the bite of an infected animal like a dog.",
+    "explanation_block_uid": "MJerQibtO",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jZFWvJ9OZ",
+    "question": "Which of the following is caused by the deficiency of Protein in children?",
+    "options": [
+      "Pellagra",
+      "Marasmus",
+      "Beri-beri",
+      "Scurvy"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Marasmus** and **Kwashiorkor** are diseases caused by severe **protein-energy malnutrition**. Marasmus involves a total calorie deficiency, including protein.",
+    "explanation_block_uid": "hz9ZKN8_F",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "79ea-URbi",
+    "question": "Which of the following diseases is caused by the 'Varicella-zoster' virus?",
+    "options": [
+      "Smallpox",
+      "Chickenpox",
+      "Polio",
+      "Measles"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Chickenpox** is caused by the **Varicella-zoster virus (VZV)**. It is characterized by an itchy red rash that eventually turns into small, fluid-filled blisters.",
+    "explanation_block_uid": "ddNT1Mixv",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ndGhqJb-s",
+    "question": "The 'Schick Test' is used for the diagnosis of:?",
+    "options": [
+      "Typhoid",
+      "Diphtheria",
+      "Cholera",
+      "Tuberculosis"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Schick Test** is used to determine whether or not a person is susceptible to **Diphtheria**, a serious bacterial infection caused by **Corynebacterium diphtheriae**.",
+    "explanation_block_uid": "IyodOx99j",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yLr8Po0Hb",
+    "question": "Which disease is caused by the 'Yersinia pestis' bacterium?",
+    "options": [
+      "Plague",
+      "Leprosy",
+      "Anthrax",
+      "Malaria"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Plague** is a serious infectious disease caused by the bacterium **Yersinia pestis**, usually transmitted to humans by **fleas** that have fed on infected rodents.",
+    "explanation_block_uid": "wNv3kl3aK",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bmq0Q4JaL",
+    "question": "Excessive intake of Fluoride in drinking water causes:?",
+    "options": [
+      "Lung disease",
+      "Fluorosis",
+      "Intestinal infection",
+      "Liver cirrhosis"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Fluorosis** is a condition caused by excessive intake of **fluoride**, which affects the **teeth (dental fluorosis)** and **bones (skeletal fluorosis)**.",
+    "explanation_block_uid": "dI5JOZFum",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "dF4BDI3U1",
+    "question": "Which of the following diseases is eradicated from the world?",
+    "options": [
+      "Polio",
+      "Smallpox",
+      "Chickenpox",
+      "Tuberculosis"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Smallpox** is the only human infectious disease to have been completely **eradicated** globally, as declared by the WHO in 1980.",
+    "explanation_block_uid": "cNoZWdLdp",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1NgTpzEyG",
+    "question": "Which vitamin is also known as 'Calciferol'?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Vitamin D** is chemically known as **Calciferol**. It helps the body absorb calcium, which is the primary building block of bone.",
+    "explanation_block_uid": "SpQ9bXps6",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ip1tg7Yww",
+    "question": "Filariasis is transmitted by which of the following?",
+    "options": [
+      "Aedes mosquito",
+      "Anopheles mosquito",
+      "Culex mosquito",
+      "Sand fly"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Lymphatic **Filariasis** (Elephantiasis) is a parasitic disease caused by microscopic, thread-like worms, primarily transmitted by the **Culex mosquito**.",
+    "explanation_block_uid": "58C1forBK",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Tkt-wlCHN",
+    "question": "The disease 'Beri-beri' is caused by the deficiency of:?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B2",
+      "Vitamin B6",
+      "Vitamin B12"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Beri-beri** is caused by a deficiency of **Thiamine (Vitamin B1)**. It affects the cardiovascular and nervous systems.",
+    "explanation_block_uid": "Jk4wPujXy",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VaKssvf4G",
+    "question": "Which of the following is an occupational lung disease?",
+    "options": [
+      "Asthma",
+      "Silicosis",
+      "Bronchitis",
+      "Pneumonia"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Silicosis** is an occupational lung disease caused by breathing in tiny bits of **silica dust**, common in mining, quarrying, and glass manufacturing.",
+    "explanation_block_uid": "zEIMSM3Ix",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Q-ltYHjIU",
+    "question": "Mumps is a viral disease that causes inflammation of the:?",
+    "options": [
+      "Thyroid gland",
+      "Parotid gland",
+      "Pituitary gland",
+      "Adrenal gland"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Mumps** is a viral infection that primarily affects the **parotid glands**—one of three pairs of saliva-producing (salivary) glands.",
+    "explanation_block_uid": "apWgWCEhQ",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HvX0OHM5C",
+    "question": "Wilson's disease is an inherited disorder in which there is too much of which element in the body?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Zinc",
+      "Sodium"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Wilson's disease** is a rare genetic disorder that causes **copper** to accumulate in your **liver, brain, and other vital organs**.",
+    "explanation_block_uid": "hHhiUDyFg",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "pDy6pTgHi",
+    "question": "Which of the following genetic disorders is caused by the presence of an extra copy of chromosome 21?",
+    "options": [
+      "Turner Syndrome",
+      "Down Syndrome",
+      "Klinefelter Syndrome",
+      "Edward Syndrome"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Down Syndrome** (Trisomy 21) is a genetic disorder caused by abnormal cell division resulting in an extra full or partial copy of **chromosome 21**. This extra genetic material causes the developmental changes and physical features of Down syndrome.",
+    "explanation_block_uid": "gh2h7uog-",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6uaa4rYcL",
+    "question": "Sickle cell anaemia is caused by a structural abnormality in which protein?",
+    "options": [
+      "Myoglobin",
+      "Haemoglobin",
+      "Keratin",
+      "Albumin"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Sickle cell anaemia** is a genetic blood disorder caused by a mutation in the **HBB gene**. This results in the production of abnormal **haemoglobin (HbS)**, which causes red blood cells to become rigid and sickle-shaped.",
+    "explanation_block_uid": "LkXGREYC-",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FWVlOyJlw",
+    "question": "Which of the following is a sex-linked recessive genetic disorder?",
+    "options": [
+      "Cystic Fibrosis",
+      "Haemophilia",
+      "Tay-Sachs Disease",
+      "Sickle Cell Trait"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Haemophilia** is a **sex-linked recessive** disorder, meaning the gene is located on the **X chromosome**. It primarily affects males and impairs the body's ability to make blood clots.",
+    "explanation_block_uid": "QAlyS6SXA",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BcyWfVFJz",
+    "question": "Cystic Fibrosis primarily affects which systems in the human body?",
+    "options": [
+      "Skeletal and Muscular",
+      "Respiratory and Digestive",
+      "Nervous and Endocrine",
+      "Circulatory and Lymphatic"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Cystic Fibrosis** is a hereditary disease caused by mutations in the **CFTR protein**. It leads to the production of thick, sticky mucus that clogs the **lungs** and obstructs the **pancreas** (digestive system).",
+    "explanation_block_uid": "KzOrk7t57",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ev_gQ8bk_",
+    "question": "Which disease is caused by the misfolding of proteins known as 'Prions'?",
+    "options": [
+      "Alzheimer's",
+      "Creutzfeldt-Jakob Disease",
+      "Parkinson's",
+      "Huntington's Disease"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Creutzfeldt-Jakob Disease (CJD)** is a fatal degenerative brain disorder caused by **Prions**, which are misfolded infectious proteins that trigger normal proteins in the brain to fold abnormally.",
+    "explanation_block_uid": "wZXSlU94c",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "86cn0Pw29",
+    "question": "A person with 'Turner Syndrome' has which of the following chromosomal configurations?",
+    "options": [
+      "44 + XXY",
+      "44 + X0",
+      "44 + XXX",
+      "44 + XYY"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Turner Syndrome** is a female-specific genetic condition where one of the **X chromosomes** is missing or partially missing (**45,X or 44 + X0**), resulting in short stature and developmental issues.",
+    "explanation_block_uid": "rW9vQF5W-",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "il2ZV4n3u",
+    "question": "Thalassemia is a hereditary disease that affects which of the following?",
+    "options": [
+      "Lungs",
+      "Blood",
+      "Heart",
+      "Kidney"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Thalassemia** is an inherited **blood disorder** characterized by less oxygen-carrying protein (**haemoglobin**) and fewer red blood cells than normal, caused by mutations in the DNA of cells that make haemoglobin.",
+    "explanation_block_uid": "NVJ7Vxcbn",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HCOZl5mjF",
+    "question": "Phenylketonuria (PKU) is an inborn error of metabolism that results in the decreased metabolism of which amino acid?",
+    "options": [
+      "Lysine",
+      "Phenylalanine",
+      "Valine",
+      "Methionine"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**PKU** is a genetic disorder that increases the levels of **phenylalanine** in the blood. If left untreated, the buildup of this amino acid can lead to intellectual disabilities and other serious health problems.",
+    "explanation_block_uid": "icZWEMata",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7UO9y6ToL",
+    "question": "Which protein-deficiency disease is characterized by a 'pot-belly' and oedema (swelling) in children?",
+    "options": [
+      "Marasmus",
+      "Kwashiorkor",
+      "Scurvy",
+      "Rickets"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Kwashiorkor** is a severe form of malnutrition caused by a **deficiency in protein** despite adequate calorie intake. A key symptom is a **distended abdomen (pot-belly)** due to fluid retention (oedema).",
+    "explanation_block_uid": "vEH_B_Sxo",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "hfJs6aQVz",
+    "question": "Huntington's disease is what type of genetic disorder?",
+    "options": [
+      "Autosomal Recessive",
+      "Autosomal Dominant",
+      "X-linked Recessive",
+      "Y-linked Dominant"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Huntington's disease** is an **Autosomal Dominant** disorder, meaning a person needs only one copy of the defective gene from one parent to develop the disease. It causes the progressive breakdown of nerve cells in the brain.",
+    "explanation_block_uid": "FkKhNsbro",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 2"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "XwgcOM4Dw",
     "question": "Which of the following diseases is caused by a protozoan?",
     "options": [
@@ -166537,876 +167407,6 @@
     "correct_option_index": 3,
     "explanation": "**Rickets** is a skeletal disorder that's caused by a lack of **Vitamin D, calcium, or phosphate**. These nutrients are important for the development of strong, healthy **bones**.",
     "explanation_block_uid": "h4KAjvTQm",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "VXsPeI1mB",
-    "question": "Which of the following is a non-communicable disease?",
-    "options": [
-      "Cholera",
-      "Diabetes",
-      "Tuberculosis",
-      "Chickenpox"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Diabetes** is a **non-communicable** (chronic) disease. Unlike Cholera or TB, it cannot be spread from one person to another through contact or vectors.",
-    "explanation_block_uid": "nWRLA0e1J",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "nO4_uhHLS",
-    "question": "The 'Mantoux Test' is used to screen for which disease?",
-    "options": [
-      "Diphtheria",
-      "Leprosy",
-      "Tuberculosis",
-      "Typhoid"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The **Mantoux Test** (or PPD test) is a tool for screening **Tuberculosis (TB)**. It involves injecting a small amount of tuberculin skin test antigen into the forearm.",
-    "explanation_block_uid": "2phxIsW8l",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "WzOxNZrPN",
-    "question": "Which of the following is a viral disease?",
-    "options": [
-      "Measles",
-      "Leprosy",
-      "Tetanus",
-      "Syphilis"
-    ],
-    "correct_option_index": 0,
-    "explanation": "**Measles** is a highly contagious infectious disease caused by the **Measles virus**. The other three options are caused by bacteria.",
-    "explanation_block_uid": "j_5QMNT7C",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "uDXEZk0qc",
-    "question": "Encephalitis is a disease that causes inflammation of the:?",
-    "options": [
-      "Liver",
-      "Brain",
-      "Kidney",
-      "Heart"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Encephalitis** is inflammation of the **brain**. The most common cause is a viral infection, though bacteria and fungi can also cause it.",
-    "explanation_block_uid": "H1H9nNL8A",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "1pBz-AurW",
-    "question": "Trachoma is a disease related to which organ?",
-    "options": [
-      "Ear",
-      "Nose",
-      "Eyes",
-      "Throat"
-    ],
-    "correct_option_index": 2,
-    "explanation": "**Trachoma** is a bacterial infection that affects the **eyes**. It is caused by the bacterium **Chlamydia trachomatis** and is a leading cause of preventable blindness.",
-    "explanation_block_uid": "TBnlZEG3O",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "Gkpwbz8mN",
-    "question": "The deficiency of which of the following leads to 'Anaemia'?",
-    "options": [
-      "Iodine",
-      "Calcium",
-      "Iron",
-      "Zinc"
-    ],
-    "correct_option_index": 2,
-    "explanation": "**Anaemia** is a condition in which the blood lacks enough healthy red blood cells. It is most commonly caused by a deficiency of **Iron**, which is needed to make **haemoglobin**.",
-    "explanation_block_uid": "CLthtpuNa",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "6kRf2iWev",
-    "question": "Hydrophobia (fear of water) is a symptom of which disease?",
-    "options": [
-      "Dengue",
-      "Rabies",
-      "Typhoid",
-      "Cholera"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Hydrophobia** is a characteristic symptom of **Rabies**. It is caused by the **Lyssavirus**, usually transmitted through the bite of an infected animal like a dog.",
-    "explanation_block_uid": "MJerQibtO",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "jZFWvJ9OZ",
-    "question": "Which of the following is caused by the deficiency of Protein in children?",
-    "options": [
-      "Pellagra",
-      "Marasmus",
-      "Beri-beri",
-      "Scurvy"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Marasmus** and **Kwashiorkor** are diseases caused by severe **protein-energy malnutrition**. Marasmus involves a total calorie deficiency, including protein.",
-    "explanation_block_uid": "hz9ZKN8_F",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "79ea-URbi",
-    "question": "Which of the following diseases is caused by the 'Varicella-zoster' virus?",
-    "options": [
-      "Smallpox",
-      "Chickenpox",
-      "Polio",
-      "Measles"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Chickenpox** is caused by the **Varicella-zoster virus (VZV)**. It is characterized by an itchy red rash that eventually turns into small, fluid-filled blisters.",
-    "explanation_block_uid": "ddNT1Mixv",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "ndGhqJb-s",
-    "question": "The 'Schick Test' is used for the diagnosis of:?",
-    "options": [
-      "Typhoid",
-      "Diphtheria",
-      "Cholera",
-      "Tuberculosis"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The **Schick Test** is used to determine whether or not a person is susceptible to **Diphtheria**, a serious bacterial infection caused by **Corynebacterium diphtheriae**.",
-    "explanation_block_uid": "IyodOx99j",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "yLr8Po0Hb",
-    "question": "Which disease is caused by the 'Yersinia pestis' bacterium?",
-    "options": [
-      "Plague",
-      "Leprosy",
-      "Anthrax",
-      "Malaria"
-    ],
-    "correct_option_index": 0,
-    "explanation": "**Plague** is a serious infectious disease caused by the bacterium **Yersinia pestis**, usually transmitted to humans by **fleas** that have fed on infected rodents.",
-    "explanation_block_uid": "wNv3kl3aK",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "bmq0Q4JaL",
-    "question": "Excessive intake of Fluoride in drinking water causes:?",
-    "options": [
-      "Lung disease",
-      "Fluorosis",
-      "Intestinal infection",
-      "Liver cirrhosis"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Fluorosis** is a condition caused by excessive intake of **fluoride**, which affects the **teeth (dental fluorosis)** and **bones (skeletal fluorosis)**.",
-    "explanation_block_uid": "dI5JOZFum",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "dF4BDI3U1",
-    "question": "Which of the following diseases is eradicated from the world?",
-    "options": [
-      "Polio",
-      "Smallpox",
-      "Chickenpox",
-      "Tuberculosis"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Smallpox** is the only human infectious disease to have been completely **eradicated** globally, as declared by the WHO in 1980.",
-    "explanation_block_uid": "cNoZWdLdp",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "1NgTpzEyG",
-    "question": "Which vitamin is also known as 'Calciferol'?",
-    "options": [
-      "Vitamin A",
-      "Vitamin C",
-      "Vitamin D",
-      "Vitamin E"
-    ],
-    "correct_option_index": 2,
-    "explanation": "**Vitamin D** is chemically known as **Calciferol**. It helps the body absorb calcium, which is the primary building block of bone.",
-    "explanation_block_uid": "SpQ9bXps6",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "ip1tg7Yww",
-    "question": "Filariasis is transmitted by which of the following?",
-    "options": [
-      "Aedes mosquito",
-      "Anopheles mosquito",
-      "Culex mosquito",
-      "Sand fly"
-    ],
-    "correct_option_index": 2,
-    "explanation": "Lymphatic **Filariasis** (Elephantiasis) is a parasitic disease caused by microscopic, thread-like worms, primarily transmitted by the **Culex mosquito**.",
-    "explanation_block_uid": "58C1forBK",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "Tkt-wlCHN",
-    "question": "The disease 'Beri-beri' is caused by the deficiency of:?",
-    "options": [
-      "Vitamin B1",
-      "Vitamin B2",
-      "Vitamin B6",
-      "Vitamin B12"
-    ],
-    "correct_option_index": 0,
-    "explanation": "**Beri-beri** is caused by a deficiency of **Thiamine (Vitamin B1)**. It affects the cardiovascular and nervous systems.",
-    "explanation_block_uid": "Jk4wPujXy",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "VaKssvf4G",
-    "question": "Which of the following is an occupational lung disease?",
-    "options": [
-      "Asthma",
-      "Silicosis",
-      "Bronchitis",
-      "Pneumonia"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Silicosis** is an occupational lung disease caused by breathing in tiny bits of **silica dust**, common in mining, quarrying, and glass manufacturing.",
-    "explanation_block_uid": "zEIMSM3Ix",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "Q-ltYHjIU",
-    "question": "Mumps is a viral disease that causes inflammation of the:?",
-    "options": [
-      "Thyroid gland",
-      "Parotid gland",
-      "Pituitary gland",
-      "Adrenal gland"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Mumps** is a viral infection that primarily affects the **parotid glands**—one of three pairs of saliva-producing (salivary) glands.",
-    "explanation_block_uid": "apWgWCEhQ",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "HvX0OHM5C",
-    "question": "Wilson's disease is an inherited disorder in which there is too much of which element in the body?",
-    "options": [
-      "Iron",
-      "Copper",
-      "Zinc",
-      "Sodium"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Wilson's disease** is a rare genetic disorder that causes **copper** to accumulate in your **liver, brain, and other vital organs**.",
-    "explanation_block_uid": "hHhiUDyFg",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "pDy6pTgHi",
-    "question": "Which of the following genetic disorders is caused by the presence of an extra copy of chromosome 21?",
-    "options": [
-      "Turner Syndrome",
-      "Down Syndrome",
-      "Klinefelter Syndrome",
-      "Edward Syndrome"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Down Syndrome** (Trisomy 21) is a genetic disorder caused by abnormal cell division resulting in an extra full or partial copy of **chromosome 21**. This extra genetic material causes the developmental changes and physical features of Down syndrome.",
-    "explanation_block_uid": "gh2h7uog-",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "6uaa4rYcL",
-    "question": "Sickle cell anaemia is caused by a structural abnormality in which protein?",
-    "options": [
-      "Myoglobin",
-      "Haemoglobin",
-      "Keratin",
-      "Albumin"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Sickle cell anaemia** is a genetic blood disorder caused by a mutation in the **HBB gene**. This results in the production of abnormal **haemoglobin (HbS)**, which causes red blood cells to become rigid and sickle-shaped.",
-    "explanation_block_uid": "LkXGREYC-",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "FWVlOyJlw",
-    "question": "Which of the following is a sex-linked recessive genetic disorder?",
-    "options": [
-      "Cystic Fibrosis",
-      "Haemophilia",
-      "Tay-Sachs Disease",
-      "Sickle Cell Trait"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Haemophilia** is a **sex-linked recessive** disorder, meaning the gene is located on the **X chromosome**. It primarily affects males and impairs the body's ability to make blood clots.",
-    "explanation_block_uid": "QAlyS6SXA",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "BcyWfVFJz",
-    "question": "Cystic Fibrosis primarily affects which systems in the human body?",
-    "options": [
-      "Skeletal and Muscular",
-      "Respiratory and Digestive",
-      "Nervous and Endocrine",
-      "Circulatory and Lymphatic"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Cystic Fibrosis** is a hereditary disease caused by mutations in the **CFTR protein**. It leads to the production of thick, sticky mucus that clogs the **lungs** and obstructs the **pancreas** (digestive system).",
-    "explanation_block_uid": "KzOrk7t57",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "ev_gQ8bk_",
-    "question": "Which disease is caused by the misfolding of proteins known as 'Prions'?",
-    "options": [
-      "Alzheimer's",
-      "Creutzfeldt-Jakob Disease",
-      "Parkinson's",
-      "Huntington's Disease"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Creutzfeldt-Jakob Disease (CJD)** is a fatal degenerative brain disorder caused by **Prions**, which are misfolded infectious proteins that trigger normal proteins in the brain to fold abnormally.",
-    "explanation_block_uid": "wZXSlU94c",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "86cn0Pw29",
-    "question": "A person with 'Turner Syndrome' has which of the following chromosomal configurations?",
-    "options": [
-      "44 + XXY",
-      "44 + X0",
-      "44 + XXX",
-      "44 + XYY"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Turner Syndrome** is a female-specific genetic condition where one of the **X chromosomes** is missing or partially missing (**45,X or 44 + X0**), resulting in short stature and developmental issues.",
-    "explanation_block_uid": "rW9vQF5W-",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "il2ZV4n3u",
-    "question": "Thalassemia is a hereditary disease that affects which of the following?",
-    "options": [
-      "Lungs",
-      "Blood",
-      "Heart",
-      "Kidney"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Thalassemia** is an inherited **blood disorder** characterized by less oxygen-carrying protein (**haemoglobin**) and fewer red blood cells than normal, caused by mutations in the DNA of cells that make haemoglobin.",
-    "explanation_block_uid": "NVJ7Vxcbn",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "HCOZl5mjF",
-    "question": "Phenylketonuria (PKU) is an inborn error of metabolism that results in the decreased metabolism of which amino acid?",
-    "options": [
-      "Lysine",
-      "Phenylalanine",
-      "Valine",
-      "Methionine"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**PKU** is a genetic disorder that increases the levels of **phenylalanine** in the blood. If left untreated, the buildup of this amino acid can lead to intellectual disabilities and other serious health problems.",
-    "explanation_block_uid": "icZWEMata",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "7UO9y6ToL",
-    "question": "Which protein-deficiency disease is characterized by a 'pot-belly' and oedema (swelling) in children?",
-    "options": [
-      "Marasmus",
-      "Kwashiorkor",
-      "Scurvy",
-      "Rickets"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Kwashiorkor** is a severe form of malnutrition caused by a **deficiency in protein** despite adequate calorie intake. A key symptom is a **distended abdomen (pot-belly)** due to fluid retention (oedema).",
-    "explanation_block_uid": "vEH_B_Sxo",
-    "tags": [
-      "General Studies",
-      "Science",
-      "subjectWise",
-      "Subject Wise Mock",
-      "Graduate Level",
-      "MCQs",
-      "Biology",
-      "Diseases",
-      "newmocktests",
-      "March 29th, 2026"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Science Mock - Diseases 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "hfJs6aQVz",
-    "question": "Huntington's disease is what type of genetic disorder?",
-    "options": [
-      "Autosomal Recessive",
-      "Autosomal Dominant",
-      "X-linked Recessive",
-      "Y-linked Dominant"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Huntington's disease** is an **Autosomal Dominant** disorder, meaning a person needs only one copy of the defective gene from one parent to develop the disease. It causes the progressive breakdown of nerve cells in the brain.",
-    "explanation_block_uid": "FkKhNsbro",
     "tags": [
       "General Studies",
       "Science",
