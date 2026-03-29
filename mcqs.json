@@ -173615,6 +173615,706 @@
     "isPassageBased": false
   },
   {
+    "id": "iAzSTWR8j",
+    "question": "Select the most appropriate ANTONYM of the given word: 'ABANDON'?",
+    "options": [
+      "Desert",
+      "Discard",
+      "Retain",
+      "Surrender"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Abandon** means to leave or give up completely. Its antonym is **Retain**, which means to keep possession of or continue to have.",
+    "explanation_block_uid": "tObPZ9RSE",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "E9BMhhzZu",
+    "question": "Select the most appropriate SYNONYM of the given word: 'BENEVOLENT'?",
+    "options": [
+      "Miserly",
+      "Generous",
+      "Malevolent",
+      "Cruel"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Benevolent** means well-meaning and kindly. **Generous** is a close synonym. Malevolent and Cruel are antonyms.",
+    "explanation_block_uid": "NMVpNQ6E1",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "9VXRFE4gJ",
+    "question": "Identify the segment that contains a grammatical error: 'Neither the mouse nor the rats is present in the house.'?",
+    "options": [
+      "Neither the mouse",
+      "nor the rats",
+      "is present",
+      "in the house"
+    ],
+    "correct_option_index": 2,
+    "explanation": "When two subjects are joined by **Neither-nor**, the verb must agree with the **nearest subject**. Since **rats** is plural, the verb should be **are** instead of **is**.",
+    "explanation_block_uid": "yCMg7c4yN",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "gFCTceokZ",
+    "question": "Select the most appropriate meaning of the idiom: 'To smell a rat'?",
+    "options": [
+      "To see a rat",
+      "To get a bad smell",
+      "To suspect foul play",
+      "To be in a dilemma"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The idiom **To smell a rat** means to have a reason to **suspect** that something is wrong or that someone is being dishonest.",
+    "explanation_block_uid": "MW5HTxxl2",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HLuweqSTO",
+    "question": "Select the option that expresses the given sentence in Passive Voice: 'The mechanic repaired my car.'?",
+    "options": [
+      "My car is repaired by the mechanic.",
+      "My car was repaired by the mechanic.",
+      "My car has been repaired by the mechanic.",
+      "The car is being repaired by the mechanic."
+    ],
+    "correct_option_index": 1,
+    "explanation": "The sentence is in **Simple Past** (Subject + V2 + Object). The passive structure is **Object + was/were + V3 + by Subject**. Hence, **My car was repaired** is correct.",
+    "explanation_block_uid": "hl8jHD-b7",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "89Oz81WJg",
+    "question": "Select the most appropriate word for the given group of words: 'A person who hates mankind'?",
+    "options": [
+      "Misanthrope",
+      "Misogynist",
+      "Philanthropist",
+      "Optimist"
+    ],
+    "correct_option_index": 0,
+    "explanation": "A **Misanthrope** is a person who dislikes humankind. A **Misogynist** hates women, and a **Philanthropist** is a lover of mankind.",
+    "explanation_block_uid": "cZ7rPTrYs",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "isKrBjXNk",
+    "question": "Select the correctly spelt word:?",
+    "options": [
+      "Occurence",
+      "Occurrence",
+      "Occurence",
+      "Ocurence"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The correct spelling is **Occurrence** with double 'c' and double 'r'.",
+    "explanation_block_uid": "zx5sOCqfB",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "E4Lcx0MKo",
+    "question": "Choose the most appropriate option to fill in the blank: 'He is ________ than I expected.'?",
+    "options": [
+      "wise",
+      "wiser",
+      "wisest",
+      "more wiser"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The sentence uses **than**, which indicates a **comparative degree**. The comparative form of wise is **wiser**. Using 'more wiser' is a double comparative error.",
+    "explanation_block_uid": "WlliterA8",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BsTv1NxQK",
+    "question": "Select the most appropriate meaning of the idiom: 'Bury the hatchet'?",
+    "options": [
+      "To dig a hole",
+      "To make peace",
+      "To keep a secret",
+      "To fight a battle"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Bury the hatchet** means to end a quarrel or conflict and **become friendly** again.",
+    "explanation_block_uid": "isw2Wfvl6",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "wSayAT_HP",
+    "question": "Select the option that expresses the given sentence in Indirect Speech: 'He said, I am writing a letter.'?",
+    "options": [
+      "He said that he is writing a letter.",
+      "He said that he was writing a letter.",
+      "He said that he had been writing a letter.",
+      "He says that he was writing a letter."
+    ],
+    "correct_option_index": 1,
+    "explanation": "In Direct to Indirect speech, **Present Continuous** (am writing) changes to **Past Continuous** (was writing) when the reporting verb is in the past.",
+    "explanation_block_uid": "4uLPbqC3F",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qeDPnEGM3",
+    "question": "Select the most appropriate ANTONYM of the given word: 'FRAGILE'?",
+    "options": [
+      "Brittle",
+      "Robust",
+      "Weak",
+      "Frail"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Fragile** means easily broken or damaged. Its antonym is **Robust**, which means strong and healthy.",
+    "explanation_block_uid": "NKHJL7dtq",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ClVBhUcdh",
+    "question": "Select the most appropriate word for the given group of words: 'A place where birds are kept'?",
+    "options": [
+      "Aquarium",
+      "Aviary",
+      "Apiary",
+      "Zoo"
+    ],
+    "correct_option_index": 1,
+    "explanation": "An **Aviary** is a large enclosure for keeping birds. An **Apiary** is for bees, and an **Aquarium** is for fish.",
+    "explanation_block_uid": "7tX607-Mq",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NOTWw4rYS",
+    "question": "Select the most appropriate synonym of 'METICULOUS'?",
+    "options": [
+      "Careless",
+      "Careful",
+      "Forgetful",
+      "Lazy"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Meticulous** means showing great attention to detail; very **careful** and precise.",
+    "explanation_block_uid": "boM-Lhicx",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "-KbykQich",
+    "question": "Identify the segment that contains a grammatical error: 'He has been living here since ten years.'?",
+    "options": [
+      "He has been",
+      "living here",
+      "since",
+      "ten years"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Since** is used for a point in time, while **For** is used for a **duration of time**. 'Ten years' is a duration, so it should be **for ten years**.",
+    "explanation_block_uid": "SKpzHz0Iu",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "uEMiGjgr_",
+    "question": "Fill in the blank: 'The jury ________ divided in their opinion.'?",
+    "options": [
+      "was",
+      "were",
+      "is",
+      "has"
+    ],
+    "correct_option_index": 1,
+    "explanation": "When a **collective noun** (jury) is **divided** or acts as individuals, it takes a **plural verb**. Thus, **were** is correct.",
+    "explanation_block_uid": "shv_HOxTo",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mWnDVxXnq",
+    "question": "Select the most appropriate meaning of the idiom: 'Once in a blue moon'?",
+    "options": [
+      "Very frequently",
+      "Very rarely",
+      "Every full moon",
+      "In the night"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Once in a blue moon** refers to an event that happens **very rarely**.",
+    "explanation_block_uid": "tZcl8NJDc",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Rt2FNocXy",
+    "question": "Select the correctly spelt word:?",
+    "options": [
+      "Accomodation",
+      "Accommodation",
+      "Acommodation",
+      "Accomodatoin"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The correct spelling is **Accommodation** with double 'c' and double 'm'.",
+    "explanation_block_uid": "enA4bbXnj",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YaAdmeT2F",
+    "question": "Improve the bracketed part of the sentence: 'She (is having) a lot of money.'?",
+    "options": [
+      "has",
+      "had",
+      "was having",
+      "No improvement"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Verbs of **possession** like 'have' are generally not used in the continuous form when showing ownership. It should be **She has**.",
+    "explanation_block_uid": "NV_5gzFEL",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "S2uz1j8qo",
+    "question": "Select the most appropriate word for: 'One who cannot be corrected'?",
+    "options": [
+      "Incorrigible",
+      "Ineligible",
+      "Incredible",
+      "Illegible"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Incorrigible** means a person or tendency that is **not able to be corrected**, improved, or reformed.",
+    "explanation_block_uid": "BcsL-9x85",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "X5YzW_haf",
+    "question": "Select the most appropriate synonym of 'DILIGENT'?",
+    "options": [
+      "Hardworking",
+      "Inattentive",
+      "Lethargic",
+      "Conceited"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Diligent** means having or showing care and conscientiousness in one's work; **hardworking**.",
+    "explanation_block_uid": "M5C9sD6fI",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "0-MdVu0Hk",
+    "question": "Select the most appropriate ANTONYM of the given word: 'GLOOMY'?",
+    "options": [
+      "Cheerful",
+      "Depressing",
+      "Dark",
+      "Sorrowful"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Gloomy** means dark or poorly lit, or feeling distressed. Its antonym is **Cheerful**.",
+    "explanation_block_uid": "W7D6JMYJL",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "31FQeFAw4",
+    "question": "Select the passive form: 'Shut the door.'?",
+    "options": [
+      "The door should be shutted.",
+      "Let the door be shut.",
+      "The door is shut.",
+      "Let the door shut."
+    ],
+    "correct_option_index": 1,
+    "explanation": "For **imperative sentences**, the passive structure is **Let + Object + be + V3**. Note that the third form of shut is **shut** (not shutted).",
+    "explanation_block_uid": "YTv33LCY6",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "j6UyEEAby",
+    "question": "Identify the error: 'The Sceneries of Kashmir are very charming.'?",
+    "options": [
+      "The Sceneries",
+      "of Kashmir",
+      "are very",
+      "charming"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Scenery** is an **uncountable noun** and does not have a plural form. It should be **The scenery of Kashmir is**.",
+    "explanation_block_uid": "WIY7JZWnk",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mxoWP8aFx",
+    "question": "Select the most appropriate idiom for 'to try every possible way to achieve something':?",
+    "options": [
+      "Beat around the bush",
+      "Leave no stone unturned",
+      "Cry over spilt milk",
+      "Gift of the gab"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Leave no stone unturned** means to try every possible course of action in order to achieve something.",
+    "explanation_block_uid": "9-rnNy4ju",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "tut4-tWa1",
+    "question": "Select the most appropriate meaning of 'To end in smoke':?",
+    "options": [
+      "To burn something",
+      "To fail",
+      "To yield no result",
+      "To die in a fire"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**To end in smoke** means to come to nothing or **yield no practical result**.",
+    "explanation_block_uid": "b7i0_WHrq",
+    "tags": [
+      "English",
+      "Mixed",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Medium",
+      "Graduate Level",
+      "newmocktests",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "English Full Mock - 1"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "noiy32a_D",
     "question": "For me, breakfast is . . . . . . . . best meal of the day. ??",
     "options": [
