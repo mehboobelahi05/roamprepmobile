@@ -2840,7 +2840,8 @@
       "Science"
     ],
     "category": "General Studies",
-    "label": "Subject Wise Mock"
+    "label": "Subject Wise Mock",
+    "addedOn": "March 29th, 2026"
   },
   {
     "id": "HKVF2xKxR",
@@ -2884,7 +2885,8 @@
       "Polity"
     ],
     "category": "General Studies",
-    "label": "Subject Wise Mock"
+    "label": "Subject Wise Mock",
+    "addedOn": "March 21st, 2026"
   },
   {
     "id": "_tBNVTqNC",
@@ -2928,7 +2930,8 @@
       "Polity"
     ],
     "category": "General Studies",
-    "label": "Subject Wise Mock"
+    "label": "Subject Wise Mock",
+    "addedOn": "February 25th, 2026"
   },
   {
     "id": "jaC_Qz6SA",
@@ -2997,7 +3000,8 @@
       "Polity"
     ],
     "category": "General Studies",
-    "label": "Subject Wise Mock"
+    "label": "Subject Wise Mock",
+    "addedOn": "December 29th, 2025"
   },
   {
     "id": "bgcgZ4uTk",
@@ -3041,7 +3045,8 @@
       "Mixed"
     ],
     "category": "General Studies",
-    "label": "Subject Wise Mock"
+    "label": "Subject Wise Mock",
+    "addedOn": "December 19th, 2026"
   },
   {
     "id": "IGxoz9vo7",
@@ -3082,6 +3087,46 @@
     "category": "General Studies",
     "label": "Subject Wise Mock",
     "addedOn": "December 10th, 2025"
+  },
+  {
+    "id": "S5nmjtdyb",
+    "name": "International Organisations Mock Test 1",
+    "exam": "",
+    "type": "subjectWise",
+    "que_ids": [
+      "dF_N5hsP4",
+      "LLqZER7HK",
+      "JEwE_erkX",
+      "EyQLilpsp",
+      "R5HdW_eNh",
+      "KaRASoJu1",
+      "SxbeZGoI3",
+      "iBVdkGjQg",
+      "vTGoOzrQT",
+      "Y_ypvlxP4",
+      "cJpjPMZZh",
+      "VQJBGTphY",
+      "C8tk9wo6H",
+      "u_YpzV-xR",
+      "lh4WzCJ30",
+      "ROmH1di_W",
+      "rKYyarJUB",
+      "wp4zd6JFy",
+      "f054er9or",
+      "POOGypm9A"
+    ],
+    "pdfLink": "",
+    "examDate": "",
+    "expectedAverageScore": "",
+    "visibility": "",
+    "level": "Medium",
+    "gradeLevel": "Graduate Level",
+    "chapters": [
+      "Mixed"
+    ],
+    "category": "General Studies",
+    "label": "Subject Wise Mock",
+    "addedOn": "December 19th, 2026"
   },
   {
     "id": "Dw34rTsdF",
