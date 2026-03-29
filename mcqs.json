@@ -60343,7 +60343,8 @@
       "Road & Highways",
       "MCQs",
       "General Studies",
-      "Geography"
+      "Geography",
+      "KSSRB Exam 2025 - 10th Level - Shift 2"
     ],
     "linked_block_uid": "",
     "path_tags": [
@@ -126449,6 +126450,981 @@
     "isPassageBased": false
   },
   {
+    "id": "D1fWX9-Sn",
+    "question": "A and B can complete a task together in 35 days. If A works alone and completes  5/7th of the task and then leaves the rest for B to complete by herself, it will take a total of 90 days to complete the task. How many days would it take A, the more efficient among the duo, to complete the entire work by herself?",
+    "options": [
+      "45",
+      "48",
+      "40",
+      "42"
+    ],
+    "correct_option_index": 3,
+    "explanation": "A and B can complete a task together in 35 days.\n\nTotal time taken is 90 days.\n\nCalculation:\n\nLet the total amount of work be 35 units.\n\nIf A and B work together, they complete 35/35 = 1 unit of work every day.\n\nNow,\n\nLet the amount of work done by A by himself in one day be x units and the work done by B by himself in one day be y units.\n\nSo, x + y = 1\n\nIf A works alone and completes 5/7th of the task,\n\nwork done by A is (5/7) × 35 = 25 units.\n\n⇒ time taken by A to complete this 25 units of work = 25/x days.\n\nIf B works alone and completes 2/7th of the task,\n\nwork done by B is (2/7) × 35 = 10 units.\n\n⇒ Time taken by B to complete this 10 units of work = 10/y days.\n\nAccording to the question,\n\n25/x + 10/y = 90\n\n⇒ (25 + 10)/xy = 90\n\n⇒ 25y + 10x = 90xy\n\n⇒ 25(1 – x) + 10x = 90xy\n\n⇒ 25 – 25x + 10x = 90x(1 – x)\n\n⇒ 25 – 15x = 90x – 90x2\n\n⇒ 90x2 – 105x + 25 = 0\n\n⇒ 18x2 – 21x + 5 = 0\n\n⇒ 18x2 – 15x – 6x + 5 = 0\n\n⇒ 3x(6x – 5) – 1(6x – 5) = 0\n\n⇒ (6x – 5)(3x – 1) = 0\n\nSo, x = 5/6 (x cannot be 1/3 as A is more efficient among two)\n\nTime taken by A alone to complete work by herself = 35/(5/6)\n\n⇒ 42 days\n\n∴ The required answer is 42 days.",
+    "explanation_block_uid": "0ESQBQfek",
+    "tags": [
+      "Time and Work",
+      "RRB NCPT",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7NwBCOXlW",
+    "question": "The radii of two circles are 4 cm and 3 cm, respectively. What is the diameter (in cm) of the circle having an area equal to four times the sum of the areas of the two circles?",
+    "options": [
+      "12",
+      "20",
+      "24",
+      "10"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The radii of circle 1, R1 = 4 cm \nThe radii of circle 2, R2 = 3 cm.\n\nThe area of new circle, A = Area of circle 1 + Area of circle 2\n\nFormula Used:\nDiameter = 2 × r\nArea of circle = πr²\nWhere, r = Radius of circle\n\nCalculation:\n\nArea of circle 1 = π(4)² = 16π \n\nArea of circle 2 = π(3)² = 9π \n\nAccording to the question,\n\nArea of new circle = 16π + 9π  = 25π \n\nLet, the radii of new circle = R\n\nNow,\n\n⇒ πR² = 4 × 25π \n⇒ R² = 100\n⇒ R = 10 cm\n\nSo, Diameter = 2 × R = 2 × 10 = ^^20 cm^^\n\n∴ The diameter of the circle is 20 cm.",
+    "explanation_block_uid": "DPMnnkNad",
+    "tags": [
+      "sides areas and volumes",
+      "circle",
+      "SSC CHSL",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "KmaNlajCF",
+    "question": "A circular wire of diameter 56 cm is folded in the shape of a rectangle whose sides are in the ratio of 7 ∶ 4. The area enclosed by the rectangle is:\n(Take π = 22/7)  ??",
+    "options": [
+      "1782 cm²",
+      "1842 cm²",
+      "1684 cm²",
+      "1792 cm²"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Diameter of wire = 56 cm\nRatio of rectangle sides = 7 ∶ 4\n\nFormula used\nPerimeter of rectangle = 2(length + breadth)\nCircumference of circle = 2πr\nArea of rectangle = length × breadth\n\nCalculation\nlet the sides of the rectangle be 7x and 4x\nCircumference of circle = Perimeter of rectangle\n2πr = 2(7x + 4x)\n⇒ 2 × (22/7) × 28 = 2(11x)\n⇒ 2 × 22 × 4 = 22x\n⇒ x = 8\nArea of rectangle = 7(8) ×  4(8)\n⇒ 56 × 32\n⇒ 1792 cm²\n\n∴ Area of rectangle is 1792 cm2",
+    "explanation_block_uid": "TqBoda1Mq",
+    "tags": [
+      "sides areas and volumes",
+      "circle",
+      "SSC MTS",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ii5TRxkW1",
+    "question": "The least number when successively divided by 5, 7, 9, and 5 leaves remainders 3, 4, 7, and 2 respectively. What are the respective remainders if the order of the divisor is reversed?",
+    "options": [
+      "5, 8, 2, 3",
+      "8, 5, 2, 3",
+      "3, 8, 5, 2",
+      "3, 8, 2, 5"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "He6u7uQAR",
+    "tags": [
+      "Number System",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "5TVyPKsTe",
+    "question": "5/9th part of the population in a village are males. If 30% of the males are married, the percentage of unmarried females in the total population is ?",
+    "options": [
+      "20 Fr[2/9]",
+      "27 Fr[2/9]",
+      "27 Fr[7/9]",
+      "29 Fr[7/9]"
+    ],
+    "correct_option_index": 2,
+    "explanation": "If a is y % of b then\na = (y/100) × b\n\nCalculation:\nLet the total population be 900 \n⇒ Total male population = (5/9) of 900 = 500\nAlso female population = 900 - 500 = 400\n\nMarried male = 30% of 500 = 150\n\nNumber of married females = Number of married males = 150\n\nNumber of unmarried females \n= 400 - 140 = 250\nThe percentage of unmarried females in the total population is:\n= (250/900)*100 \n^^= 27 Fr[7/9] ^^",
+    "explanation_block_uid": "KcxIR5dGx",
+    "tags": [
+      "Percentage",
+      "UPSC CDS",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "SCCJ3p0ef",
+    "question": "What is the greatest number by which when 156, 181 and 331 are divided, the remainder is 6 in each case?",
+    "options": [
+      "26",
+      "25",
+      "13",
+      "17"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The given numbers are 156, 181 and 331\n\nAfter dividing by the greatest number, the remainder in each case = 6\n\nConcept used:\nThe greatest number that will divide a, b, and c and leaving the same remainder in each case is given by the HCF of \n|a - b|, |b - c|, and |c - a|\n\nCalculation:\n\n|156 - 181| = |- 25| = 25\n\n|181 - 331| = |- 150| = 150\n\n|331 - 156| = 175\n\nPrime factors of 25 = 5 × 5\nPrime factors of 150 = 2 × 3 × 5 × 5\nPrime factors of 175 = 5 × 5 × 7\n\nSo, HCF of 25, 150, and 175 = 5 × 5 = 25\n\n∴ The greatest number is 25",
+    "explanation_block_uid": "rp3uQOB6N",
+    "tags": [
+      "Number System",
+      "SSC CGL",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yXEe9c29D",
+    "question": "The prices of a scooter and television set are in the ratio 3:2. If a scooter costs Rs. 6000 more than the television set, the price of the scooter is?",
+    "options": [
+      "Rs. 6000",
+      "Rs. 10000",
+      "Rs. 12000",
+      "Rs. 18000"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The  Ratio of the price of a scooter and the television set = 3 : 2 \nThe scooter costs Rs.10000 more than the television set\n\nLet prices of scooter and television be Rs 3x and Rs 2x respectively, \n\nAccording to the question\n3x - 2x  = 6000\n⇒ x = 6000        \n∴ The price of the scooter is 3x;\nx = 6000\n3x = 18000",
+    "explanation_block_uid": "GcTRNGJS7",
+    "tags": [
+      "Ratio and Proportion",
+      "Profit and Loss",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FHGZEoI15",
+    "question": "The average expenditure of a man for the first five months of a year is Rs.4000 and for the next seven months, it is Rs.5400. He saves Rs.2300 during the year. His average monthly income is?",
+    "options": [
+      "Rs. 5006.33",
+      "Rs. 5004.33",
+      "Rs. 5008.33",
+      "Rs. 5005.33"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Average expenditure for first 5 months  = Rs. 4000\n\nAverage expenditure for next 7 months = Rs. 5400\n\nTotal saving during the year = Rs.2300\n\nConcept used:\n\nTotal amount = Average × Number of months\n\nTotal income = Total expenditure + Total saving\n\nCalculation:\n\nTotal expenditure for first 5 months = Rs. 4000 × 5 = Rs. 20,000\n\nTotal expenditure for last 7 months = Rs. 5400 × 7 = Rs. 37,800\n\nTotal expenditure of 1 year = Rs. 20,000 + Rs. 37,800 = Rs. 57,800\n\nTotal income of 1 year = Rs. 57,800 + Rs. 2300 = Rs. Rs. 60,100\n\nAverage monthly income = Rs. 60,100/12 = Rs. 5008.33\n\n∴ The average monthly income is Rs. 5008.33",
+    "explanation_block_uid": "E28jJS2IM",
+    "tags": [
+      "Percentage",
+      "SSC CHSL",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "amwCEYl7d",
+    "question": "By selling a piece of writing for Rs. 540, a person incurs a loss of 20%. At what price should he sell it so that he makes a profit of 40%?",
+    "options": [
+      "890",
+      "105",
+      "1256",
+      "945"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Loss% if SP is Rs. 540 = 20%\n\nProfit at which SP to be calculated = 40%\n\nFormula used:\n\nSP = CP × [(100 – Loss%)/100]\n\nSP = CP × [(100 + Gain%)/100]\n\nCalculation:\n\n⇒ Rs. 540 = CP × [(100 – 20)/100]\n\n⇒ CP = 540 × (100/80)\n\n⇒ CP = Rs. 675\n\n⇒ New SP= 675 × (140/100)\n\n⇒ Rs. 945\n\n∴ The Selling price is Rs. 945",
+    "explanation_block_uid": "jot31on--",
+    "tags": [
+      "Profit and Loss",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FEeM8GVix",
+    "question": "The cost price of an article is Rs. 250. A shopkeeper gains 20% by selling it at a discount of 36% on its marked price. What is the marked price (in Rs.) of the article?",
+    "options": [
+      "450",
+      "380.50",
+      "475",
+      "468.75"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The cost price of an article = Rs. 250\n\nGain = 20%\n\nDiscount = 36%\n\nFormula used:\n\nMP = [(100 + Gain%)/(100 – Discount%) × CP]\n\nCalculation:\n\nLet the ratio of CP and MP be (100 – D)% : (100 + Gain)%\n\n⇒ (100 – 36) : (100 + 20)\n\n⇒ 64 : 120\n\nNow,\n\nAccording to the question\n\n⇒ 64% = 250\n\nThen,\n\n⇒ 120% = (250/64 × 120)\n\n⇒ (30,000/64)\n\n⇒ 468.75\n\n∴ The MP of the article is Rs. 468.75",
+    "explanation_block_uid": "cupsri4Cr",
+    "tags": [
+      "Profit and Loss",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "cQrgOFK3A",
+    "question": "If the cost price of an article is Rs. 800 and if a 15% loss is incurred on selling the article, find the selling price ?",
+    "options": [
+      "Rs. 860",
+      "Rs. 760",
+      "Rs. 680",
+      "Rs. 780"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The cost price (CP) of the article is Rs. 800. A 15% loss means the selling price (SP) is 85% of the cost price (because 100% - 15% = 85%).\n\nFirst, calculate 15% of 800:  \n15% of 800 = (15/100) × 800 = 0.15 × 800 = 120.  \nSo, the loss amount is Rs. 120.\n\nNow, subtract this loss from the cost price to get the selling price:  \nSP = CP - loss = 800 - 120 = 680.\n\nAlternatively, directly calculate 85% of 800:  \n85% of 800 = (85/100) × 800 = 0.85 × 800 = 680.\n\nThus, the selling price is Rs. 680.",
+    "explanation_block_uid": "RAfnwF7qX",
+    "tags": [
+      "Profit and Loss",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7aJykED7J",
+    "question": "373373 is not divisible by ?",
+    "options": [
+      "7",
+      "11",
+      "13",
+      "17"
+    ],
+    "correct_option_index": 3,
+    "explanation": "When as number is in the pattern: ^^abcabc i.e abc-abc ^^\nIt is always divisible by: 1001 (its factors are: 7 11 13)\nThus answers is 17 \n((LGailqVCp))",
+    "explanation_block_uid": "wJIZDmOD-",
+    "tags": [
+      "Number System",
+      "Divisibility",
+      "Aptitude"
+    ],
+    "linked_block_uid": "LGailqVCp",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "G4w-f1YtK",
+    "question": "A train travels at a speed of 75 km per hour. How many kms will it travel in 45 minutes?",
+    "options": [
+      "50 km",
+      "60 km",
+      "56.25 km",
+      "55.5 km"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Speed of train = 75 km/hr\n\nTime travel = 45 minutes\n\nFormula Used:\n\nDistance = speed × times \n\nCalculation:\n\nDistance = 75 km/hr × 45 minutes \n\n⇒ 75 km/hr × (45/60) hr\n\n⇒ 225/4 km\n\n⇒ 56.25 km\n\n∴ 56.25 kms will travel in 45 minutes.",
+    "explanation_block_uid": "_a5TDHzlz",
+    "tags": [
+      "Time Speed and Distance",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "uJwm9cgcR",
+    "question": "The height of a solid cylinder is 30 cm and the diameter of its base is 10 cm. Two identical conical holes each of radius 5 cm and height 12 cm are drilled out. What is the surface area (in cm2) of the remaining solid?",
+    "options": [
+      "430π",
+      "120π",
+      "33π",
+      "230π"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Height of cylinder = 30 cm\n\nRadius of cylinder = 5 cm\n\nHeight of cone = 12 cm\n\nRadius of cone = 5 cm\n\nFormula used:\nThe surface area of cylinder = 2πrh\nThe surface area of cone = πrl\nl2 = h2 + r2\n\nWhere,\nl = slant height of the cone\nh = height\nr = radius\n\nCalculation:\n\nl2 = h2 + r2\n\n⇒ l2 = 122 + 52\n\n⇒ l2 = 144 + 25\n\n⇒ l = 13 cm\n\nThe surface area of the remaining figure = surface area of cylinder + 2 × Curved surface area of the cone\n\n⇒ 2πrh + 2πrl\n\n⇒ 2πr(h + l)\n\n⇒ 2π × 5(30 + 13)\n\n^^⇒ 430π^^\n\n∴ The surface area of the remaining solid is 430π.",
+    "explanation_block_uid": "lcoFbPIsG",
+    "tags": [
+      "pyq",
+      "sides areas and volumes",
+      "cylinder",
+      "SSC",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YRjp8wFxC",
+    "question": "12 men and 16 boys can do a piece of work in 5 days, while 13 men and 24 boys can do it in 4 days. In how many days can 29 men and 22 boys complete the work?",
+    "options": [
+      "2.5",
+      "2.45",
+      "2.6",
+      "2.4"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Given:\n\n(12 men + 16 boys) can do a piece of work = 5 days\n\n(13 men + 24 boys) can do a piece of work = 4 days\n\nFormula used:\n\nTotal work = efficiency × time\n\nCalculation:\n\nLet, the efficiency of man = M\n\nThe efficiency of boy = B\n\nAccording to the question:\n\n⇒ (12 M + 16 B) × 5 = (13 M + 24 B) × 4\n\n⇒ 60 M - 52 M = 96 B - 80 B\n\n⇒ 8 M = 16 B\n\n⇒ M/B = 2/1\n\nTotal work = (12 M + 16 B) × 5\n\n⇒ {(12 × 2) + (16 × 1)} × 5\n\n⇒ (24 + 16) × 5 = 40 × 5 = 200 units\n\nRequired time to complete the work = 200/{(29 × 2) + (22 × 1)}\n\n⇒ 200/(58 + 22) = 200/80\n\n⇒ 5/2 = 2.5 days\n\n∴ The correct answer is 2.5 days.",
+    "explanation_block_uid": "chybe5Wmp",
+    "tags": [
+      "Time and Work",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "8AmLSOafN",
+    "question": "The ratio between the ages of Kamla and Savitri is 6:5, and the sum of their ages is 44 years. The ratio of their ages after 8 years will be?",
+    "options": [
+      "1 : 2",
+      "9 : 7",
+      "8 : 7",
+      "11 : 10"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The ages of Manu and Bharat are in the ratio = 6 : 5 \n\nTotal age = 44  years \n\nCalculation \n\nLet the ratio be x \n\n6x + 5x = 44\n\n⇒ x = 4 \n\nManu's age after 8 years = 6x + 8 =  32 \n\nBharat's age after 8 years = 5x + 8 = 28 \n\n^^Required ratio = 8 : 7^^\n\n∴ The required answer is 8 : 7",
+    "explanation_block_uid": "d0wUPIRib",
+    "tags": [
+      "Ratio and Proportion",
+      "SSC CHSL",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "oBkeckpuF",
+    "question": "If the diagonal of a square is doubled, then its area will be ?",
+    "options": [
+      "4 times the area of the given square",
+      "equal to the area of the given square",
+      "3 times the area of the given square",
+      "2 times the area of the given square"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Area of square = (Side)^2\n\nArea of the square in terms of diagonal = (diagonal)2/2\n\nCalculation:\n\nLet the side of the diagonal be 'd'\n\n⇒ The original area of square = ( d^2 )/2      ----(1)\n\nWhen the diagonal becomes double,\n\nThen, the new diagonal of the square = 2d\n\n⇒ The new area of the square = (2d)^2 /2\n\n⇒ 4d^2 /2 = 2d^2      ----(2)\n\nComparing (1) and (2), we get\n\nThe new area is ^^4 times the original area of the square.^^\n\n∴ If the diagonal of a square is doubled, then its area will be 4 times the area of the given square",
+    "explanation_block_uid": "UTSEo_Uge",
+    "tags": [
+      "sides areas and volumes",
+      "square",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "-YWmcTTv3",
+    "question": "The sum of two numbers is 216 and their HCF is 27. Find the numbers ?",
+    "options": [
+      "27, 189",
+      "154, 162",
+      "108, 108",
+      "81, 189"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Sum = 216 \n\nHCF = 27\n\nConcept used:\n\nIf we divide two number by their HCF then the quotient will be co - Prime i.e. prime to each other.\n\nCalculation:\n\nLet the numbers be x and y\n\nThen, HCF(x, y) = 27\n\nWe can write the number x = 27p and y = 27q\n\nWhere p and q are the co prime number to each other.\n\nAccording to the question.\n\n⇒ x + y = 216\n\n⇒ 27p + 27q = 216\n\n⇒ p + q = 216/27\n\n⇒ p + q = 8\n\nWe have two condition with us now, \n\n(p + q) is 8 and p and q are co-prime to each other \n\nPossible pair are (1, 7) and (3, 5) both are co prime number\n\nAccording to the given option, (1, 7) co prime pair is satisfied\n\n⇒ x = 27 × 1 = 27\n\n⇒ y = 27 × 7 = 189\n\n∴ The number is 27 and 189.",
+    "explanation_block_uid": "jk1OUwkLs",
+    "tags": [
+      "Number System",
+      "LCM and HCF",
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "TBmAR4CmY",
+    "question": "What is the average of first seven prime numbers (correct to two decimal places)?",
+    "options": [
+      "7.14",
+      "8.76",
+      "7.64",
+      "8.29"
+    ],
+    "correct_option_index": 3,
+    "explanation": "First seven prime numbers are 2, 3, 5, 7, 11, 13 and 17\n\nAverage = (2 + 3 + 5 + 7 + 11 + 13 + 17)/7\n\n⇒ 58/7 = 8.29\n\n∴ The average of first seven prime numbers is 8.29",
+    "explanation_block_uid": "mhHuaQEtQ",
+    "tags": [
+      "Aptitude"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "0m_akFFP4",
+    "question": "Introducing a boy, a girl said, \"He is the son of the sister of my mother's brother\". How is the boy related to that girl?",
+    "options": [
+      "Cousin",
+      "Uncle",
+      "Father-in-law",
+      "Niece"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Blood Relations",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Dv5QH2r4r",
+    "question": "Find the odd one:\n2, 3, 5, 7, 12, 17, 19 ??",
+    "options": [
+      "19",
+      "17",
+      "2",
+      "12"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Each of the numbers is a prime number except 12.",
+    "explanation_block_uid": "mi87Rnz8M",
+    "tags": [
+      "Number System",
+      "Coding Decoding",
+      "Number Analogy",
+      "Find Odd One",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XcYWE8bbE",
+    "question": "Find the odd one:\n835, 734, 642, 751, 853, 981, 532 ??",
+    "options": [
+      "751",
+      "853",
+      "981",
+      "532"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In each number except 751, the difference of third and first digit is the middle one.\n\nLogic is:\nif number = ABC\nThen B = C - A",
+    "explanation_block_uid": "DgRTLe5jc",
+    "tags": [
+      "Coding Decoding",
+      "Number Analogy",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZE51JNtiN",
+    "question": "In a certain code language, 'BOOK' is coded as '47', and 'PEN' is coded as '38'. How will 'NOTEPAD' be coded in that language?",
+    "options": [
+      "84",
+      "82",
+      "75",
+      "80"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The logic followed here is: \nSum of Place value + Number of letters in word = Given Code,\n\n'BOOK' is coded as '47'.\nB = 2, O = 15, O = 15, K = 11\n⇒ 2 + 15 + 15 + 11 = 43; \n⇒ 43 + 4 = 47.\n\n'PEN' is coded as '38'.\nP = 16, E = 5, N = 14\n⇒ 16 + 5 + 14 = 35; 35 + 3 = 38.\n\nSimilarly, for 'NOTEPAD', \nN = 14, O = 15, T = 20, E = 5, P = 16, A = 1, D = 4\n⇒ 14 + 15 + 20 + 5 + 16 + 1 + 4 \n= 75; ^^75 + 7 = 82.^^\n\nSo, \"NOTEPAD\" will be coded as \"82\".",
+    "explanation_block_uid": "rPRZ0cKIi",
+    "tags": [
+      "Coding Decoding",
+      "Word Analogy",
+      "SSC MTS",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "f9HHkO3F3",
+    "question": "A man is facing toward the east. He then turns 45° anti-clockwise, again 180° anti-clockwise and then 225° clockwise. In which direction is he facing now?",
+    "options": [
+      "West",
+      "North",
+      "South",
+      "East"
+    ],
+    "correct_option_index": 3,
+    "explanation": "According to given information:",
+    "explanation_block_uid": "IM2xiiKfZ",
+    "tags": [
+      "Direction Based",
+      "SSC CPO",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "597O83h06",
+    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWhat is the position of D ?",
+    "options": [
+      "In the middle",
+      "In the left end",
+      "In the right end",
+      "Second from right end"
+    ],
+    "correct_option_index": 2,
+    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
+    "explanation_block_uid": "iCGGfD5t_",
+    "tags": [
+      "Sitting Arrangement",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "l35osKax1",
+    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWhat is the position of D ?",
+    "options": [
+      "In the middle",
+      "In the left end",
+      "In the right end",
+      "Second from right end"
+    ],
+    "correct_option_index": 2,
+    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
+    "explanation_block_uid": "6uFQRP3H-",
+    "tags": [
+      "Sitting Arrangement",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "hbLGJhTnO",
+    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWhich two are in middle ?",
+    "options": [
+      "A & B",
+      "A & C",
+      "C & F",
+      "A & F"
+    ],
+    "correct_option_index": 1,
+    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
+    "explanation_block_uid": "-g4FEzSCn",
+    "tags": [
+      "Sitting Arrangement",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bp8g6S8aW",
+    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWho is in the left end ?",
+    "options": [
+      "A",
+      "B",
+      "D",
+      "E"
+    ],
+    "correct_option_index": 1,
+    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
+    "explanation_block_uid": "NciFoXjft",
+    "tags": [
+      "Sitting Arrangement",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "lyJbJacN8",
+    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWho is in the right end ?",
+    "options": [
+      "A",
+      "D",
+      "B",
+      "E"
+    ],
+    "correct_option_index": 1,
+    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
+    "explanation_block_uid": "NXtHhk3aD",
+    "tags": [
+      "Sitting Arrangement",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "dsrFbTUf4",
+    "question": "If in a certain code YELLOW is written as XFKMNX, how is BORDER coded?",
+    "options": [
+      "APQDSE",
+      "APQDSE",
+      "APQEDS",
+      "APDQSE"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The pattern follows -1 and +1 letter \n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FdH1WjzRUKL.png?alt=media&token=ccb19019-72d9-468b-aaff-5506452e00ef)",
+    "explanation_block_uid": "THf7bdL5z",
+    "tags": [
+      "Coding Decoding",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yiUGhjU7i",
+    "question": "Select the option in which the numbers share the same relationship as that shared by the given pair of numbers.\n23 − 27 ??",
+    "options": [
+      "15 − 25",
+      "11 − 33",
+      "15 − 45",
+      "11 − 55"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The logic followed here is: \n(Reverse of 1st number - Sum of the digits of 1st number) = 2nd number\n\n23 − 27\n32 - (2 + 3) = 27\n\n15 − 45\n51 - (1 + 5) = 45\n51 - 6 = 45\n\n45 = 45 (LHS = RHS)",
+    "explanation_block_uid": "wjDyK8Z81",
+    "tags": [
+      "Coding Decoding",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "LA_Pha4jw",
+    "question": "Select the option in which the numbers share the same relationship as that shared by the given number-pair.\n8 : 49 ??",
+    "options": [
+      "9 : 87",
+      "12 : 121",
+      "13 : 170",
+      "15 : 211"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The pattern followed is,\n\n8: 49 → 8 – 1 = 7, 72 = 49\n\nSo,\n\n8: 49\n\nSimilarly,\n\nOption 1 → 9: 87 → 9 – 1 = 8, 82 = 64, not 87\n\nOption 2 → 12: 121 → 12 – 1 = 11, 112 = 121\n\nOption 3 → 13: 170 → 13 – 1 = 12, 122 = 144, not 170\n\nOption 4 → 15: 210 → 15 – 1 = 14, 142 = 196, not 211\n\n’12: 121’ share the same relationship as that shared by the given number-pair.\n\nHence, “12: 121” is the correct answer.",
+    "explanation_block_uid": "AMZFj4YaY",
+    "tags": [
+      "Coding Decoding",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ikv6vC5fd",
+    "question": "In the questions, select the pair in which the numbers are similarly related as in the given pair.\n27 : 9  :_:  \"?:?\" ??",
+    "options": [
+      "64 : 8",
+      "125:5",
+      "135:15",
+      "729:81"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Identify the relationship in the first pair (27:9):\n27 = 3^3\n9 = 3^2\nThus, the relationship is that \nthe first number is the cube of a number (3), \nthe second number is the square of the same number (3).\n\n729 = 9^3\n81 = 9^2",
+    "explanation_block_uid": "EQu5y6bDY",
+    "tags": [
+      "Coding Decoding",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "r4tV4R8CE",
+    "question": "In a code language, if ‘SMILE’ is coded as ‘174’, then how will ‘ZEBRA’ be coded in the same language?",
+    "options": [
+      "144",
+      "156",
+      "168",
+      "172"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Taking the sum of positional values and multiply by 3,\n\nSMILE = 19 + 13 + 9 + 12 + 5 = 58 and 58 × 3 = 174\n\nSimilarly,\n\nZEBRA = 26 + 5 + 2 + 18 + 1 = 52 and 52 × 3 = 156\n\nHence, ‘156’ is the correct answer.",
+    "explanation_block_uid": "O9dA_yTRc",
+    "tags": [
+      "Coding Decoding",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "DMlh5SvYh",
+    "question": "Four children are sitting in a row. A is occupying the seat next to B but not next to C. If C is not sitting next to D, who is occupying the seat adjacent to C?",
+    "options": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "correct_option_index": 1,
+    "explanation": "B is adjacent to C in both the cases.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fj3Pw7m0Ha6.png?alt=media&token=3bc372fb-5016-4810-b225-970c4eff2dd1)",
+    "explanation_block_uid": "EhPSlwgiD",
+    "tags": [
+      "Coding Decoding",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZcQ1NCyRA",
+    "question": "Usha runs faster than Kamala, Priti runs slower than Swati, and Swati runs slower than Kamala. Who is the fastest runner?",
+    "options": [
+      "Kamala",
+      "Priti",
+      "Swati",
+      "Usha"
+    ],
+    "correct_option_index": 3,
+    "explanation": "1) Usha runs faster than Kamala.\nUsha > Kamala\n\n\n2) Swati runs slower than Kamala.\nUsha > Kamala > Swati\n\n\n3) Priti runs slower than Swati.\nUsha > Kamala > Swati > Priti\n\nHence, Priti is the slowest runner.",
+    "explanation_block_uid": "LlUIM8wr7",
+    "tags": [
+      "Coding Decoding",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XKSH0a7ef",
+    "question": "A family consists of six members A, B, C, D, E, F.\nB is the son of C but C is not the mother of B.\nA and C are a married couple.\nE is the brother of C.\nD is the daughter of A.\nF is the brother of A.\n\nHow is A related to B?",
+    "options": [
+      "Mother",
+      "Sister",
+      "Uncle",
+      "Father"
+    ],
+    "correct_option_index": 0,
+    "explanation": "A is mother of B\nCheck the Family Tree\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FEtGaaWfWoI.png?alt=media&token=324186d6-5408-4f99-8601-4fd6ca02c484)",
+    "explanation_block_uid": "JzvwquoSH",
+    "tags": [
+      "Blood Relations",
+      "Reasoning Paragraph Based",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "h2ZwJlTOc",
+    "question": "A family consists of six members A, B, C, D, E, F.\nB is the son of C but C is not the mother of B.\nA and C are a married couple.\nE is the brother of C.\nD is the daughter of A.\nF is the brother of A.\n\nHow is D related to E?",
+    "options": [
+      "Nephew",
+      "Father",
+      "Daughter",
+      "Niece"
+    ],
+    "correct_option_index": 3,
+    "explanation": "D is niece of E. \nCheck the Family Tree\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FEtGaaWfWoI.png?alt=media&token=324186d6-5408-4f99-8601-4fd6ca02c484)",
+    "explanation_block_uid": "YakZEE6QQ",
+    "tags": [
+      "Blood Relations",
+      "Reasoning Paragraph Based",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "gMWYjU-oz",
+    "question": "A family consists of six members A, B, C, D, E, F.\nB is the son of C but C is not the mother of B.\nA and C are a married couple.\nE is the brother of C.\nD is the daughter of A.\nF is the brother of A.\n\nA has how many children?",
+    "options": [
+      "Four",
+      "Three",
+      "Two",
+      "One"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A has two children's: B and D\nCheck the Family Tree\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FEtGaaWfWoI.png?alt=media&token=324186d6-5408-4f99-8601-4fd6ca02c484)",
+    "explanation_block_uid": "e8qBy990j",
+    "tags": [
+      "Blood Relations",
+      "Reasoning Paragraph Based",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "hldeAk7sE",
+    "question": "Select the option in which the words share the same relationship as that shared by the given pair of words.\nFood : Chef  ?",
+    "options": [
+      "Film : Producer",
+      "Painter : Painting",
+      "Hospital : Doctor",
+      "Farmer : Field"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Chef is a trained professional cook, who is proficient in all aspects of food preparation.\n\nSimilarly,\n\nA producer is a person who oversees film production, plan and coordinate various aspects of film production.\n\n‘Film : Producer’ share the same relationship as that shared by the given pair of words.\n\nHence, “film : producer” is the correct answer.",
+    "explanation_block_uid": "d-uDeax3L",
+    "tags": [
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "65z_BSVfZ",
+    "question": "'Duns' are longitudinal valleys between the ______ and the Shiwaliks ?",
+    "options": [
+      "Greater Himalayas",
+      "Ganga-Brahmaputra Plains",
+      "Lesser Himalayas",
+      "Western Plains"
+    ],
+    "correct_option_index": 2,
+    "explanation": "'Duns' are longitudinal valleys ^^between the Lesser Himalayas and the Shiwaliks^^.\nDun is a local word for valley, particularly an open valley in the Sivaliks or between the Sivaliks and higher Himalayan foothills.\nOther valleys in this region have names like Patli Dun, Kotli Dun, Pinjore Dun in Himachal.\n\nThe longitudinal valley is longitudinal valleys between the lesser Himalayas and Shivalik are known as 'duns' in the west and 'duars' in the east.\nUnlike typical river valleys, duns have a structural origin and are covered with boulders and gravel originating from the erosion of the Himalayas and the Shiwalik uplands.\nMajor duns found in the region are ^^Dehradun^^, Kothri, Chaukham, Patli and Kota.",
+    "explanation_block_uid": "NHOk1hFPr",
+    "tags": [
+      "Himalayas",
+      "SSC CHSL",
+      "Geography",
+      "General Studies"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "General Studies",
+      "Geography"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "h3eH7ie7p",
+    "question": "Which of the following is not an input device?",
+    "options": [
+      "Keyboard",
+      "Mouse",
+      "Printer",
+      "Scanner"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Printer is an output device.\n((l5DILzW_G))",
+    "explanation_block_uid": "EIuxgUIYv",
+    "tags": [
+      "computer",
+      "General Studies"
+    ],
+    "linked_block_uid": "l5DILzW_G",
+    "path_tags": [
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rN3_Y2DPC",
+    "question": "What does HTML stand for in web development?",
+    "options": [
+      "Hyperlink Text Markup Language",
+      "Hyper Text Management Language",
+      "Hyper Transfer Markup Language",
+      "HyperText Markup Language"
+    ],
+    "correct_option_index": 3,
+    "explanation": "HTML = HyperText Markup Language used for web pages.\n((xBu1M8_Gf))",
+    "explanation_block_uid": "Ibzs0EYCC",
+    "tags": [
+      "computer",
+      "General Studies"
+    ],
+    "linked_block_uid": "xBu1M8_Gf",
+    "path_tags": [
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "8_qlU-ayV",
     "question": "SVEEP programme is related to:?",
     "options": [
@@ -164830,6 +165806,1572 @@
     "isPassageBased": false
   },
   {
+    "id": "XwgcOM4Dw",
+    "question": "Which of the following diseases is caused by a protozoan?",
+    "options": [
+      "Cholera",
+      "Malaria",
+      "Tuberculosis",
+      "Typhoid"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Malaria** is caused by the protozoan parasite **Plasmodium**, which is transmitted through the bite of an infected **female Anopheles mosquito**. The other diseases listed are bacterial.",
+    "explanation_block_uid": "Om2TZKzIS",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "zilbIg9z3",
+    "question": "Minamata disease is a neurological syndrome caused by severe poisoning of which element?",
+    "options": [
+      "Lead",
+      "Cadmium",
+      "Mercury",
+      "Arsenic"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Minamata disease** was first discovered in Japan and is caused by the ingestion of fish and shellfish contaminated by **methylmercury** discharged in industrial wastewater.",
+    "explanation_block_uid": "q47QT5VN-",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nva98Cjoc",
+    "question": "The BCG (Bacillus Calmette-Guérin) vaccine is used to prevent which disease?",
+    "options": [
+      "Polio",
+      "Tuberculosis",
+      "Measles",
+      "Smallpox"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**BCG vaccine** is primarily used against **Tuberculosis (TB)**. TB is caused by the bacterium **Mycobacterium tuberculosis** and usually affects the lungs.",
+    "explanation_block_uid": "ye4CMaJNV",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "40XNPakqs",
+    "question": "Which of the following is a water-borne disease?",
+    "options": [
+      "Cholera",
+      "Influenza",
+      "Scurvy",
+      "Malaria"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Cholera** is an acute diarrheal infection caused by ingestion of food or water contaminated with the bacterium **Vibrio cholerae**.",
+    "explanation_block_uid": "a1frwUtDJ",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mKjfeu-kn",
+    "question": "Night blindness is caused by the deficiency of which vitamin?",
+    "options": [
+      "Vitamin K",
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin D"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Night blindness (Nyctalopia)** is the inability to see well at night or in poor light. It is caused by a deficiency of **Vitamin A (Retinol)**, which is essential for maintaining healthy vision.",
+    "explanation_block_uid": "c0JLx6SlU",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PZ9rTuAbJ",
+    "question": "Goitre is caused by the deficiency of which of the following?",
+    "options": [
+      "Iron",
+      "Iodine",
+      "Calcium",
+      "Potassium"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Goitre** is the abnormal enlargement of the **thyroid gland** and is most commonly caused by a lack of **iodine** in the diet.",
+    "explanation_block_uid": "e_nmILclP",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "P0wNo3FRx",
+    "question": "Which of the following is caused by a fungal infection?",
+    "options": [
+      "Ringworm",
+      "Diphtheria",
+      "Tetanus",
+      "Leukemia"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Ringworm** is a common skin infection caused by **fungi** (not a worm). It is characterized by a red, itchy, circular rash.",
+    "explanation_block_uid": "LXnVcVdiy",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Jn5e7i902",
+    "question": "Itai-Itai disease is caused by chronic poisoning of which metal?",
+    "options": [
+      "Mercury",
+      "Cadmium",
+      "Lead",
+      "Chromium"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Itai-Itai disease** was documented in Japan and is caused by **Cadmium poisoning**, which leads to softening of the bones and kidney failure.",
+    "explanation_block_uid": "OJ-EBLW7V",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "sJXGjQZVz",
+    "question": "Scurvy is caused by the deficiency of which vitamin?",
+    "options": [
+      "Vitamin B",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin K"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Scurvy** results from a lack of **Vitamin C (Ascorbic acid)**. It leads to symptoms like bleeding gums, weakness, and skin spots.",
+    "explanation_block_uid": "RK1RJilHQ",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1Ufu1lPWc",
+    "question": "Which disease is also known as 'Hansen's Disease'?",
+    "options": [
+      "Tuberculosis",
+      "Leprosy",
+      "Cholera",
+      "Rabies"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Leprosy** is a chronic infectious disease caused by **Mycobacterium leprae** and is named **Hansen's Disease** after the scientist who discovered the bacterium.",
+    "explanation_block_uid": "sqA7pIc7H",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yq0gv-geh",
+    "question": "The 'ELISA' test is primarily used to detect which infection?",
+    "options": [
+      "Tuberculosis",
+      "Diabetes",
+      "HIV",
+      "Malaria"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**ELISA (Enzyme-Linked Immunosorbent Assay)** is a laboratory test used to detect antibodies in the blood, most commonly used as a primary screening test for **HIV/AIDS**.",
+    "explanation_block_uid": "zZWzc_R9K",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "33ehAfBDU",
+    "question": "Which of the following diseases is caused by bacteria?",
+    "options": [
+      "Smallpox",
+      "Anthrax",
+      "Mumps",
+      "Rabies"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Anthrax** is a serious infectious disease caused by gram-positive, rod-shaped bacteria known as **Bacillus anthracis**. The others are viral.",
+    "explanation_block_uid": "fbOmge16g",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "q8YWNe5QS",
+    "question": "Osteomalacia in adults and Rickets in children are caused by the deficiency of:?",
+    "options": [
+      "Vitamin A",
+      "Vitamin D",
+      "Vitamin E",
+      "Vitamin K"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Deficiency of **Vitamin D (Calciferol)** leads to poor calcium absorption, causing **Rickets** in children and **Osteomalacia** (softening of bones) in adults.",
+    "explanation_block_uid": "B0kOOCZGI",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Ld-TSJC_f",
+    "question": "Kala-azar (Visceral leishmaniasis) is transmitted by the bite of:?",
+    "options": [
+      "Tsetse fly",
+      "Sand fly",
+      "House fly",
+      "Mosquito"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Kala-azar** is a slow-progressing indigenous disease caused by a protozoan parasite and is transmitted by the bite of the **Sand fly (Phlebotomus)**.",
+    "explanation_block_uid": "iua1txm6P",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6v6w0cpyb",
+    "question": "Haemophilia is what type of disease?",
+    "options": [
+      "Viral",
+      "Bacterial",
+      "Genetic/Hereditary",
+      "Fungal"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Haemophilia** is a **genetic/hereditary** disorder where the blood does not clot properly due to the lack of blood-clotting proteins.",
+    "explanation_block_uid": "vRDEO67Jz",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NtKBUcWoC",
+    "question": "Which organ of the body is affected by Hepatitis?",
+    "options": [
+      "Heart",
+      "Lungs",
+      "Liver",
+      "Kidneys"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Hepatitis** refers to the inflammation of the **liver**, often caused by viral infections (Hepatitis A, B, C, etc.) or toxic substances.",
+    "explanation_block_uid": "vzjH9wGym",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "A-dHvKRzG",
+    "question": "Xerophthalmia is a disease caused by the deficiency of:?",
+    "options": [
+      "Vitamin B6",
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin K"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Xerophthalmia** is a progressive eye disease caused by **Vitamin A deficiency** that can lead to blindness if not treated.",
+    "explanation_block_uid": "I12PI-3eG",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7tOYQMWR0",
+    "question": "Diabetes mellitus is caused by the lack of which hormone?",
+    "options": [
+      "Thyroxine",
+      "Adrenaline",
+      "Insulin",
+      "Glucagon"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Diabetes mellitus** occurs when the pancreas does not produce enough **Insulin** or the body cannot effectively use the insulin it produces.",
+    "explanation_block_uid": "B8mTgKy0i",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "puaJBmFv5",
+    "question": "Which of the following diseases is caused by a virus?",
+    "options": [
+      "Pneumonia",
+      "Common Cold",
+      "Plague",
+      "Syphilis"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Common Cold** is a viral infectious disease of the upper respiratory tract. Most cases are caused by **Rhinoviruses**.",
+    "explanation_block_uid": "_qC06oT24",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "H1-smACeT",
+    "question": "Sleeping sickness is caused by which organism?",
+    "options": [
+      "Trypanosoma",
+      "Leishmania",
+      "Plasmodium",
+      "Entamoeba"
+    ],
+    "correct_option_index": 0,
+    "explanation": "African **Sleeping Sickness** (African trypanosomiasis) is caused by the protozoan parasite **Trypanosoma** and is transmitted by the **Tsetse fly**.",
+    "explanation_block_uid": "VBImw3Z81",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Zjr3D2WZ5",
+    "question": "Blue Baby Syndrome is caused by the presence of which substance in excess in drinking water?",
+    "options": [
+      "Fluoride",
+      "Chlorides",
+      "Nitrates",
+      "Arsenic"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Blue Baby Syndrome (Methemoglobinemia)** is caused by high levels of **Nitrates** in drinking water, which decreases the ability of blood to carry oxygen.",
+    "explanation_block_uid": "b7fTRufWZ",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "zlWM4rUUw",
+    "question": "Tetanus is caused by which of the following?",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungi",
+      "Protozoa"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Tetanus** (also known as Lockjaw) is caused by the bacterium **Clostridium tetani**. It affects the nervous system and leads to muscle stiffness.",
+    "explanation_block_uid": "nAWvYjvZh",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "DGlFpLk6f",
+    "question": "Athlete's Foot is a disease caused by:?",
+    "options": [
+      "Bacteria",
+      "Fungus",
+      "Protozoa",
+      "Virus"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Athlete's Foot** (Tinea pedis) is a **fungal infection** that usually begins between the toes. It occurs in people whose feet have become very sweaty while confined within tight-fitting shoes.",
+    "explanation_block_uid": "D2Q734KHU",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Wk619b3Sn",
+    "question": "Which organ is mainly affected by the disease 'Pneumonia'?",
+    "options": [
+      "Liver",
+      "Kidney",
+      "Lungs",
+      "Heart"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Pneumonia** is an inflammatory condition of the **lung** affecting primarily the small air sacs known as **alveoli**. It is usually caused by bacteria or viruses.",
+    "explanation_block_uid": "9bVBhOfnv",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jVNmYBPRH",
+    "question": "The disease 'Rickets' is associated with the deficiency of:?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_option_index": 3,
+    "explanation": "**Rickets** is a skeletal disorder that's caused by a lack of **Vitamin D, calcium, or phosphate**. These nutrients are important for the development of strong, healthy **bones**.",
+    "explanation_block_uid": "h4KAjvTQm",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VXsPeI1mB",
+    "question": "Which of the following is a non-communicable disease?",
+    "options": [
+      "Cholera",
+      "Diabetes",
+      "Tuberculosis",
+      "Chickenpox"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Diabetes** is a **non-communicable** (chronic) disease. Unlike Cholera or TB, it cannot be spread from one person to another through contact or vectors.",
+    "explanation_block_uid": "nWRLA0e1J",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nO4_uhHLS",
+    "question": "The 'Mantoux Test' is used to screen for which disease?",
+    "options": [
+      "Diphtheria",
+      "Leprosy",
+      "Tuberculosis",
+      "Typhoid"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Mantoux Test** (or PPD test) is a tool for screening **Tuberculosis (TB)**. It involves injecting a small amount of tuberculin skin test antigen into the forearm.",
+    "explanation_block_uid": "2phxIsW8l",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "WzOxNZrPN",
+    "question": "Which of the following is a viral disease?",
+    "options": [
+      "Measles",
+      "Leprosy",
+      "Tetanus",
+      "Syphilis"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Measles** is a highly contagious infectious disease caused by the **Measles virus**. The other three options are caused by bacteria.",
+    "explanation_block_uid": "j_5QMNT7C",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "uDXEZk0qc",
+    "question": "Encephalitis is a disease that causes inflammation of the:?",
+    "options": [
+      "Liver",
+      "Brain",
+      "Kidney",
+      "Heart"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Encephalitis** is inflammation of the **brain**. The most common cause is a viral infection, though bacteria and fungi can also cause it.",
+    "explanation_block_uid": "H1H9nNL8A",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1pBz-AurW",
+    "question": "Trachoma is a disease related to which organ?",
+    "options": [
+      "Ear",
+      "Nose",
+      "Eyes",
+      "Throat"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Trachoma** is a bacterial infection that affects the **eyes**. It is caused by the bacterium **Chlamydia trachomatis** and is a leading cause of preventable blindness.",
+    "explanation_block_uid": "TBnlZEG3O",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Gkpwbz8mN",
+    "question": "The deficiency of which of the following leads to 'Anaemia'?",
+    "options": [
+      "Iodine",
+      "Calcium",
+      "Iron",
+      "Zinc"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Anaemia** is a condition in which the blood lacks enough healthy red blood cells. It is most commonly caused by a deficiency of **Iron**, which is needed to make **haemoglobin**.",
+    "explanation_block_uid": "CLthtpuNa",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6kRf2iWev",
+    "question": "Hydrophobia (fear of water) is a symptom of which disease?",
+    "options": [
+      "Dengue",
+      "Rabies",
+      "Typhoid",
+      "Cholera"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Hydrophobia** is a characteristic symptom of **Rabies**. It is caused by the **Lyssavirus**, usually transmitted through the bite of an infected animal like a dog.",
+    "explanation_block_uid": "MJerQibtO",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jZFWvJ9OZ",
+    "question": "Which of the following is caused by the deficiency of Protein in children?",
+    "options": [
+      "Pellagra",
+      "Marasmus",
+      "Beri-beri",
+      "Scurvy"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Marasmus** and **Kwashiorkor** are diseases caused by severe **protein-energy malnutrition**. Marasmus involves a total calorie deficiency, including protein.",
+    "explanation_block_uid": "hz9ZKN8_F",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "79ea-URbi",
+    "question": "Which of the following diseases is caused by the 'Varicella-zoster' virus?",
+    "options": [
+      "Smallpox",
+      "Chickenpox",
+      "Polio",
+      "Measles"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Chickenpox** is caused by the **Varicella-zoster virus (VZV)**. It is characterized by an itchy red rash that eventually turns into small, fluid-filled blisters.",
+    "explanation_block_uid": "ddNT1Mixv",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ndGhqJb-s",
+    "question": "The 'Schick Test' is used for the diagnosis of:?",
+    "options": [
+      "Typhoid",
+      "Diphtheria",
+      "Cholera",
+      "Tuberculosis"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Schick Test** is used to determine whether or not a person is susceptible to **Diphtheria**, a serious bacterial infection caused by **Corynebacterium diphtheriae**.",
+    "explanation_block_uid": "IyodOx99j",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yLr8Po0Hb",
+    "question": "Which disease is caused by the 'Yersinia pestis' bacterium?",
+    "options": [
+      "Plague",
+      "Leprosy",
+      "Anthrax",
+      "Malaria"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Plague** is a serious infectious disease caused by the bacterium **Yersinia pestis**, usually transmitted to humans by **fleas** that have fed on infected rodents.",
+    "explanation_block_uid": "wNv3kl3aK",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bmq0Q4JaL",
+    "question": "Excessive intake of Fluoride in drinking water causes:?",
+    "options": [
+      "Lung disease",
+      "Fluorosis",
+      "Intestinal infection",
+      "Liver cirrhosis"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Fluorosis** is a condition caused by excessive intake of **fluoride**, which affects the **teeth (dental fluorosis)** and **bones (skeletal fluorosis)**.",
+    "explanation_block_uid": "dI5JOZFum",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "dF4BDI3U1",
+    "question": "Which of the following diseases is eradicated from the world?",
+    "options": [
+      "Polio",
+      "Smallpox",
+      "Chickenpox",
+      "Tuberculosis"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Smallpox** is the only human infectious disease to have been completely **eradicated** globally, as declared by the WHO in 1980.",
+    "explanation_block_uid": "cNoZWdLdp",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1NgTpzEyG",
+    "question": "Which vitamin is also known as 'Calciferol'?",
+    "options": [
+      "Vitamin A",
+      "Vitamin C",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Vitamin D** is chemically known as **Calciferol**. It helps the body absorb calcium, which is the primary building block of bone.",
+    "explanation_block_uid": "SpQ9bXps6",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ip1tg7Yww",
+    "question": "Filariasis is transmitted by which of the following?",
+    "options": [
+      "Aedes mosquito",
+      "Anopheles mosquito",
+      "Culex mosquito",
+      "Sand fly"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Lymphatic **Filariasis** (Elephantiasis) is a parasitic disease caused by microscopic, thread-like worms, primarily transmitted by the **Culex mosquito**.",
+    "explanation_block_uid": "58C1forBK",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Tkt-wlCHN",
+    "question": "The disease 'Beri-beri' is caused by the deficiency of:?",
+    "options": [
+      "Vitamin B1",
+      "Vitamin B2",
+      "Vitamin B6",
+      "Vitamin B12"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Beri-beri** is caused by a deficiency of **Thiamine (Vitamin B1)**. It affects the cardiovascular and nervous systems.",
+    "explanation_block_uid": "Jk4wPujXy",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VaKssvf4G",
+    "question": "Which of the following is an occupational lung disease?",
+    "options": [
+      "Asthma",
+      "Silicosis",
+      "Bronchitis",
+      "Pneumonia"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Silicosis** is an occupational lung disease caused by breathing in tiny bits of **silica dust**, common in mining, quarrying, and glass manufacturing.",
+    "explanation_block_uid": "zEIMSM3Ix",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Q-ltYHjIU",
+    "question": "Mumps is a viral disease that causes inflammation of the:?",
+    "options": [
+      "Thyroid gland",
+      "Parotid gland",
+      "Pituitary gland",
+      "Adrenal gland"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Mumps** is a viral infection that primarily affects the **parotid glands**—one of three pairs of saliva-producing (salivary) glands.",
+    "explanation_block_uid": "apWgWCEhQ",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HvX0OHM5C",
+    "question": "Wilson's disease is an inherited disorder in which there is too much of which element in the body?",
+    "options": [
+      "Iron",
+      "Copper",
+      "Zinc",
+      "Sodium"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Wilson's disease** is a rare genetic disorder that causes **copper** to accumulate in your **liver, brain, and other vital organs**.",
+    "explanation_block_uid": "hHhiUDyFg",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "pDy6pTgHi",
+    "question": "Which of the following genetic disorders is caused by the presence of an extra copy of chromosome 21?",
+    "options": [
+      "Turner Syndrome",
+      "Down Syndrome",
+      "Klinefelter Syndrome",
+      "Edward Syndrome"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Down Syndrome** (Trisomy 21) is a genetic disorder caused by abnormal cell division resulting in an extra full or partial copy of **chromosome 21**. This extra genetic material causes the developmental changes and physical features of Down syndrome.",
+    "explanation_block_uid": "gh2h7uog-",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6uaa4rYcL",
+    "question": "Sickle cell anaemia is caused by a structural abnormality in which protein?",
+    "options": [
+      "Myoglobin",
+      "Haemoglobin",
+      "Keratin",
+      "Albumin"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Sickle cell anaemia** is a genetic blood disorder caused by a mutation in the **HBB gene**. This results in the production of abnormal **haemoglobin (HbS)**, which causes red blood cells to become rigid and sickle-shaped.",
+    "explanation_block_uid": "LkXGREYC-",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FWVlOyJlw",
+    "question": "Which of the following is a sex-linked recessive genetic disorder?",
+    "options": [
+      "Cystic Fibrosis",
+      "Haemophilia",
+      "Tay-Sachs Disease",
+      "Sickle Cell Trait"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Haemophilia** is a **sex-linked recessive** disorder, meaning the gene is located on the **X chromosome**. It primarily affects males and impairs the body's ability to make blood clots.",
+    "explanation_block_uid": "QAlyS6SXA",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BcyWfVFJz",
+    "question": "Cystic Fibrosis primarily affects which systems in the human body?",
+    "options": [
+      "Skeletal and Muscular",
+      "Respiratory and Digestive",
+      "Nervous and Endocrine",
+      "Circulatory and Lymphatic"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Cystic Fibrosis** is a hereditary disease caused by mutations in the **CFTR protein**. It leads to the production of thick, sticky mucus that clogs the **lungs** and obstructs the **pancreas** (digestive system).",
+    "explanation_block_uid": "KzOrk7t57",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ev_gQ8bk_",
+    "question": "Which disease is caused by the misfolding of proteins known as 'Prions'?",
+    "options": [
+      "Alzheimer's",
+      "Creutzfeldt-Jakob Disease",
+      "Parkinson's",
+      "Huntington's Disease"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Creutzfeldt-Jakob Disease (CJD)** is a fatal degenerative brain disorder caused by **Prions**, which are misfolded infectious proteins that trigger normal proteins in the brain to fold abnormally.",
+    "explanation_block_uid": "wZXSlU94c",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "86cn0Pw29",
+    "question": "A person with 'Turner Syndrome' has which of the following chromosomal configurations?",
+    "options": [
+      "44 + XXY",
+      "44 + X0",
+      "44 + XXX",
+      "44 + XYY"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Turner Syndrome** is a female-specific genetic condition where one of the **X chromosomes** is missing or partially missing (**45,X or 44 + X0**), resulting in short stature and developmental issues.",
+    "explanation_block_uid": "rW9vQF5W-",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "il2ZV4n3u",
+    "question": "Thalassemia is a hereditary disease that affects which of the following?",
+    "options": [
+      "Lungs",
+      "Blood",
+      "Heart",
+      "Kidney"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Thalassemia** is an inherited **blood disorder** characterized by less oxygen-carrying protein (**haemoglobin**) and fewer red blood cells than normal, caused by mutations in the DNA of cells that make haemoglobin.",
+    "explanation_block_uid": "NVJ7Vxcbn",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HCOZl5mjF",
+    "question": "Phenylketonuria (PKU) is an inborn error of metabolism that results in the decreased metabolism of which amino acid?",
+    "options": [
+      "Lysine",
+      "Phenylalanine",
+      "Valine",
+      "Methionine"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**PKU** is a genetic disorder that increases the levels of **phenylalanine** in the blood. If left untreated, the buildup of this amino acid can lead to intellectual disabilities and other serious health problems.",
+    "explanation_block_uid": "icZWEMata",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7UO9y6ToL",
+    "question": "Which protein-deficiency disease is characterized by a 'pot-belly' and oedema (swelling) in children?",
+    "options": [
+      "Marasmus",
+      "Kwashiorkor",
+      "Scurvy",
+      "Rickets"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Kwashiorkor** is a severe form of malnutrition caused by a **deficiency in protein** despite adequate calorie intake. A key symptom is a **distended abdomen (pot-belly)** due to fluid retention (oedema).",
+    "explanation_block_uid": "vEH_B_Sxo",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "hfJs6aQVz",
+    "question": "Huntington's disease is what type of genetic disorder?",
+    "options": [
+      "Autosomal Recessive",
+      "Autosomal Dominant",
+      "X-linked Recessive",
+      "Y-linked Dominant"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Huntington's disease** is an **Autosomal Dominant** disorder, meaning a person needs only one copy of the defective gene from one parent to develop the disease. It causes the progressive breakdown of nerve cells in the brain.",
+    "explanation_block_uid": "FkKhNsbro",
+    "tags": [
+      "General Studies",
+      "Science",
+      "subjectWise",
+      "Subject Wise Mock",
+      "Graduate Level",
+      "MCQs",
+      "Biology",
+      "Diseases",
+      "newmocktests"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "Science Mock - Diseases 1"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "18Z8toyLF",
     "question": "Which of the following is known as the 'Magna Carta' of the Indian Constitution?",
     "options": [
@@ -172576,981 +175118,6 @@
     "linked_block_uid": "",
     "path_tags": [
       "Reasoning Mock | Mirror Images 1"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "D1fWX9-Sn",
-    "question": "A and B can complete a task together in 35 days. If A works alone and completes  5/7th of the task and then leaves the rest for B to complete by herself, it will take a total of 90 days to complete the task. How many days would it take A, the more efficient among the duo, to complete the entire work by herself?",
-    "options": [
-      "45",
-      "48",
-      "40",
-      "42"
-    ],
-    "correct_option_index": 3,
-    "explanation": "A and B can complete a task together in 35 days.\n\nTotal time taken is 90 days.\n\nCalculation:\n\nLet the total amount of work be 35 units.\n\nIf A and B work together, they complete 35/35 = 1 unit of work every day.\n\nNow,\n\nLet the amount of work done by A by himself in one day be x units and the work done by B by himself in one day be y units.\n\nSo, x + y = 1\n\nIf A works alone and completes 5/7th of the task,\n\nwork done by A is (5/7) × 35 = 25 units.\n\n⇒ time taken by A to complete this 25 units of work = 25/x days.\n\nIf B works alone and completes 2/7th of the task,\n\nwork done by B is (2/7) × 35 = 10 units.\n\n⇒ Time taken by B to complete this 10 units of work = 10/y days.\n\nAccording to the question,\n\n25/x + 10/y = 90\n\n⇒ (25 + 10)/xy = 90\n\n⇒ 25y + 10x = 90xy\n\n⇒ 25(1 – x) + 10x = 90xy\n\n⇒ 25 – 25x + 10x = 90x(1 – x)\n\n⇒ 25 – 15x = 90x – 90x2\n\n⇒ 90x2 – 105x + 25 = 0\n\n⇒ 18x2 – 21x + 5 = 0\n\n⇒ 18x2 – 15x – 6x + 5 = 0\n\n⇒ 3x(6x – 5) – 1(6x – 5) = 0\n\n⇒ (6x – 5)(3x – 1) = 0\n\nSo, x = 5/6 (x cannot be 1/3 as A is more efficient among two)\n\nTime taken by A alone to complete work by herself = 35/(5/6)\n\n⇒ 42 days\n\n∴ The required answer is 42 days.",
-    "explanation_block_uid": "0ESQBQfek",
-    "tags": [
-      "Time and Work",
-      "RRB NCPT",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "7NwBCOXlW",
-    "question": "The radii of two circles are 4 cm and 3 cm, respectively. What is the diameter (in cm) of the circle having an area equal to four times the sum of the areas of the two circles?",
-    "options": [
-      "12",
-      "20",
-      "24",
-      "10"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The radii of circle 1, R1 = 4 cm \nThe radii of circle 2, R2 = 3 cm.\n\nThe area of new circle, A = Area of circle 1 + Area of circle 2\n\nFormula Used:\nDiameter = 2 × r\nArea of circle = πr²\nWhere, r = Radius of circle\n\nCalculation:\n\nArea of circle 1 = π(4)² = 16π \n\nArea of circle 2 = π(3)² = 9π \n\nAccording to the question,\n\nArea of new circle = 16π + 9π  = 25π \n\nLet, the radii of new circle = R\n\nNow,\n\n⇒ πR² = 4 × 25π \n⇒ R² = 100\n⇒ R = 10 cm\n\nSo, Diameter = 2 × R = 2 × 10 = ^^20 cm^^\n\n∴ The diameter of the circle is 20 cm.",
-    "explanation_block_uid": "DPMnnkNad",
-    "tags": [
-      "sides areas and volumes",
-      "circle",
-      "SSC CHSL",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "KmaNlajCF",
-    "question": "A circular wire of diameter 56 cm is folded in the shape of a rectangle whose sides are in the ratio of 7 ∶ 4. The area enclosed by the rectangle is:\n(Take π = 22/7)  ??",
-    "options": [
-      "1782 cm²",
-      "1842 cm²",
-      "1684 cm²",
-      "1792 cm²"
-    ],
-    "correct_option_index": 3,
-    "explanation": "Diameter of wire = 56 cm\nRatio of rectangle sides = 7 ∶ 4\n\nFormula used\nPerimeter of rectangle = 2(length + breadth)\nCircumference of circle = 2πr\nArea of rectangle = length × breadth\n\nCalculation\nlet the sides of the rectangle be 7x and 4x\nCircumference of circle = Perimeter of rectangle\n2πr = 2(7x + 4x)\n⇒ 2 × (22/7) × 28 = 2(11x)\n⇒ 2 × 22 × 4 = 22x\n⇒ x = 8\nArea of rectangle = 7(8) ×  4(8)\n⇒ 56 × 32\n⇒ 1792 cm²\n\n∴ Area of rectangle is 1792 cm2",
-    "explanation_block_uid": "TqBoda1Mq",
-    "tags": [
-      "sides areas and volumes",
-      "circle",
-      "SSC MTS",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "ii5TRxkW1",
-    "question": "The least number when successively divided by 5, 7, 9, and 5 leaves remainders 3, 4, 7, and 2 respectively. What are the respective remainders if the order of the divisor is reversed?",
-    "options": [
-      "5, 8, 2, 3",
-      "8, 5, 2, 3",
-      "3, 8, 5, 2",
-      "3, 8, 2, 5"
-    ],
-    "correct_option_index": 2,
-    "explanation": "",
-    "explanation_block_uid": "He6u7uQAR",
-    "tags": [
-      "Number System",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "5TVyPKsTe",
-    "question": "5/9th part of the population in a village are males. If 30% of the males are married, the percentage of unmarried females in the total population is ?",
-    "options": [
-      "20 Fr[2/9]",
-      "27 Fr[2/9]",
-      "27 Fr[7/9]",
-      "29 Fr[7/9]"
-    ],
-    "correct_option_index": 2,
-    "explanation": "If a is y % of b then\na = (y/100) × b\n\nCalculation:\nLet the total population be 900 \n⇒ Total male population = (5/9) of 900 = 500\nAlso female population = 900 - 500 = 400\n\nMarried male = 30% of 500 = 150\n\nNumber of married females = Number of married males = 150\n\nNumber of unmarried females \n= 400 - 140 = 250\nThe percentage of unmarried females in the total population is:\n= (250/900)*100 \n^^= 27 Fr[7/9] ^^",
-    "explanation_block_uid": "KcxIR5dGx",
-    "tags": [
-      "Percentage",
-      "UPSC CDS",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "SCCJ3p0ef",
-    "question": "What is the greatest number by which when 156, 181 and 331 are divided, the remainder is 6 in each case?",
-    "options": [
-      "26",
-      "25",
-      "13",
-      "17"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The given numbers are 156, 181 and 331\n\nAfter dividing by the greatest number, the remainder in each case = 6\n\nConcept used:\nThe greatest number that will divide a, b, and c and leaving the same remainder in each case is given by the HCF of \n|a - b|, |b - c|, and |c - a|\n\nCalculation:\n\n|156 - 181| = |- 25| = 25\n\n|181 - 331| = |- 150| = 150\n\n|331 - 156| = 175\n\nPrime factors of 25 = 5 × 5\nPrime factors of 150 = 2 × 3 × 5 × 5\nPrime factors of 175 = 5 × 5 × 7\n\nSo, HCF of 25, 150, and 175 = 5 × 5 = 25\n\n∴ The greatest number is 25",
-    "explanation_block_uid": "rp3uQOB6N",
-    "tags": [
-      "Number System",
-      "SSC CGL",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "yXEe9c29D",
-    "question": "The prices of a scooter and television set are in the ratio 3:2. If a scooter costs Rs. 6000 more than the television set, the price of the scooter is?",
-    "options": [
-      "Rs. 6000",
-      "Rs. 10000",
-      "Rs. 12000",
-      "Rs. 18000"
-    ],
-    "correct_option_index": 3,
-    "explanation": "The  Ratio of the price of a scooter and the television set = 3 : 2 \nThe scooter costs Rs.10000 more than the television set\n\nLet prices of scooter and television be Rs 3x and Rs 2x respectively, \n\nAccording to the question\n3x - 2x  = 6000\n⇒ x = 6000        \n∴ The price of the scooter is 3x;\nx = 6000\n3x = 18000",
-    "explanation_block_uid": "GcTRNGJS7",
-    "tags": [
-      "Ratio and Proportion",
-      "Profit and Loss",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "FHGZEoI15",
-    "question": "The average expenditure of a man for the first five months of a year is Rs.4000 and for the next seven months, it is Rs.5400. He saves Rs.2300 during the year. His average monthly income is?",
-    "options": [
-      "Rs. 5006.33",
-      "Rs. 5004.33",
-      "Rs. 5008.33",
-      "Rs. 5005.33"
-    ],
-    "correct_option_index": 2,
-    "explanation": "Average expenditure for first 5 months  = Rs. 4000\n\nAverage expenditure for next 7 months = Rs. 5400\n\nTotal saving during the year = Rs.2300\n\nConcept used:\n\nTotal amount = Average × Number of months\n\nTotal income = Total expenditure + Total saving\n\nCalculation:\n\nTotal expenditure for first 5 months = Rs. 4000 × 5 = Rs. 20,000\n\nTotal expenditure for last 7 months = Rs. 5400 × 7 = Rs. 37,800\n\nTotal expenditure of 1 year = Rs. 20,000 + Rs. 37,800 = Rs. 57,800\n\nTotal income of 1 year = Rs. 57,800 + Rs. 2300 = Rs. Rs. 60,100\n\nAverage monthly income = Rs. 60,100/12 = Rs. 5008.33\n\n∴ The average monthly income is Rs. 5008.33",
-    "explanation_block_uid": "E28jJS2IM",
-    "tags": [
-      "Percentage",
-      "SSC CHSL",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "amwCEYl7d",
-    "question": "By selling a piece of writing for Rs. 540, a person incurs a loss of 20%. At what price should he sell it so that he makes a profit of 40%?",
-    "options": [
-      "890",
-      "105",
-      "1256",
-      "945"
-    ],
-    "correct_option_index": 3,
-    "explanation": "Loss% if SP is Rs. 540 = 20%\n\nProfit at which SP to be calculated = 40%\n\nFormula used:\n\nSP = CP × [(100 – Loss%)/100]\n\nSP = CP × [(100 + Gain%)/100]\n\nCalculation:\n\n⇒ Rs. 540 = CP × [(100 – 20)/100]\n\n⇒ CP = 540 × (100/80)\n\n⇒ CP = Rs. 675\n\n⇒ New SP= 675 × (140/100)\n\n⇒ Rs. 945\n\n∴ The Selling price is Rs. 945",
-    "explanation_block_uid": "jot31on--",
-    "tags": [
-      "Profit and Loss",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "FEeM8GVix",
-    "question": "The cost price of an article is Rs. 250. A shopkeeper gains 20% by selling it at a discount of 36% on its marked price. What is the marked price (in Rs.) of the article?",
-    "options": [
-      "450",
-      "380.50",
-      "475",
-      "468.75"
-    ],
-    "correct_option_index": 3,
-    "explanation": "The cost price of an article = Rs. 250\n\nGain = 20%\n\nDiscount = 36%\n\nFormula used:\n\nMP = [(100 + Gain%)/(100 – Discount%) × CP]\n\nCalculation:\n\nLet the ratio of CP and MP be (100 – D)% : (100 + Gain)%\n\n⇒ (100 – 36) : (100 + 20)\n\n⇒ 64 : 120\n\nNow,\n\nAccording to the question\n\n⇒ 64% = 250\n\nThen,\n\n⇒ 120% = (250/64 × 120)\n\n⇒ (30,000/64)\n\n⇒ 468.75\n\n∴ The MP of the article is Rs. 468.75",
-    "explanation_block_uid": "cupsri4Cr",
-    "tags": [
-      "Profit and Loss",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "cQrgOFK3A",
-    "question": "If the cost price of an article is Rs. 800 and if a 15% loss is incurred on selling the article, find the selling price ?",
-    "options": [
-      "Rs. 860",
-      "Rs. 760",
-      "Rs. 680",
-      "Rs. 780"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The cost price (CP) of the article is Rs. 800. A 15% loss means the selling price (SP) is 85% of the cost price (because 100% - 15% = 85%).\n\nFirst, calculate 15% of 800:  \n15% of 800 = (15/100) × 800 = 0.15 × 800 = 120.  \nSo, the loss amount is Rs. 120.\n\nNow, subtract this loss from the cost price to get the selling price:  \nSP = CP - loss = 800 - 120 = 680.\n\nAlternatively, directly calculate 85% of 800:  \n85% of 800 = (85/100) × 800 = 0.85 × 800 = 680.\n\nThus, the selling price is Rs. 680.",
-    "explanation_block_uid": "RAfnwF7qX",
-    "tags": [
-      "Profit and Loss",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "7aJykED7J",
-    "question": "373373 is not divisible by ?",
-    "options": [
-      "7",
-      "11",
-      "13",
-      "17"
-    ],
-    "correct_option_index": 3,
-    "explanation": "When as number is in the pattern: ^^abcabc i.e abc-abc ^^\nIt is always divisible by: 1001 (its factors are: 7 11 13)\nThus answers is 17 \n((LGailqVCp))",
-    "explanation_block_uid": "wJIZDmOD-",
-    "tags": [
-      "Number System",
-      "Divisibility",
-      "Aptitude"
-    ],
-    "linked_block_uid": "LGailqVCp",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "G4w-f1YtK",
-    "question": "A train travels at a speed of 75 km per hour. How many kms will it travel in 45 minutes?",
-    "options": [
-      "50 km",
-      "60 km",
-      "56.25 km",
-      "55.5 km"
-    ],
-    "correct_option_index": 2,
-    "explanation": "Speed of train = 75 km/hr\n\nTime travel = 45 minutes\n\nFormula Used:\n\nDistance = speed × times \n\nCalculation:\n\nDistance = 75 km/hr × 45 minutes \n\n⇒ 75 km/hr × (45/60) hr\n\n⇒ 225/4 km\n\n⇒ 56.25 km\n\n∴ 56.25 kms will travel in 45 minutes.",
-    "explanation_block_uid": "_a5TDHzlz",
-    "tags": [
-      "Time Speed and Distance",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "uJwm9cgcR",
-    "question": "The height of a solid cylinder is 30 cm and the diameter of its base is 10 cm. Two identical conical holes each of radius 5 cm and height 12 cm are drilled out. What is the surface area (in cm2) of the remaining solid?",
-    "options": [
-      "430π",
-      "120π",
-      "33π",
-      "230π"
-    ],
-    "correct_option_index": 0,
-    "explanation": "Height of cylinder = 30 cm\n\nRadius of cylinder = 5 cm\n\nHeight of cone = 12 cm\n\nRadius of cone = 5 cm\n\nFormula used:\nThe surface area of cylinder = 2πrh\nThe surface area of cone = πrl\nl2 = h2 + r2\n\nWhere,\nl = slant height of the cone\nh = height\nr = radius\n\nCalculation:\n\nl2 = h2 + r2\n\n⇒ l2 = 122 + 52\n\n⇒ l2 = 144 + 25\n\n⇒ l = 13 cm\n\nThe surface area of the remaining figure = surface area of cylinder + 2 × Curved surface area of the cone\n\n⇒ 2πrh + 2πrl\n\n⇒ 2πr(h + l)\n\n⇒ 2π × 5(30 + 13)\n\n^^⇒ 430π^^\n\n∴ The surface area of the remaining solid is 430π.",
-    "explanation_block_uid": "lcoFbPIsG",
-    "tags": [
-      "pyq",
-      "sides areas and volumes",
-      "cylinder",
-      "SSC",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "YRjp8wFxC",
-    "question": "12 men and 16 boys can do a piece of work in 5 days, while 13 men and 24 boys can do it in 4 days. In how many days can 29 men and 22 boys complete the work?",
-    "options": [
-      "2.5",
-      "2.45",
-      "2.6",
-      "2.4"
-    ],
-    "correct_option_index": 0,
-    "explanation": "Given:\n\n(12 men + 16 boys) can do a piece of work = 5 days\n\n(13 men + 24 boys) can do a piece of work = 4 days\n\nFormula used:\n\nTotal work = efficiency × time\n\nCalculation:\n\nLet, the efficiency of man = M\n\nThe efficiency of boy = B\n\nAccording to the question:\n\n⇒ (12 M + 16 B) × 5 = (13 M + 24 B) × 4\n\n⇒ 60 M - 52 M = 96 B - 80 B\n\n⇒ 8 M = 16 B\n\n⇒ M/B = 2/1\n\nTotal work = (12 M + 16 B) × 5\n\n⇒ {(12 × 2) + (16 × 1)} × 5\n\n⇒ (24 + 16) × 5 = 40 × 5 = 200 units\n\nRequired time to complete the work = 200/{(29 × 2) + (22 × 1)}\n\n⇒ 200/(58 + 22) = 200/80\n\n⇒ 5/2 = 2.5 days\n\n∴ The correct answer is 2.5 days.",
-    "explanation_block_uid": "chybe5Wmp",
-    "tags": [
-      "Time and Work",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "8AmLSOafN",
-    "question": "The ratio between the ages of Kamla and Savitri is 6:5, and the sum of their ages is 44 years. The ratio of their ages after 8 years will be?",
-    "options": [
-      "1 : 2",
-      "9 : 7",
-      "8 : 7",
-      "11 : 10"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The ages of Manu and Bharat are in the ratio = 6 : 5 \n\nTotal age = 44  years \n\nCalculation \n\nLet the ratio be x \n\n6x + 5x = 44\n\n⇒ x = 4 \n\nManu's age after 8 years = 6x + 8 =  32 \n\nBharat's age after 8 years = 5x + 8 = 28 \n\n^^Required ratio = 8 : 7^^\n\n∴ The required answer is 8 : 7",
-    "explanation_block_uid": "d0wUPIRib",
-    "tags": [
-      "Ratio and Proportion",
-      "SSC CHSL",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "oBkeckpuF",
-    "question": "If the diagonal of a square is doubled, then its area will be ?",
-    "options": [
-      "4 times the area of the given square",
-      "equal to the area of the given square",
-      "3 times the area of the given square",
-      "2 times the area of the given square"
-    ],
-    "correct_option_index": 0,
-    "explanation": "Area of square = (Side)^2\n\nArea of the square in terms of diagonal = (diagonal)2/2\n\nCalculation:\n\nLet the side of the diagonal be 'd'\n\n⇒ The original area of square = ( d^2 )/2      ----(1)\n\nWhen the diagonal becomes double,\n\nThen, the new diagonal of the square = 2d\n\n⇒ The new area of the square = (2d)^2 /2\n\n⇒ 4d^2 /2 = 2d^2      ----(2)\n\nComparing (1) and (2), we get\n\nThe new area is ^^4 times the original area of the square.^^\n\n∴ If the diagonal of a square is doubled, then its area will be 4 times the area of the given square",
-    "explanation_block_uid": "UTSEo_Uge",
-    "tags": [
-      "sides areas and volumes",
-      "square",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "-YWmcTTv3",
-    "question": "The sum of two numbers is 216 and their HCF is 27. Find the numbers ?",
-    "options": [
-      "27, 189",
-      "154, 162",
-      "108, 108",
-      "81, 189"
-    ],
-    "correct_option_index": 0,
-    "explanation": "Sum = 216 \n\nHCF = 27\n\nConcept used:\n\nIf we divide two number by their HCF then the quotient will be co - Prime i.e. prime to each other.\n\nCalculation:\n\nLet the numbers be x and y\n\nThen, HCF(x, y) = 27\n\nWe can write the number x = 27p and y = 27q\n\nWhere p and q are the co prime number to each other.\n\nAccording to the question.\n\n⇒ x + y = 216\n\n⇒ 27p + 27q = 216\n\n⇒ p + q = 216/27\n\n⇒ p + q = 8\n\nWe have two condition with us now, \n\n(p + q) is 8 and p and q are co-prime to each other \n\nPossible pair are (1, 7) and (3, 5) both are co prime number\n\nAccording to the given option, (1, 7) co prime pair is satisfied\n\n⇒ x = 27 × 1 = 27\n\n⇒ y = 27 × 7 = 189\n\n∴ The number is 27 and 189.",
-    "explanation_block_uid": "jk1OUwkLs",
-    "tags": [
-      "Number System",
-      "LCM and HCF",
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "TBmAR4CmY",
-    "question": "What is the average of first seven prime numbers (correct to two decimal places)?",
-    "options": [
-      "7.14",
-      "8.76",
-      "7.64",
-      "8.29"
-    ],
-    "correct_option_index": 3,
-    "explanation": "First seven prime numbers are 2, 3, 5, 7, 11, 13 and 17\n\nAverage = (2 + 3 + 5 + 7 + 11 + 13 + 17)/7\n\n⇒ 58/7 = 8.29\n\n∴ The average of first seven prime numbers is 8.29",
-    "explanation_block_uid": "mhHuaQEtQ",
-    "tags": [
-      "Aptitude"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Aptitude"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "0m_akFFP4",
-    "question": "Introducing a boy, a girl said, \"He is the son of the sister of my mother's brother\". How is the boy related to that girl?",
-    "options": [
-      "Cousin",
-      "Uncle",
-      "Father-in-law",
-      "Niece"
-    ],
-    "correct_option_index": 0,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [
-      "Blood Relations",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "Dv5QH2r4r",
-    "question": "Find the odd one:\n2, 3, 5, 7, 12, 17, 19 ??",
-    "options": [
-      "19",
-      "17",
-      "2",
-      "12"
-    ],
-    "correct_option_index": 3,
-    "explanation": "Each of the numbers is a prime number except 12.",
-    "explanation_block_uid": "mi87Rnz8M",
-    "tags": [
-      "Number System",
-      "Coding Decoding",
-      "Number Analogy",
-      "Find Odd One",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "XcYWE8bbE",
-    "question": "Find the odd one:\n835, 734, 642, 751, 853, 981, 532 ??",
-    "options": [
-      "751",
-      "853",
-      "981",
-      "532"
-    ],
-    "correct_option_index": 0,
-    "explanation": "In each number except 751, the difference of third and first digit is the middle one.\n\nLogic is:\nif number = ABC\nThen B = C - A",
-    "explanation_block_uid": "DgRTLe5jc",
-    "tags": [
-      "Coding Decoding",
-      "Number Analogy",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "ZE51JNtiN",
-    "question": "In a certain code language, 'BOOK' is coded as '47', and 'PEN' is coded as '38'. How will 'NOTEPAD' be coded in that language?",
-    "options": [
-      "84",
-      "82",
-      "75",
-      "80"
-    ],
-    "correct_option_index": 3,
-    "explanation": "The logic followed here is: \nSum of Place value + Number of letters in word = Given Code,\n\n'BOOK' is coded as '47'.\nB = 2, O = 15, O = 15, K = 11\n⇒ 2 + 15 + 15 + 11 = 43; \n⇒ 43 + 4 = 47.\n\n'PEN' is coded as '38'.\nP = 16, E = 5, N = 14\n⇒ 16 + 5 + 14 = 35; 35 + 3 = 38.\n\nSimilarly, for 'NOTEPAD', \nN = 14, O = 15, T = 20, E = 5, P = 16, A = 1, D = 4\n⇒ 14 + 15 + 20 + 5 + 16 + 1 + 4 \n= 75; ^^75 + 7 = 82.^^\n\nSo, \"NOTEPAD\" will be coded as \"82\".",
-    "explanation_block_uid": "rPRZ0cKIi",
-    "tags": [
-      "Coding Decoding",
-      "Word Analogy",
-      "SSC MTS",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "f9HHkO3F3",
-    "question": "A man is facing toward the east. He then turns 45° anti-clockwise, again 180° anti-clockwise and then 225° clockwise. In which direction is he facing now?",
-    "options": [
-      "West",
-      "North",
-      "South",
-      "East"
-    ],
-    "correct_option_index": 3,
-    "explanation": "According to given information:",
-    "explanation_block_uid": "IM2xiiKfZ",
-    "tags": [
-      "Direction Based",
-      "SSC CPO",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "597O83h06",
-    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWhat is the position of D ?",
-    "options": [
-      "In the middle",
-      "In the left end",
-      "In the right end",
-      "Second from right end"
-    ],
-    "correct_option_index": 2,
-    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
-    "explanation_block_uid": "iCGGfD5t_",
-    "tags": [
-      "Sitting Arrangement",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "l35osKax1",
-    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWhat is the position of D ?",
-    "options": [
-      "In the middle",
-      "In the left end",
-      "In the right end",
-      "Second from right end"
-    ],
-    "correct_option_index": 2,
-    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
-    "explanation_block_uid": "6uFQRP3H-",
-    "tags": [
-      "Sitting Arrangement",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "hbLGJhTnO",
-    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWhich two are in middle ?",
-    "options": [
-      "A & B",
-      "A & C",
-      "C & F",
-      "A & F"
-    ],
-    "correct_option_index": 1,
-    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
-    "explanation_block_uid": "-g4FEzSCn",
-    "tags": [
-      "Sitting Arrangement",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "bp8g6S8aW",
-    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWho is in the left end ?",
-    "options": [
-      "A",
-      "B",
-      "D",
-      "E"
-    ],
-    "correct_option_index": 1,
-    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
-    "explanation_block_uid": "NciFoXjft",
-    "tags": [
-      "Sitting Arrangement",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "lyJbJacN8",
-    "question": "Six people, A, B, C, D, E, and F are seated in a row facing north.\nOnly two people sit to the right of C.\nOnly two people sit between B and C.\nF sits fourth to the right of B.\nE is an immediate neighbour of A and B.\nWho is in the right end ?",
-    "options": [
-      "A",
-      "D",
-      "B",
-      "E"
-    ],
-    "correct_option_index": 1,
-    "explanation": "See the sitting arrangement:\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fb7g1jokzHH.png?alt=media&token=893c7bd0-b826-40cb-bcd8-4f1aa5963203)",
-    "explanation_block_uid": "NXtHhk3aD",
-    "tags": [
-      "Sitting Arrangement",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "dsrFbTUf4",
-    "question": "If in a certain code YELLOW is written as XFKMNX, how is BORDER coded?",
-    "options": [
-      "APQDSE",
-      "APQDSE",
-      "APQEDS",
-      "APDQSE"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The pattern follows -1 and +1 letter \n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FdH1WjzRUKL.png?alt=media&token=ccb19019-72d9-468b-aaff-5506452e00ef)",
-    "explanation_block_uid": "THf7bdL5z",
-    "tags": [
-      "Coding Decoding",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "yiUGhjU7i",
-    "question": "Select the option in which the numbers share the same relationship as that shared by the given pair of numbers.\n23 − 27 ??",
-    "options": [
-      "15 − 25",
-      "11 − 33",
-      "15 − 45",
-      "11 − 55"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The logic followed here is: \n(Reverse of 1st number - Sum of the digits of 1st number) = 2nd number\n\n23 − 27\n32 - (2 + 3) = 27\n\n15 − 45\n51 - (1 + 5) = 45\n51 - 6 = 45\n\n45 = 45 (LHS = RHS)",
-    "explanation_block_uid": "wjDyK8Z81",
-    "tags": [
-      "Coding Decoding",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "LA_Pha4jw",
-    "question": "Select the option in which the numbers share the same relationship as that shared by the given number-pair.\n8 : 49 ??",
-    "options": [
-      "9 : 87",
-      "12 : 121",
-      "13 : 170",
-      "15 : 211"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The pattern followed is,\n\n8: 49 → 8 – 1 = 7, 72 = 49\n\nSo,\n\n8: 49\n\nSimilarly,\n\nOption 1 → 9: 87 → 9 – 1 = 8, 82 = 64, not 87\n\nOption 2 → 12: 121 → 12 – 1 = 11, 112 = 121\n\nOption 3 → 13: 170 → 13 – 1 = 12, 122 = 144, not 170\n\nOption 4 → 15: 210 → 15 – 1 = 14, 142 = 196, not 211\n\n’12: 121’ share the same relationship as that shared by the given number-pair.\n\nHence, “12: 121” is the correct answer.",
-    "explanation_block_uid": "AMZFj4YaY",
-    "tags": [
-      "Coding Decoding",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "ikv6vC5fd",
-    "question": "In the questions, select the pair in which the numbers are similarly related as in the given pair.\n27 : 9  :_:  \"?:?\" ??",
-    "options": [
-      "64 : 8",
-      "125:5",
-      "135:15",
-      "729:81"
-    ],
-    "correct_option_index": 3,
-    "explanation": "Identify the relationship in the first pair (27:9):\n27 = 3^3\n9 = 3^2\nThus, the relationship is that \nthe first number is the cube of a number (3), \nthe second number is the square of the same number (3).\n\n729 = 9^3\n81 = 9^2",
-    "explanation_block_uid": "EQu5y6bDY",
-    "tags": [
-      "Coding Decoding",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "r4tV4R8CE",
-    "question": "In a code language, if ‘SMILE’ is coded as ‘174’, then how will ‘ZEBRA’ be coded in the same language?",
-    "options": [
-      "144",
-      "156",
-      "168",
-      "172"
-    ],
-    "correct_option_index": 1,
-    "explanation": "Taking the sum of positional values and multiply by 3,\n\nSMILE = 19 + 13 + 9 + 12 + 5 = 58 and 58 × 3 = 174\n\nSimilarly,\n\nZEBRA = 26 + 5 + 2 + 18 + 1 = 52 and 52 × 3 = 156\n\nHence, ‘156’ is the correct answer.",
-    "explanation_block_uid": "O9dA_yTRc",
-    "tags": [
-      "Coding Decoding",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "DMlh5SvYh",
-    "question": "Four children are sitting in a row. A is occupying the seat next to B but not next to C. If C is not sitting next to D, who is occupying the seat adjacent to C?",
-    "options": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "correct_option_index": 1,
-    "explanation": "B is adjacent to C in both the cases.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fj3Pw7m0Ha6.png?alt=media&token=3bc372fb-5016-4810-b225-970c4eff2dd1)",
-    "explanation_block_uid": "EhPSlwgiD",
-    "tags": [
-      "Coding Decoding",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "ZcQ1NCyRA",
-    "question": "Usha runs faster than Kamala, Priti runs slower than Swati, and Swati runs slower than Kamala. Who is the fastest runner?",
-    "options": [
-      "Kamala",
-      "Priti",
-      "Swati",
-      "Usha"
-    ],
-    "correct_option_index": 3,
-    "explanation": "1) Usha runs faster than Kamala.\nUsha > Kamala\n\n\n2) Swati runs slower than Kamala.\nUsha > Kamala > Swati\n\n\n3) Priti runs slower than Swati.\nUsha > Kamala > Swati > Priti\n\nHence, Priti is the slowest runner.",
-    "explanation_block_uid": "LlUIM8wr7",
-    "tags": [
-      "Coding Decoding",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "XKSH0a7ef",
-    "question": "A family consists of six members A, B, C, D, E, F.\nB is the son of C but C is not the mother of B.\nA and C are a married couple.\nE is the brother of C.\nD is the daughter of A.\nF is the brother of A.\n\nHow is A related to B?",
-    "options": [
-      "Mother",
-      "Sister",
-      "Uncle",
-      "Father"
-    ],
-    "correct_option_index": 0,
-    "explanation": "A is mother of B\nCheck the Family Tree\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FEtGaaWfWoI.png?alt=media&token=324186d6-5408-4f99-8601-4fd6ca02c484)",
-    "explanation_block_uid": "JzvwquoSH",
-    "tags": [
-      "Blood Relations",
-      "Reasoning Paragraph Based",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "h2ZwJlTOc",
-    "question": "A family consists of six members A, B, C, D, E, F.\nB is the son of C but C is not the mother of B.\nA and C are a married couple.\nE is the brother of C.\nD is the daughter of A.\nF is the brother of A.\n\nHow is D related to E?",
-    "options": [
-      "Nephew",
-      "Father",
-      "Daughter",
-      "Niece"
-    ],
-    "correct_option_index": 3,
-    "explanation": "D is niece of E. \nCheck the Family Tree\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FEtGaaWfWoI.png?alt=media&token=324186d6-5408-4f99-8601-4fd6ca02c484)",
-    "explanation_block_uid": "YakZEE6QQ",
-    "tags": [
-      "Blood Relations",
-      "Reasoning Paragraph Based",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "gMWYjU-oz",
-    "question": "A family consists of six members A, B, C, D, E, F.\nB is the son of C but C is not the mother of B.\nA and C are a married couple.\nE is the brother of C.\nD is the daughter of A.\nF is the brother of A.\n\nA has how many children?",
-    "options": [
-      "Four",
-      "Three",
-      "Two",
-      "One"
-    ],
-    "correct_option_index": 2,
-    "explanation": "A has two children's: B and D\nCheck the Family Tree\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FEtGaaWfWoI.png?alt=media&token=324186d6-5408-4f99-8601-4fd6ca02c484)",
-    "explanation_block_uid": "e8qBy990j",
-    "tags": [
-      "Blood Relations",
-      "Reasoning Paragraph Based",
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "hldeAk7sE",
-    "question": "Select the option in which the words share the same relationship as that shared by the given pair of words.\nFood : Chef  ?",
-    "options": [
-      "Film : Producer",
-      "Painter : Painting",
-      "Hospital : Doctor",
-      "Farmer : Field"
-    ],
-    "correct_option_index": 0,
-    "explanation": "Chef is a trained professional cook, who is proficient in all aspects of food preparation.\n\nSimilarly,\n\nA producer is a person who oversees film production, plan and coordinate various aspects of film production.\n\n‘Film : Producer’ share the same relationship as that shared by the given pair of words.\n\nHence, “film : producer” is the correct answer.",
-    "explanation_block_uid": "d-uDeax3L",
-    "tags": [
-      "Reasoning"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "65z_BSVfZ",
-    "question": "'Duns' are longitudinal valleys between the ______ and the Shiwaliks ?",
-    "options": [
-      "Greater Himalayas",
-      "Ganga-Brahmaputra Plains",
-      "Lesser Himalayas",
-      "Western Plains"
-    ],
-    "correct_option_index": 2,
-    "explanation": "'Duns' are longitudinal valleys ^^between the Lesser Himalayas and the Shiwaliks^^.\nDun is a local word for valley, particularly an open valley in the Sivaliks or between the Sivaliks and higher Himalayan foothills.\nOther valleys in this region have names like Patli Dun, Kotli Dun, Pinjore Dun in Himachal.\n\nThe longitudinal valley is longitudinal valleys between the lesser Himalayas and Shivalik are known as 'duns' in the west and 'duars' in the east.\nUnlike typical river valleys, duns have a structural origin and are covered with boulders and gravel originating from the erosion of the Himalayas and the Shiwalik uplands.\nMajor duns found in the region are ^^Dehradun^^, Kothri, Chaukham, Patli and Kota.",
-    "explanation_block_uid": "NHOk1hFPr",
-    "tags": [
-      "Himalayas",
-      "SSC CHSL",
-      "Geography",
-      "General Studies"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "General Studies",
-      "Geography"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "h3eH7ie7p",
-    "question": "Which of the following is not an input device?",
-    "options": [
-      "Keyboard",
-      "Mouse",
-      "Printer",
-      "Scanner"
-    ],
-    "correct_option_index": 2,
-    "explanation": "Printer is an output device.\n((l5DILzW_G))",
-    "explanation_block_uid": "EIuxgUIYv",
-    "tags": [
-      "computer",
-      "General Studies"
-    ],
-    "linked_block_uid": "l5DILzW_G",
-    "path_tags": [
-      "General Studies",
-      "computer"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "rN3_Y2DPC",
-    "question": "What does HTML stand for in web development?",
-    "options": [
-      "Hyperlink Text Markup Language",
-      "Hyper Text Management Language",
-      "Hyper Transfer Markup Language",
-      "HyperText Markup Language"
-    ],
-    "correct_option_index": 3,
-    "explanation": "HTML = HyperText Markup Language used for web pages.\n((xBu1M8_Gf))",
-    "explanation_block_uid": "Ibzs0EYCC",
-    "tags": [
-      "computer",
-      "General Studies"
-    ],
-    "linked_block_uid": "xBu1M8_Gf",
-    "path_tags": [
-      "General Studies",
-      "computer"
     ],
     "isPassageBased": false
   }
