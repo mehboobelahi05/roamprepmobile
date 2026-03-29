@@ -4263,6 +4263,19 @@
             "order": 0,
             "string": "**Babur (1526 - 1530)**\n▪️ Real name: Zahir-ud-din Muhammad Babur (Babur means \"Tiger\" in Persian).\n▪️ Lineage: Descendant of Timur (on his father's side) and Genghis Khan (on his mother's side).\n▪️ Born in Fergana Valley (present-day Uzbekistan).\n▪️ Became ruler of Fergana at the age of 12 (1494) but was repeatedly driven out of his Central Asian kingdom by the Uzbeks.\n▪️ Capital: Established a kingdom in **Kabul** (Afghanistan) in 1504, which served as his base for invading India (his tomb is also in Kabul)\n\n**Conquest and Founding the Empire (1526-1530)**\n▪️ Invited to India by discontented local rulers like Daulat Khan Lodi.\n**First Battle of Panipat (1526):**\n▪️ Opponent: Ibrahim Lodi, the last Sultan of the Delhi Sultanate.\n▪️ Result: Decisive victory for Babur. This battle marked the foundation of the Mughal Empire in India.\n\n**Battle of Khanwa (1527):**\n▪️ Opponent: Rana Sanga of Mewar and a confederacy of Rajput rulers.\n▪️ Result: Babur won, establishing Mughal supremacy over the powerful Rajput states and consolidating his position in northern India.\n\n▪️ Battle of Chanderi (1528) and Battle of Ghagra (1529) against Afghan rebels.\n▪️ Reign in India: Ruled the new empire for a short period, from 1526 to his death in 1530.\n▪️ Autobiography: Wrote his famous memoirs, the Tuzuk-i-Baburi (or Baburnama), in the Chaghatai Turkic language.\n\n▪️ Introduced new military tactics and technologies.\n▪️ Known for his love of nature and established formal Persian-style gardens (e.g., Aram Bagh in Agra).\n▪️ Died in Agra in 1530 and was succeeded by his son, Humayun. \n▪️ His body was later moved and buried in Kabul as per his wish. Thus his tomb is in Kabul",
             "uid": "DMWW1VYY6"
+          },
+          {
+            "children": [
+              {
+                "order": 0,
+                "string": "**1526: First Battle of Panipat**\n⇒ The battle took place between Babur and Ibrahim Lodi, and in this Babur defeated Ibrahim Lodi, establishing the Mughal Empire in India.\n\n**1527: Battle of Khanwa**\n⇒ The battle took place between Babur and Rana Sanga of Mewar, and in this Babur defeated the Rajput confederacy to consolidate his power.\n\n**1528: Battle of Chanderi**\n⇒ The battle took place between Babur and Medini Rai, and in this Babur defeated the Rajput forces at the Chanderi fort.\n\n**1529: Battle of Ghagra**\n⇒ The battle took place between Babur and the Afghan Chiefs (led by Mahmud Lodi), and in this Babur defeated the Afghans, securing the eastern borders of his kingdom.",
+                "uid": "tx6Bp0c1H"
+              }
+            ],
+            "heading": 3,
+            "order": 1,
+            "string": "Battles of Babur (1526–1530)",
+            "uid": "PsskrCEhO"
           }
         ],
         "heading": 3,
@@ -4271,8 +4284,24 @@
         "uid": "OKDxCpR6B"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "order": 0,
+                "string": "**1532: Battle of Dadrah**\n⇒ The battle took place between Humayun and Mahmud Lodi, and in this Humayun defeated the Afghan forces.\n\n**1539: Battle of Chausa**\n⇒ The battle took place between Sher Shah Suri and Humayun, and in this Sher Shah Suri defeated Humayun, forcing him to flee.\n\n**1540: Battle of Kanauj (Bilgram)**\n⇒ The battle took place between Sher Shah Suri and Humayun, and in this Sher Shah Suri defeated Humayun again, leading to Humayun's 15-year exile from India.\n\n**1555: Battle of Sirhind**\n⇒ The battle took place between Humayun and the forces of Sikandar Shah Suri, and in this Humayun defeated the Suri army to reclaim the throne of Delhi.",
+                "uid": "vWggz4SNH"
+              }
+            ],
+            "heading": 3,
+            "order": 0,
+            "string": "Battled by Humayun",
+            "uid": "o1bgFhblj"
+          }
+        ],
+        "heading": 3,
         "order": 1,
-        "string": "This is Mughals Data .. Will be added soon",
+        "string": "Humayun ( 1530-40 & 1555-56) ",
         "uid": "A2DYrzaub"
       },
       {
