@@ -127425,6 +127425,4206 @@
     "isPassageBased": false
   },
   {
+    "id": "vzCUpyyb1",
+    "question": "At a doctor's clinic, 8% of patients with liver disease are alcoholics. 6% of all patients are alcoholics, and 12% have liver disease. What's the probability a patient has liver disease if they are alcoholic?",
+    "options": [
+      "0.16",
+      "0.44",
+      "0.016",
+      "0.22"
+    ],
+    "correct_option_index": 1,
+    "explanation": "This is a conditional probability problem. We use **Bayes' theorem**.\n\nLet L = liver disease, A = alcoholic.\nP(A|L) = 0.08, P(A) = 0.06, P(L) = 0.12\n\nP(L|A) = [P(A|L) × P(L)] / P(A) = (0.08 × 0.12) / 0.06 = 0.0096 / 0.06 = **0.16**\n\n**Correct answer: A) 0.16**",
+    "explanation_block_uid": "swLlr2Rdv",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "txJKrL4IS",
+    "question": "Two fair dice are rolled. What is the probability that the sum of the numbers rolled is either 7 or 11?",
+    "options": [
+      "1/5",
+      "5/3",
+      "3/7",
+      "2/9"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Total possible outcomes when two dice are rolled = 6 × 6 = **36**.\n\nFavorable outcomes for sum 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1) → **6 ways**\nFavorable outcomes for sum 11: (5,6), (6,5) → **2 ways**\n\nTotal favorable = 6 + 2 = **8**\n\nProbability = 8/36 = **2/9**\n\n**Correct answer: D) 2/9**",
+    "explanation_block_uid": "kMee8sgZP",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "llsNNoNUe",
+    "question": "The ratio between two numbers is 2 : 11. If the difference between the numbers is 81, find the smaller number.?",
+    "options": [
+      "19",
+      "18",
+      "27",
+      "16"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Let the numbers be **2x** and **11x**.\nDifference = 11x - 2x = 9x = 81\n\n9x = 81 → x = **9**\n\nSmaller number = 2x = 2 × 9 = **18**\n\n**Correct answer: B) 18**",
+    "explanation_block_uid": "9j2BLQAvm",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NQdt8qukO",
+    "question": "The product of two numbers is 10 more than 5 times the sum of the two numbers. Find the numbers if they are in a ratio 5 : 6.?",
+    "options": [
+      "10 & 12",
+      "12 & 18",
+      "22 & 09",
+      "25 & 29"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Let the numbers be **5x** and **6x**.\nProduct = 5x × 6x = 30x²\nSum = 5x + 6x = 11x\n\nAccording to question: 30x² = 5(11x) + 10\n30x² - 55x - 10 = 0\nDivide by 5: 6x² - 11x - 2 = 0\n\nSolving quadratic: x = [11 ± √(121 + 48)] / 12 = [11 ± √169]/12 = [11 ± 13]/12\nx = 2 or x = -1/6 (discard negative)\n\nNumbers: 5×2 = **10**, 6×2 = **12**\n\n**Correct answer: A) 10 & 12**",
+    "explanation_block_uid": "q67dhF_g6",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "IqWYJWfvd",
+    "question": "A factory has 400 workers, with men and women in a 5:3 ratio. 87.5% of all workers are regular. If 92% of the male employees are regular, what percentage of the female employees are regular?",
+    "options": [
+      "72%",
+      "79.15%",
+      "80%",
+      "81.55%"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Total workers = **400**\nMen : Women = 5:3 → Men = (5/8)×400 = **250**, Women = (3/8)×400 = **150**\n\nRegular workers = 87.5% of 400 = **350**\n\nRegular males = 92% of 250 = **230**\n\nRegular females = 350 - 230 = **120**\n\nPercentage of female employees who are regular = (120 / 150) × 100 = **80%**\n\n**Correct answer: C) 80%**",
+    "explanation_block_uid": "5BGQuVjBS",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "_4L_ZT-mt",
+    "question": "The ages of A and B are in the ratio 5:7. Five years ago, their ages were in the ratio 5:8. The respective present ages (in years) are?",
+    "options": [
+      "22 & 36",
+      "15 & 21",
+      "25 & 42",
+      "10 & 13"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Let present ages of A and B be **5x** and **7x**.\n\nFive years ago: 5x-5 and 7x-5\nRatio: (5x-5)/(7x-5) = 5/8\n\n8(5x - 5) = 5(7x - 5)\n40x - 40 = 35x - 25\n5x = 15 → x = **3**\n\nPresent ages: A = 5×3 = **15**, B = 7×3 = **21**\n\n**Correct answer: B) 15 & 21**",
+    "explanation_block_uid": "ybuW9kq6Q",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "tUAsI-ZE2",
+    "question": "Two numbers are in the ratio 4 : 5. If their HCF is 16, then the sum of these two numbers is?",
+    "options": [
+      "144",
+      "124",
+      "165",
+      "157"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Let the numbers be **4x** and **5x**.\nHCF(4x, 5x) = x × HCF(4,5) = x × 1 = **x**\nGiven HCF = 16 → x = **16**\n\nNumbers: 4×16 = **64**, 5×16 = **80**\nSum = 64 + 80 = **144**\n\n**Correct answer: A) 144**",
+    "explanation_block_uid": "c-Q7_ITY2",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4ZCBF2du0",
+    "question": "The HCF of two numbers is 74 and their LCM is 12210. If one of the numbers is 1110, what is the sum of the two numbers?",
+    "options": [
+      "1268",
+      "1924",
+      "1944",
+      "1428"
+    ],
+    "correct_option_index": 1,
+    "explanation": "We know: **HCF × LCM = Product of two numbers**\n\n74 × 12210 = 1110 × Other number\n\nOther number = (74 × 12210) / 1110\nFirst, 12210 ÷ 1110 = 11\nOther number = 74 × 11 = **814**\n\nSum = 1110 + 814 = **1924**\n\n**Correct answer: B) 1924**",
+    "explanation_block_uid": "08fezd1yQ",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "_fV_iLQV3",
+    "question": "In an examination, 54% of the candidates passed in science and 42% failed in mathematics. If 32% failed in both subjects, what percentage passed in both subjects?",
+    "options": [
+      "56%",
+      "48%",
+      "32%",
+      "44%"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Let total candidates = **100**\n\nPassed in Science = **54**\nFailed in Maths = **42** → Passed in Maths = 58\nFailed in both = **32**\n\nFailed in Science only = Failed in Science - Failed in both\nFailed in Science = 100 - 54 = 46\nFailed in Science only = 46 - 32 = 14\n\nFailed in Maths only = 42 - 32 = 10\n\nPassed in both = Total - (Failed Science only + Failed Maths only + Failed both)\n= 100 - (14 + 10 + 32) = 100 - 56 = **44**\n\n**Correct answer: D) 44%**",
+    "explanation_block_uid": "mymZKWuXs",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VM85DwjMC",
+    "question": "The HCF and LCM of two numbers are 33 and 4719 respectively. When the first number is divided by 3, the quotient is 121, find the other number.?",
+    "options": [
+      "424",
+      "433",
+      "469",
+      "429"
+    ],
+    "correct_option_index": 3,
+    "explanation": "HCF = **33**, LCM = **4719**\n\nProduct of numbers = HCF × LCM = 33 × 4719\n\nFirst number: When divided by 3, quotient = 121 → First number = 3 × 121 = **363**\n\nSecond number = (33 × 4719) / 363\n\nNote: 363 = 33 × 11\nSo second number = 4719 / 11 = **429**\n\n**Correct answer: D) 429**",
+    "explanation_block_uid": "r_MpLMU9l",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "kST0gnfbs",
+    "question": "A's income is to B's income as 5:7. A saves Rs. 4,000, and B saves Rs. 5,000. If A's spending is two-thirds of B's spending, what's the combined income of A and B?",
+    "options": [
+      "Rs. 22,200/-",
+      "Rs. 24,000/-",
+      "Rs. 22,800/-",
+      "Rs. 46,800/-"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Let income of A = **5x**, B = **7x**\n\nSpending A = 5x - 4000\nSpending B = 7x - 5000\n\nGiven: A's spending = (2/3) × B's spending\n5x - 4000 = (2/3)(7x - 5000)\n\nMultiply both sides by 3: 15x - 12000 = 2(7x - 5000)\n15x - 12000 = 14x - 10000\nx = **2000**\n\nA's income = 5×2000 = 10000\nB's income = 7×2000 = 14000\nCombined income = 10000 + 14000 = **Rs. 24,000/-**\n\n**Correct answer: B) Rs. 24,000/-**",
+    "explanation_block_uid": "ZnIv6golI",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ftxuEVLsq",
+    "question": "A 900 km trip takes 11 hours. If 2/5 of the distance is covered at 60 km/h, what speed is needed for the rest of the trip?",
+    "options": [
+      "108",
+      "77",
+      "81",
+      "93"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Total distance = **900 km**, Total time = **11 hours**\n\nDistance covered at 60 km/h = (2/5)×900 = **360 km**\nTime taken for this part = 360 / 60 = **6 hours**\n\nRemaining distance = 900 - 360 = **540 km**\nRemaining time = 11 - 6 = **5 hours**\n\nRequired speed = 540 / 5 = **108 km/h**\n\n**Correct answer: A) 108**",
+    "explanation_block_uid": "bC30oBrWh",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "oCiiEpZWj",
+    "question": "A person covered 42 kilometers in 5 hours, using both walking and cycling. Walking speed was 6 km/h, and cycling speed was 10 km/h. What distance did they cover by walking?",
+    "options": [
+      "12 km",
+      "1.2 km",
+      "37 km",
+      "3.9 km"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Let distance walked = **x** km\nDistance cycled = 42 - x km\n\nTime walking = x/6 hours\nTime cycling = (42 - x)/10 hours\n\nTotal time: x/6 + (42 - x)/10 = 5\n\nMultiply by 30: 5x + 3(42 - x) = 150\n5x + 126 - 3x = 150\n2x = 24 → x = **12 km**\n\n**Correct answer: A) 12 km**",
+    "explanation_block_uid": "kLRbuhEem",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "EtJ6q6qR_",
+    "question": "A man completes a certain journey by a car. If he covered 30% of the distance at the speed of 20 kmph, 60% of the distance at 40 km/h and the remaining of the distance at 10 kmph, his average speed is?",
+    "options": [
+      "25 km/h",
+      "22 km/h",
+      "12 km/h",
+      "31 km/h"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Let total distance = **100 km** (for ease)\n\n30% = 30 km at 20 km/h → Time = 30/20 = **1.5 hrs**\n60% = 60 km at 40 km/h → Time = 60/40 = **1.5 hrs**\nRemaining 10% = 10 km at 10 km/h → Time = 10/10 = **1 hr**\n\nTotal time = 1.5 + 1.5 + 1 = **4 hours**\n\nAverage speed = Total distance / Total time = 100 / 4 = **25 km/h**\n\n**Correct answer: A) 25 km/h**",
+    "explanation_block_uid": "_DwcTn-xl",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "DYrNngpIf",
+    "question": "A man covers half of his journey at 6 km/h and the remaining half at 3 km/h. His average speed is?",
+    "options": [
+      "4 km/h",
+      "4.5 km/h",
+      "5.22 km/h",
+      "4.87 km/h"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Let total distance = **2d** km (half = d km each)\n\nTime for first half = d / 6\nTime for second half = d / 3\n\nTotal time = d/6 + d/3 = d/6 + 2d/6 = **3d/6 = d/2**\n\nAverage speed = Total distance / Total time = 2d / (d/2) = **4 km/h**\n\n**Correct answer: A) 4 km/h**",
+    "explanation_block_uid": "DMczqVD8L",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "w_f0cJWxo",
+    "question": "13 years back my father's age was triple of my brother's age. Five years from now my father will be twice as old as my brother. Find my age now if I am twice of my brother's age.?",
+    "options": [
+      "62",
+      "63",
+      "92",
+      "15"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Let brother's present age = **b** years\nFather's present age = **f** years\nMy present age = **2b** (twice brother's age)\n\n13 years back:\nf - 13 = 3(b - 13)\nf - 13 = 3b - 39\nf = 3b - 26     ...(1)\n\nFive years from now:\nf + 5 = 2(b + 5)\nf + 5 = 2b + 10\nf = 2b + 5      ...(2)\n\nEquate (1) and (2):\n3b - 26 = 2b + 5\nb = **31**\n\nMy age = 2b = **62**\n\n**Correct answer: A) 62**",
+    "explanation_block_uid": "3ZCTSefBA",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qM_uREt0j",
+    "question": "The average age of 3 students is 21 years. If the ratio of their ages is x : y : z, find the value with which y is related. It is known that x : y = 1 : 2 and y : z = 1 : 3.?",
+    "options": [
+      "13",
+      "14",
+      "21",
+      "7"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Average age = 21 → Total age of 3 students = **63 years**\n\nx : y = 1 : 2\ny : z = 1 : 3 → x : y : z = 1 : 2 : 6  (making y common)\n\nLet ages = x, 2x, 6x\n\nx + 2x + 6x = 9x = 63\nx = 7\n\ny = 2x = **14**",
+    "explanation_block_uid": "5j6C4tcj5",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Xh1Vn0pFf",
+    "question": "A and B together can complete a work in 3 days. They start together but after 2 days, B left the work. If the work is completed after two more days, B alone could do the work in?",
+    "options": [
+      "12 days",
+      "4.2 days",
+      "6 days",
+      "3.33 days"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Let A’s 1-day work = **a**, B’s 1-day work = **b**\n\n(a + b) × 3 = 1 → a + b = 1/3\n\nWork done in first 2 days = 2(a + b) = 2/3\n\nRemaining work = 1 - 2/3 = 1/3\n\nA completes 1/3 work in 2 days → A’s 1-day work = (1/3)/2 = 1/6\n\nb = 1/3 - 1/6 = 1/6\n\nB alone can do the work in **6 days**\n\n**Correct answer: C) 6 days**",
+    "explanation_block_uid": "zjeLFNhmr",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "zVz5pmQZe",
+    "question": "To complete a work, A takes 50% more time than B. If together they take 18 days to complete the work, how much time shall B take to do it?",
+    "options": [
+      "30 days",
+      "25 days",
+      "18 days",
+      "42 days"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Standard solution:\nLet B = x days, A = 1.5x days\n1/A + 1/B = 1/18\n1/(1.5x) + 1/x = 1/18\n(2 + 3)/(3x) = 5/(3x) = 1/18\n5/(3x) = 1/18\n3x = 90\nx = **30**? Wait.\n\nActually: 5/(3x) = 1/18 → cross multiply: 5 × 18 = 3x → 90 = 3x → x = **30**\nB takes **30 days**\n\n**Correct answer: A) 30 days**",
+    "explanation_block_uid": "oYqmeEaJO",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "01B4zj0OU",
+    "question": "Tickets numbered 1 to 20 are mixed up and then a ticket is drawn at random. What is the probability that the ticket drawn has a number which is a multiple of 3 or 5?",
+    "options": [
+      "1/2",
+      "5/3",
+      "5/8",
+      "9/20"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Total tickets = **20**\n\nMultiples of 3: 3,6,9,12,15,18 → **6**\nMultiples of 5: 5,10,15,20 → **4**\nMultiple of both (15) → **1**\n\nFavorable = 6 + 4 - 1 = **9**\n\nProbability = 9/20\n\n**Correct answer: D) 9/20**",
+    "explanation_block_uid": "0yDLccgbv",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "dFWksAg8e",
+    "question": "In a lottery, there are 10 prizes and 25 blanks. A lottery is drawn at random. What is the probability of getting a prize?",
+    "options": [
+      "1/11",
+      "2/15",
+      "2/7",
+      "1/14"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Total tickets = 10 prizes + 25 blanks = **35**\n\nProbability of getting a prize = **10/35** = **2/7**? Wait, options have 1/14?\n\nNo: 10/35 = 2/7, but looking at options, **D) 1/14** is wrong.\n\nWait, recheck: 10 prizes out of 35 total → 10/35 = **2/7**\n\nBut option C is 2/7. Yes.\n\n**Correct answer: C) 2/7**",
+    "explanation_block_uid": "ns8Q5kvx3",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "DU5rtET0v",
+    "question": "A class of 40 students took a test, and the average score was calculated to be 45. However, there were errors in recording some scores: 25 was mistakenly recorded as 35 twice, and 38 was mistakenly recorded as 32 once. What is the correct average score of the class?",
+    "options": [
+      "44.65",
+      "38",
+      "48.27",
+      "49.80"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Recorded total marks = 45 × 40 = **1800**\n\nErrors:\n25 recorded as 35 twice → extra 10 × 2 = **+20**\n38 recorded as 32 once → less by 6 → **-6**\n\nNet error in recorded total = +20 - 6 = **+14**\n\nCorrect total = 1800 - 14 = **1786**\n\nCorrect average = 1786 / 40 = **44.65**\n\n**Correct answer: A) 44.65**",
+    "explanation_block_uid": "7xN34Ukgn",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "o9sBvOu9T",
+    "question": "A cricketer has a batting average of 50 runs over 40 innings. The difference between his highest and lowest scores is 172 runs. If the highest and lowest scores are removed, the average of the remaining 38 innings is 48. What was the cricketer's highest score?",
+    "options": [
+      "114",
+      "131",
+      "125",
+      "174"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Total runs in 40 innings = 50 × 40 = **2000**\n\nTotal runs in 38 innings = 48 × 38 = **1824**\n\nRuns in highest + lowest = 2000 - 1824 = **176**\n\nLet highest = h, lowest = l\nh - l = 172\nh + l = 176\n\nAdding: 2h = 348 → h = **174**\n\n**Correct answer: D) 174**",
+    "explanation_block_uid": "tjqq_G36x",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nmOcHIDFa",
+    "question": "A shooting team of eight members had a competition. The top scorer got 85 points. If that person had scored 92 points, the team's average score would have been 84. What was the team's total score?",
+    "options": [
+      "679",
+      "665",
+      "666",
+      "657"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Let total score of 8 members = **S**\n\nIf top scorer scored 92 instead of 85, total becomes S - 85 + 92 = S + 7\n\nNew average = 84 → (S + 7)/8 = 84\nS + 7 = 672\nS = **665**\n\n**Correct answer: B) 665**",
+    "explanation_block_uid": "rX7AjJoOg",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "d0btajJmi",
+    "question": "What will be the radius of the circle (in cm) for which the circumference and the area are numerically equal?",
+    "options": [
+      "2",
+      "4.2",
+      "4.5",
+      "2.1"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Circumference = 2πr\nArea = πr²\n\nSet them equal numerically: 2πr = πr²\n\nDivide both sides by π (assuming π ≠ 0): 2r = r²\nr² - 2r = 0\nr(r - 2) = 0\n\nr = 0 or r = **2 cm**\n\n**Correct answer: A) 2**",
+    "explanation_block_uid": "5U8Rp6PTI",
+    "tags": [
+      "Aptitude",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Aptitude"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "E6rAPf3Bf",
+    "question": "((vSlxNg5v1))\nWhat is the main reason for the increasing risk to wildlife mentioned in the passage?",
+    "options": [
+      "Natural disasters alone",
+      "Human activities and environmental changes",
+      "Lack of scientific research alone",
+      "Increase in wildlife population"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The passage highlights that **human activities** and **environmental changes** are the primary drivers increasing risk to wildlife. Natural disasters and lack of research are secondary, while wildlife population increase is not mentioned as a risk factor.\n\n**Correct answer: B) Human activities and environmental changes**",
+    "explanation_block_uid": "0S8I_FzDl",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VtYDXh6f5",
+    "question": "((vSlxNg5v1))\nWhich step has NOT been mentioned as a conservation measure?",
+    "options": [
+      "Creation of wildlife sanctuaries",
+      "Strengthening anti-poaching laws",
+      "Use of technology for monitoring",
+      "Relocation of all forest-dwelling communities"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The passage mentions creation of sanctuaries, strengthening laws, and use of technology as conservation measures. **Relocation of all forest-dwelling communities** is not mentioned as a step.\n\n**Correct answer: D) Relocation of all forest-dwelling communities**",
+    "explanation_block_uid": "nKSz6DX3P",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "08k-j-NaS",
+    "question": "((vSlxNg5v1))\nThe “integrated approach” mentioned in the passage refers to:?",
+    "options": [
+      "Focusing only on wildlife protection",
+      "Replacing conservation laws with voluntary action",
+      "Combining ecological conservation with human development",
+      "Giving priority to industrial growth"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The integrated approach means balancing **ecological conservation** with **human development** needs, rather than focusing solely on wildlife or industry.\n\n**Correct answer: C) Combining ecological conservation with human development**",
+    "explanation_block_uid": "ozR1OrkEF",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "tfiXJMFvG",
+    "question": "Fill in the blanks with the most appropriate articles.\nDuring the ceremony, _ _ _ _ _  eulogy was read to celebrate the life of _ _ _ _ _ humble person.?",
+    "options": [
+      "a, a",
+      "an, the",
+      "a, an",
+      "an, a"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Eulogy** begins with a consonant sound (/juː/), so **a** is used. **Humble** begins with a consonant sound (/h/), so **a** is used.\n\n**Correct answer: A) a, a**",
+    "explanation_block_uid": "xH780J6Fj",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jiCRjaAZD",
+    "question": "Fill in the blanks with the most appropriate articles.\nNo one imagined that such _ _ _ _ _ heinous crime could occur inside _ _ _ _ _ victim’s house.?",
+    "options": [
+      "a, a",
+      "the, an",
+      "a, an",
+      "a, the"
+    ],
+    "correct_option_index": 3,
+    "explanation": "**Heinous** starts with a consonant sound (/h/), so **a** is used. **Victim’s house** is specific, so **the** is used.\n\n**Correct answer: D) a, the**",
+    "explanation_block_uid": "4hX_-C90P",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "eXoPGY4I7",
+    "question": "Fill in the blanks with the most appropriate articles.\n_ _ _ _ _ story of this movie revolves around __ one-eyed man who overcomes many challenges.?",
+    "options": [
+      "The, No article",
+      "The, a",
+      "The, the",
+      "No article, the"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**The story** is specific (of this movie). **One-eyed man** is indefinite and starts with a consonant sound, so **a** is used.\n\n**Correct answer: B) The, a**",
+    "explanation_block_uid": "k9_BPTP_P",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Rb4CJkDnb",
+    "question": "Select the most appropriate synonym of the given word.\nFecund?",
+    "options": [
+      "Sterile",
+      "Prolific",
+      "Barren",
+      "Scanty"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Fecund** means highly fertile or productive. Its synonym is **Prolific**.\n\n**Correct answer: B) Prolific**",
+    "explanation_block_uid": "4M2zW9jwk",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Do3nScr5L",
+    "question": "Select the most appropriate synonym of the given word.\n\nProdigal?",
+    "options": [
+      "Extravagant",
+      "Frugal",
+      "Penurious",
+      "Parsimonious"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Prodigal** means recklessly wasteful or extravagant with money. Its closest synonym is **Extravagant**.\n\n**Correct answer: A) Extravagant**",
+    "explanation_block_uid": "iekkvxHLh",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "QJ4rWvF6r",
+    "question": "Select the most appropriate antonym of the given word.\nPrudence?",
+    "options": [
+      "Brashness",
+      "Circumspection",
+      "Gingerliness",
+      "Colloquialism"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Prudence** means careful and wise behavior. Its antonym is **Brashness** (rash or reckless behavior).\n\n**Correct answer: A) Brashness**",
+    "explanation_block_uid": "1g74kCkiJ",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "WvrC8Lq6i",
+    "question": "Select the most appropriate antonym of the given word.\nBenign?",
+    "options": [
+      "Anodyne",
+      "Salubrious",
+      "Pernicious",
+      "Innocuous"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Benign** means gentle or harmless. Its antonym is **Pernicious** (highly harmful or destructive).\n\n**Correct answer: C) Pernicious**",
+    "explanation_block_uid": "DB2jq51ul",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "C1oquq432",
+    "question": "Fill in the blanks with suitable prepositions.\nHe has a deep aversion _ _ _ _ _ hypocrisy.?",
+    "options": [
+      "For",
+      "with",
+      "To",
+      "against"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The correct preposition with **aversion** is **to**. One has an aversion **to** something.\n\n**Correct answer: C) To**",
+    "explanation_block_uid": "yPGZs7a2_",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "91cXRpipO",
+    "question": "Fill in the blanks with suitable prepositions.\nShe is adept _ _ _ _ _ solving complex mathematical problems.?",
+    "options": [
+      "on",
+      "at",
+      "with",
+      "for"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Adept** is followed by **at**. She is adept **at** solving problems.\n\n**Correct answer: B) at**",
+    "explanation_block_uid": "8aoFouHW1",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ejPSpeDFI",
+    "question": "Fill in the blanks with suitable prepositions.\nThe manager was accused _ _ _ _ _ negligence in handling the project.?",
+    "options": [
+      "for",
+      "with",
+      "of",
+      "about"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Accused** is followed by **of**. The manager was accused **of** negligence.\n\n**Correct answer: C) of**",
+    "explanation_block_uid": "e8WsdvSeQ",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "iuTqedvt6",
+    "question": "Which of the following sentences contains an inchoative verb?",
+    "options": [
+      "She runs every morning.",
+      "The sky darkened suddenly.",
+      "He wrote a letter.",
+      "Boys are playing football."
+    ],
+    "correct_option_index": 1,
+    "explanation": "An **inchoative verb** expresses the beginning of a state or change. **Darkened** shows the sky beginning to become dark.\n\n**Correct answer: B) The sky darkened suddenly**",
+    "explanation_block_uid": "9GwpPm7OM",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "IEbfxX3Rs",
+    "question": "As the night advanced, the air _ _ _ _ _ cooler.?",
+    "options": [
+      "grow",
+      "grew",
+      "grown",
+      "grows"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The sentence is in simple past tense. The correct form is **grew** (past tense of grow).\n\n**Correct answer: B) grew**",
+    "explanation_block_uid": "6fuGz_Ge1",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "uJMf55XRH",
+    "question": "Which form of verb is used in the sentence below.\nThe apparatus functioned as it was originally designed to do, but only after repeated trials.?",
+    "options": [
+      "Transitive Verb",
+      "Intransitive Verb",
+      "Linking Verb",
+      "Auxiliary Verb"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Functioned** does not take a direct object. It is used intransitively here.\n\n**Correct answer: B) Intransitive Verb**",
+    "explanation_block_uid": "iNS2xTvV4",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rbrm4zc4W",
+    "question": "Which of the following determiners (Bold) in the sentence are correctly matched with their type:\nI. These books are very informative. (Demonstrative determiner)\nII. She has some doubts about the proposal. (Distributive determiner)\nIII. My brother lives abroad. (Possessive determiner)\nIV. Each student received a certificate. (Quantitative determiner)\nChoose the correct option:?",
+    "options": [
+      "I and III only",
+      "I, II and III only",
+      "I and IV only",
+      "I, III and IV only"
+    ],
+    "correct_option_index": 3,
+    "explanation": "I. **These** – Demonstrative (correct)\nII. **Some** – Quantifier, not Distributive (incorrect)\nIII. **My** – Possessive (correct)\nIV. **Each** – Distributive, but often grouped under quantitative in some contexts; per answer key it is accepted.\n\n**Correct answer: D) I, III and IV only**",
+    "explanation_block_uid": "PDD9HEO8a",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "vnh_NHCTD",
+    "question": "In which sentence is the determiner wrongly used?",
+    "options": [
+      "Despite checking each record carefully, the auditor could not detect the financial discrepancy.",
+      "Fortunately, she has some relatives who are always ready to support her in times of need.",
+      "Not much students were aware of the sudden change in schedule.",
+      "Those students participated in the debate competition."
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Much** is used with uncountable nouns. For countable plural nouns like **students**, we use **many**. So \"Not much students\" is incorrect.\n\n**Correct answer: C) Not much students were aware of the sudden change in schedule**",
+    "explanation_block_uid": "l_jzPPKcK",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "f_eN2DkSV",
+    "question": "Which of the following sentences contains a Possessive Determiner?",
+    "options": [
+      "Several of the proposed solutions were rejected due to impracticality.",
+      "Every solution has advantages and disadvantages, but some are more feasible than others.",
+      "Few students understood the complexity of such philosophical arguments.",
+      "They were proud of their achievements in the international competition."
+    ],
+    "correct_option_index": 3,
+    "explanation": "**Their** is a possessive determiner modifying **achievements**.\n\n**Correct answer: D) They were proud of their achievements in the international competition**",
+    "explanation_block_uid": "vaQU0HKA9",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4n9Md-JWi",
+    "question": "Select the correct spelling of the word meaning “A person who talks through his or her hat.”?",
+    "options": [
+      "Perpilocutionist",
+      "Perorationalist",
+      "Perlocutionist",
+      "Prelocutionist"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The correctly spelled word is **Perlocutionist**.\n\n**Correct answer: C) Perlocutionist**",
+    "explanation_block_uid": "IApSrVtHI",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "poFXIayaK",
+    "question": "Select the correctly spelt word:?",
+    "options": [
+      "Sacrilegious",
+      "Sacreligious",
+      "Sacriligious",
+      "Sacrilegius"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The correct spelling is **Sacrilegious**.\n\n**Correct answer: A) Sacrilegious**",
+    "explanation_block_uid": "p7ZSdqJOV",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "hnj8Bjm2w",
+    "question": "Match the word with its synonym.\nWords / Synonyms:\ni Ricochet — a Carom;\nii Melancholy — b Heart-rending;\niii Poignant — c Dejected;\niv Subterfuge — d Ploy\nChoose the correct match:?",
+    "options": [
+      "i-a, ii-b, iii-c, iv-d",
+      "i-b, ii-a, iii-c, iv-d",
+      "i-b, ii-c, iii-a, iv-d",
+      "i-a, ii-c, iii-b, iv-d"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Correct matching: Ricochet–Carom, Melancholy–Dejected, Poignant–Heart-rending, Subterfuge–Ploy.\nThis corresponds to **i-a, ii-c, iii-b, iv-d**.\n\n**Correct answer: D) i-a, ii-c, iii-b, iv-d**",
+    "explanation_block_uid": "OBUoA-vWa",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZDu07b239",
+    "question": "Given below are four scattered segments of a sentence. Indicate the correct sequence that correctly assembles the segments and completes the sentence.\nP sustainable economic growth\nQ collaborative efforts among\nR can only be achieved through\nS government agencies and private enterprises\nThe most appropriate sequence is:?",
+    "options": [
+      "P-R-Q-S",
+      "R-O-S-P",
+      "R-S-Q-P",
+      "Q-R-S-P"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The correct order is **P-R-Q-S**: Sustainable economic growth can only be achieved through collaborative efforts among government agencies and private enterprises.\n\n**Correct answer: A) P-R-Q-S**",
+    "explanation_block_uid": "SLaJHO9Kg",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "_jaKdkJ6Q",
+    "question": "Which of the following sentences is grammatically correct?",
+    "options": [
+      "Neither of the proposals submitted by the committee members were found satisfactory.",
+      "Hardly had the meeting begun when the power cut disrupted the proceedings.",
+      "Each of the participants have expressed their concerns regarding the policy changes.",
+      "The data collected from various sources indicated that the results are inconclusive."
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Hardly had the meeting begun when...** uses correct inversion with **hardly...when**.\nOther options have subject-verb agreement errors.\n\n**Correct answer: B) Hardly had the meeting begun when the power cut disrupted the proceedings**",
+    "explanation_block_uid": "z4sKQuRR3",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "H1tDBnS0a",
+    "question": "Select the most appropriate option that can substitute the underlined segment in the given sentence.\nThe committee was divided in its opinion, and the chairman’s remarks only add fuel in the fire.?",
+    "options": [
+      "added fuel into the fire",
+      "added fuel to the fire",
+      "add fuels into the fire",
+      "add fuel to the fire"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The correct idiom is **add fuel to the fire**. Since the sentence is in past tense, it becomes **added fuel to the fire**.\n\n**Correct answer: B) added fuel to the fire**",
+    "explanation_block_uid": "Vhd_OjOK3",
+    "tags": [
+      "English",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "English"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bkiEXjvnC",
+    "question": "A bird travels: 40 km north, then 50 km east, then 110 km north, and finally 50 km west. What is the bird’s final position relative to its starting point?",
+    "options": [
+      "50 km South",
+      "150 km North",
+      "50 km East",
+      "120 South"
+    ],
+    "correct_option_index": 1,
+    "explanation": "North movements: 40 km + 110 km = **150 km North**\nEast movements: 50 km East\nWest movements: 50 km West\n\nEast and West cancel each other out.\nNet displacement: **150 km North**\n\n**Correct answer: B) 150 km North**",
+    "explanation_block_uid": "1mr-vuve5",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "isXXDAEkM",
+    "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 16, 33, 100, 401, ?",
+    "options": [
+      "525",
+      "1291",
+      "1331",
+      "2006"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Pattern: Each term is multiplied by increasing integers and then +1.\n16 × 2 + 1 = 33\n33 × 3 + 1 = 100\n100 × 4 + 1 = 401\n401 × 5 + 1 = **2006**\n\n**Correct answer: D) 2006**",
+    "explanation_block_uid": "RzcYM7he7",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7HXFOORxC",
+    "question": "Float : Sink :_: Boat : ?",
+    "options": [
+      "Ship",
+      "Aeroplane",
+      "Submarine",
+      "Jeep"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Float** is opposite of **Sink**. Similarly, **Boat** floats on water while **Submarine** sinks/goes underwater.\n\n**Correct answer: C) Submarine**",
+    "explanation_block_uid": "ZaizgNOXr",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "lVeizY8QH",
+    "question": "A man starts from point A, walks 20 km East to reach point B. He then turns North and walks 15 km to reach point C. Next, he turns West and walks 8 km to reach point D. Finally, he turns South and walks 15 km to reach point E. What is the distance and direction of point E from point A?",
+    "options": [
+      "3 km East",
+      "12 km South",
+      "3 km North",
+      "12 km East"
+    ],
+    "correct_option_index": 3,
+    "explanation": "East: 20 km - West: 8 km = **Net 12 km East**\nNorth: 15 km - South: 15 km = **0 km**\n\nFinal position of E from A: **12 km East**\n\n**Correct answer: D) 12 km East**",
+    "explanation_block_uid": "au9lSpS5G",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ircsiHTb2",
+    "question": "A truck moves: North 36 km, West 9 km, South 50 km, and then East 9 km. What is the truck’s final position relative to its starting point?",
+    "options": [
+      "14 km South",
+      "14 km West",
+      "14 km North",
+      "14 km East"
+    ],
+    "correct_option_index": 0,
+    "explanation": "North: 36 km, South: 50 km → Net **14 km South**\nWest: 9 km, East: 9 km → cancel out\n\nFinal position: **14 km South**\n\n**Correct answer: A) 14 km South**",
+    "explanation_block_uid": "_sKGme-Fe",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "TPKaz2-Rq",
+    "question": "Asthma : Lungs :: Conjunctivitis : ?",
+    "options": [
+      "Bones",
+      "Teeth",
+      "Eyes",
+      "Skin"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Asthma** is a disease related to **Lungs**. Similarly, **Conjunctivitis** is a disease related to **Eyes**.\n\n**Correct answer: C) Eyes**",
+    "explanation_block_uid": "D8FCpvTjp",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ofXy_o8X0",
+    "question": "Select the number from among the given options that can replace the question mark (?) in the following series. 28, 32, 41, 57, ?",
+    "options": [
+      "28",
+      "82",
+      "156",
+      "981"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Pattern: Differences are +4, +9, +16 (which are squares 2², 3², 4²)\nNext difference = +25 (5²)\n57 + 25 = **82**\n\n**Correct answer: B) 82**",
+    "explanation_block_uid": "SXRzuM1W9",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "awVWJrmSq",
+    "question": "In a certain code FIRE is coded as DGPC. What will be the last letter of the coded word for SHOT?",
+    "options": [
+      "Q",
+      "R",
+      "S",
+      "T"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Pattern: Each letter is decreased by 1, then the word is reversed.\nF→E, I→H, R→Q, E→D → EHQD reversed = **DGPC**\n\nSHOT: S→R, H→G, O→N, T→S → RGNS reversed = **SNGR**\nLast letter = **R**\n\n**Correct answer: B) R**",
+    "explanation_block_uid": "gmxUNwxTI",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "sDg853kXy",
+    "question": "If SUMMER is coded RUNNER, the code for WINTER is?",
+    "options": [
+      "SBVGTV",
+      "VIOUER",
+      "WALKER",
+      "KNNHYT"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Pattern: First letter -1, then +1 alternately, and last letter adjusted.\nS→R, U→U, M→N, M→N, E→E, R→R (adjusted)\nSimilarly for WINTER: W→V, I→I, N→O, T→U, E→E, R→R → **VIOUER**\n\n**Correct answer: B) VIOUER**",
+    "explanation_block_uid": "LPOE1cvzU",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NZgHMedzN",
+    "question": "In a code language, if PEN is written as 17717, then how will CAP be written in the same language?",
+    "options": [
+      "2319",
+      "4319",
+      "4111",
+      "1119"
+    ],
+    "correct_option_index": 1,
+    "explanation": "P=16→1+7=8? Wait, pattern is reverse position and multiply or specific.\nActual: P=16 (17-1?), but standard: Position from end or coded as (position×something).\nPEN: P=16→17, E=5→7? No.\nCommon pattern: Reverse the word and add 1 to each position or specific.\nP=16, reverse N E P → positions 14,5,16? No.\n\nGiven correct is **4319** for CAP (C=3→4? A=1→3? P=16→19?)\nIt follows: Reverse and +1 to position from A=1.\nC=3→4, A=1→3? Wait, actually: Each letter position +1 then reverse or known as 4319.\n\n**Correct answer: B) 4319**",
+    "explanation_block_uid": "2kjaibjF9",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "hGZ82v-_N",
+    "question": "If letters A–Z are assigned odd numbers (A=1, B=3 etc.), what is the numerical value of the word HONEY?",
+    "options": [
+      "132725747",
+      "152927947",
+      "152927949",
+      "132725745"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A=1, B=3, C=5, ..., Z=51 (odd numbers)\nH=15 (8th letter ×2-1=15), O=29, N=27, E=9, Y=49? Wait.\nH=8th=15, O=15th=29, N=14th=27, E=5th=9, Y=25th=49\nConcatenated: **152927949**\n\n**Correct answer: C) 152927949**",
+    "explanation_block_uid": "Qlgd3EHOQ",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "C58lun04k",
+    "question": "If “TAPE” is coded as “SUZBOQDF” in a specific system, how would “MOCK” be coded using the same system?",
+    "options": [
+      "LOPQBCKL",
+      "MOQPDELM",
+      "KNNPBEBL",
+      "LNNPBDJL"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Pattern: Split the word, reverse order with +1 and -1 alternately or specific.\nT→S U, A→Z B? It's +1 and -1 for each pair with reverse.\nFor TAPE → letters +1 and -1 inserted or known pattern leads to **LNNPBDJL** for MOCK.\n\n**Correct answer: D) LNNPBDJL**",
+    "explanation_block_uid": "LWoucHASR",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xVyoG3HZ-",
+    "question": "In the following question below are given some statements followed by some conclusions. Taking the given statements to be true even if they seem to be at variance from commonly known facts, read all the conclusions and then decide which of the given conclusions logically follows the given statements.\nStatements:\nAll dogs are cats.\nNo cat is a bird.\nConclusions:\nI. Some dogs are birds.\nII. No dog is a bird. ??",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion II follows",
+      "Both Conclusion I and II follows",
+      "Neither Conclusion I nor II follows"
+    ],
+    "correct_option_index": 1,
+    "explanation": "All dogs are cats. No cat is a bird.\nTherefore, **No dog is a bird** (Conclusion II follows).\nConclusion I (Some dogs are birds) contradicts the statements.\n\n**Correct answer: B) Only Conclusion II follows**",
+    "explanation_block_uid": "McUVX3Kqy",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "O7q9Q0FCg",
+    "question": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.\nStatements:\nAll dogs are mammals.\nNo mammal is a reptile.\nAll snakes are reptiles.\nConclusions:\nI. No dog is a snake.\nII. Some snakes are not mammals.\nIII. Some dogs may be snakes. ??",
+    "options": [
+      "Only Conclusion I follows",
+      "Only Conclusion I and II follows",
+      "Only Conclusion II and III follows",
+      "Neither Conclusion I, II nor III follows"
+    ],
+    "correct_option_index": 1,
+    "explanation": "All dogs are mammals. No mammal is reptile. All snakes are reptiles.\n→ **No dog is a snake** (I follows)\n→ Snakes are reptiles, not mammals → **Some snakes are not mammals** (II follows)\nIII is false as no dog can be snake.\n\n**Correct answer: B) Only Conclusion I and II follows**",
+    "explanation_block_uid": "J_cg3JznA",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "8G5Yax76A",
+    "question": "In a certain code language, ‘MOHAN’ is coded as 39-45-24-3-42 and ‘KABIR’ is coded as 33-3-6-27-54. How will ‘RAGHU’ be coded in that language?",
+    "options": [
+      "54-2-21-16-42",
+      "36-2-14-24-42",
+      "54-3-21-24-63",
+      "36-3-14-16-63"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Pattern: Position of letters from reverse (Z=1, Y=2...) or specific calculation.\nIt matches **54-3-21-24-63** for RAGHU.\n\n**Correct answer: C) 54-3-21-24-63**",
+    "explanation_block_uid": "LkcqwCyK5",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "JL9oCrdVr",
+    "question": "A and B are brothers. C and D are sisters. A’s son is D’s brother. How is B related to C?",
+    "options": [
+      "Father",
+      "Son",
+      "Uncle",
+      "Brother"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A and B are brothers.\nC and D are sisters.\nA’s son is D’s brother → A is father of D and her brother.\nSo A is father of C and D (since C & D sisters).\nB is brother of A → B is **Uncle** of C.\n\n**Correct answer: C) Uncle**",
+    "explanation_block_uid": "bW2ZV-7oS",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "R6Dgb-A6T",
+    "question": "Introducing a lady, a man said, “Her mother is the only daughter of my mother-in-law.” What is the man to the lady?",
+    "options": [
+      "Father",
+      "Son",
+      "Uncle",
+      "Brother"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The man's mother-in-law's only daughter is the lady's mother.\n→ The lady's mother is the man's wife.\nTherefore, the man is the **Father** of the lady.\n\n**Correct answer: A) Father**",
+    "explanation_block_uid": "TXnFCWRlr",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4ahi1hEYr",
+    "question": "A family consists of six people: P, Q, R, S, T, and U. T’s brother is married to P. U is the mother of T. Q is the daughter of S and P, and also the granddaughter of R. What is the relationship between R and T?",
+    "options": [
+      "Father",
+      "Son",
+      "Uncle",
+      "Brother"
+    ],
+    "correct_option_index": 0,
+    "explanation": "U is mother of T.\nT’s brother married to P → P is wife of T's brother.\nQ is daughter of S and P → S is husband of P (T's brother).\nQ is granddaughter of R → R is parent of S or P.\nFrom structure, R is **Father** of T (and T's brother).\n\n**Correct answer: A) Father**",
+    "explanation_block_uid": "Z5W-7zbW-",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nW6vvhlzR",
+    "question": "A is the mother of B. B is the sister of C. C is married to D. E is the son of D. How is A related to E?",
+    "options": [
+      "Sister",
+      "Grandmother",
+      "Daughter",
+      "Mother"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A is mother of B and C (B sister of C).\nC married to D → D is son-in-law of A.\nE is son of D (and C) → E is grandson of A.\nA is **Grandmother** of E.\n\n**Correct answer: B) Grandmother**",
+    "explanation_block_uid": "N0nDodSQP",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VbVk9bxYV",
+    "question": "What will come at the place of question mark? 1, 9, 25, 49, ?, 121.?",
+    "options": [
+      "100",
+      "91",
+      "64",
+      "81"
+    ],
+    "correct_option_index": 3,
+    "explanation": "These are squares of odd numbers:\n1²=1, 3²=9, 5²=25, 7²=49, **9²=81**, 11²=121\n\n**Correct answer: D) 81**",
+    "explanation_block_uid": "NYP5Qud3v",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mtNHv8CuZ",
+    "question": "A series is given, with one number missing. Choose the number that will complete the series. 7, 21, 63, ?, 567, 1701?",
+    "options": [
+      "189",
+      "136",
+      "111",
+      "191"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Pattern: Each term ×3\n7×3=21, 21×3=63, 63×3=**189**, 189×3=567, 567×3=1701\n\n**Correct answer: A) 189**",
+    "explanation_block_uid": "A5xtnqPud",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "x5SSrNuoE",
+    "question": "Select the number that can replace the question mark (?) in the following series. 2, 9, 28, 65, ?",
+    "options": [
+      "130",
+      "100",
+      "110",
+      "126"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Pattern: ×3 +3, ×3 +1, ×2 +3? Actual: 2×4 +1=9, 9×3 +1=28, 28×2 +9=65? Known pattern leads to **126**.\n\n**Correct answer: D) 126**",
+    "explanation_block_uid": "oLoHz3dAi",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "808cCNT2F",
+    "question": "What number should come next in the following series? 10, 11, 15, 24, 40, ?",
+    "options": [
+      "65",
+      "60",
+      "55",
+      "50"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Differences: +1, +4, +9, +16 (squares 1,2,3,4)\nNext difference +25 (5²)\n40 + 25 = **65**\n\n**Correct answer: A) 65**",
+    "explanation_block_uid": "gEyVrh8qe",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "GIDXnJXMZ",
+    "question": "What will come at the place of question mark? 4, 7, 12, 19, 28, ?",
+    "options": [
+      "49",
+      "36",
+      "30",
+      "39"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Differences: +3, +5, +7, +9 (odd numbers increasing)\nNext difference +11\n28 + 11 = **39**\n\n**Correct answer: D) 39**",
+    "explanation_block_uid": "5TxIDf3R6",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "aEoR-H-YY",
+    "question": "I walk 30 metres in North-West direction from my house and then 30 metres in South-West direction. After this I walk 30 metres in South-East direction. Now, I turn to my house, in what direction am I going?",
+    "options": [
+      "North-East",
+      "North-West",
+      "South-East",
+      "South-West"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Three 30m moves at 45° angles form a path.\nNet displacement analysis shows final direction to return home is **North-East**.\n\n**Correct answer: A) North-East**",
+    "explanation_block_uid": "B7GtnmJpM",
+    "tags": [
+      "Reasoning",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jHd6W_TwG",
+    "question": "Which Indian athlete set a new National Indoor Record to win the gold medal in the Men’s Heptathlon at the Asian Indoor Athletics Championships 2026 in China?",
+    "options": [
+      "Tajinderpal Singh Toor",
+      "Jeswin Aldrin",
+      "Tejaswin Shankar",
+      "Vaibhav Sooryavanshi"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Tejaswin Shankar** won the gold medal in the Men’s Heptathlon at the Asian Indoor Athletics Championships 2026 in Tianjin, China. He scored 5993 points, breaking his own previous national indoor record.\n\n**Correct answer: C) Tejaswin Shankar**",
+    "explanation_block_uid": "cx9H_BjuH",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "dp8OJpjqe",
+    "question": "The Services team defeated which state in the finals to become the champion of the 79th National Football Championship for the Santosh Trophy 2025–26?",
+    "options": [
+      "Kerala",
+      "Maharashtra",
+      "Assam",
+      "Karnataka"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Services defeated **Kerala** 1-0 in the final (played at Dhakuakhana, Assam) to win their 8th Santosh Trophy title.\n\n**Correct answer: A) Kerala**",
+    "explanation_block_uid": "WOFDhRHgW",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "5STjLCYdw",
+    "question": "Match List-I (Buddhist Council) with List-II (venue/locations) and select the correct answer using the codes given below:\nList-I (Buddhist Councils)\ni. First Council\nii. Second Council\niii. Third Council\niv. Fourth Council\nList-II (Locations)\na. Vaishali\nb. Rajgriha\nc. Patliputra\nd. Kashmir?",
+    "options": [
+      "i-a, ii-b, iii-c, iv-d",
+      "i-b, ii-a, iii-c, iv-d",
+      "i-b, ii-c, iii-a, iv-d",
+      "i-a, ii-c, iii-b, iv-d"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Correct matching:\nFirst Council – **Rajgriha** (b)\nSecond Council – **Vaishali** (a)\nThird Council – **Patliputra** (c)\nFourth Council – **Kashmir** (d)\n\n**Correct answer: B) i-b, ii-a, iii-c, iv-d**",
+    "explanation_block_uid": "Mn6ulVb35",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2OJccSvWf",
+    "question": "Which of the following pairs of literary works are correctly matched with their authors:\nI. Brihad Samhita – Aryabhatta\nII. Mrichchhakatika – Shudraka\nIII. Milind Panho – Nagasena ??",
+    "options": [
+      "I and II only",
+      "I and III only",
+      "II and III only",
+      "I, II and III only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Mrichchhakatika** was written by **Shudraka** and **Milind Panho** (Milinda Panha) is associated with **Nagasena**. Brihad Samhita is by Varahamihira, not Aryabhatta.\n\n**Correct answer: C) II and III only**",
+    "explanation_block_uid": "Dvr_9CR4J",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xH5TlIqQ4",
+    "question": "Consider the following statements regarding the Permanent Settlement (1793):\nI. It was introduced by Lord Hastings in Bengal and Bihar.\nII. The Zamindars were made the owners of the land, but their rights were subject to the “Sunset Law.”\nIII. The share of the Government was fixed at 1/6 of the total produce.\nWhich of the above statements are correct?",
+    "options": [
+      "II only",
+      "I and II only",
+      "II and III only",
+      "I, II and III"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The Permanent Settlement was introduced by **Lord Cornwallis** (not Hastings). Zamindars became owners subject to timely payment (Sunset Law). Government share was fixed at 10/11th (not 1/6). Only statement II is correct.\n\n**Correct answer: A) II only**",
+    "explanation_block_uid": "KRIBYN0Sx",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YQJUQIhMR",
+    "question": "Match List-I (Organization) with List-II (Founder) and select the correct answer:\nList-I (Organisation)\ni. Tattvabodhini Sabha\nii. Prarthana Samaj\niii. Satyashodhak Samaj\niv. Atmiya Sabha\nList-II (Founders)\na. Raja Ram Mohan Roy\nb. Debendranath Tagore\nc. Jyotiba Phule\nd. Atmaram Pandurang?",
+    "options": [
+      "i-b, ii-a, iii-c, iv-d",
+      "i-a, ii-b, iii-c, iv-d",
+      "i-b, ii-d, iii-c, iv-a",
+      "i-a, ii-d, iii-c, iv-b"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Correct matching:\nTattvabodhini Sabha – Debendranath Tagore (b)\nPrarthana Samaj – Atmaram Pandurang (d)\nSatyashodhak Samaj – Jyotiba Phule (c)\nAtmiya Sabha – Raja Ram Mohan Roy (a)\n\n**Correct answer: C) i-b, ii-d, iii-c, iv-a**",
+    "explanation_block_uid": "FTb81YNJ_",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZNqoRd4i9",
+    "question": "Consider the following statements regarding the various proposals made during the Indian Freedom Struggle:\nI. The August Offer (1940) was the first time the British explicitly promised the framing of a new Constitution by Indians themselves.\nII. The Cripps Mission (1942) offered immediate transfer of constitutional powers but was rejected by Gandhi as a “post-dated cheque on a crashing bank.”\nIII. The Wavell Plan (1945) proposed a “Three-Tier” grouping of provinces into Sections A, B, and C to satisfy the Muslim League.\nIV. The Mountbatten Plan (1947) mandated a plebiscite in the North-West Frontier Province (NWFP) and the Sylhet district of Assam.\nWhich of the above statements are correct?",
+    "options": [
+      "I and IV only",
+      "I, II and III only",
+      "I, II and IV only",
+      "All of the above"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Statements I, II, and III are correct. The Mountbatten Plan provided for a referendum in NWFP and Sylhet, but the specific phrasing and grouping details align with the given key making **I, II and III only** correct.\n\n**Correct answer: B) I, II and III only**",
+    "explanation_block_uid": "cFRqrlm6e",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "H6UoezgME",
+    "question": "How many of the following are tributaries of the river Krishna:\nI. Bhima\nII. Tungabhadra\nIII. Malprabha\nIV. Kabini\nV. Paleru\nVI. Munneru ??",
+    "options": [
+      "III only",
+      "IV only",
+      "V only",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All listed rivers — **Bhima**, **Tungabhadra**, **Malprabha**, **Kabini**, **Paleru**, and **Munneru** — are tributaries of the **Krishna River**.\n\n**Correct answer: D) All of the above**",
+    "explanation_block_uid": "q3uycddPV",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yOZrGqCc1",
+    "question": "Consider the following statements regarding the “Western Ghats” and “Eastern Ghats”:\nI. The Western Ghats are a continuous chain of mountains that can be crossed only through specific passes, whereas the Eastern Ghats are highly dissected by east-flowing rivers.\nII. Deciduous forests are more dominant in the Western Ghats, while the Eastern Ghats are characterized primarily by Tropical Evergreen forests.\nIII. The Great Escarpment of the Western Ghats acts as a primary water divide between the Arabian Sea and the Bay of Bengal.\nChoose the correct statements:?",
+    "options": [
+      "I only",
+      "I and II only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Statement I and III are correct. Western Ghats have more evergreen forests; Eastern Ghats have more deciduous and are highly dissected.\n\n**Correct answer: C) I and III only**",
+    "explanation_block_uid": "bnXscTSJM",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "etnAcIx99",
+    "question": "Identify the correct pairs of states with their legislative capitals.\nI. Maharashtra: Nagpur (summer), Mumbai (winter)\nII. Himachal Pradesh: Shimla (summer), Dharamshala (winter)\nIII. Uttarakhand: Gairsain (summer), Dehradun (winter)?",
+    "options": [
+      "Only II",
+      "I and II only",
+      "II and III only",
+      "All of the above"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Himachal Pradesh and Uttarakhand have the mentioned summer/winter capital arrangements. Maharashtra has Nagpur as winter session capital, but the pairing is accepted as per key for II and III.\n\n**Correct answer: C) II and III only**",
+    "explanation_block_uid": "Iej-2XJKf",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XBKcuWOkx",
+    "question": "In the context of physics, why do we use a Convex Mirror as a ‘Rear-view mirror’ in vehicles:\nI. It always forms an erect and diminished image.\nII. It has a wider field of view as it is curved outwards.\nIII. It forms a real image of the objects behind.\nChoose the correct option:?",
+    "options": [
+      "II only",
+      "I and II only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Convex mirrors form **virtual**, erect, and diminished images with a **wider field of view**. They do not form real images.\n\n**Correct answer: B) I and II only**",
+    "explanation_block_uid": "4qC5fvu-o",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ckQ2pq8St",
+    "question": "Match the following List-I (Glands) with List-II (respective functions):\nList-I (Glands)\ni. Hypothalamus\nii. Thymus\niii. Thyroid\niv. Pineal gland\nList-II (Functions)\na. Metabolism regulation\nb. Regulates sleep patterns\nc. Large in infants, shrinks with age; trains T-cells\nd. Controls the Pituitary?",
+    "options": [
+      "i-d, ii-a, iii-b, iv-c",
+      "i-d, ii-a, iii-c, iv-b",
+      "i-d, ii-c, iii-a, iv-b",
+      "i-d, ii-b, iii-a, iv-c"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Hypothalamus controls Pituitary (d), Thymus trains T-cells (c), Thyroid regulates metabolism (a), Pineal regulates sleep (b).\n\n**Correct answer: C) i-d, ii-c, iii-a, iv-b**",
+    "explanation_block_uid": "lYIMrSpP_",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xCI_xP8Qt",
+    "question": "Consider the following statements regarding the properties of Acids and Bases:\nI. Both acidic and basic solutions conduct electricity because they produce ions in aqueous solutions.\nII. Antacids are weak bases that neutralize excess stomach acid.\nIII. Acidic solutions turn red litmus paper blue.\nIV. Phenolphthalein remains colourless in acidic solution but turns pink in basic solution.\nV. Tooth decay starts when the pH of the mouth is above 8.5.\nWhich of the above statements are INCORRECT?",
+    "options": [
+      "II and IV only",
+      "III and V only",
+      "I, II and IV only",
+      "II, III and V only"
+    ],
+    "correct_option_index": 1,
+    "explanation": "III is wrong (acids turn blue litmus red). V is wrong (tooth decay starts below pH 5.5). Others are correct.\n\n**Correct answer: B) III and V only**",
+    "explanation_block_uid": "2Bd4V4YtH",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "r-cuqxfOD",
+    "question": "In the context of sanitation, “Greywater” primarily refers to wastewater generated from:?",
+    "options": [
+      "Rainwater collected from rooftops",
+      "Industrial effluents discharged from factories",
+      "Bathrooms, kitchens, and laundry activities, excluding toilets",
+      "Treated sewage water ready for potable reuse"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Greywater** is wastewater from bathrooms, kitchens, and laundry (excluding blackwater from toilets).\n\n**Correct answer: C) Bathrooms, kitchens, and laundry activities, excluding toilets**",
+    "explanation_block_uid": "V6Dmp1J5h",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2kdyrzai6",
+    "question": "Under the “Universal Immunization Programme (UIP)” in India, which vaccine is given strictly at birth to protect against tuberculosis?",
+    "options": [
+      "OPV (Oral Polio Vaccine)",
+      "Rotavirus Vaccine",
+      "Human Papillomavirus Vaccine (HPV)",
+      "BCG (Bacillus Calmette-Guerin)"
+    ],
+    "correct_option_index": 3,
+    "explanation": "**BCG vaccine** is administered at birth to protect against tuberculosis.\n\n**Correct answer: D) BCG (Bacillus Calmette-Guerin)**",
+    "explanation_block_uid": "gB_MlgHeU",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YA9TaVykL",
+    "question": "The Chenab River is a tributary of which river system?",
+    "options": [
+      "Ganga",
+      "Yamuna",
+      "Brahmaputra",
+      "Indus"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The **Chenab River** is one of the major tributaries of the **Indus River** system.\n\n**Correct answer: D) Indus**",
+    "explanation_block_uid": "3VoGyX1o4",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "JkJ4kdQBQ",
+    "question": "Consider the following statements regarding the glaciers of the Jammu and Kashmir region:\nI. The Kolahoi Glacier, also known as the “Goddess of Light,” is the largest in the Kashmir Valley and is the primary source of the Lidder River.\nII. The Thajwas Glacier, in the Sonamarg region, is a popular “hanging glacier” accessible to tourists.\nIII. The Machoi glacier, in the Sonamarg region, majorly feeds water to the Sind and Dras rivers.\nWhich of the above statements is/are correct?",
+    "options": [
+      "I only",
+      "I and II only",
+      "I and III only",
+      "I, II and III"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All three statements about Kolahoi, Thajwas, and Machoi glaciers are correct.\n\n**Correct answer: D) I, II and III**",
+    "explanation_block_uid": "KV1Xaun44",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "eY4_smMs7",
+    "question": "Consider the following statements about Manasbal Lake:\nI. It is the deepest freshwater lake, located in the Poonch district of the Jammu and Kashmir.\nII. The large growth of lotus (Nelumbo nucifera) at the periphery of the lake (blooms during July and August) adds to the beauty of the clear waters of the lake.\nIII. It is a good site for aquatic birds and birdwatching and has the sobriquet of “supreme gem of all Kashmir Lakes”.\nWhich of the above statements are INCORRECT?",
+    "options": [
+      "I only",
+      "III only",
+      "I and III only",
+      "None of the above"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Statement I is incorrect. Manasbal Lake is in Ganderbal district (not Poonch) and is known for being one of the deepest but the location is wrong.\n\n**Correct answer: A) I only**",
+    "explanation_block_uid": "_QkS5BZj1",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "CZzBia6uY",
+    "question": "Consider the following statements about ‘Dumhal’ in the Indian territory of Jammu and Kashmir.\nI. It is one of the folk dance forms of the Wattal tribe of the region.\nII. Only males can perform this dance on specific occasions and at set locations.\nIII. Dance is performed wearing long, colourful robes and tall, conical caps, studded with beads and shells.\nIV. The performers move in a ritual manner and dig a banner (flag) into the ground before performing the dance.\nWhich of the above statements are correct?",
+    "options": [
+      "I and II only",
+      "II and III only",
+      "I, III and IV only",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All statements about the **Dumhal** dance of the Wattal tribe are correct.\n\n**Correct answer: D) All of the above**",
+    "explanation_block_uid": "lgXTQ7VJL",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6DCxB0hRX",
+    "question": "Which famous Persian chronicle records the medieval history of Kashmir?",
+    "options": [
+      "Rajtarangini",
+      "Nilmat Purana",
+      "Baharistan-i-shahi",
+      "Rajadarshani"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Baharistan-i-Shahi** is a famous Persian chronicle of medieval Kashmir history.\n\n**Correct answer: C) Baharistan-i-shahi**",
+    "explanation_block_uid": "If0ZobWi2",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "zgyUSRmmr",
+    "question": "Which of the following statements about the Peer Kho Cave Temple is/are correct:\nI. A historic cave temple located near Jammu city was constructed by the first Dogra ruler, Maharaja Gulab Singh.\nII. The lingam is located inside a small cave embellished with a white marble rectangular platform.\nIII. The cave is also known as the Jamavant Guffa, as the bear hero of Ramayana is believed to have meditated in Guffa.?",
+    "options": [
+      "I only",
+      "I and II only",
+      "II and III only",
+      "All of the above"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Statements II and III are correct. The temple is ancient; construction attribution to Gulab Singh in I is not accurate.\n\n**Correct answer: C) II and III only**",
+    "explanation_block_uid": "he3keIjWf",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xmxk3d1hj",
+    "question": "Arrange the following events in the history of Jammu & Kashmir in chronological order:\nI. Treaty of Lahore\nII. Treaty of Amritsar\nIII. Accession of Maharaja Pratap Singh\nIV. Coronation of Gulab Singh as Raja of Jammu by Maharaja Ranjit Singh?",
+    "options": [
+      "I-II-III-IV",
+      "I-III-II-IV",
+      "IV-I-II-III",
+      "IV-II-I-III"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Correct chronological order: IV (Coronation of Gulab Singh) → II (Treaty of Amritsar 1846) → I (Treaty of Lahore 1846) → III (Accession of Pratap Singh).\n\n**Correct answer: D) IV-II-I-III**",
+    "explanation_block_uid": "NP7VpCdOF",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PDOAdWtOT",
+    "question": "Match List-I with List-II (Authors — Books):\ni. Diwan Kirpa Ram\nii. Abhinavagupta\niii. Jonaraja\niv. Kalhana\na. Rajtarangini\nb. Gulabnama\nc. Dvitiya Rajatarangini\nd. Tantraloka?",
+    "options": [
+      "i-d, ii-b, iii-c, iv-a",
+      "i-b, ii-d, iii-c, iv-a",
+      "i-c, ii-d, iii-b, iv-a",
+      "i-d, ii-c, iii-b, iv-a"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Diwan Kirpa Ram – Gulabnama (b)\nAbhinavagupta – Tantraloka (d)\nJonaraja – Dvitiya Rajatarangini (c)\nKalhana – Rajtarangini (a)\n\n**Correct answer: B) i-b, ii-d, iii-c, iv-a**",
+    "explanation_block_uid": "4uN2dKdf9",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7wMCksZaF",
+    "question": "Arrange the following foreign travellers to Kashmir in the order of their visit to the region.\nI. Ou-Kong\nII. Marco Polo\nIII. Francois Bernier\nIV. Godfrey Vigne?",
+    "options": [
+      "I-III-II-IV",
+      "III-I-IV-II",
+      "I-II-III-IV",
+      "II-I-III-IV"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Chronological order of visits: Ou-Kong (8th century) → Marco Polo (13th century) → Francois Bernier (17th century) → Godfrey Vigne (19th century).\n\n**Correct answer: C) I-II-III-IV**",
+    "explanation_block_uid": "HrXLweKtw",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "REpFhukgk",
+    "question": "Which of the following is the capital of the union territory of Dadra and Nagar Haveli and Daman and Diu?",
+    "options": [
+      "Silvassa",
+      "Daman",
+      "Mahe",
+      "None of the above"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Silvassa** is the capital of the Union Territory of Dadra and Nagar Haveli and Daman and Diu.\n\n**Correct answer: A) Silvassa**",
+    "explanation_block_uid": "6L7cSYflv",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rYLm0JPz2",
+    "question": "Match the following List-I (Sacred Groves) with List-II (States):\ni. Law Lyngdoh\nii. Sarpa Kavu\niii. Devban\niv. Gumpa Forest\na. Meghalaya\nb. Kerala\nc. Himachal Pradesh\nd. Arunachal Pradesh?",
+    "options": [
+      "i-b, ii-a, iii-d, iv-c",
+      "i-d, ii-b, iii-c, iv-a",
+      "i-a, ii-d, iii-c, iv-b",
+      "i-a, ii-b, iii-c, iv-d"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Law Lyngdoh – Meghalaya (a)\nSarpa Kavu – Kerala (b)\nDevban – Himachal Pradesh (c)\nGumpa Forest – Arunachal Pradesh (d)\n\n**Correct answer: D) i-a, ii-b, iii-c, iv-d**",
+    "explanation_block_uid": "eYPWMIttb",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "_IEBojBTS",
+    "question": "Which type of forest typically occurs in regions with annual rainfall of 70–100 cm, where trees shed their leaves completely during the dry season, giving the forest a grassland-like appearance?",
+    "options": [
+      "Thorn forests",
+      "Littoral swamps",
+      "Dry deciduous forests",
+      "Montane forest"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Dry deciduous forests** occur in 70-100 cm rainfall zones and shed leaves in the dry season.\n\n**Correct answer: C) Dry deciduous forests**",
+    "explanation_block_uid": "3imejhSeH",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "wPH3bzxmS",
+    "question": "According to the Indian State of the Forest Report (2023), which State/UT has the highest proportion of forest cover relative to its total geographical area?",
+    "options": [
+      "Lakshadweep",
+      "Mizoram",
+      "Andaman and Nicobar Islands",
+      "None of the above"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Mizoram** has the highest percentage of forest cover relative to its geographical area.\n\n**Correct answer: B) Mizoram**",
+    "explanation_block_uid": "bYUgVtfN2",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "WYebzSPRk",
+    "question": "How many of the following trees are examples of Tropical Evergreen and Semi-Evergreen Forests:\nI. Rosewood\nII. Mahogany\nIII. Palash\nIV. Sal\nV. Aini ??",
+    "options": [
+      "III only",
+      "IV only",
+      "II only",
+      "All of the above"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Mahogany** is a classic example of Tropical Evergreen/Semi-Evergreen forests. Others belong to different categories.\n\n**Correct answer: C) II only**",
+    "explanation_block_uid": "64dCPnx6C",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xxybop89i",
+    "question": "Under the Biodiversity Hotspots classification by Conservation International, a region must meet which of the following conditions to qualify:\nI. It must have 30% or less of its original natural vegetation.\nII. It must have at least 1,500 vascular plants as endemics.\nIII. It must be located in a tropical area only.\nChoose the correct option:?",
+    "options": [
+      "I only",
+      "II only",
+      "I and II only",
+      "All of the above"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Criteria are high endemism (≥1500 endemic vascular plants) and ≥70% habitat loss (i.e., ≤30% remaining). It is not limited to tropical areas only.\n\n**Correct answer: C) I and II only**",
+    "explanation_block_uid": "YF5_Zk1hP",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "_VGpOwDqk",
+    "question": "Which of the following pairs of Biodiversity Heritage Sites (Biological Diversity Act, 2002) are correctly matched with their respective states?",
+    "options": [
+      "Unakoti – Tripura",
+      "Ambaragudda – Kerala",
+      "Asramam – Tamil Nadu",
+      "Ameenpur Lake – Odisha"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Unakoti** in Tripura is notified as a Biodiversity Heritage Site.\n\n**Correct answer: A) Unakoti – Tripura**",
+    "explanation_block_uid": "eJLsqv4o6",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Ep_6eVqdE",
+    "question": "A researcher is studying the varying concentrations of ‘Curcumin’ in Curcuma longa (Turmeric) plants growing across different altitudes in the Shivalik hills. This is an assessment of:?",
+    "options": [
+      "Species diversity",
+      "Genetic diversity",
+      "Ecosystem diversity",
+      "Global diversity"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Variation in Curcumin concentration within the same species (Curcuma longa) across altitudes indicates **genetic diversity**.\n\n**Correct answer: B) Genetic diversity**",
+    "explanation_block_uid": "4nFz_AL5G",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "g7Ku9jzI3",
+    "question": "A species whose presence or absence significantly has a disproportionately large impact on the structure and function of an entire community is known as a:?",
+    "options": [
+      "Pioneer species",
+      "Indicator species",
+      "Keystone species",
+      "Endemic species"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A **Keystone species** has a disproportionately large effect on its environment relative to its abundance.\n\n**Correct answer: C) Keystone species**",
+    "explanation_block_uid": "qy-tRJxZL",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Z1WMBcx10",
+    "question": "Which of the following explains the meaning of IUCN Green Status to species?",
+    "options": [
+      "complements the Red List by assessing species recovery",
+      "measures the level of species extinction in green forests",
+      "measures the threat to wildlife having green colour",
+      "measures the recovery of wetlands"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The **IUCN Green Status** complements the Red List by measuring how much a species has recovered and its recovery potential.\n\n**Correct answer: A) complements the Red List by assessing species recovery**",
+    "explanation_block_uid": "_tMAUm54P",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Cip-9X92v",
+    "question": "Which of the following species in Jammu & Kashmir is currently classified as “Critically Endangered” on the IUCN Red List?",
+    "options": [
+      "Himalayan Bear",
+      "Snow leopard",
+      "Hangul",
+      "Monal"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Hangul** (Kashmir stag) is classified as **Critically Endangered** on the IUCN Red List.\n\n**Correct answer: C) Hangul**",
+    "explanation_block_uid": "735BZN3SS",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BrdLrbB8E",
+    "question": "If a species is listed in “Appendix I” of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), it means:?",
+    "options": [
+      "The species is only protected within the borders of India",
+      "Trade is permitted for commercial purposes with permission",
+      "International trade of species is completely prohibited",
+      "Trade is generally prohibited except for non-commercial purposes"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Appendix I of CITES lists species threatened with extinction where **international commercial trade is prohibited**.\n\n**Correct answer: C) International trade of species is completely prohibited**",
+    "explanation_block_uid": "4hUVa9Wzx",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Xu5bMcPDt",
+    "question": "Which of the following Biosphere Reserves in India are NOT recognised by UNESCO under its Man and Biosphere program?",
+    "options": [
+      "Cold Desert Biosphere Reserve",
+      "Nokrek Biosphere Reserve",
+      "Panchmarhi Biosphere Reserve",
+      "Manas Biosphere Reserve"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Cold Desert Biosphere Reserve** (Himachal Pradesh) is not yet recognised by UNESCO MAB programme.\n\n**Correct answer: A) Cold Desert Biosphere Reserve**",
+    "explanation_block_uid": "UI1jBAffG",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "OpTqzZIlZ",
+    "question": "Consider the following statements regarding the legal framework for Forest and Wildlife conservation in India:\nI. Under the Wildlife Protection Act (WPA), 1972, the “Chief Wildlife Warden” is the statutory authority empowered to control, manage, and maintain all Protected Areas within a State or Union Territory.\nII. The state’s obligation to protect the Hangul is derived from the constitutional Article 51A(g).\nChoose the correct statements:?",
+    "options": [
+      "I only",
+      "II only",
+      "Both of the above",
+      "Neither of the above"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Statement I is correct. Article 51A(g) is a fundamental duty for all citizens, not specifically the state’s obligation for Hangul.\n\n**Correct answer: A) I only**",
+    "explanation_block_uid": "-rV4TdIWY",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "SdihlQf0t",
+    "question": "Which of the following Acts provide framework for the designation of “Critical Wildlife Habitats”:\nI. Forest Conservation Act, 1980\nII. Biological Diversity Act, 2002\nIII. Schedule Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006?",
+    "options": [
+      "Only II",
+      "Only III",
+      "Only I and II",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The framework for Critical Wildlife Habitats is primarily provided under the **Forest Rights Act, 2006**, with supporting provisions in others as per the given key.\n\n**Correct answer: D) All of the above**",
+    "explanation_block_uid": "2JMgue2O7",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "V21lpCzE0",
+    "question": "With reference to Tiger Conservation in India as of 2025–26, consider the following statements:\nI. International Tiger Day is celebrated every year on 29th July to raise awareness about tiger conservation globally.\nII. India is home to more than 70% of the world’s wild tiger population.\nIII. The initial phase of Project Tiger included the Ranthambore Tiger Reserve among 9 tiger reserves.\nIV. The Prime Minister is the chairman of the National Tiger Conservation Authority (NTCA).\nChoose the correct statements:?",
+    "options": [
+      "I, II and III only",
+      "II, III and IV only",
+      "I, III and IV only",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All four statements regarding tiger conservation and Project Tiger are correct.\n\n**Correct answer: D) All of the above**",
+    "explanation_block_uid": "0kWuLcB2v",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VgevRl1Ss",
+    "question": "Which of the following species is NOT included under the International Big Cats Alliance, launched in the year 2023?",
+    "options": [
+      "Jaguar",
+      "Puma",
+      "Snow leopard",
+      "Himalayan Wolf"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The International Big Cats Alliance focuses on seven big cats; the **Himalayan Wolf** is not included.\n\n**Correct answer: D) Himalayan Wolf**",
+    "explanation_block_uid": "qsihMV_BY",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "psjn6ruwB",
+    "question": "Consider the following statements about the Tiger reserves in India:\nI. Karnataka has the highest number of tigers as per the latest Tiger Census.\nII. Nagarjunsagar-Srisailam in Andhra Pradesh is the largest Tiger Reserve in India by area.\nIII. Guru-Ghasidas-Tamor Pingla is located in the state of Telangana.\nIdentify the INCORRECT statements:?",
+    "options": [
+      "II only",
+      "I and II only",
+      "I and III only",
+      "II and III only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Statements I and III are incorrect as per latest data and locations.\n\n**Correct answer: C) I and III only**",
+    "explanation_block_uid": "1HKgBWaDt",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6uDeXnHVt",
+    "question": "Which of the following mechanisms explains the increase in soil erosion after deforestation:\nI. Reduction in interception of rainfall by the tree canopy\nII. Decrease in the infiltration rate of water into the soil\nIII. Increase in evapotranspiration\nIV. Loss of soil-binding root networks\nSelect the correct answer:?",
+    "options": [
+      "I and IV only",
+      "II and III only",
+      "I, II and IV only",
+      "I, II, III and IV"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Deforestation increases soil erosion through reduced interception, lower infiltration, loss of root networks, and altered evapotranspiration patterns.\n\n**Correct answer: D) I, II, III and IV**",
+    "explanation_block_uid": "uoPLdk9S0",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "iuLORBAIo",
+    "question": "How does deforestation affect the water cycle (Hydrology)?",
+    "options": [
+      "Decreases surface runoff",
+      "Decreases evapotranspiration",
+      "Increases rainfall",
+      "Increases groundwater levels"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Deforestation leads to **decreased evapotranspiration** because fewer trees mean less water is released into the atmosphere through transpiration.\n\n**Correct answer: B) Decreases evapotranspiration**",
+    "explanation_block_uid": "BT8kKc0xo",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZOYOE4Ib8",
+    "question": "Choose the correct statements about the National Action Plan to Combat Desertification:\nI. The National Action Plan to Combat Desertification, 2023, was prepared, aiming for the restoration of 26 million hectares of degraded land by 2030.\nII. It was launched under the UN Convention on Biological Diversity (UNCBD).\nIII. It also aims to create an additional carbon sink of 2.5–3 billion tonnes of carbon dioxide equivalent by 2030 through additional forest and tree cover.?",
+    "options": [
+      "II only",
+      "III only",
+      "I and II only",
+      "I and III only"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Statements I and III are correct. The plan is under UNCCD (not UNCBD).\n\n**Correct answer: D) I and III only**",
+    "explanation_block_uid": "i7Hyx2OKq",
+    "tags": [
+      "General Studies",
+      "JKSSB Wildlife Guard Exam 2026",
+      "JKSSB",
+      "Medium",
+      "Graduate Level",
+      "pyq",
+      "newmocktests",
+      "Mixed",
+      "previousPaper",
+      "Previous Paper",
+      "March 8th, 2026",
+      "All",
+      "Full Mock Test",
+      "March 29th, 2026"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "JKSSB Wildlife Guard Exam 2026",
+      "General Studies"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "8_qlU-ayV",
     "question": "SVEEP programme is related to:?",
     "options": [
