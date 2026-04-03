@@ -3862,6 +3862,51 @@
     "label": "Subject Wise Mock"
   },
   {
+    "id": "BAN3PCnzW",
+    "name": "English Mock - Error Detection - 1",
+    "exam": "",
+    "type": "subjectWise",
+    "que_ids": [
+      "AxWExuKzh",
+      "eS0-tmH6B",
+      "t5Y7_IGHj",
+      "EJjmdVkd6",
+      "XbWgbqFl0",
+      "fqAsof6pF",
+      "7V6kYq5iS",
+      "-GZCSg0Yt",
+      "Eaiypbp4F",
+      "2iPWsSyfA",
+      "SLrxY1dNs",
+      "-MxXlB0Sc",
+      "5Lf7MwacT",
+      "LhrT39_Vf",
+      "XuR3M2utc",
+      "n2McccqEO",
+      "Po6GWKLLi",
+      "E6xPDxpI7",
+      "wFzuQ2OOq",
+      "u9Xd52HK-",
+      "wU1_PvMsv",
+      "VIT9fkJRC",
+      "smdj0aV5A",
+      "2aR0xalBb",
+      "z1AHmkcs6"
+    ],
+    "pdfLink": "",
+    "examDate": "",
+    "expectedAverageScore": "",
+    "visibility": "",
+    "level": "Medium",
+    "gradeLevel": "Graduate Level",
+    "chapters": [
+      "Mixed"
+    ],
+    "category": "English",
+    "label": "Subject Wise Mock",
+    "addedOn": "April 3rd, 2026"
+  },
+  {
     "id": "zToaiy3SF",
     "name": "English Full Mock - 1",
     "exam": "",
@@ -3988,7 +4033,8 @@
       "Mixed"
     ],
     "category": "English",
-    "label": "Subject Wise Mock"
+    "label": "Subject Wise Mock",
+    "addedOn": "February 25th, 2026"
   },
   {
     "id": "cIvwejMgr",
@@ -4037,11 +4083,12 @@
       "Mixed"
     ],
     "category": "English",
-    "label": "Subject Wise Mock"
+    "label": "Subject Wise Mock",
+    "addedOn": "February 25th, 2026"
   },
   {
     "id": "RKmr4pO1z",
-    "name": "English Mock - Active Passive",
+    "name": "English Mock - Active Passive - 1",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -4130,7 +4177,7 @@
   },
   {
     "id": "yUrld3zqD_gs",
-    "name": "JKSSB Wildlife Guard Exam 2026",
+    "name": "JKSSB Wildlife Guard Exam 2026 - GS",
     "exam": "JKSSB",
     "type": "subjectWise",
     "que_ids": [
@@ -4196,7 +4243,7 @@
   },
   {
     "id": "yUrld3zqD_english",
-    "name": "JKSSB Wildlife Guard Exam 2026",
+    "name": "JKSSB Wildlife Guard Exam 2026 - English",
     "exam": "JKSSB",
     "type": "subjectWise",
     "que_ids": [
@@ -4243,7 +4290,7 @@
   },
   {
     "id": "yUrld3zqD_aptitude",
-    "name": "JKSSB Wildlife Guard Exam 2026",
+    "name": "JKSSB Wildlife Guard Exam 2026 - Aptitude",
     "exam": "JKSSB",
     "type": "subjectWise",
     "que_ids": [
@@ -4290,7 +4337,7 @@
   },
   {
     "id": "yUrld3zqD_reasoning",
-    "name": "JKSSB Wildlife Guard Exam 2026",
+    "name": "JKSSB Wildlife Guard Exam 2026 - Reasoning",
     "exam": "JKSSB",
     "type": "subjectWise",
     "que_ids": [
@@ -4337,7 +4384,7 @@
   },
   {
     "id": "L_NK6eRBM_gs",
-    "name": "LSSRB Panchayat Accounts Assistant Exam 2021",
+    "name": "LSSRB Panchayat Accounts Assistant Exam 2021 - GS",
     "exam": "LSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -4458,7 +4505,7 @@
   },
   {
     "id": "j7xVwa-7U_gs",
-    "name": "KSSRB Exam 2025 - 10th Level - Shift 2",
+    "name": "KSSRB Exam 2025 - 10th Level - Shift 2 - GS",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -4504,7 +4551,7 @@
   },
   {
     "id": "j7xVwa-7U_english",
-    "name": "KSSRB Exam 2025 - 10th Level - Shift 2",
+    "name": "KSSRB Exam 2025 - 10th Level - Shift 2 - English",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -4551,7 +4598,7 @@
   },
   {
     "id": "j7xVwa-7U_aptitude",
-    "name": "KSSRB Exam 2025 - 10th Level - Shift 2",
+    "name": "KSSRB Exam 2025 - 10th Level - Shift 2 - Aptitude",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -4598,7 +4645,7 @@
   },
   {
     "id": "j7xVwa-7U_reasoning",
-    "name": "KSSRB Exam 2025 - 10th Level - Shift 2",
+    "name": "KSSRB Exam 2025 - 10th Level - Shift 2 - Reasoning",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -4645,7 +4692,7 @@
   },
   {
     "id": "_tEd-JNpi_gs",
-    "name": "KSSRB Exam 2025 - 12th Level - Shift 1",
+    "name": "KSSRB Exam 2025 - 12th Level - Shift 1 - GS",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -4691,7 +4738,7 @@
   },
   {
     "id": "_tEd-JNpi_english",
-    "name": "KSSRB Exam 2025 - 12th Level - Shift 1",
+    "name": "KSSRB Exam 2025 - 12th Level - Shift 1 - English",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -4738,7 +4785,7 @@
   },
   {
     "id": "_tEd-JNpi_aptitude",
-    "name": "KSSRB Exam 2025 - 12th Level - Shift 1",
+    "name": "KSSRB Exam 2025 - 12th Level - Shift 1 - Aptitude",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -4785,7 +4832,7 @@
   },
   {
     "id": "_tEd-JNpi_reasoning",
-    "name": "KSSRB Exam 2025 - 12th Level - Shift 1",
+    "name": "KSSRB Exam 2025 - 12th Level - Shift 1 - Reasoning",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -4832,7 +4879,7 @@
   },
   {
     "id": "8yO6-TFU__gs",
-    "name": "JKSSB Exam 2024 - Patwari",
+    "name": "JKSSB Exam 2024 - Patwari - GS",
     "exam": "JKSSB",
     "type": "subjectWise",
     "que_ids": [
@@ -4930,7 +4977,7 @@
   },
   {
     "id": "8yO6-TFU__english",
-    "name": "JKSSB Exam 2024 - Patwari",
+    "name": "JKSSB Exam 2024 - Patwari - English",
     "exam": "JKSSB",
     "type": "subjectWise",
     "que_ids": [
@@ -4976,7 +5023,7 @@
   },
   {
     "id": "8yO6-TFU__reasoning",
-    "name": "JKSSB Exam 2024 - Patwari",
+    "name": "JKSSB Exam 2024 - Patwari - Reasoning",
     "exam": "JKSSB",
     "type": "subjectWise",
     "que_ids": [
@@ -5015,7 +5062,7 @@
   },
   {
     "id": "j2UqWUCew_gs",
-    "name": "LSSRB Exam 2024 - 12th Level",
+    "name": "LSSRB Exam 2024 - 12th Level - GS",
     "exam": "LSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5061,7 +5108,7 @@
   },
   {
     "id": "j2UqWUCew_english",
-    "name": "LSSRB Exam 2024 - 12th Level",
+    "name": "LSSRB Exam 2024 - 12th Level - English",
     "exam": "LSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5108,7 +5155,7 @@
   },
   {
     "id": "j2UqWUCew_aptitude",
-    "name": "LSSRB Exam 2024 - 12th Level",
+    "name": "LSSRB Exam 2024 - 12th Level - Aptitude",
     "exam": "LSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5155,7 +5202,7 @@
   },
   {
     "id": "j2UqWUCew_reasoning",
-    "name": "LSSRB Exam 2024 - 12th Level",
+    "name": "LSSRB Exam 2024 - 12th Level - Reasoning",
     "exam": "LSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5201,7 +5248,7 @@
   },
   {
     "id": "cFJ_r8iXn_gs",
-    "name": "KSSRB Exam 2024 - Graduate",
+    "name": "KSSRB Exam 2024 - Graduate - GS",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5247,7 +5294,7 @@
   },
   {
     "id": "cFJ_r8iXn_english",
-    "name": "KSSRB Exam 2024 - Graduate",
+    "name": "KSSRB Exam 2024 - Graduate - English",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5294,7 +5341,7 @@
   },
   {
     "id": "cFJ_r8iXn_aptitude",
-    "name": "KSSRB Exam 2024 - Graduate",
+    "name": "KSSRB Exam 2024 - Graduate - Aptitude",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5341,7 +5388,7 @@
   },
   {
     "id": "cFJ_r8iXn_reasoning",
-    "name": "KSSRB Exam 2024 - Graduate",
+    "name": "KSSRB Exam 2024 - Graduate - Reasoning",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5388,7 +5435,7 @@
   },
   {
     "id": "iDbNCRHdX_gs",
-    "name": "KSSRB Exam 2024 - 12th Level",
+    "name": "KSSRB Exam 2024 - 12th Level - GS",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5434,7 +5481,7 @@
   },
   {
     "id": "iDbNCRHdX_english",
-    "name": "KSSRB Exam 2024 - 12th Level",
+    "name": "KSSRB Exam 2024 - 12th Level - English",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5481,7 +5528,7 @@
   },
   {
     "id": "iDbNCRHdX_aptitude",
-    "name": "KSSRB Exam 2024 - 12th Level",
+    "name": "KSSRB Exam 2024 - 12th Level - Aptitude",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5528,7 +5575,7 @@
   },
   {
     "id": "iDbNCRHdX_reasoning",
-    "name": "KSSRB Exam 2024 - 12th Level",
+    "name": "KSSRB Exam 2024 - 12th Level - Reasoning",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5575,7 +5622,7 @@
   },
   {
     "id": "2J3660E-d_gs",
-    "name": "KSSRB Exam 2024 - 10th Level",
+    "name": "KSSRB Exam 2024 - 10th Level - GS",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5621,7 +5668,7 @@
   },
   {
     "id": "2J3660E-d_english",
-    "name": "KSSRB Exam 2024 - 10th Level",
+    "name": "KSSRB Exam 2024 - 10th Level - English",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5668,7 +5715,7 @@
   },
   {
     "id": "2J3660E-d_aptitude",
-    "name": "KSSRB Exam 2024 - 10th Level",
+    "name": "KSSRB Exam 2024 - 10th Level - Aptitude",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5715,7 +5762,7 @@
   },
   {
     "id": "2J3660E-d_reasoning",
-    "name": "KSSRB Exam 2024 - 10th Level",
+    "name": "KSSRB Exam 2024 - 10th Level - Reasoning",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5762,7 +5809,7 @@
   },
   {
     "id": "rbOwU3umx_gs",
-    "name": "KSSRB Exam 2023 - Graduate",
+    "name": "KSSRB Exam 2023 - Graduate - GS",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5808,7 +5855,7 @@
   },
   {
     "id": "rbOwU3umx_english",
-    "name": "KSSRB Exam 2023 - Graduate",
+    "name": "KSSRB Exam 2023 - Graduate - English",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5855,7 +5902,7 @@
   },
   {
     "id": "rbOwU3umx_aptitude",
-    "name": "KSSRB Exam 2023 - Graduate",
+    "name": "KSSRB Exam 2023 - Graduate - Aptitude",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5902,7 +5949,7 @@
   },
   {
     "id": "rbOwU3umx_reasoning",
-    "name": "KSSRB Exam 2023 - Graduate",
+    "name": "KSSRB Exam 2023 - Graduate - Reasoning",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -5949,7 +5996,7 @@
   },
   {
     "id": "emzRM51ME_gs",
-    "name": "KSSRB Exam 2019 - Graduate",
+    "name": "KSSRB Exam 2019 - Graduate - GS",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -6032,7 +6079,7 @@
   },
   {
     "id": "emzRM51ME_english",
-    "name": "KSSRB Exam 2019 - Graduate",
+    "name": "KSSRB Exam 2019 - Graduate - English",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -6067,7 +6114,7 @@
   },
   {
     "id": "emzRM51ME_aptitude",
-    "name": "KSSRB Exam 2019 - Graduate",
+    "name": "KSSRB Exam 2019 - Graduate - Aptitude",
     "exam": "KSSRB",
     "type": "subjectWise",
     "que_ids": [
@@ -6094,7 +6141,7 @@
   },
   {
     "id": "rIoQbSTl2_gs",
-    "name": "Mock Test 13",
+    "name": "Mock Test 13 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6140,7 +6187,7 @@
   },
   {
     "id": "rIoQbSTl2_english",
-    "name": "Mock Test 13",
+    "name": "Mock Test 13 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6187,7 +6234,7 @@
   },
   {
     "id": "rIoQbSTl2_aptitude",
-    "name": "Mock Test 13",
+    "name": "Mock Test 13 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6235,7 +6282,7 @@
   },
   {
     "id": "rIoQbSTl2_reasoning",
-    "name": "Mock Test 13",
+    "name": "Mock Test 13 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6280,7 +6327,7 @@
   },
   {
     "id": "BPtPj2uI1_gs",
-    "name": "Mock Test 12",
+    "name": "Mock Test 12 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6326,7 +6373,7 @@
   },
   {
     "id": "BPtPj2uI1_english",
-    "name": "Mock Test 12",
+    "name": "Mock Test 12 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6373,7 +6420,7 @@
   },
   {
     "id": "BPtPj2uI1_aptitude",
-    "name": "Mock Test 12",
+    "name": "Mock Test 12 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6420,7 +6467,7 @@
   },
   {
     "id": "BPtPj2uI1_reasoning",
-    "name": "Mock Test 12",
+    "name": "Mock Test 12 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6467,7 +6514,7 @@
   },
   {
     "id": "5Zdt1kF8S_gs",
-    "name": "Mock Test 11",
+    "name": "Mock Test 11 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6513,7 +6560,7 @@
   },
   {
     "id": "5Zdt1kF8S_english",
-    "name": "Mock Test 11",
+    "name": "Mock Test 11 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6560,7 +6607,7 @@
   },
   {
     "id": "5Zdt1kF8S_aptitude",
-    "name": "Mock Test 11",
+    "name": "Mock Test 11 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6607,7 +6654,7 @@
   },
   {
     "id": "5Zdt1kF8S_reasoning",
-    "name": "Mock Test 11",
+    "name": "Mock Test 11 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6653,7 +6700,7 @@
   },
   {
     "id": "oY7B60C8J_gs",
-    "name": "Mock Test 10",
+    "name": "Mock Test 10 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6699,7 +6746,7 @@
   },
   {
     "id": "oY7B60C8J_english",
-    "name": "Mock Test 10",
+    "name": "Mock Test 10 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6746,7 +6793,7 @@
   },
   {
     "id": "oY7B60C8J_aptitude",
-    "name": "Mock Test 10",
+    "name": "Mock Test 10 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6793,7 +6840,7 @@
   },
   {
     "id": "oY7B60C8J_reasoning",
-    "name": "Mock Test 10",
+    "name": "Mock Test 10 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6840,7 +6887,7 @@
   },
   {
     "id": "T-Al-z1TE_gs",
-    "name": "Mock Test 9",
+    "name": "Mock Test 9 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6886,7 +6933,7 @@
   },
   {
     "id": "T-Al-z1TE_english",
-    "name": "Mock Test 9",
+    "name": "Mock Test 9 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6933,7 +6980,7 @@
   },
   {
     "id": "T-Al-z1TE_aptitude",
-    "name": "Mock Test 9",
+    "name": "Mock Test 9 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -6980,7 +7027,7 @@
   },
   {
     "id": "T-Al-z1TE_reasoning",
-    "name": "Mock Test 9",
+    "name": "Mock Test 9 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7027,7 +7074,7 @@
   },
   {
     "id": "3LaMKfls9_gs",
-    "name": "Mock Test 8",
+    "name": "Mock Test 8 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7072,7 +7119,7 @@
   },
   {
     "id": "3LaMKfls9_english",
-    "name": "Mock Test 8",
+    "name": "Mock Test 8 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7119,7 +7166,7 @@
   },
   {
     "id": "3LaMKfls9_aptitude",
-    "name": "Mock Test 8",
+    "name": "Mock Test 8 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7166,7 +7213,7 @@
   },
   {
     "id": "3LaMKfls9_reasoning",
-    "name": "Mock Test 8",
+    "name": "Mock Test 8 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7213,7 +7260,7 @@
   },
   {
     "id": "-FXozJPKu_gs",
-    "name": "Mock Test 7",
+    "name": "Mock Test 7 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7258,7 +7305,7 @@
   },
   {
     "id": "-FXozJPKu_english",
-    "name": "Mock Test 7",
+    "name": "Mock Test 7 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7305,7 +7352,7 @@
   },
   {
     "id": "-FXozJPKu_aptitude",
-    "name": "Mock Test 7",
+    "name": "Mock Test 7 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7352,7 +7399,7 @@
   },
   {
     "id": "-FXozJPKu_reasoning",
-    "name": "Mock Test 7",
+    "name": "Mock Test 7 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7399,7 +7446,7 @@
   },
   {
     "id": "AoOGzxMTx_gs",
-    "name": "Mock Test 6",
+    "name": "Mock Test 6 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7445,7 +7492,7 @@
   },
   {
     "id": "AoOGzxMTx_english",
-    "name": "Mock Test 6",
+    "name": "Mock Test 6 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7492,7 +7539,7 @@
   },
   {
     "id": "AoOGzxMTx_aptitude",
-    "name": "Mock Test 6",
+    "name": "Mock Test 6 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7539,7 +7586,7 @@
   },
   {
     "id": "AoOGzxMTx_reasoning",
-    "name": "Mock Test 6",
+    "name": "Mock Test 6 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7586,7 +7633,7 @@
   },
   {
     "id": "Gq3ihw6lB_gs",
-    "name": "Mock Test 5",
+    "name": "Mock Test 5 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7632,7 +7679,7 @@
   },
   {
     "id": "Gq3ihw6lB_english",
-    "name": "Mock Test 5",
+    "name": "Mock Test 5 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7679,7 +7726,7 @@
   },
   {
     "id": "Gq3ihw6lB_aptitude",
-    "name": "Mock Test 5",
+    "name": "Mock Test 5 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7726,7 +7773,7 @@
   },
   {
     "id": "Gq3ihw6lB_reasoning",
-    "name": "Mock Test 5",
+    "name": "Mock Test 5 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7773,7 +7820,7 @@
   },
   {
     "id": "rusS1yv98_gs",
-    "name": "Mock Test 4",
+    "name": "Mock Test 4 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7818,7 +7865,7 @@
   },
   {
     "id": "rusS1yv98_english",
-    "name": "Mock Test 4",
+    "name": "Mock Test 4 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7865,7 +7912,7 @@
   },
   {
     "id": "rusS1yv98_aptitude",
-    "name": "Mock Test 4",
+    "name": "Mock Test 4 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7912,7 +7959,7 @@
   },
   {
     "id": "rusS1yv98_reasoning",
-    "name": "Mock Test 4",
+    "name": "Mock Test 4 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -7959,7 +8006,7 @@
   },
   {
     "id": "wv6Tte0qf_gs",
-    "name": "Mock Test 3",
+    "name": "Mock Test 3 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8005,7 +8052,7 @@
   },
   {
     "id": "wv6Tte0qf_english",
-    "name": "Mock Test 3",
+    "name": "Mock Test 3 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8049,7 +8096,7 @@
   },
   {
     "id": "wv6Tte0qf_aptitude",
-    "name": "Mock Test 3",
+    "name": "Mock Test 3 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8096,7 +8143,7 @@
   },
   {
     "id": "wv6Tte0qf_reasoning",
-    "name": "Mock Test 3",
+    "name": "Mock Test 3 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8143,7 +8190,7 @@
   },
   {
     "id": "xvMdI2N-2_gs",
-    "name": "Mock Test 2",
+    "name": "Mock Test 2 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8188,7 +8235,7 @@
   },
   {
     "id": "xvMdI2N-2_english",
-    "name": "Mock Test 2",
+    "name": "Mock Test 2 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8232,7 +8279,7 @@
   },
   {
     "id": "xvMdI2N-2_aptitude",
-    "name": "Mock Test 2",
+    "name": "Mock Test 2 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8279,7 +8326,7 @@
   },
   {
     "id": "xvMdI2N-2_reasoning",
-    "name": "Mock Test 2",
+    "name": "Mock Test 2 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8326,7 +8373,7 @@
   },
   {
     "id": "XJzTcsl7j_gs",
-    "name": "Mock Test 1",
+    "name": "Mock Test 1 - GS",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8372,7 +8419,7 @@
   },
   {
     "id": "XJzTcsl7j_english",
-    "name": "Mock Test 1",
+    "name": "Mock Test 1 - English",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8419,7 +8466,7 @@
   },
   {
     "id": "XJzTcsl7j_aptitude",
-    "name": "Mock Test 1",
+    "name": "Mock Test 1 - Aptitude",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
@@ -8466,7 +8513,7 @@
   },
   {
     "id": "XJzTcsl7j_reasoning",
-    "name": "Mock Test 1",
+    "name": "Mock Test 1 - Reasoning",
     "exam": "",
     "type": "subjectWise",
     "que_ids": [
