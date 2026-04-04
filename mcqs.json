@@ -43814,6 +43814,33 @@
     "isPassageBased": false
   },
   {
+    "id": "BxwJ2AGZg",
+    "question": "Which of the following Articles directs the State to secure a Uniform Civil Code?",
+    "options": [
+      "Article 44",
+      "Article 43",
+      "Article 45",
+      "Article 46"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Article 44 in Part IV suggests the implementation of a Uniform Civil Code across India.\n((MXJM9iKNx))",
+    "explanation_block_uid": "zeJ65PCaq",
+    "tags": [
+      "DPSP",
+      "MCQs",
+      "General Studies",
+      "Polity"
+    ],
+    "linked_block_uid": "MXJM9iKNx",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Polity",
+      "DPSP"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "oAs8DPCgS",
     "question": "Fundamental Duties were added to the constitution by which amendment?",
     "options": [
@@ -69459,6 +69486,31 @@
     "isPassageBased": false
   },
   {
+    "id": "N_ZVyD1Yc",
+    "question": "Operation Sindoor was conducted in which month?",
+    "options": [
+      "April 2025",
+      "May 2025",
+      "March 2025",
+      "June 2025"
+    ],
+    "correct_option_index": 1,
+    "explanation": "On 7 ^^May 2025^^, India announced that it had launched missile and air strikes, codenamed Operation Sindoor, targeting nine sites across Pakistani-administered Azad Kashmir and Pakistan's Punjab province.",
+    "explanation_block_uid": "VTjTue3ma",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Current Affairs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Current Affairs"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "TQ3NvkKQT",
     "question": "What is the use of functional key F7 in Microsoft Word 2010?",
     "options": [
@@ -70727,6 +70779,132 @@
       "Ladakh Environment & Wildlife",
       "Ladakh",
       "Wildlife"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4WIMNstBe",
+    "question": "Tso Moriri Lake is located inside which Wildlife Sanctuary?",
+    "options": [
+      "Changthang Wildlife Sanctuary",
+      "Karakoram Wildlife Sanctuary",
+      "Hemis National Park",
+      "Dachigam Wildlife Sanctuary"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "linked_block_uid": "M8Ry2Ky0B",
+    "path_tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "K7QbpKpsw",
+    "question": "How many Ramsar Sites are there in the UT of Ladakh?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "linked_block_uid": "M8Ry2Ky0B",
+    "path_tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "hoasSmGpm",
+    "question": "Which are the Ramsar Sites of Ladakh?",
+    "options": [
+      "Tso Moriri & Tso Kar",
+      "Tso Kar & Pangong Tso",
+      "Pangong Tso & Tso Moriri",
+      "Tso Moriri & Shyok"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "linked_block_uid": "M8Ry2Ky0B",
+    "path_tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "TdiwPSR50",
+    "question": "Which Ramsar Site is a wetland complex of a hypersaline lake and a freshwater lake?",
+    "options": [
+      "Tso Moriri",
+      "Tso Kar",
+      "Pangong Tso",
+      "Wular Lake"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "linked_block_uid": "M8Ry2Ky0B",
+    "path_tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "UIzywpgt8",
+    "question": "Tso Kar is called the “White Lake” because ?",
+    "options": [
+      "Snowfall surrounds it",
+      "It has white salt deposits",
+      "It freezes all year round",
+      "It reflects the Himalayas"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Tso Kar is called the \"White Lake\" because its shores are covered in white salt deposits left behind by the evaporation of its highly saline water. From a distance, these large salt efflorescence deposits give the lake its distinctive white appearance.",
+    "explanation_block_uid": "i2IHyVZPM",
+    "tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "linked_block_uid": "M8Ry2Ky0B",
+    "path_tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ehrgAggu4",
+    "question": "Which water body in Ladakh is known as \"White Lake\"?",
+    "options": [
+      "Tso Moriri",
+      "Tso Kar",
+      "Penzilla lake",
+      "Pangong Tso"
+    ],
+    "correct_option_index": 1,
+    "explanation": "\"Tso Kar\" translates to \"White Lake\" in Ladakhi, referring to the thick crust of salt around the lake, not snow.\nKar -- Karpo -- means white in Ladakhi",
+    "explanation_block_uid": "dJOI1d3d9",
+    "tags": [
+      "Ladakh Environment & Wildlife"
+    ],
+    "linked_block_uid": "M8Ry2Ky0B",
+    "path_tags": [
+      "Ladakh Environment & Wildlife"
     ],
     "isPassageBased": false
   },
@@ -79793,7 +79971,6 @@
     "explanation": "Let the son's current age be x years.  \nThen the father's current age = 5x years.\n\nIn 15 years:  \nSon’s age = x + 15  \nFather’s age = 5x + 15\n\nAccording to the question:  \n5x + 15 = 2(x + 15)  \n\n5x + 15 = 2x + 30  \n5x - 2x = 30 - 15  \n3x = 15  \nx = 5\n\nSo the father is currently 5 × 5 = 25 years old.\n\n**Answer: 25 years**",
     "explanation_block_uid": "kgqQJTmq7",
     "tags": [
-      "KSSRB",
       "pyq",
       "Problem on Ages",
       "MCQs",
@@ -79803,9 +79980,7 @@
     "path_tags": [
       "MCQs",
       "Aptitude",
-      "Problem on Ages",
-      "pyq",
-      "KSSRB"
+      "Problem on Ages"
     ],
     "isPassageBased": false
   },
@@ -104536,6 +104711,756 @@
     "isPassageBased": false
   },
   {
+    "id": "noiy32a_D",
+    "question": "For me, breakfast is . . . . . . . . best meal of the day. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "none of the above"
+    ],
+    "correct_option_index": 2,
+    "explanation": "“The” is used before a specific noun. Here, “breakfast” is referred to specifically, so we use “the best meal.”",
+    "explanation_block_uid": "gsRlEphQw",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "-hASjUWGy",
+    "question": "Football is . . . . . . . . most popular sport in the world. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "none of the above"
+    ],
+    "correct_option_index": 2,
+    "explanation": "“Football” is a specific sport known worldwide, so the definite article “the” is used.",
+    "explanation_block_uid": "HVho-VYOP",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yLFrIHQfl",
+    "question": ". . . . . . . . Children recited . . . . . . . . poem in . . . . . . . . honour of . . . . . . . . Prime Minister. ??",
+    "options": [
+      "the, a, an, a",
+      "a, the, the, the",
+      "no article, a, an, the",
+      "the, a, the, the"
+    ],
+    "correct_option_index": 3,
+    "explanation": "We don’t need an article before “Children” (general). “A poem” (first mention), “the honour” (specific), and “the Prime Minister” (only one).",
+    "explanation_block_uid": "vSCgW9pEL",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PjSvh-gND",
+    "question": "There is . . . . . . . . fish in . . . . . . . . bottle.  ??",
+    "options": [
+      "the, the",
+      "a, the",
+      "a, a",
+      "none"
+    ],
+    "correct_option_index": 1,
+    "explanation": "“A fish” (general, first mention) and “the bottle” (specific bottle known).",
+    "explanation_block_uid": "5LRWZ4oJM",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Z3uwlQwmV",
+    "question": "They wanted to hear . . . . . . . . end of the story. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 2,
+    "explanation": "“The end” is specific; hence, the definite article “the” is correct.",
+    "explanation_block_uid": "YBmXzkbdZ",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rYBjzRbiH",
+    "question": ". . . . . . . . student should learn from the best expert she or he can find. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 0,
+    "explanation": "“A student” is general and singular, so we use the indefinite article “a.”",
+    "explanation_block_uid": "Nv0Q_YLmG",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "oMkMxcJ8v",
+    "question": "I saw . . . . . . . . old man yesterday. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 1,
+    "explanation": "“An” is used before words beginning with a vowel sound — “old man.”",
+    "explanation_block_uid": "-Hpt2RBgu",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mFPTXPLGO",
+    "question": ". . . . . . . . light comes from the sun. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 3,
+    "explanation": "“Light” is uncountable and general, so no article is used.",
+    "explanation_block_uid": "DA3pu-2ag",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "8wjW6MzlN",
+    "question": "Many shops were set up in . . . . . . . . enclosed area. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "none of these"
+    ],
+    "correct_option_index": 1,
+    "explanation": "“Enclosed” begins with a vowel sound, so we use “an enclosed area.”",
+    "explanation_block_uid": "6FOOX3nl8",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "kwRXBmonC",
+    "question": "Why are Ram and Sita considered as . . . . . . . . best couple. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "none of the above"
+    ],
+    "correct_option_index": 2,
+    "explanation": "“Ram and Sita” are specific people, so “the best couple” is correct.",
+    "explanation_block_uid": "rzuTYzydu",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "5W6AZF5Jp",
+    "question": "I saw . . . . . . . . good deal of him during . . . . . . . . war. ??",
+    "options": [
+      "no article, a",
+      "the, the",
+      "a, a",
+      "a, the"
+    ],
+    "correct_option_index": 3,
+    "explanation": "“A good deal” (indefinite) and “the war” (specific event).",
+    "explanation_block_uid": "fy_k4KixB",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MviuCBeAR",
+    "question": "We missed our train because we were waiting on . . . . . . . . wrong platform. We were on . . . . . . . . Platform 3 instead of . . . . . . . . Platform 8. ??",
+    "options": [
+      "the, the, the",
+      "the, no article, no article",
+      "no article, no article, no article",
+      "the, a, a"
+    ],
+    "correct_option_index": 1,
+    "explanation": "“The wrong platform” (specific), and no article with “Platform 3/8” (proper nouns).",
+    "explanation_block_uid": "CkRqqUxSu",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "5R1Lq4Eb8",
+    "question": ". . . . . . . . Wisdom is . . . . . . . . great virtue. ??",
+    "options": [
+      "the, the",
+      "a, the",
+      "an, the",
+      "no article, a"
+    ],
+    "correct_option_index": 3,
+    "explanation": "“Wisdom” is an abstract noun, so no article is needed; “a great virtue” is general.",
+    "explanation_block_uid": "TJXGEoSoc",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "caz8GWCcY",
+    "question": "Another park in central London is . . . . . . . . St James' Park. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Proper nouns like “St James’ Park” don’t take an article.",
+    "explanation_block_uid": "zg7yw1MJK",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XM32ICzj1",
+    "question": "Have you seen a tiger and . . . . . . . . elephant together?",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 1,
+    "explanation": "“An” is used before words starting with vowel sounds — “elephant.”",
+    "explanation_block_uid": "_O_t3c3gQ",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "k2nAQzY_6",
+    "question": ". . . . . . . . inflation is defined as . . . . . . . . persistent rise in . . . . . . . . general level of prices. ??",
+    "options": [
+      "the, no article, the",
+      "no article, no article, the",
+      "no article, a, the",
+      "no article, a, no article"
+    ],
+    "correct_option_index": 2,
+    "explanation": "No article before “inflation” (abstract noun), “a persistent rise” (general), and “the general level” (specific).",
+    "explanation_block_uid": "njHKg9nNQ",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xHBSjM2eJ",
+    "question": "He is in need of . . . . . . . . money. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 3,
+    "explanation": "“Money” is uncountable, so no article is used.",
+    "explanation_block_uid": "cc5bicDUj",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jVpFnXSPv",
+    "question": "David picked up . . . . . . . . nut from . . . . . . . . hole. ??",
+    "options": [
+      "the, the",
+      "a, an",
+      "a, the",
+      "the, a"
+    ],
+    "correct_option_index": 2,
+    "explanation": "“A nut” (general) and “the hole” (specific).",
+    "explanation_block_uid": "vzziQIiOA",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "78Jc7Mk5H",
+    "question": "I want . . . . . . . . flowers in your garden. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 2,
+    "explanation": "“The flowers” — specific flowers in your garden.",
+    "explanation_block_uid": "z7UcreqBJ",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "z8edbIi6t",
+    "question": "All . . . . . . . . books on . . . . . . . . top of the shelf belong to me. ??",
+    "options": [
+      "no article, a",
+      "the, no article",
+      "the, the",
+      "no article, the"
+    ],
+    "correct_option_index": 2,
+    "explanation": "“The books” (specific) and “the top” (specific part of the shelf).",
+    "explanation_block_uid": "k63w4QnzF",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "0RflCTWWd",
+    "question": "Please lend me . . . . . . . . dollar. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 0,
+    "explanation": "“Dollar” is singular and starts with a consonant sound, so “a dollar.”",
+    "explanation_block_uid": "jMeT_-3Qd",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "0l_MTTPkt",
+    "question": "We study in . . . . . . . . same school. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 2,
+    "explanation": "“The same school” — definite article is used for specific reference.",
+    "explanation_block_uid": "S-01MYfgb",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PklO7SvTo",
+    "question": ". . . . . . . . higher you climb . . . . . . . . colder it gets. ??",
+    "options": [
+      "the, no article",
+      "no article, no article",
+      "no article, the",
+      "the, the"
+    ],
+    "correct_option_index": 3,
+    "explanation": "“The higher... the colder” — both clauses use “the” for comparison.",
+    "explanation_block_uid": "guRn5uJ8M",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "kMnWJKIXe",
+    "question": "Yesterday I saw . . . . . . . . owl outside the window. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "none of the above"
+    ],
+    "correct_option_index": 1,
+    "explanation": "“Owl” begins with a vowel sound, so “an owl.”",
+    "explanation_block_uid": "2OeTAHJ5e",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6tS8yqehD",
+    "question": "There are sixty seconds in . . . . . . . . minute. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 0,
+    "explanation": "“A minute” — general singular noun, so indefinite article “a.”",
+    "explanation_block_uid": "MUKvnijvl",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "RkS1s69q9",
+    "question": "It is . . . . . . . . very popular dancing room. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 0,
+    "explanation": "“A very popular dancing room” — general, so indefinite article “a.”",
+    "explanation_block_uid": "B1IFG4XzE",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ySZcc3Jrv",
+    "question": "I don't like . . . . . . . . bananas we bought yesterday. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 2,
+    "explanation": "“The bananas” — specific ones already mentioned.",
+    "explanation_block_uid": "MUVXrOYVS",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "gCX4KkKmr",
+    "question": "Fill the blanks with correct article:\nA girl from . . . . . . . . farm came once . . . . . . . . week to help clean . . . . . . . . house. ??",
+    "options": [
+      "a, a, the",
+      "a, the, a",
+      "the, a, a",
+      "the, a, the."
+    ],
+    "correct_option_index": 3,
+    "explanation": "The correct set of articles to complete the sentence is \n^^the, a, the. ^^\nThe complete sentence is: \n\"a girl from THE farm came once A week to help clean THE house.\"",
+    "explanation_block_uid": "w-m1hy2X9",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jwMGpfU1a",
+    "question": "A demonstration is an act of showing by giving proof or . . . . . . . . evidence. ??",
+    "options": [
+      "a",
+      "an",
+      "the",
+      "no article"
+    ],
+    "correct_option_index": 1,
+    "explanation": "“An evidence” — word starts with vowel sound; use “an.”",
+    "explanation_block_uid": "e3A4IqM_h",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rNazeA606",
+    "question": ". . . . . . . . Sahara is in the northern part of Africa. ??",
+    "options": [
+      "no article",
+      "a",
+      "an",
+      "the"
+    ],
+    "correct_option_index": 3,
+    "explanation": "“The Sahara” — definite article used before unique geographical features like deserts.",
+    "explanation_block_uid": "KgcTql7a8",
+    "tags": [
+      "Articles A An and The",
+      "MCQs",
+      "English"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Articles A An and The"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "wH-RGDefJ",
     "question": "Identify the clause in the sentence:\n\"This is the doctor who treated him.\" ??",
     "options": [
@@ -120890,6 +121815,633 @@
       "Reasoning",
       "Mirror Images",
       "SSC MTS"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "dZ25Gd3J1",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fugh_FMF-Md.png?alt=media&token=9e38c67d-af1e-4cd3-a477-fd08db350f13) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XVxe0fEV1",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F1y4Zq-vjEF.png?alt=media&token=e32199df-b1d4-4494-91c6-0bc57b119597) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "IeOzuFPoS",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F5ib8O3nvvE.png?alt=media&token=fb5f7c16-addc-473c-a7cf-b92068bba3ec) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "LrMlRjjU-",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FSGolEXjD6W.png?alt=media&token=d631d0b5-1c12-4851-ae45-27f6b3c4a271)??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6nBf2vlgb",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FYIv1W1jdYW.png?alt=media&token=40bc474a-fb74-4928-9551-e326c007ea62)??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "pRByt19AU",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FAn5oMsHvSf.png?alt=media&token=9794650d-646a-4cd5-9327-a304e455c8d5) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "cT8PYvZJm",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F6x8wOsQPnZ.png?alt=media&token=11a49493-85e3-400c-85cb-f7fcbc17160f) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PBp6xYCdR",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FRJwwR_sohy.png?alt=media&token=2c1e8d2e-f050-463e-9486-4436c34bdacd) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HJ1yl6TFg",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F-sqK658-A-.png?alt=media&token=ad737dfa-5fa4-4ddd-89bd-139e6ed5b4cc)??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "EHmyAJ7mf",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FXS10TTzS5h.png?alt=media&token=e9bef4c5-c1bd-4f50-9850-70ffa6e651c5)\n??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xaAHxttGs",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FyDyJBi4QYh.png?alt=media&token=76cc6344-8d8b-45d4-b909-59b48307240b)\n??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "AvNpvHUHA",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FWt0w0bbOEB.png?alt=media&token=48a36b34-0656-4820-b44a-24fcbce08c1a) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "F3Zyd55CY",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUoFxaVEv2H.png?alt=media&token=01f3e476-adf6-40d6-a028-4df14f914eac) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "u9Ms3ok5J",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F6PZ0bWvDZA.png?alt=media&token=79169b5f-a0ad-4b5a-a25b-d4ab7eeadefc) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "J1pJIFvc7",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fpncydegloz.png?alt=media&token=1850e228-c03e-4dbe-bd35-6d4295268015) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XwCHaMHdd",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FDchdVMQqkA.png?alt=media&token=411b9658-7626-4aa2-87c0-5487d54ceb80) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning",
+      "LSSRB Exam 2024 - 12th Level",
+      "LSSRB"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "fI4nRpRBG",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FJtQYdaSETa.png?alt=media&token=14e7d3c9-3cce-4212-ac2f-aa1c8b6c8c95) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "67bf_pDZV",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FHyoYNF87A-.png?alt=media&token=e003dc49-3b94-4bf3-bf6e-304f5cb03c1d) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "h9NLMn9-L",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F6ACGGPsRIC.png?alt=media&token=9325d20e-5f64-4e73-8ac1-00f905ad51ca) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "I6sTwSh5O",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FJaPeObZqNy.png?alt=media&token=312452e1-9ec7-4b3d-912f-fcc503d145e7) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "OcPGoTGb8",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fbb8l0PMsYE.png?alt=media&token=b619118c-1957-46cc-8194-3b1fe2a524ba) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "DCjitup-y",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F2PbnTKvW9y.png?alt=media&token=59e01607-6e44-4913-a3a5-50d00e8dfc54) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mockbFjC_",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FZUENkyURKs.png?alt=media&token=e3ac0f73-48e7-4d0f-91f3-ac694586f7a5) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "LDecy8Wl2",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FEMsT6scYzB.png?alt=media&token=075893d9-a12a-4d10-8dd7-c9f4911187a1) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "X33QoqZQa",
+    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F_cgxRf7b5v.png?alt=media&token=a2869998-5e51-457e-9945-006c9ac7c1f8) ??",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
+    "tags": [
+      "Mirror Images",
+      "MCQs",
+      "Reasoning"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "Reasoning",
+      "Mirror Images"
     ],
     "isPassageBased": false
   },
@@ -163264,29 +164816,6 @@
     "isPassageBased": false
   },
   {
-    "id": "N_ZVyD1Yc",
-    "question": "Operation Sindoor was conducted in which month?",
-    "options": [
-      "April 2025",
-      "May 2025",
-      "March 2025",
-      "June 2025"
-    ],
-    "correct_option_index": 1,
-    "explanation": "On 7 ^^May 2025^^, India announced that it had launched missile and air strikes, codenamed Operation Sindoor, targeting nine sites across Pakistani-administered Azad Kashmir and Pakistan's Punjab province.",
-    "explanation_block_uid": "VTjTue3ma",
-    "tags": [
-      "General Studies",
-      "pyq"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "pyq",
-      "General Studies"
-    ],
-    "isPassageBased": false
-  },
-  {
     "id": "8tcLXJz9S",
     "question": "SCO summit 2025 held in which country ?",
     "options": [
@@ -171009,29 +172538,6 @@
     "isPassageBased": false
   },
   {
-    "id": "BxwJ2AGZg",
-    "question": "Which of the following Articles directs the State to secure a Uniform Civil Code?",
-    "options": [
-      "Article 44",
-      "Article 43",
-      "Article 45",
-      "Article 46"
-    ],
-    "correct_option_index": 0,
-    "explanation": "Article 44 in Part IV suggests the implementation of a Uniform Civil Code across India.\n((MXJM9iKNx))",
-    "explanation_block_uid": "zeJ65PCaq",
-    "tags": [
-      "General Studies",
-      "Polity"
-    ],
-    "linked_block_uid": "MXJM9iKNx",
-    "path_tags": [
-      "General Studies",
-      "Polity"
-    ],
-    "isPassageBased": false
-  },
-  {
     "id": "ZaTATsVJ2",
     "question": "Fundamental Duties are mentioned under which article of the Indian Constitution?",
     "options": [
@@ -173040,1183 +174546,6 @@
     "path_tags": [
       "English"
     ],
-    "isPassageBased": false
-  },
-  {
-    "id": "noiy32a_D",
-    "question": "For me, breakfast is . . . . . . . . best meal of the day. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "none of the above"
-    ],
-    "correct_option_index": 2,
-    "explanation": "“The” is used before a specific noun. Here, “breakfast” is referred to specifically, so we use “the best meal.”",
-    "explanation_block_uid": "gsRlEphQw",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "-hASjUWGy",
-    "question": "Football is . . . . . . . . most popular sport in the world. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "none of the above"
-    ],
-    "correct_option_index": 2,
-    "explanation": "“Football” is a specific sport known worldwide, so the definite article “the” is used.",
-    "explanation_block_uid": "HVho-VYOP",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "yLFrIHQfl",
-    "question": ". . . . . . . . Children recited . . . . . . . . poem in . . . . . . . . honour of . . . . . . . . Prime Minister. ??",
-    "options": [
-      "the, a, an, a",
-      "a, the, the, the",
-      "no article, a, an, the",
-      "the, a, the, the"
-    ],
-    "correct_option_index": 3,
-    "explanation": "We don’t need an article before “Children” (general). “A poem” (first mention), “the honour” (specific), and “the Prime Minister” (only one).",
-    "explanation_block_uid": "vSCgW9pEL",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "PjSvh-gND",
-    "question": "There is . . . . . . . . fish in . . . . . . . . bottle.  ??",
-    "options": [
-      "the, the",
-      "a, the",
-      "a, a",
-      "none"
-    ],
-    "correct_option_index": 1,
-    "explanation": "“A fish” (general, first mention) and “the bottle” (specific bottle known).",
-    "explanation_block_uid": "5LRWZ4oJM",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "Z3uwlQwmV",
-    "question": "They wanted to hear . . . . . . . . end of the story. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 2,
-    "explanation": "“The end” is specific; hence, the definite article “the” is correct.",
-    "explanation_block_uid": "YBmXzkbdZ",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "rYBjzRbiH",
-    "question": ". . . . . . . . student should learn from the best expert she or he can find. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 0,
-    "explanation": "“A student” is general and singular, so we use the indefinite article “a.”",
-    "explanation_block_uid": "Nv0Q_YLmG",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "oMkMxcJ8v",
-    "question": "I saw . . . . . . . . old man yesterday. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 1,
-    "explanation": "“An” is used before words beginning with a vowel sound — “old man.”",
-    "explanation_block_uid": "-Hpt2RBgu",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "mFPTXPLGO",
-    "question": ". . . . . . . . light comes from the sun. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 3,
-    "explanation": "“Light” is uncountable and general, so no article is used.",
-    "explanation_block_uid": "DA3pu-2ag",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "8wjW6MzlN",
-    "question": "Many shops were set up in . . . . . . . . enclosed area. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "none of these"
-    ],
-    "correct_option_index": 1,
-    "explanation": "“Enclosed” begins with a vowel sound, so we use “an enclosed area.”",
-    "explanation_block_uid": "6FOOX3nl8",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "kwRXBmonC",
-    "question": "Why are Ram and Sita considered as . . . . . . . . best couple. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "none of the above"
-    ],
-    "correct_option_index": 2,
-    "explanation": "“Ram and Sita” are specific people, so “the best couple” is correct.",
-    "explanation_block_uid": "rzuTYzydu",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "5W6AZF5Jp",
-    "question": "I saw . . . . . . . . good deal of him during . . . . . . . . war. ??",
-    "options": [
-      "no article, a",
-      "the, the",
-      "a, a",
-      "a, the"
-    ],
-    "correct_option_index": 3,
-    "explanation": "“A good deal” (indefinite) and “the war” (specific event).",
-    "explanation_block_uid": "fy_k4KixB",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "MviuCBeAR",
-    "question": "We missed our train because we were waiting on . . . . . . . . wrong platform. We were on . . . . . . . . Platform 3 instead of . . . . . . . . Platform 8. ??",
-    "options": [
-      "the, the, the",
-      "the, no article, no article",
-      "no article, no article, no article",
-      "the, a, a"
-    ],
-    "correct_option_index": 1,
-    "explanation": "“The wrong platform” (specific), and no article with “Platform 3/8” (proper nouns).",
-    "explanation_block_uid": "CkRqqUxSu",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "5R1Lq4Eb8",
-    "question": ". . . . . . . . Wisdom is . . . . . . . . great virtue. ??",
-    "options": [
-      "the, the",
-      "a, the",
-      "an, the",
-      "no article, a"
-    ],
-    "correct_option_index": 3,
-    "explanation": "“Wisdom” is an abstract noun, so no article is needed; “a great virtue” is general.",
-    "explanation_block_uid": "TJXGEoSoc",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "caz8GWCcY",
-    "question": "Another park in central London is . . . . . . . . St James' Park. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 3,
-    "explanation": "Proper nouns like “St James’ Park” don’t take an article.",
-    "explanation_block_uid": "zg7yw1MJK",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "XM32ICzj1",
-    "question": "Have you seen a tiger and . . . . . . . . elephant together?",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 1,
-    "explanation": "“An” is used before words starting with vowel sounds — “elephant.”",
-    "explanation_block_uid": "_O_t3c3gQ",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "k2nAQzY_6",
-    "question": ". . . . . . . . inflation is defined as . . . . . . . . persistent rise in . . . . . . . . general level of prices. ??",
-    "options": [
-      "the, no article, the",
-      "no article, no article, the",
-      "no article, a, the",
-      "no article, a, no article"
-    ],
-    "correct_option_index": 2,
-    "explanation": "No article before “inflation” (abstract noun), “a persistent rise” (general), and “the general level” (specific).",
-    "explanation_block_uid": "njHKg9nNQ",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "xHBSjM2eJ",
-    "question": "He is in need of . . . . . . . . money. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 3,
-    "explanation": "“Money” is uncountable, so no article is used.",
-    "explanation_block_uid": "cc5bicDUj",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "jVpFnXSPv",
-    "question": "David picked up . . . . . . . . nut from . . . . . . . . hole. ??",
-    "options": [
-      "the, the",
-      "a, an",
-      "a, the",
-      "the, a"
-    ],
-    "correct_option_index": 2,
-    "explanation": "“A nut” (general) and “the hole” (specific).",
-    "explanation_block_uid": "vzziQIiOA",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "78Jc7Mk5H",
-    "question": "I want . . . . . . . . flowers in your garden. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 2,
-    "explanation": "“The flowers” — specific flowers in your garden.",
-    "explanation_block_uid": "z7UcreqBJ",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "z8edbIi6t",
-    "question": "All . . . . . . . . books on . . . . . . . . top of the shelf belong to me. ??",
-    "options": [
-      "no article, a",
-      "the, no article",
-      "the, the",
-      "no article, the"
-    ],
-    "correct_option_index": 2,
-    "explanation": "“The books” (specific) and “the top” (specific part of the shelf).",
-    "explanation_block_uid": "k63w4QnzF",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "0RflCTWWd",
-    "question": "Please lend me . . . . . . . . dollar. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 0,
-    "explanation": "“Dollar” is singular and starts with a consonant sound, so “a dollar.”",
-    "explanation_block_uid": "jMeT_-3Qd",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "0l_MTTPkt",
-    "question": "We study in . . . . . . . . same school. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 2,
-    "explanation": "“The same school” — definite article is used for specific reference.",
-    "explanation_block_uid": "S-01MYfgb",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "PklO7SvTo",
-    "question": ". . . . . . . . higher you climb . . . . . . . . colder it gets. ??",
-    "options": [
-      "the, no article",
-      "no article, no article",
-      "no article, the",
-      "the, the"
-    ],
-    "correct_option_index": 3,
-    "explanation": "“The higher... the colder” — both clauses use “the” for comparison.",
-    "explanation_block_uid": "guRn5uJ8M",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "kMnWJKIXe",
-    "question": "Yesterday I saw . . . . . . . . owl outside the window. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "none of the above"
-    ],
-    "correct_option_index": 1,
-    "explanation": "“Owl” begins with a vowel sound, so “an owl.”",
-    "explanation_block_uid": "2OeTAHJ5e",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "6tS8yqehD",
-    "question": "There are sixty seconds in . . . . . . . . minute. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 0,
-    "explanation": "“A minute” — general singular noun, so indefinite article “a.”",
-    "explanation_block_uid": "MUKvnijvl",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "RkS1s69q9",
-    "question": "It is . . . . . . . . very popular dancing room. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 0,
-    "explanation": "“A very popular dancing room” — general, so indefinite article “a.”",
-    "explanation_block_uid": "B1IFG4XzE",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "ySZcc3Jrv",
-    "question": "I don't like . . . . . . . . bananas we bought yesterday. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 2,
-    "explanation": "“The bananas” — specific ones already mentioned.",
-    "explanation_block_uid": "MUVXrOYVS",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "gCX4KkKmr",
-    "question": "Fill the blanks with correct article:\nA girl from . . . . . . . . farm came once . . . . . . . . week to help clean . . . . . . . . house. ??",
-    "options": [
-      "a, a, the",
-      "a, the, a",
-      "the, a, a",
-      "the, a, the."
-    ],
-    "correct_option_index": 3,
-    "explanation": "The correct set of articles to complete the sentence is \n^^the, a, the. ^^\nThe complete sentence is: \n\"a girl from THE farm came once A week to help clean THE house.\"",
-    "explanation_block_uid": "w-m1hy2X9",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "jwMGpfU1a",
-    "question": "A demonstration is an act of showing by giving proof or . . . . . . . . evidence. ??",
-    "options": [
-      "a",
-      "an",
-      "the",
-      "no article"
-    ],
-    "correct_option_index": 1,
-    "explanation": "“An evidence” — word starts with vowel sound; use “an.”",
-    "explanation_block_uid": "e3A4IqM_h",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "rNazeA606",
-    "question": ". . . . . . . . Sahara is in the northern part of Africa. ??",
-    "options": [
-      "no article",
-      "a",
-      "an",
-      "the"
-    ],
-    "correct_option_index": 3,
-    "explanation": "“The Sahara” — definite article used before unique geographical features like deserts.",
-    "explanation_block_uid": "KgcTql7a8",
-    "tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "English",
-      "Articles A An and The"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "dZ25Gd3J1",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fugh_FMF-Md.png?alt=media&token=9e38c67d-af1e-4cd3-a477-fd08db350f13) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 1,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "XVxe0fEV1",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F1y4Zq-vjEF.png?alt=media&token=e32199df-b1d4-4494-91c6-0bc57b119597) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 3,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "IeOzuFPoS",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F5ib8O3nvvE.png?alt=media&token=fb5f7c16-addc-473c-a7cf-b92068bba3ec) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 3,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "LrMlRjjU-",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FSGolEXjD6W.png?alt=media&token=d631d0b5-1c12-4851-ae45-27f6b3c4a271)??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 1,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "6nBf2vlgb",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FYIv1W1jdYW.png?alt=media&token=40bc474a-fb74-4928-9551-e326c007ea62)??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 0,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "pRByt19AU",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FAn5oMsHvSf.png?alt=media&token=9794650d-646a-4cd5-9327-a304e455c8d5) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 3,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "cT8PYvZJm",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F6x8wOsQPnZ.png?alt=media&token=11a49493-85e3-400c-85cb-f7fcbc17160f) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 1,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "PBp6xYCdR",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FRJwwR_sohy.png?alt=media&token=2c1e8d2e-f050-463e-9486-4436c34bdacd) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 0,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "HJ1yl6TFg",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F-sqK658-A-.png?alt=media&token=ad737dfa-5fa4-4ddd-89bd-139e6ed5b4cc)??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 3,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "EHmyAJ7mf",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FXS10TTzS5h.png?alt=media&token=e9bef4c5-c1bd-4f50-9850-70ffa6e651c5)\n??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 2,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "xaAHxttGs",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FyDyJBi4QYh.png?alt=media&token=76cc6344-8d8b-45d4-b909-59b48307240b)\n??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 3,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "AvNpvHUHA",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FWt0w0bbOEB.png?alt=media&token=48a36b34-0656-4820-b44a-24fcbce08c1a) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 0,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "F3Zyd55CY",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FUoFxaVEv2H.png?alt=media&token=01f3e476-adf6-40d6-a028-4df14f914eac) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 0,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "u9Ms3ok5J",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F6PZ0bWvDZA.png?alt=media&token=79169b5f-a0ad-4b5a-a25b-d4ab7eeadefc) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 1,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "J1pJIFvc7",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fpncydegloz.png?alt=media&token=1850e228-c03e-4dbe-bd35-6d4295268015) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 1,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "XwCHaMHdd",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FDchdVMQqkA.png?alt=media&token=411b9658-7626-4aa2-87c0-5487d54ceb80) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 3,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [
-      "LSSRB 10+2 2024"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "fI4nRpRBG",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FJtQYdaSETa.png?alt=media&token=14e7d3c9-3cce-4212-ac2f-aa1c8b6c8c95) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 2,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "67bf_pDZV",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FHyoYNF87A-.png?alt=media&token=e003dc49-3b94-4bf3-bf6e-304f5cb03c1d) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 1,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "h9NLMn9-L",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F6ACGGPsRIC.png?alt=media&token=9325d20e-5f64-4e73-8ac1-00f905ad51ca) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 2,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "I6sTwSh5O",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FJaPeObZqNy.png?alt=media&token=312452e1-9ec7-4b3d-912f-fcc503d145e7) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 2,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "OcPGoTGb8",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fbb8l0PMsYE.png?alt=media&token=b619118c-1957-46cc-8194-3b1fe2a524ba) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 2,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "DCjitup-y",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F2PbnTKvW9y.png?alt=media&token=59e01607-6e44-4913-a3a5-50d00e8dfc54) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 3,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "mockbFjC_",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FZUENkyURKs.png?alt=media&token=e3ac0f73-48e7-4d0f-91f3-ac694586f7a5) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 2,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "LDecy8Wl2",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2FEMsT6scYzB.png?alt=media&token=075893d9-a12a-4d10-8dd7-c9f4911187a1) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 3,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
-    "isPassageBased": false
-  },
-  {
-    "id": "X33QoqZQa",
-    "question": "Choose the alternative which is closely resembles the mirror image of the given combination.\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2F_cgxRf7b5v.png?alt=media&token=a2869998-5e51-457e-9945-006c9ac7c1f8) ??",
-    "options": [
-      "1",
-      "2",
-      "3",
-      "4"
-    ],
-    "correct_option_index": 2,
-    "explanation": "",
-    "explanation_block_uid": "",
-    "tags": [],
-    "linked_block_uid": "",
-    "path_tags": [],
     "isPassageBased": false
   }
 ]
