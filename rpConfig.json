@@ -7,12 +7,13 @@
   "isDisplayUpdatesSection": true,
   "updates": [
     {
-      "title": "Updates: March 29th 2026",
+      "title": "Updates: April 04th 2026",
       "items": [
-        "New Subject Wise GS Mocks added: Science Disease Mock Test"
+        "Recent LSSSSB Papers added to Previous Papers: Punch Operator  and Legal Assistant"
       ]
     }
   ],
+  "appVersion": "1.1.1",
   "demoVideoItems": {
     "mcqsChapterList": {
       "videoId": "H8BusekwcT8",
@@ -54,5 +55,5 @@
   "isSubscriptionActivate": false,
   "appShareURL": "https://play.google.com/store/apps/details?id=com.roamprep.app",
   "isDisplayAboutMe": true,
-  "dataUpdateDateTime": 1775286310304
+  "dataUpdateDateTime": 1775311072552
 }
