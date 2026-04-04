@@ -128925,6 +128925,2905 @@
     "isPassageBased": false
   },
   {
+    "id": "UwCO1QY5J",
+    "question": "Examples such as Mining, Coal, and Mineral Oil industries fall under which category?",
+    "options": [
+      "Genetic Industry",
+      "Extractive Industry",
+      "Primary Industry",
+      "Service Industry"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The correct answer is **Extractive Industry**. Extractive industries involve extracting natural resources from the earth or sea, such as mining, coal, petroleum (mineral oil), quarrying, etc. Genetic industries deal with breeding plants/animals, primary industries broadly include extractive and genetic, while service industries provide intangible services.",
+    "explanation_block_uid": "WBpoCNizB",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6jbBn19AW",
+    "question": "BSNL, Hotels, and the Entertainment industry are all classified under which category?",
+    "options": [
+      "Primary Industry",
+      "Service Industry",
+      "Secondary Industry",
+      "Extractive Industry"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The correct answer is **Service Industry**. BSNL (telecom), hotels, and entertainment provide services to customers rather than producing physical goods. **Service industries** (tertiary sector) deal with intangible outputs like communication, hospitality, and recreation.",
+    "explanation_block_uid": "fiAAHqezp",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "d-NWEZkZh",
+    "question": "What are \"Retained Earnings\" in a business context?",
+    "options": [
+      "The total capital invested by the founders.",
+      "The portion of profits not distributed to shareholders and kept in the business.",
+      "The interest paid to debenture holders at the end of the year.",
+      "The funds borrowed from commercial banks for daily operations."
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Retained Earnings** (also called ploughing back of profits) refer to **the portion of net profits not distributed as dividends to shareholders** but retained in the business for reinvestment, expansion, or meeting contingencies. It is an internal source of finance and appears under reserves and surplus in the balance sheet.",
+    "explanation_block_uid": "_blvWuS8_",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "SneN-_LZo",
+    "question": "In the case of winding up a company, whose capital is refunded first?",
+    "options": [
+      "Equity Shareholders",
+      "Preference Shareholders",
+      "Active Partners",
+      "General Shareholders"
+    ],
+    "correct_option_index": 1,
+    "explanation": "In company liquidation/winding up, **Preference Shareholders** get their capital refunded before Equity Shareholders (after creditors and other liabilities are settled). Preference shares have priority in repayment of capital as per the terms of issue. Equity shareholders are paid last among shareholders.",
+    "explanation_block_uid": "M-CX36sIM",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "V102qHe8w",
+    "question": "When a government's total estimated receipts for the upcoming fiscal year exceed its total proposed expenditures, the budget is said to have a:?",
+    "options": [
+      "Surplus",
+      "Deficit",
+      "Balanced position",
+      "Capital gain"
+    ],
+    "correct_option_index": 0,
+    "explanation": "This describes a **Surplus Budget**. When **government receipts > government expenditures**, it results in a budget surplus. It indicates the government is collecting more than it is spending, often used to reduce public debt or create reserves.",
+    "explanation_block_uid": "Szio-wKxi",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "T1B9mS_5Q",
+    "question": "What does the acronym \"FRBM\" stand for in the context of Indian fiscal policy?",
+    "options": [
+      "Financial Regulatory and Budget Management",
+      "Fiscal Responsibility and Budget Management",
+      "Federal Revenue and Balance Management",
+      "Fiscal Reform and Budgetary Measures"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**FRBM** stands for **Fiscal Responsibility and Budget Management**. The FRBM Act, 2003 aims to promote fiscal discipline, reduce fiscal deficit, improve transparency in fiscal operations, and ensure long-term macroeconomic stability in India.",
+    "explanation_block_uid": "T4vYprBoP",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "5wC0LXheO",
+    "question": "To counteract an \"Inflationary\" gap in the economy, which type of budgetary stance is most appropriate?",
+    "options": [
+      "Deficit budget",
+      "Surplus budget",
+      "Increase in public spending",
+      "Reduction in direct taxes"
+    ],
+    "correct_option_index": 1,
+    "explanation": "To counteract an **inflationary gap** (excess demand), a **Surplus Budget** is most appropriate. It reduces aggregate demand by having **government receipts > expenditures**, often through higher taxes or reduced spending. Deficit budgets and increased spending are used for deflationary gaps.",
+    "explanation_block_uid": "fJsv6riIY",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "S7N0bk_yh",
+    "question": "Which of the following is classified as \"Developmental Expenditure\" for a government?",
+    "options": [
+      "Payment of salaries to defense personnel",
+      "Subsidies for food and fertilizers",
+      "Investment in telecommunications and infrastructure networks",
+      "Maintenance of law and order"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Investment in telecommunications and infrastructure networks** is classified as **Developmental Expenditure**. Developmental (or productive) expenditure directly contributes to economic growth and social development, such as infrastructure, education, health, and industry. Defense, law & order, and many subsidies are often non-developmental or fall under general services.",
+    "explanation_block_uid": "kS3vIl3RK",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "pTsD1c4VM",
+    "question": "Which of the following statements correctly distinguishes between the legal nature of \"Direct Taxes\" and \"Indirect Taxes\" based on the Income-tax Act and the Constitution of India?",
+    "options": [
+      "Direct taxes are levied on the price of goods, whereas indirect taxes are governed by Article 366(28).",
+      "In direct taxes, the burden of tax can be shifted to another person, while in indirect taxes, it is borne by the person paying the Government.",
+      "Direct taxes are levied on income or wealth and cannot be recovered from others, whereas indirect taxes allow the payer to pass the incidence to another person.",
+      "Both direct and indirect taxes were introduced in India simultaneously on 1st April, 1962, under the Income-tax Act."
+    ],
+    "correct_option_index": 2,
+    "explanation": "The correct distinction is: **Direct taxes** are levied on income or wealth and **cannot be shifted** (burden borne by the person on whom it is imposed), while **indirect taxes** can have their incidence **passed on** to another person (e.g., consumer). Direct taxes are progressive; indirect taxes are generally regressive.",
+    "explanation_block_uid": "whqDaoUAM",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "A_Q2oCHag",
+    "question": "In the structure of the Union Budget, which of the following is NOT considered a \"Capital Receipt\"?",
+    "options": [
+      "Recovery of loans",
+      "Market borrowings",
+      "Non-tax revenue (e.g., dividends and profits)",
+      "External assistance and loans"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Non-tax revenue** (such as dividends, profits, interest receipts, fees, etc.) is classified as **Revenue Receipt**, not Capital Receipt. Capital Receipts include recovery of loans, borrowings (market/external), disinvestment proceeds, etc., which either create liability or reduce assets.",
+    "explanation_block_uid": "aD81-s3CH",
+    "tags": [
+      "Economy",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Economy"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rLssIg1C_",
+    "question": "A type of simulation method that uses random numbers to determine the evolution of a complex system is known as:?",
+    "options": [
+      "Model dispersion",
+      "Monte Carlo method",
+      "Monadic system",
+      "Padding technique"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Monte Carlo method** (or Monte Carlo simulation) is a computational technique that uses **random sampling and random numbers** to obtain numerical results for complex systems, risk analysis, physics, finance, etc.",
+    "explanation_block_uid": "zmUyJBQh8",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "tXJ8mxYjn",
+    "question": "Which database management system model is specifically based on the concept of \"ownership\" and parent-child relationships between records?",
+    "options": [
+      "Network topology",
+      "Relational database",
+      "Network database system",
+      "Hierarchical database"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The **Hierarchical database** model organizes data in a tree-like structure with **parent-child relationships**. Each child has only one parent (ownership), while a parent can have multiple children. It was used in early systems like IBM's IMS.",
+    "explanation_block_uid": "KtLHW6LpS",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "DetIr5Vvf",
+    "question": "If your objective is to print on multi-carbon forms, which of the following printers would be ineffective because it does not use physical impact?",
+    "options": [
+      "Daisy wheel",
+      "Dot-matrix",
+      "Laser printer",
+      "Thimble printer"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Laser printer** is a non-impact printer that uses laser technology and toner; it does not create impressions through physical impact. Impact printers (dot-matrix, daisy wheel, thimble) strike the paper and are suitable for multi-carbon/continuous forms.",
+    "explanation_block_uid": "IYhMAexPv",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7efVhFIPL",
+    "question": "In context of computer performance, what does \"FLOPS\" primarily measures?",
+    "options": [
+      "The number of logic gates process per second",
+      "The total instructions executed by a CPU per second",
+      "The Number of floating-point operations performed per second",
+      "The speed of data transfer between the CPU and RAM"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**FLOPS** (Floating Point Operations Per Second) measures a computer's performance in terms of the **number of floating-point arithmetic operations** it can perform per second. It is commonly used to benchmark supercomputers and scientific computing.",
+    "explanation_block_uid": "yebA8dFE9",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "EnlCEriyr",
+    "question": "The primary memory (Main Memory) of a typical personal computer consists of:?",
+    "options": [
+      "ROM only",
+      "RAM only",
+      "Both ROM and RAM",
+      "Flash memory only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Primary/Main memory consists of **both ROM (Read Only Memory)** and **RAM (Random Access Memory)**. ROM stores firmware (e.g., BIOS), while RAM provides temporary working storage for the OS and running programs.",
+    "explanation_block_uid": "YvUGF3cJ6",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "P3LwruiM_",
+    "question": "Which of the following is a software package specifically designed to implement, create, and manage a database?",
+    "options": [
+      "System analysis",
+      "DBMS (Database Management System)",
+      "DASD",
+      "Graphics package"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**DBMS (Database Management System)** is software designed to create, manage, store, retrieve, and secure databases (e.g., MySQL, Oracle, SQL Server). It handles data organization, querying, and integrity.",
+    "explanation_block_uid": "kfnpGozd1",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "DULZXmyyq",
+    "question": "Apart from the sector method, what is the other primary method used to organize and physically store data on a disk?",
+    "options": [
+      "Surface",
+      "Track",
+      "Cylinder",
+      "Hub"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Data on a hard disk is physically organized using **tracks**, **sectors**, and **cylinders**. A **cylinder** consists of all tracks at the same position across multiple platters/surfaces, allowing efficient access without moving the read/write head vertically.",
+    "explanation_block_uid": "2J2GvTgPM",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xgHQtYj1P",
+    "question": "A dot-matrix printer is categorized as which type of device?",
+    "options": [
+      "Input device",
+      "Output device",
+      "Storage device",
+      "Communication device"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A dot-matrix printer is an **Output device**. It produces hard copies by striking pins against an inked ribbon to form characters (impact printing).",
+    "explanation_block_uid": "sKyAvLFSH",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "TcrIBJA0v",
+    "question": "What of the following best describes cache memory levels (L1, L2, L3)?",
+    "options": [
+      "L1 is the slowest, L3 is fastest",
+      "L1 is fastest and smallest",
+      "L3 is inside RAM",
+      "All are equal in speed"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**L1 cache** is the fastest and smallest cache memory, located closest to the CPU core. L2 is larger and slower than L1, while L3 is larger still and shared among cores. Higher levels have more capacity but higher latency.",
+    "explanation_block_uid": "sy11YBYW1",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6McHamA4y",
+    "question": "Which of the following best describes \"Secondary Storage\"?",
+    "options": [
+      "Temporary storage",
+      "Permanent storage for large data",
+      "CPU register",
+      "Cache"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Secondary storage** (e.g., HDD, SSD, optical disks) provides **non-volatile, permanent storage** for large amounts of data even when power is off. It is slower than primary memory but has much higher capacity.",
+    "explanation_block_uid": "HAW00UhY8",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Oe2FUnNjV",
+    "question": "In digital logic, an OR gate can be physically imagined or represented as:?",
+    "options": [
+      "Switches connected in series",
+      "Switches connected in parallel",
+      "Transistors connected in a single loop",
+      "A single non-reversible fuse"
+    ],
+    "correct_option_index": 1,
+    "explanation": "An **OR gate** can be represented by **switches connected in parallel**. The output is true (1) if at least one switch is closed (input is 1). Series connection represents AND gate.",
+    "explanation_block_uid": "BkmN7G-P6",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "5zW-rIbz_",
+    "question": "The part of a machine-level instruction that tells the Central Processing Unit (CPU) exactly what action needs to be performed is the:?",
+    "options": [
+      "Operation code (Op-code)",
+      "Address",
+      "Locator",
+      "Flip-Flop"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The **Operation code (Op-code)** in a machine instruction specifies the **operation/action** the CPU must perform (e.g., ADD, LOAD, STORE). The operand/address part indicates the data location.",
+    "explanation_block_uid": "GysVKh3fI",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Qo5QGPg8V",
+    "question": "Which type of memory is referred to as \"Associative Memory\"?",
+    "options": [
+      "Memory where the address is generated by the CPU.",
+      "Memory where data is accessed sequentially.",
+      "Memory where the data itself is used as an address (Content Addressable).",
+      "Memory where the address is supplied by the user."
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Associative Memory** (or Content Addressable Memory - CAM) is memory that is accessed based on the **content/data itself** rather than by a specific address. It is used in cache memory mapping and fast searching.",
+    "explanation_block_uid": "tJ4XYNE1h",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Ms2AMIwi4",
+    "question": "To avoid a \"race condition\" in operating systems, how many processes are allowed to be inside their \"critical section\" at exactly the same time?",
+    "options": [
+      "8",
+      "1",
+      "0",
+      "16"
+    ],
+    "correct_option_index": 1,
+    "explanation": "To prevent race conditions, **only one process** is allowed in its **critical section** at any time (mutual exclusion). This is a fundamental requirement of the critical section problem in process synchronization.",
+    "explanation_block_uid": "3XfZl3Y35",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nhv7YD-Sd",
+    "question": "A system program that combines separately compiled modules of a program into a single form suitable for execution is called a:?",
+    "options": [
+      "Assembler",
+      "Linking loader (Linker)",
+      "Cross compiler",
+      "Load and go system"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Linker** (or Linking loader) combines multiple object modules (from separately compiled files) into a single executable program by resolving external references and addresses.",
+    "explanation_block_uid": "nZxhCLPxZ",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "tr-nBn7NT",
+    "question": "When a station in a network forwards incoming packets by placing them on its shortest output queue, which routing algorithm is it using?",
+    "options": [
+      "Hot potato routing",
+      "Flooding",
+      "Static routing",
+      "Delta routing"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Hot potato routing** (or deflection routing) forwards packets immediately to the output link with the **shortest/currently least congested queue**, like passing a hot potato quickly.",
+    "explanation_block_uid": "2Q9CTNFkt",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2_MPuTJwK",
+    "question": "Frames from one Local Area Network (LAN) can be transmitted to another LAN via which specific device?",
+    "options": [
+      "Modem",
+      "Bridge",
+      "Repeater",
+      "Hub"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Bridge** operates at the data link layer and connects two LANs (or segments), forwarding frames based on MAC addresses while filtering unnecessary traffic.",
+    "explanation_block_uid": "35By1MuQ4",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Td1V9GqxX",
+    "question": "Which of the following networking conditions occurs when two packets are transmitted over a medium at the exact same time, causing interference?",
+    "options": [
+      "Contention",
+      "Collision",
+      "Synchronous timing",
+      "Asynchronous timing"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Collision** occurs in shared-medium networks (e.g., older Ethernet with CSMA/CD) when two or more devices transmit data simultaneously, causing signal interference.",
+    "explanation_block_uid": "m1DLL-TLc",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "-mMjAgtkS",
+    "question": "Which type of memory is \"volatile,\" meaning it temporarily stores data and loses its contents when the power is turned off?",
+    "options": [
+      "Flash Memory",
+      "Hard Disk Drive",
+      "RAM (Random Access Memory)",
+      "SSD"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**RAM (Random Access Memory)** is **volatile** memory. It loses all stored data when power is removed. ROM, Flash, HDD, and SSD are non-volatile.",
+    "explanation_block_uid": "lVA2Goxz0",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qPi3R7OY2",
+    "question": "What technology do SSDs use to store data?",
+    "options": [
+      "Magnetic spinning platters",
+      "Optical discs",
+      "NAND flash memory",
+      "Tape storage"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Solid State Drives (**SSDs**) use **NAND flash memory** chips for data storage. They have no moving parts, making them faster and more durable than traditional HDDs.",
+    "explanation_block_uid": "MLOd3U8i9",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "trZveecKA",
+    "question": "A small, high-speed type of volatile memory used to store frequently accessed data to speed up the CPU is called:?",
+    "options": [
+      "CD-ROM",
+      "Cache Memory",
+      "Main Memory",
+      "Disk Unit"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Cache Memory** is a small, high-speed volatile memory (SRAM) placed between CPU and main memory. It stores frequently used data/instructions to reduce access time.",
+    "explanation_block_uid": "LpN2cORZe",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ZkxeHfRh9",
+    "question": "Which of the following is an optical storage device used to read data stored on compact discs?",
+    "options": [
+      "CD-ROM",
+      "SSD",
+      "HDD",
+      "Flash Drive"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**CD-ROM** (Compact Disc Read-Only Memory) is an **optical storage** device/technology that uses a laser to read data stored on compact discs. SSD, HDD, and Flash Drive are not optical.",
+    "explanation_block_uid": "UwDjzrPuZ",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "dxJKb4hFj",
+    "question": "In computer architecture, a \"Flip-Flop\" is a basic element used for?",
+    "options": [
+      "Storing a single bit of data",
+      "Performing arithmetic calculations",
+      "Connecting the mouse to the PC",
+      "Increasing the fan speed"
+    ],
+    "correct_option_index": 0,
+    "explanation": "A **Flip-Flop** is a fundamental sequential logic circuit in digital electronics and computer architecture. It is used for **storing a single bit of data** (0 or 1) and forms the basis of registers, counters, and memory elements.",
+    "explanation_block_uid": "G2UV5IjHb",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FV6Kz_kgr",
+    "question": "Which device is used to connect a computer to a telephone line to enable data communication over long distances?",
+    "options": [
+      "Router",
+      "Modem",
+      "Bridge",
+      "Switch"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Modem** (Modulator-Demodulator) is used to connect a computer to a telephone line. It converts digital signals from the computer into analog signals for transmission over telephone lines and vice versa, enabling long-distance data communication.",
+    "explanation_block_uid": "sEG68umMT",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qq5Pq5whv",
+    "question": "\"Machine Language\" is primarily made up of:?",
+    "options": [
+      "English-like commands",
+      "Binary-coded instructions (0 and 1)",
+      "Mathematical symbols",
+      "Logic diagrams"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Machine Language** is the lowest-level programming language consisting of **binary-coded instructions (0s and 1s)** that the computer's CPU can directly understand and execute without any translation.",
+    "explanation_block_uid": "0znOGOohF",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ItYCaFIHc",
+    "question": "A \"Subdirectory\" is automatically created in the computer system when:?",
+    "options": [
+      "A user shuts down the PC.",
+      "A user opens a new account in the computer system.",
+      "The RAM is upgraded.",
+      "A printer is connected."
+    ],
+    "correct_option_index": 1,
+    "explanation": "When **a user opens a new account** (user profile/login), the operating system automatically creates a **home directory** (and often subdirectories) for that user to store personal files and settings.",
+    "explanation_block_uid": "hTzy0km3W",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "kxBib3WZS",
+    "question": "Which technique, which allows multiple users to interact with a computer simultaneously, marked the beginning of modern computer communications?",
+    "options": [
+      "Batch processing",
+      "User Environment",
+      "Time Sharing",
+      "Message passing"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Time Sharing** is the technique that allows multiple users to interact with a computer system simultaneously by allocating CPU time in short slices. It marked the beginning of interactive and modern multi-user computing.",
+    "explanation_block_uid": "yU9YsRt_9",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6NlQ8cHpS",
+    "question": "The interval between a computer's request for data transfer from a disk to the primary storage and the moment the operation is completed is called:?",
+    "options": [
+      "Disk arrival time",
+      "Disk access time",
+      "Drive utilization time",
+      "Disk idle time"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Disk access time** is the total time taken from the moment a read/write request is issued until the data transfer is completed. It includes seek time, rotational latency, and data transfer time.",
+    "explanation_block_uid": "oR6t_yzK-",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "OOADgX58p",
+    "question": "Which of the following is an output device that can print text and graphics by using a pattern of dots?",
+    "options": [
+      "Keyboard",
+      "Mouse",
+      "Dot-matrix printer",
+      "Scanner"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A **Dot-matrix printer** is an impact output device that prints text and graphics by striking a matrix of pins against an inked ribbon to form a **pattern of dots**.",
+    "explanation_block_uid": "Gs6yxnLka",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "B0-KyJBsB",
+    "question": "What is the main difference between DRAM and SRAM?",
+    "options": [
+      "DRAM is volatile; SRAM is non-volatile",
+      "DRAM uses capacitors; SRAM uses flip-flop circuits and is faster",
+      "SRAM is larger in size but slower",
+      "DRAM retains data without power"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**DRAM (Dynamic RAM)** uses capacitors to store data and requires periodic refreshing, making it slower and cheaper. **SRAM (Static RAM)** uses flip-flop circuits, does not need refreshing, is faster, and is commonly used for cache memory.",
+    "explanation_block_uid": "4lfmqDoYA",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1DlLbPA9S",
+    "question": "What is the full form of RAM?",
+    "options": [
+      "Read Access Memory",
+      "Random Access Memory",
+      "Run Access Memory",
+      "Rapid Action Memory"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**RAM** stands for **Random Access Memory**. It is volatile primary memory that allows the CPU to access any data location randomly with nearly equal speed.",
+    "explanation_block_uid": "PpkUSaXJd",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "RRAIPN2YL",
+    "question": "Which component of an operating system is responsible for managing hardware resources and providing services to application software?",
+    "options": [
+      "Shell",
+      "Kernel",
+      "Compiler",
+      "Loader"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Kernel** is the core component of the operating system. It manages hardware resources (CPU, memory, I/O) and provides essential services to application software.",
+    "explanation_block_uid": "rLQ-icAkI",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yJAaFmZsa",
+    "question": "Which of the following is an example of open-source software?",
+    "options": [
+      "Microsoft Windows",
+      "Linux",
+      "MS Excel",
+      "Oracle DB"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Linux** is a well-known **open-source operating system** whose source code is freely available for modification and distribution.",
+    "explanation_block_uid": "Nx37lkpyr",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "s7hsPG4c1",
+    "question": "Which device operates at the Data Link Layer of the OSI model?",
+    "options": [
+      "Router",
+      "Bridge",
+      "Hub",
+      "Repeater"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Bridge** operates at the **Data Link Layer (Layer 2)** of the OSI model. It connects LAN segments and forwards frames based on MAC addresses.",
+    "explanation_block_uid": "3-v23kGFB",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2nVcJbyuR",
+    "question": "In MS Excel, which function is used to find the highest value in a range of cells?",
+    "options": [
+      "MAX()",
+      "SUM()",
+      "AVG()",
+      "COUNT()"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The **MAX()** function in MS Excel returns the **highest (maximum) value** from a given range of cells.",
+    "explanation_block_uid": "3uCz8G85p",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "e5TBPFRND",
+    "question": "Which keyboard shortcut is used to save a document in most applications?",
+    "options": [
+      "Ctrl + P",
+      "Ctrl + S",
+      "Ctrl + D",
+      "Ctrl + E"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Ctrl + S** is the standard keyboard shortcut used to **save** a document or file in most Windows and application software.",
+    "explanation_block_uid": "f0gtDxNVC",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "CjQQTGFRq",
+    "question": "Which of the following best describes \"Virtual Memory\"?",
+    "options": [
+      "Physical memory inside CPU",
+      "Use of secondary storage as extension of RAM",
+      "Cache memory usage",
+      "ROM storage"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Virtual Memory** is a memory management technique that uses a portion of **secondary storage (hard disk)** as an extension of RAM to allow running larger programs than physical RAM permits.",
+    "explanation_block_uid": "9dQMOt0Lh",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "B6vXgj7iA",
+    "question": "What is the primary function of a firewall in a computer network?",
+    "options": [
+      "Data storage",
+      "Virus creation",
+      "Network security",
+      "Data processing"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A **firewall** provides **network security** by monitoring and controlling incoming and outgoing network traffic based on predetermined security rules.",
+    "explanation_block_uid": "w0iVy7VGf",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "V8IYx89ke",
+    "question": "Which protocol is used for sending emails?",
+    "options": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "TCP"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**SMTP (Simple Mail Transfer Protocol)** is the standard protocol used for **sending emails** from one server to another.",
+    "explanation_block_uid": "8rt5sP4T4",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "vjH0JNDU3",
+    "question": "In MS Word, which feature is used to automatically correct spelling and grammar errors?",
+    "options": [
+      "Mail Merge",
+      "Track Changes",
+      "AutoCorrect",
+      "WordArt"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**AutoCorrect** in MS Word automatically corrects common spelling and typing errors as you type.",
+    "explanation_block_uid": "DN7flMuAg",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "lF3vjQ00D",
+    "question": "Which number system is commonly used in computer memory addressing?",
+    "options": [
+      "Decimal",
+      "Binary",
+      "Octal",
+      "Hexadecimal"
+    ],
+    "correct_option_index": 3,
+    "explanation": "**Hexadecimal** (base-16) is commonly used in computer memory addressing and debugging because it is compact and easy to convert to binary.",
+    "explanation_block_uid": "aOToKUaTI",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FvkgTPk3y",
+    "question": "Which device is used to connect multiple networks together and direct data packets?",
+    "options": [
+      "Hub",
+      "Switch",
+      "Router",
+      "Repeater"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A **Router** operates at the Network Layer and is used to **connect multiple networks** and intelligently direct (route) data packets to their destination.",
+    "explanation_block_uid": "k4ryHbAKz",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "SyEvT2NjW",
+    "question": "What does \"IoT\" stand for in computer applications?",
+    "options": [
+      "Internet of Technology",
+      "Integration of Tools",
+      "Internet of Things",
+      "Interface of Technology"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**IoT** stands for **Internet of Things**. It refers to the network of physical objects embedded with sensors, software, and connectivity to exchange data over the internet.",
+    "explanation_block_uid": "VhxGTiKWh",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "fLDNzyVaU",
+    "question": "Which type of attack involves unauthorized access to a computer system to steal or manipulate data?",
+    "options": [
+      "Backup",
+      "Hacking",
+      "Formatting",
+      "Encryption"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Hacking** involves unauthorized access to a computer system or network with the intent to steal, alter, or manipulate data.",
+    "explanation_block_uid": "jkvJrJ1Tx",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "EXikX16c1",
+    "question": "Which MS Office application is primarily used for managing databases?",
+    "options": [
+      "MS Word",
+      "MS Excel",
+      "MS Access",
+      "MS PowerPoint"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**MS Access** is a database management application in MS Office used to create, manage, and query relational databases.",
+    "explanation_block_uid": "Vd-7IyX9y",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "naNr_O209",
+    "question": "Which storage device is most suitable for long-term data backup?",
+    "options": [
+      "RAM",
+      "Cache",
+      "External Hard Drive",
+      "Register"
+    ],
+    "correct_option_index": 2,
+    "explanation": "An **External Hard Drive** provides large capacity, non-volatile storage and is most suitable for **long-term data backup**.",
+    "explanation_block_uid": "OZeCD9XB-",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MkTNUwI-T",
+    "question": "Which memory is used during booting process to start the computer?",
+    "options": [
+      "RAM",
+      "ROM",
+      "Cache",
+      "Register"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**ROM (Read Only Memory)** contains the BIOS/UEFI firmware, which is used during the **booting process** to initialize hardware and load the operating system.",
+    "explanation_block_uid": "suFCkff3D",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MtPb0yxH_",
+    "question": "Which command is used to copy selected text or files?",
+    "options": [
+      "Ctrl + X",
+      "Ctrl + C",
+      "Ctrl + V",
+      "Ctrl + Z"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Ctrl + C** is the standard keyboard shortcut used to **copy** selected text, files, or objects.",
+    "explanation_block_uid": "Ly5xWkeJl",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Ic8i3evkI",
+    "question": "In networking, what does \"IP\" stand for?",
+    "options": [
+      "Internet Process",
+      "Internal Protocol",
+      "Internet Protocol",
+      "Interface Program"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**IP** stands for **Internet Protocol**. It is responsible for addressing and routing data packets across networks.",
+    "explanation_block_uid": "pGR_1dqCt",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NcoSBr1e6",
+    "question": "Which of the following is an example of a Trojan horse?",
+    "options": [
+      "Self-replicating virus",
+      "Malicious program disguised as legitimate software",
+      "Firewall",
+      "Backup tool"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Trojan horse** is a type of malware that appears to be legitimate software but performs malicious actions once installed.",
+    "explanation_block_uid": "eVamfgfYz",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "SQO05Vd13",
+    "question": "Which scheduling algorithm in operating systems may cause starvation of processes?",
+    "options": [
+      "First Come First Serve (FCFS)",
+      "Round Robin",
+      "Priority Scheduling",
+      "Shortest Job First (SJF)"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Priority Scheduling** can cause **starvation** (indefinite waiting) of low-priority processes if high-priority processes keep arriving.",
+    "explanation_block_uid": "OhPngb8P0",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "JMMAeV9-T",
+    "question": "In MS Excel, which function would you use to count only numeric values in a range?",
+    "options": [
+      "COUNT()",
+      "COUNTA()",
+      "COUNTIF()",
+      "SUM()"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The **COUNT()** function in MS Excel counts the number of **numeric values** (including dates and times) in a given range.",
+    "explanation_block_uid": "0CLQFsM56",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "vyQn5jfll",
+    "question": "Which layer of the OSI model is responsible for end-to-end communication and error recovery?",
+    "options": [
+      "Network Layer",
+      "Transport Layer",
+      "Data Link Layer",
+      "Session Layer"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Transport Layer** (Layer 4) is responsible for **end-to-end communication**, reliable data delivery, flow control, and error recovery (e.g., TCP).",
+    "explanation_block_uid": "2OuDC1hds",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "vbjxIdNuZ",
+    "question": "Which of the following is NOT a characteristic of cloud computing?",
+    "options": [
+      "On-demand self-service",
+      "Resource pooling",
+      "Manual scalability",
+      "Broad network access"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Manual scalability** is not a characteristic of cloud computing. Cloud computing provides **rapid elasticity** (automatic scalability) as one of its essential features.",
+    "explanation_block_uid": "4MY5lzLFA",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "w5MCA0fo7",
+    "question": "In database systems, which normal form eliminates transitive dependency?",
+    "options": [
+      "First Normal Form (1NF)",
+      "Second Normal Form (2NF)",
+      "Third Normal Form (3NF)",
+      "Boyce-Codd Normal Form (BCNF)"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Third Normal Form (3NF)** eliminates **transitive dependencies** by ensuring that non-prime attributes depend only on candidate keys and not on other non-prime attributes.",
+    "explanation_block_uid": "kLR7L-45K",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "_EW7VixtY",
+    "question": "Which logic gate produces output \"1\" only when all inputs are \"1\"?",
+    "options": [
+      "OR Gate",
+      "AND Gate",
+      "XOR Gate",
+      "NOR Gate"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **AND Gate** produces output **1 only when all its inputs are 1**.",
+    "explanation_block_uid": "mqWPCw4id",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "lHEjs6aR4",
+    "question": "In networking, what is the main function of a DNS server?",
+    "options": [
+      "Encrypt data",
+      "Translate domain names into IP addresses",
+      "Control network traffic",
+      "Store web pages"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **DNS (Domain Name System) server** translates human-readable **domain names** (e.g., example.com) into machine-readable **IP addresses**.",
+    "explanation_block_uid": "YQA7vxTow",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "EhtPRVduN",
+    "question": "Which type of cyber-attack involves overwhelming a server with excessive requests to make it unavailable?",
+    "options": [
+      "Phishing",
+      "Spoofing",
+      "DoS (Denial of Service)",
+      "Sniffing"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**DoS (Denial of Service)** attack floods a server or network with excessive traffic to make it unavailable to legitimate users.",
+    "explanation_block_uid": "AhQG-nnSa",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jgh6EIhQo",
+    "question": "In number systems, what is the hexadecimal equivalent of decimal number 255?",
+    "options": [
+      "FF",
+      "AA",
+      "F0",
+      "1F"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The hexadecimal equivalent of decimal **255** is **FF** (15×16 + 15 = 255).",
+    "explanation_block_uid": "7DKY-6dly",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "OtSz_MBEJ",
+    "question": "Which of the following best describes virtualization in computing?",
+    "options": [
+      "Converting analog data to digital",
+      "Creating a virtual version of hardware or OS",
+      "Compressing files for storage",
+      "Encrypting data for security"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Virtualization** in computing refers to **creating a virtual version of hardware or an operating system**. It allows multiple virtual machines to run on a single physical machine, improving resource utilization and flexibility.",
+    "explanation_block_uid": "hvUS7TlHt",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nvoBo9wD9",
+    "question": "Which method of data collection is considered most reliable when studying sensitive personal behaviours, despite being the most time-consuming?",
+    "options": [
+      "Mailed Questionnaires",
+      "Indirect Oral Investigation",
+      "Direct Personal Interview",
+      "Information through Correspondents"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Direct Personal Interview** is considered the most reliable method for studying sensitive personal behaviours because the interviewer can build rapport, clarify doubts, and observe non-verbal cues, though it is highly time-consuming.",
+    "explanation_block_uid": "DpmqEBPze",
+    "tags": [
+      "computer",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "computer"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "SFVOMs5DG",
+    "question": "Which measure of central tendency is uniquely defined as the value that minimizes the sum of absolute deviations?",
+    "options": [
+      "Arithmetic Mean",
+      "Geometric Mean",
+      "Median",
+      "Mode"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Median** is the value that **minimizes the sum of absolute deviations**. This property makes it a robust measure of central tendency, especially in skewed distributions.",
+    "explanation_block_uid": "BixYW82E3",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ezmKducl5",
+    "question": "For a highly skewed distribution with open-ended classes, which measure of dispersion is most appropriate?",
+    "options": [
+      "Range",
+      "Standard Deviation",
+      "Quartile Deviation",
+      "Mean Deviation"
+    ],
+    "correct_option_index": 3,
+    "explanation": "**Mean Deviation** (or Mean Absolute Deviation) is most appropriate for highly skewed distributions with open-ended classes because it is less affected by extreme values compared to Standard Deviation and Range.",
+    "explanation_block_uid": "Qv2Qmxp4C",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "8aRHhF9Cp",
+    "question": "If all observations in a dataset are increased by a constant value, how will the Standard Deviation change?",
+    "options": [
+      "Increase",
+      "Multiply",
+      "Remains unchanged",
+      "Zero"
+    ],
+    "correct_option_index": 2,
+    "explanation": "If all observations are increased (or decreased) by a **constant value**, the **Standard Deviation remains unchanged**. Standard Deviation is a measure of dispersion and is not affected by a shift in location.",
+    "explanation_block_uid": "lLYJThtme",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "u0nEZkGAU",
+    "question": "In a Standard Normal Distribution, the area between Z = -1 and Z = +1 is approximately:?",
+    "options": [
+      "50%",
+      "68.27%",
+      "95.45%"
+    ],
+    "correct_option_index": 1,
+    "explanation": "In a **Standard Normal Distribution**, approximately **68.27%** of the data lies within one standard deviation of the mean (between Z = -1 and Z = +1). This is known as the empirical rule or 68-95-99.7 rule.",
+    "explanation_block_uid": "crpxeYmvA",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PbuSJQvrU",
+    "question": "If the correlation coefficient is r = -0.95, it indicates:?",
+    "options": [
+      "Weak negative",
+      "Strong positive",
+      "Strong inverse linear relationship",
+      "No relation"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A correlation coefficient of **r = -0.95** indicates a **strong inverse (negative) linear relationship**. The closer the value is to -1, the stronger the negative correlation.",
+    "explanation_block_uid": "ICU0uZ0rB",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "_cX3d4Q9t",
+    "question": "Coefficient of Determination (R²) represents:?",
+    "options": [
+      "Range",
+      "Variation explained",
+      "Slope",
+      "Error"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Coefficient of Determination (R²)** represents the **proportion of variation** in the dependent variable that is explained by the independent variable(s) in a regression model.",
+    "explanation_block_uid": "2HK42SQWI",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "pXFfN3kFQ",
+    "question": "If two regression lines are perpendicular, the correlation coefficient is:?",
+    "options": [
+      "1",
+      "-1",
+      "0",
+      "0.5"
+    ],
+    "correct_option_index": 2,
+    "explanation": "If the two regression lines (Y on X and X on Y) are **perpendicular**, the correlation coefficient **r = 0**. This indicates no linear relationship between the variables.",
+    "explanation_block_uid": "sPf4uquhC",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "cFPinhgyh",
+    "question": "A Type I Error occurs when:?",
+    "options": [
+      "Accept false H₀",
+      "Reject true H₀",
+      "Reject true H₁",
+      "Small sample"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Type I Error** occurs when we **reject a true null hypothesis (H₀)**. It is also known as a false positive error and its probability is denoted by α (level of significance).",
+    "explanation_block_uid": "0UN2MQGhw",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "3S--y9Dd-",
+    "question": "In hypothesis testing, Type II Error occurs when:?",
+    "options": [
+      "Reject true H₀",
+      "Accept false H₀",
+      "Reject true H₁",
+      "Accept false H₁"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Type II Error** occurs when we **accept a false null hypothesis (H₀)** (i.e., fail to reject H₀ when it is actually false). Its probability is denoted by β.",
+    "explanation_block_uid": "c_4C2udBC",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qAsa1xZcH",
+    "question": "Rank of a matrix is:?",
+    "options": [
+      "Rows",
+      "Columns",
+      "Number of linearly independent rows/columns",
+      "Sum of elements"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **rank of a matrix** is the **maximum number of linearly independent rows or columns** in the matrix. It represents the dimension of the vector space spanned by its rows/columns.",
+    "explanation_block_uid": "JzWfIJcjs",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "KCXKtG-Aq",
+    "question": "Inverse interpolation is used to find:?",
+    "options": [
+      "y for given x",
+      "x for given y",
+      "Derivative",
+      "Average"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Inverse interpolation** is used to find the value of **x for a given y** when the function values are known at discrete points.",
+    "explanation_block_uid": "k99TcPCE_",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "P_tm13FyO",
+    "question": "Newton's Forward Difference Formula is best used:?",
+    "options": [
+      "Near end",
+      "Near beginning",
+      "Middle",
+      "Outside range"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Newton's **Forward Difference Formula** is best used when the value to be interpolated is **near the beginning** of the table of values.",
+    "explanation_block_uid": "ZMg0b0niA",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HqOzC4x5b",
+    "question": "If set A has n elements, the power set P(A) contains 2ⁿ elements. What is the cardinality of the power set of an empty set?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "Infinite"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The power set of an empty set (∅) has **1 element** (the empty set itself). Therefore, the cardinality of P(∅) is **1** (i.e., 2⁰ = 1).",
+    "explanation_block_uid": "Zkg05q2k3",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "q9tHkmlfN",
+    "question": "Which condition ensures that a square matrix A is invertible?",
+    "options": [
+      "Trace ≠ 0",
+      "|A| ≠ 0",
+      "Diagonal elements ≠ 0",
+      "Symmetric"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A square matrix A is invertible if and only if its **determinant |A| ≠ 0**. A matrix with determinant zero is singular and non-invertible.",
+    "explanation_block_uid": "jzGyGuwJ_",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "SbrRUMcHL",
+    "question": "A unique solution exists if f(x,y) and ∂f/∂y are:?",
+    "options": [
+      "Differentiable",
+      "Continuous",
+      "Constant",
+      "Zero"
+    ],
+    "correct_option_index": 0,
+    "explanation": "For a unique solution in differential equations, the functions **f(x,y) and ∂f/∂y must be differentiable** (or satisfy Lipschitz condition) in the region of interest.",
+    "explanation_block_uid": "N8rxphkor",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "SweyqgcpS",
+    "question": "If two events A and B are independent, what is the value of P(A∩B)?",
+    "options": [
+      "P(A)+P(B)",
+      "P(A)×P(B)",
+      "P(B)/P(A)",
+      "P(A)-P(B)"
+    ],
+    "correct_option_index": 1,
+    "explanation": "If events A and B are **independent**, then **P(A∩B) = P(A) × P(B)**. This is the multiplication rule for independent events.",
+    "explanation_block_uid": "ZCOS7Gqdy",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XxMpEHKUM",
+    "question": "Expectation of a discrete random variable is:?",
+    "options": [
+      "ΣP(x)",
+      "ΣxP(x)",
+      "max(x)",
+      "Σx² P(x)"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **expectation (mean)** of a discrete random variable X is given by **E(X) = Σ x P(x)**, where the sum is over all possible values of x.",
+    "explanation_block_uid": "qUCwSrnyy",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "vE_CRodO1",
+    "question": "For dy/dx + Py = Q, the integrating factor is:?",
+    "options": [
+      "e ∫Q dx",
+      "∫P dx",
+      "e ∫P dx",
+      "e⁻∫P dx"
+    ],
+    "correct_option_index": 2,
+    "explanation": "For the linear differential equation **dy/dx + Py = Q**, the **integrating factor** is **e^{∫P dx}**. Multiplying both sides by this factor makes the left side a perfect derivative.",
+    "explanation_block_uid": "ldTsvUclM",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "5pgnQssvZ",
+    "question": "If u=g(x), then ∫f(g(x))g'(x)dx = ?",
+    "options": [
+      "∫f(u)du",
+      "∫f'(x)(u)du",
+      "∫g(u)(u)du",
+      "∫f(u)g(u)du ∫f(u)g(u)du"
+    ],
+    "correct_option_index": 0,
+    "explanation": "This is the **substitution rule** (u-substitution). If u = g(x), then **∫f(g(x)) g'(x) dx = ∫f(u) du**.",
+    "explanation_block_uid": "yNGIAOLK-",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "l9NRWLMv3",
+    "question": "A firm reaches its \"Shut Down Point\" in the short run when the market price falls to a level that is:?",
+    "options": [
+      "Equal to the Average Total Cost (ATC)",
+      "Equal to the Average Variable Cost (AVC)",
+      "Equal to the Average Fixed Cost (AFC)",
+      "Below the Marginal Cost (MC)"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Shut Down Point** in the short run occurs when the market price falls to the level of **Average Variable Cost (AVC)**. Below this point, the firm minimizes losses by shutting down.",
+    "explanation_block_uid": "DsZSgOE7v",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NzxFNJG3M",
+    "question": "If both market demand and market supply increase in the exact same proportion, what will be the effect on the equilibrium price?",
+    "options": [
+      "The equilibrium price will slightly increase.",
+      "The equilibrium price will slightly decrease.",
+      "The equilibrium price will remain unchanged.",
+      "The equilibrium quantity will remain unchanged."
+    ],
+    "correct_option_index": 2,
+    "explanation": "When both demand and supply increase in the **same proportion**, the **equilibrium price remains unchanged**, while the equilibrium quantity increases.",
+    "explanation_block_uid": "RFD-4jevO",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BgKYTDrX_",
+    "question": "Keeping the supply curve constant, a leftward shift (decrease) in the demand curve will lead to:?",
+    "options": [
+      "A decrease in equilibrium price and an increase in equilibrium quantity",
+      "An increase in equilibrium price and a decrease in equilibrium quantity",
+      "A decrease in both equilibrium price and equilibrium quantity",
+      "No change in price but a reduction in quantity"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A leftward shift in the demand curve (decrease in demand) with supply unchanged leads to **a decrease in both equilibrium price and equilibrium quantity**.",
+    "explanation_block_uid": "poYY-DDRj",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rmBApz2ND",
+    "question": "When calculating \"Economic Profit,\" we must subtract both explicit and implicit costs (opportunity costs) from total revenue. If a sole proprietor earns ₹1,00,000 in revenue, pays ₹75,000 in explicit costs, and gives up a ₹30,000 salary elsewhere, what is the result?",
+    "options": [
+      "The firm is incurring an economic loss of ₹5,000",
+      "The firm is earning an accounting profit of ₹30,000",
+      "The total economic costs are ₹75,000",
+      "The firm is earning an economic profit of ₹25,000"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Accounting Profit = Revenue - Explicit Costs = 1,00,000 - 75,000 = ₹25,000. Economic Profit = Accounting Profit - Implicit Costs = 25,000 - 30,000 = **-₹5,000** (economic loss).",
+    "explanation_block_uid": "plDcmo3yv",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Ini31MhF2",
+    "question": "In the Keynesian Model, a \"Recessionary Gap\" (also known as a positive GDP gap) is best described as:?",
+    "options": [
+      "The intersection of Aggregate Demand and Aggregate Supply beyond full employment",
+      "The distance between equilibrium output and full-employment output when real GDP is below potential",
+      "The excessive aggregate spending that causes the price level to rise",
+      "The total value of wages, rent, and interest paid by businesses to individuals"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Recessionary Gap** occurs when **equilibrium output is less than full-employment output** (actual GDP < potential GDP), leading to unemployment and underutilized resources.",
+    "explanation_block_uid": "USitKVrFT",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "LTBRefLq_",
+    "question": "According to the \"Liquidity Preference Theory\" developed by Keynes, what determines the rate of interest?",
+    "options": [
+      "The reward for saving and the demand for investment",
+      "The natural scarcity of land and its various levels of fertility",
+      "The desire to hold money (liquidity preference) and the total money supply",
+      "The subsistence level required to sustain the working population"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Keynes' **Liquidity Preference Theory** states that the rate of interest is determined by the **demand for money (liquidity preference)** and the **supply of money**.",
+    "explanation_block_uid": "H3PY08d_4",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "p2pRnqt7X",
+    "question": "In a perfectly competitive market, which of the following describes the relationship between the individual firm and the industry?",
+    "options": [
+      "The firm is the price giver and the industry is the price taker",
+      "The industry is the price giver and the firm is the price taker",
+      "Both the firm and the industry are price makers",
+      "The firm can influence the market price by changing its output"
+    ],
+    "correct_option_index": 1,
+    "explanation": "In **perfect competition**, the **industry** (market) is the **price maker**, while the **individual firm** is a **price taker**. The firm can sell any quantity at the prevailing market price.",
+    "explanation_block_uid": "fWlj4xU1J",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "oayEv153e",
+    "question": "If a firm under perfect competition observes that the market price lies below its Average Cost (AC) curve, the firm is:?",
+    "options": [
+      "Earning super-normal profits",
+      "Earning normal profits",
+      "Incurring an economic loss",
+      "Operating at maximum efficiency"
+    ],
+    "correct_option_index": 2,
+    "explanation": "When market price is **below the Average Cost (AC)** curve in perfect competition, the firm is **incurring an economic loss** (though it may still continue in the short run if price > AVC).",
+    "explanation_block_uid": "WX_O31ATv",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qv0j1x3ti",
+    "question": "Why is the demand curve faced by an individual firm in perfect competition perfectly elastic (horizontal)?",
+    "options": [
+      "Because the firm has a monopoly over the product",
+      "Because the product is unique and has no substitutes",
+      "Because the firm is a price taker and can sell any quantity at the market price",
+      "Because there are significant barriers to entry"
+    ],
+    "correct_option_index": 2,
+    "explanation": "In perfect competition, the firm is a **price taker**. It can sell any quantity at the prevailing market price, making its demand curve **perfectly elastic (horizontal)**.",
+    "explanation_block_uid": "zCYEBYzXr",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "3kTvBu1Am",
+    "question": "Which market structure is characterized by product differentiation and many sellers?",
+    "options": [
+      "Monopoly",
+      "Perfect Competition",
+      "Monopolistic Competition",
+      "Oligopoly"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Monopolistic Competition** is characterized by **many sellers**, **product differentiation**, free entry/exit, and some degree of price-making power.",
+    "explanation_block_uid": "uJTpY6wWP",
+    "tags": [
+      "Statistics",
+      "General Studies",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Punch Operator",
+      "General Studies",
+      "Statistics"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "vzCUpyyb1",
     "question": "At a doctor's clinic, 8% of patients with liver disease are alcoholics. 6% of all patients are alcoholics, and 12% have liver disease. What's the probability a patient has liver disease if they are alcoholic?",
     "options": [
