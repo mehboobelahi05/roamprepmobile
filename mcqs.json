@@ -131824,6 +131824,2906 @@
     "isPassageBased": false
   },
   {
+    "id": "pyoEYtQQW",
+    "question": "Which of the following are sources of Muslim Law:\n\n1. Quran\n2. Hadith\n3. Ijma\n4. Qiyas\n\nCorrect answer:?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3",
+      "1, 3 and 4",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All four are primary sources of Muslim Law. **The Quran** is the primary source, **Hadith** (Sunnah) is the second most important source, **Ijma** (consensus of jurists) and **Qiyas** (analogical deduction) are recognised secondary sources under classical Muslim jurisprudence.",
+    "explanation_block_uid": "0P-Dx4fDU",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XCRCqVbsk",
+    "question": "Which of the following are essential for valid Muslim marriage (Nikah):\n\n1. Offer and acceptance\n2. Competent parties\n3. Presence of witnesses\n\nCorrect answer:?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "For a valid **Nikah** under Muslim Law, **offer (Ijab) and acceptance (Qubul)**, **competent parties** (sound mind and major), and **presence of at least two male or one male and two female witnesses** are all essential requirements.",
+    "explanation_block_uid": "iY7p1vNgW",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "wkYdGd2ev",
+    "question": "What is the distinguishing feature of a Will under Muslim Law?",
+    "options": [
+      "Becomes effective during the lifetime of the testator",
+      "Cannot be revoked",
+      "Does not require the testator's approval",
+      "Becomes effective after the death of the testator"
+    ],
+    "correct_option_index": 3,
+    "explanation": "A **Will (Wasiyat)** under Muslim Law becomes effective only **after the death of the testator**. It is revocable during the lifetime of the testator and has restrictions on the quantum of property that can be bequeathed.",
+    "explanation_block_uid": "2zr0qF5f5",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bG6mi9Y5E",
+    "question": "Which form of divorce is revocable during iddat?",
+    "options": [
+      "Talaq-e-Ahsan",
+      "Talaq-e-Hasan",
+      "Talaq-ul-Biddat",
+      "Khula"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Talaq-e-Ahsan** is the most approved and revocable form of talaq. The pronouncement is made once during the tuhr period and remains revocable during the entire **iddat** period.",
+    "explanation_block_uid": "Lnv2JC554",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bSLecIyjA",
+    "question": "The Karta of a family can alienate the property for legal necessity or for?",
+    "options": [
+      "The daughter's marriage",
+      "Benefit of the estate",
+      "Education of the son",
+      "Religious function"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Under Hindu Law, the **Karta** has the power to alienate joint family property for **legal necessity** or for the **benefit of the estate**. Benefit of estate includes acts that preserve or improve the property.",
+    "explanation_block_uid": "x9ttAOn45",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nMFz8G55z",
+    "question": "There are two main schools of Hindu Law, one is Dayabhaga and another is?",
+    "options": [
+      "Mitakshara",
+      "Manusmriti",
+      "Jimutavahana",
+      "Naradasmriti"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The two main schools of Hindu Law are **Mitakshara** and **Dayabhaga**. Mitakshara is followed in most parts of India except Bengal and Assam, while Dayabhaga is prevalent in Bengal.",
+    "explanation_block_uid": "YsUI5fzXU",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "tmLU2KCwK",
+    "question": "Which form of divorce was declared unconstitutional in Shayara Bano v Union of India (2017)?",
+    "options": [
+      "Talaq-e-Ahsan",
+      "Talaq-e-Hasan",
+      "Talaq-ul-Biddat",
+      "Khula"
+    ],
+    "correct_option_index": 2,
+    "explanation": "In the landmark case **Shayara Bano v Union of India (2017)**, the Supreme Court declared **Talaq-ul-Biddat** (triple talaq) unconstitutional and violative of Article 14 of the Constitution.",
+    "explanation_block_uid": "BtH1O1FWJ",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "I9CnzWcE1",
+    "question": "Under Muslim law, gift without delivery of possession is:?",
+    "options": [
+      "Valid",
+      "Void",
+      "Incomplete",
+      "Illegal"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Under Muslim Law, **delivery of possession** is an essential element of a valid gift (**Hiba**). A gift without delivery of possession is considered **incomplete**.",
+    "explanation_block_uid": "WkiylMj6O",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PTkg89IKX",
+    "question": "Which conditions are essential for valid Hindu marriage under the Hindu Marriage Act 1955.\n\n1. Neither party has a spouse living\n2. Parties are of sound mind\n3. Parties not within prohibited degrees\n\nCorrect answer:?",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All three conditions are essential under Section 5 of the **Hindu Marriage Act, 1955**: monogamy, sound mind, and parties not within prohibited degrees of relationship.",
+    "explanation_block_uid": "gTDHJpAp8",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "LWtNzCZgG",
+    "question": "Grounds of divorce under Hindu Marriage Act include:\n\n1. Cruelty\n2. Desertion\n3. Conversion\n\nCorrect answer:?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 3,
+    "explanation": "**Cruelty**, **desertion**, and **conversion** to another religion are all recognised grounds for divorce under Section 13 of the Hindu Marriage Act, 1955.",
+    "explanation_block_uid": "m70rC-V8o",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rctMVfsIS",
+    "question": "Which case recognised irretrievable breakdown of marriage as ground for divorce under Article 142?",
+    "options": [
+      "Naveen Kohli v Neelu Kohli",
+      "Shayara Bano v Union of India",
+      "Joseph Shine v Union of India",
+      "Sarala Mudgal v Union of India"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In **Naveen Kohli v Neelu Kohli (2006)** and subsequent cases, the Supreme Court has invoked Article 142 to grant divorce on the ground of **irretrievable breakdown of marriage**.",
+    "explanation_block_uid": "UVNqnsXUn",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "kU1rpoG8v",
+    "question": "Which of the following marriages are void under Hindu Marriage Act:\n\n1. Bigamous marriage\n2. Marriage within prohibited degrees\n3. Sapinda marriage\n\nCorrect answer:?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Bigamous marriage, marriage within prohibited degrees, and Sapinda marriage are all **void** under Sections 5 and 11 of the Hindu Marriage Act, 1955.",
+    "explanation_block_uid": "i6ZjExih5",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "L__SjflrK",
+    "question": "Which case addressed triple talaq constitutionality?",
+    "options": [
+      "Shayara Bano v Union of India",
+      "Sarala Mudgal v Union of India",
+      "Joseph Shine v Union of India",
+      "Sabarimala Case"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Shayara Bano v Union of India (2017)** is the landmark case in which the Supreme Court examined and struck down the practice of triple talaq (Talaq-ul-Biddat).",
+    "explanation_block_uid": "34tnZv7-F",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mcVksleDW",
+    "question": "Under Hindu Marriage Act, divorce by mutual consent is under:?",
+    "options": [
+      "Section 9",
+      "Section 10",
+      "Section 13B",
+      "Section 14"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Divorce by mutual consent is provided under **Section 13B** of the Hindu Marriage Act, 1955. It requires a cooling-off period of 6 to 18 months.",
+    "explanation_block_uid": "5IB7mzsTz",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "KjAalyXLo",
+    "question": "Which of the following agreements are void ab initio:\n\n1. Agreement with minor\n2. Agreement without consideration\n3. Agreement with unlawful object\n\nCorrect answer:?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "All three are void: Agreement with a minor is void ab initio (Mohori Bibee case), agreement without consideration is void (except under exceptions), and agreement with unlawful object is void under Section 23 of the Indian Contract Act.",
+    "explanation_block_uid": "0xC157XVJ",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ECDwzsl8T",
+    "question": "Under Contract Act, consideration must be:\n\n1. Real\n2. Lawful\n3. Given at desire of promisor\n\nCorrect answer:?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Under the Indian Contract Act, consideration must be **real**, **lawful**, and must move **at the desire of the promisor**. These are essential elements of valid consideration.",
+    "explanation_block_uid": "PPwTvCzS0",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "CU_6mrdJv",
+    "question": "Which of the following contracts are specifically enforceable:\n\n1. Contracts involving personal skill\n2. Contracts where damages are inadequate\n3. Determinable contracts\n\nCorrect answer:?",
+    "options": [
+      "2 only",
+      "1 and 2",
+      "1 only",
+      "2 and 3"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Specific performance is generally granted when **damages are inadequate** as a remedy. Contracts involving personal skill and determinable contracts are usually not specifically enforceable.",
+    "explanation_block_uid": "2iZLDToIN",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ijYVdP0mR",
+    "question": "Specific performance may be refused when:\n\n1. Contract involves personal skill\n2. Contract is determinable\n3. Damages are adequate remedy\n\nCorrect answer:?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Specific performance may be refused if the contract involves **personal skill**, is **determinable**, or when **damages are an adequate remedy** (Section 14 of the Specific Relief Act).",
+    "explanation_block_uid": "ZzPoSLtrm",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "xnGfIUJ-B",
+    "question": "Which case established minor's agreement is void?",
+    "options": [
+      "Mohori Bibee v Dharmodas Ghose",
+      "Carlill v Carbolic Smoke Ball",
+      "Hadley v Baxendale",
+      "Balfour v Balfour"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In the landmark case **Mohori Bibee v Dharmodas Ghose (1903)**, the Privy Council held that a minor's agreement is **void ab initio**.",
+    "explanation_block_uid": "Cuk0qpzRR",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "u_fCsVl5p",
+    "question": "Consider the following regarding consideration:\n\n1. It must move at desire of promisor\n2. It may move from promisee or any other person\n3. Past consideration is valid under Indian law\n\nCorrect answer:?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "1, 2 and 3",
+      "2 and 3"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Under Indian Contract Act, consideration must move at the desire of the promisor, may move from the promisee or any other person, and **past consideration is valid** (unlike English law).",
+    "explanation_block_uid": "aIl0MxYWE",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "8Hzcy86PG",
+    "question": "Assertion (A): Agreement without consideration is void.\nReason (R): Natural love and affection may constitute valid consideration in certain circumstances.\n\nWhich is correct?",
+    "options": [
+      "Both correct",
+      "Both incorrect",
+      "A correct R incorrect",
+      "A incorrect R correct"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Both Assertion and Reason are correct. Agreement without consideration is generally void, but **natural love and affection** between parties in near relation can constitute valid consideration under Section 25(1) of the Indian Contract Act.",
+    "explanation_block_uid": "tJzDw6KV_",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "m0Z_JwncC",
+    "question": "Which remedy prevents breach of obligation?",
+    "options": [
+      "Damages",
+      "Injunction",
+      "Rescission",
+      "Quantum meruit"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Injunction** is a preventive remedy that restrains a party from committing a breach of contract or obligation.",
+    "explanation_block_uid": "TxHCO2Yc3",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nded4FXFX",
+    "question": "Quantum meruit arises when:\n\n1. Contract becomes void\n2. Work partly performed\n3. Party prevents completion\n\nCorrect answer:?",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Quantum meruit** (as much as earned) arises when the original contract is discharged and work has been partly performed or one party prevents the other from completing the contract.",
+    "explanation_block_uid": "xtH3Xk95z",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "arVV5ShXg",
+    "question": "A new contract is substituted for an existing one between the same parties is called?",
+    "options": [
+      "Improvement",
+      "Novation",
+      "Title",
+      "Ownership"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Novation** means substitution of a new contract for the old one between the same parties. It discharges the original contract (Section 62 of the Indian Contract Act).",
+    "explanation_block_uid": "SZH5gen-M",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "juWGAM_xv",
+    "question": "Which case established doctrine of frustration?",
+    "options": [
+      "Taylor v Caldwell",
+      "Hadley v Baxendale",
+      "Carlill v Carbolic Smoke Ball",
+      "Balfour v Balfour"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Taylor v Caldwell (1863)** is the landmark English case that established the **doctrine of frustration** when an unforeseen event makes performance impossible.",
+    "explanation_block_uid": "21BzkA_4e",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "LytNaPlQw",
+    "question": "Consider the following statements regarding Basic Structure Doctrine:\n\n1. It was first evolved in Kesavananda Bharati v State of Kerala (1973).\n2. Parliament cannot amend Fundamental Rights under any circumstance.\n3. Judicial review forms part of the basic structure.\n4. The doctrine was reaffirmed in Minerva Mills v Union of India (1980).\n\nWhich of the above statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 3 and 4 only",
+      "2 and 3 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Statements 1, 3 and 4 are correct. The **Basic Structure Doctrine** was evolved in **Kesavananda Bharati (1973)** and reaffirmed in **Minerva Mills (1980)**. Judicial review is part of the basic structure, but Parliament can amend Fundamental Rights as long as the basic structure is not violated.",
+    "explanation_block_uid": "ppbAC6C0J",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "JsxzqgZku",
+    "question": "Which of the following provisions were inserted by the 42nd Constitutional Amendment, 1976:\n\n1. Fundamental Duties\n2. Words \"Socialist\" and \"Secular\" in the Preamble\n3. Tribunal system under Articles 323A and 323B\n4. Right to Property as a legal right\n\nSelect the correct answer:?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **42nd Amendment (1976)** added **Fundamental Duties**, inserted \"Socialist\" and \"Secular\" in the Preamble, and introduced Administrative Tribunals under Articles 323A and 323B. Right to Property was removed as a Fundamental Right by the 44th Amendment.",
+    "explanation_block_uid": "XAJ2lifC6",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "h18eaa3Uw",
+    "question": "With reference to Article 21 jurisprudence, consider the following cases:\n\n1. Maneka Gandhi v Union of India\n2. A.K. Gopalan v State of Madras\n3. Justice K.S. Puttaswamy v Union of India\n\nWhich of the above judgments significantly expanded the scope of personal liberty?",
+    "options": [
+      "1 and 3 only",
+      "2 and 3 only",
+      "1 and 2 only",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Maneka Gandhi v Union of India (1978)** and **Justice K.S. Puttaswamy v Union of India (2017)** significantly expanded the scope of personal liberty under Article 21. Maneka Gandhi introduced the 'due process' concept and interlinked Articles 14, 19 & 21, while Puttaswamy recognised Right to Privacy as part of Article 21. A.K. Gopalan followed the narrow 'procedure established by law' view.",
+    "explanation_block_uid": "zQi1nFYdC",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "WzJQFlvvb",
+    "question": "Consider the following statements regarding Directive Principles of State Policy:\n\n1. They are enforceable by courts.\n2. They are fundamental in the governance of the country.\n3. They can override Fundamental Rights.\n4. Courts have used them to interpret Fundamental Rights.\n\nWhich are correct?",
+    "options": [
+      "2 and 4 only",
+      "1, 2 and 3",
+      "2, 3 and 4",
+      "1 and 3"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Statements 2 and 4 are correct. **Directive Principles of State Policy (DPSPs)** are fundamental in the governance of the country (Article 37) and have been used by courts to interpret and expand Fundamental Rights. They are not enforceable by courts and cannot override Fundamental Rights.",
+    "explanation_block_uid": "Jce5UN0JR",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NpQN0VvQx",
+    "question": "Which of the following judgments dealt with conflict between Fundamental Rights and Directive Principles:\n\n1. Golaknath v State of Punjab\n2. Kesavananda Bharati v State of Kerala\n3. Minerva Mills v Union of India\n\nSelect correct answer:?",
+    "options": [
+      "1 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 and 3 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "All three cases addressed the conflict. **Golaknath** made Fundamental Rights paramount, **Kesavananda Bharati** introduced the basic structure doctrine, and **Minerva Mills** struck down parts of the 42nd Amendment that gave primacy to DPSPs over Fundamental Rights.",
+    "explanation_block_uid": "OoDErP7D1",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4W1FdxN1S",
+    "question": "Which of the following are correct regarding impeachment of the President of India:\n\n1. Charges may be initiated in either House of Parliament.\n2. The charge must be supported by at least one-fourth of members.\n3. A two-third majority of total membership is required to sustain the charge.\n4. The Supreme Court conducts the trial. ??",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "2 and 4 only",
+      "1, 3 and 4 only"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Statements 1, 2 and 3 are correct. Impeachment charges can be initiated in either House, must be supported by at least **one-fourth** of the total members, and requires a **two-third majority** of the total membership of the House to sustain the charge. The trial is conducted by the other House, not the Supreme Court.",
+    "explanation_block_uid": "vv5FlRSJd",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "_mlc3_YOf",
+    "question": "Consider the following statements regarding National Emergency:\n\n1. Article 352 allows proclamation on grounds of war, external aggression, or armed rebellion.\n2. The term \"armed rebellion\" replaced \"internal disturbance\" through the 44th Amendment.\n3. Emergency approval requires simple majority of Parliament.\n4. It must be approved within one month.\n\nWhich statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 4 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Statements 1, 2 and 4 are correct. National Emergency under **Article 352** can be proclaimed on grounds of war, external aggression or armed rebellion. The 44th Amendment replaced \"internal disturbance\" with \"armed rebellion\". It must be approved by Parliament within **one month** by a special majority.",
+    "explanation_block_uid": "xMDoSi3X0",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "fW3t9cA60",
+    "question": "In S.R. Bommai v Union of India (1994) the Supreme Court held that:\n\n1. Federalism is part of the basic structure.\n2. Proclamation under Article 356 is subject to judicial review.\n3. Floor test is the appropriate method to determine majority.\n\nCorrect answer:?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "All three statements are correct. In the landmark **S.R. Bommai case**, the Supreme Court held that **federalism** is part of the basic structure, **Article 356** proclamation is subject to judicial review, and the **floor test** is the proper method to determine majority in the assembly.",
+    "explanation_block_uid": "Tl7hP9AWU",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "IpbiXn9-w",
+    "question": "Which of the following writs are corrective in nature rather than preventive:\n\n1. Certiorari\n2. Mandamus\n3. Prohibition\n4. Habeas Corpus ??",
+    "options": [
+      "1 and 2 only",
+      "1 only",
+      "1 and 4 only",
+      "2 and 3 only"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Certiorari** and **Mandamus** are corrective writs. Certiorari quashes a judicial or quasi-judicial order, while Mandamus commands a public authority to perform a legal duty. Prohibition and Habeas Corpus are primarily preventive.",
+    "explanation_block_uid": "XxWy65t5m",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "vtzaSlgp4",
+    "question": "The doctrine of eclipse primarily applies to:?",
+    "options": [
+      "Pre-constitutional laws inconsistent with Fundamental Rights",
+      "Post-constitutional laws violating Fundamental Rights",
+      "Delegated legislation",
+      "Emergency legislation"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The **doctrine of eclipse** applies to **pre-constitutional laws** that become inconsistent with Fundamental Rights after the Constitution came into force. Such laws are not dead but remain in eclipse and can revive if the inconsistency is removed.",
+    "explanation_block_uid": "uS8FNbkcY",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Rq7t8UxyF",
+    "question": "Arrange the following constitutional amendments in chronological order:\n\n1. 44th Constitutional Amendment\n2. 42nd Constitutional Amendment\n3. 73rd Constitutional Amendment\n4. 86th Constitutional Amendment ??",
+    "options": [
+      "2-1-3-4",
+      "1-2-3-4",
+      "2-3-1-4",
+      "1-3-2-4"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The correct chronological order is: **42nd (1976)** → **44th (1978)** → **73rd (1992)** → **86th (2002)**. The 42nd Amendment is known as the Mini Constitution, while the 44th Amendment reversed many of its changes.",
+    "explanation_block_uid": "85jSnu-Ik",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "6qEJanZd-",
+    "question": "Consider the following statements regarding Article 368:\n\n1. Parliament's power to amend the Constitution includes power to amend Fundamental Rights.\n2. Constitutional amendments are not \"law\" within Article 13.\n3. Parliament can amend the basic structure of the Constitution.\n\nWhich of the statements are correct?",
+    "options": [
+      "1 and 2 only",
+      "2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Statements 1 and 2 are correct. Parliament can amend Fundamental Rights (**Kesavananda Bharati**), and constitutional amendments are not 'law' under Article 13 (**Shankari Prasad** and **Sajjan Singh** cases). However, Parliament **cannot amend the basic structure** of the Constitution.",
+    "explanation_block_uid": "EArMzUh7-",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "aC5djdNWs",
+    "question": "Which of the following judgments held that Right to Privacy is a fundamental right under Article 21?",
+    "options": [
+      "ADM Jabalpur v Shivkant Shukla",
+      "Justice K.S. Puttaswamy v Union of India",
+      "R. Rajagopal v State of Tamil Nadu",
+      "Maneka Gandhi v Union of India"
+    ],
+    "correct_option_index": 1,
+    "explanation": "In **Justice K.S. Puttaswamy v Union of India (2017)**, a nine-judge bench unanimously held that **Right to Privacy** is a fundamental right protected under Article 21 of the Constitution.",
+    "explanation_block_uid": "XdSvq4umN",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "s7Cg2qGiN",
+    "question": "Which of the following provisions were altered by the 44th Constitutional Amendment (1978):\n\n1. Right to property removed from Fundamental Rights\n2. Safeguards introduced for proclamation of emergency\n3. Replacement of \"internal disturbance\" with \"armed rebellion\"\n\nChoose correct answer: ??",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All three statements are correct. The **44th Amendment** removed Right to Property from Fundamental Rights (made it a legal right under Article 300A), introduced safeguards against misuse of emergency provisions, and replaced \"internal disturbance\" with \"armed rebellion\".",
+    "explanation_block_uid": "gpd27Myb-",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MQHnrFjra",
+    "question": "Which of the following features have been held to be part of the basic structure:\n\n1. Judicial review\n2. Federalism\n3. Secularism\n4. Parliamentary democracy ??",
+    "options": [
+      "1 and 2 only",
+      "1, 2 and 3 only",
+      "1, 3 and 4 only",
+      "1, 2, 3 and 4"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All four features — **judicial review**, **federalism**, **secularism**, and **parliamentary democracy** — have been held to be part of the **basic structure** of the Constitution by the Supreme Court in various judgments.",
+    "explanation_block_uid": "Me3_nRoXQ",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nyUC7Rebs",
+    "question": "Which of the following writs can be issued against a private individual?",
+    "options": [
+      "Mandamus",
+      "Certiorari",
+      "Habeas Corpus",
+      "Prohibition"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Habeas Corpus** is the only writ that can be issued against a private individual to secure the release of a person unlawfully detained. The other writs are generally issued against public authorities or courts.",
+    "explanation_block_uid": "Odi2ATj2Q",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FrjM_0haf",
+    "question": "Under Article 356, which of the following is correct:\n\n1. President's Rule may be imposed when constitutional machinery fails in a state.\n2. Proclamation must be approved within two months.\n3. Maximum duration is three years. ??",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "All three statements are correct. **Article 356** allows imposition of President's Rule when there is failure of constitutional machinery in a State. The proclamation must be approved by both Houses of Parliament within **two months** and its maximum duration is **three years** (with certain conditions).",
+    "explanation_block_uid": "AhsVw-DUM",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "v85aEUeLT",
+    "question": "Consider the following statements regarding Article 13:\n\n1. It declares that laws inconsistent with Fundamental Rights are void.\n2. Constitutional amendments fall within the expression \"law\" under Article 13.\n3. The Supreme Court in Kesavananda Bharati held that Article 368 is subject to Article 13.\n\nWhich of the above are correct?",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Only statement 1 is correct. **Article 13** declares laws inconsistent with Fundamental Rights as void. Constitutional amendments do **not** fall within the expression \"law\" under Article 13 (as per Shankari Prasad and later cases). In **Kesavananda Bharati**, the Court held that amendments are subject to the **basic structure doctrine**, not directly to Article 13.",
+    "explanation_block_uid": "k1aPvwUIJ",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "cakwvPOAV",
+    "question": "Which of the following judgments held that Parliament's amending power is limited by basic structure?",
+    "options": [
+      "Shankari Prasad v Union of India",
+      "Kesavananda Bharati v State of Kerala",
+      "Sajjan Singh v State of Rajasthan",
+      "Golaknath v State of Punjab"
+    ],
+    "correct_option_index": 1,
+    "explanation": "In the landmark **Kesavananda Bharati v State of Kerala (1973)**, the Supreme Court by a 7:6 majority held that Parliament's power to amend the Constitution under Article 368 is limited by the **basic structure doctrine**.",
+    "explanation_block_uid": "HrJWRUb5o",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7WfoEHh8M",
+    "question": "Which judgment recognised right to privacy as intrinsic to Article 21?",
+    "options": [
+      "Justice K.S. Puttaswamy v Union of India",
+      "Maneka Gandhi v Union of India",
+      "ADM Jabalpur v Shivkant Shukla",
+      "Olga Tellis v Bombay Municipal Corporation"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In **Justice K.S. Puttaswamy v Union of India (2017)**, a nine-judge bench unanimously held that the **Right to Privacy** is a fundamental right protected as an intrinsic part of Article 21 (Right to Life and Personal Liberty).",
+    "explanation_block_uid": "tsejoXxC9",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "GDWevmzYP",
+    "question": "Which of the following writs is preventive in nature?",
+    "options": [
+      "Certiorari",
+      "Mandamus",
+      "Prohibition",
+      "Habeas Corpus"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Prohibition** is a **preventive writ**. It is issued by a superior court to prevent an inferior court or tribunal from exceeding its jurisdiction or acting contrary to the principles of natural justice. Certiorari is corrective, Mandamus is commanding, and Habeas Corpus is for release from illegal detention.",
+    "explanation_block_uid": "Id7teaWSo",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "l23iMEzNh",
+    "question": "The doctrine of severability means:?",
+    "options": [
+      "Entire statute becomes void if unconstitutional",
+      "Only unconstitutional portion becomes void",
+      "Courts rewrite legislation",
+      "Legislature reviews the law"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **doctrine of severability** (or separability) provides that if a part of a statute is unconstitutional, **only that unconstitutional portion becomes void**, and the rest of the statute remains valid and enforceable, provided the valid and invalid parts are separable.",
+    "explanation_block_uid": "9h-fWjwL6",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "QFdO52ypK",
+    "question": "Which of the following rights were affected during Emergency under Article 352 prior to the 44th Amendment:\n\n1. Article 19 automatically suspended\n2. Article 21 suspended\n3. Article 20 suspended ??",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Prior to the 44th Amendment, during National Emergency, rights under **Article 19** were automatically suspended. Rights under Articles 20 and 21 were **not suspended** (though this was misused during the 1975 Emergency, later corrected by judicial pronouncements and the 44th Amendment).",
+    "explanation_block_uid": "owtMT8SWD",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "KkmwpXhXO",
+    "question": "Article 48-A and Article 51A(g) were inserted in the Constitution by?",
+    "options": [
+      "The Constitution (42nd Amendment) Act, 1978",
+      "The Constitution (42nd Amendment) Act, 1976",
+      "The Constitution (43rd Amendment) Act, 1976",
+      "The Constitution (44th Amendment) Act, 1978"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Article 48A** (protection and improvement of environment) and **Article 51A(g)** (fundamental duty to protect the environment) were inserted by the **42nd Constitutional Amendment Act, 1976**.",
+    "explanation_block_uid": "uOk-Xwl96",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "hoaq3gC08",
+    "question": "Which case recognised right to livelihood under Article 21?",
+    "options": [
+      "Olga Tellis v Bombay Municipal Corporation",
+      "Maneka Gandhi v Union of India",
+      "Golaknath v State of Punjab",
+      "Minerva Mills v Union of India"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In **Olga Tellis v Bombay Municipal Corporation (1985)**, the Supreme Court held that the **right to livelihood** is an integral part of the **right to life** under Article 21.",
+    "explanation_block_uid": "OKMJ8Cja6",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "5c6MiIk_6",
+    "question": "Under CPC, the term \"decree\" includes:\n\n1. Rejection of plaint\n2. Determination of rights in controversy\n3. Adjudication conclusively determining rights of parties ??",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Under Section 2(2) of the Code of Civil Procedure, a **decree** includes the formal expression of an adjudication that conclusively determines the rights of the parties. It does **not** include rejection of plaint (which is treated as a decree for appeal purposes in limited cases) or mere orders.",
+    "explanation_block_uid": "9SkdgJvR1",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Irl29DTYJ",
+    "question": "Res judicata applies when:\n\n1. Matter directly and substantially in issue has been decided earlier.\n2. Parties in both suits are same or claim under same title.\n3. Previous decision was by competent court. ??",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All three conditions are essential for the application of **res judicata** (Section 11 CPC). It prevents the same matter from being litigated again between the same parties.",
+    "explanation_block_uid": "QlxFIQ5Ft",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "buhS-RUv4",
+    "question": "Under Order I CPC, the court may strike out a party if:\n\n1. Party is improperly joined.\n2. Presence of party is unnecessary for adjudication.\n3. Party's presence embarrasses proceedings. ??",
+    "options": [
+      "1 and 2 only",
+      "2 and 3 only",
+      "1, 2 and 3",
+      "1 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Under **Order I Rule 10(2)** CPC, the court may strike out or add parties if a party has been **improperly joined**, or if the presence of a party is **unnecessary** or its presence **embarrasses** or delays the proceedings.",
+    "explanation_block_uid": "43xtoS1Pp",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ohx8qhLlZ",
+    "question": "Which of the following grounds justify rejection of plaint under Order VII Rule 11:\n\n1. Plaint does not disclose cause of action\n2. Relief claimed is undervalued\n3. Suit appears barred by law ??",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Order VII Rule 11 provides for rejection of plaint on grounds including **no cause of action disclosed**, **relief undervalued** and not corrected, and **suit barred by any law**.",
+    "explanation_block_uid": "ey-vuBfjp",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "uqkUY9RWQ",
+    "question": "Which statements regarding pleadings under Order VI are correct:\n\n1. Pleadings must contain material facts only.\n2. Evidence must be included in pleadings.\n3. Legal arguments should be part of pleadings. ??",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Pleadings must contain only **material facts** (Order VI Rule 2). Evidence and legal arguments are **not** to be included in pleadings.",
+    "explanation_block_uid": "BnMiQVpah",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "o_fs7q1xH",
+    "question": "Which of the following orders deals with joinder of causes of action?",
+    "options": [
+      "Order I",
+      "Order II",
+      "Order VI",
+      "Order VII"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Order II** CPC deals with **joinder of causes of action** and the rule against splitting of claims.",
+    "explanation_block_uid": "xvEiBimRc",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NniRmRfVT",
+    "question": "Which of the following would not constitute a decree.\n\n1. Rejection of plaint\n2. Dismissal of suit for default\n3. Determination of rights in controversy ??",
+    "options": [
+      "1 only",
+      "2 only",
+      "1 and 2",
+      "2 and 3"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Dismissal of suit for default** (e.g., for non-appearance) is **not** a decree. Rejection of plaint and final determination of rights are treated as decrees.",
+    "explanation_block_uid": "C-TJJaWB0",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "k6iOQ-XKy",
+    "question": "Assertion (A): Every plaint must disclose cause of action.\nReason (R): A plaint lacking cause of action may be rejected under Order VII Rule 11.\n\nWhich is correct?",
+    "options": [
+      "Both correct and R explains A",
+      "Both correct but R does not explain A",
+      "A correct, R incorrect",
+      "A incorrect, R correct"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Both Assertion and Reason are correct, and **R correctly explains A**. Every plaint must disclose a cause of action; failure to do so is a ground for rejection under Order VII Rule 11.",
+    "explanation_block_uid": "6j20bDxFh",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qGev8PYzh",
+    "question": "Which of the following correctly represents the doctrine of res sub judice?",
+    "options": [
+      "Same matter pending before different courts",
+      "Matter already decided",
+      "Matter pending before same court",
+      "Appeal pending"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Res sub judice** (Section 10 CPC) applies when a **same matter is pending** before two different courts of competent jurisdiction. It prevents simultaneous trial of the same issue.",
+    "explanation_block_uid": "NC7jyrtp9",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qLJ1O4HPx",
+    "question": "Which provision empowers Supreme Court to transfer suits between states?",
+    "options": [
+      "Section 24 CPC",
+      "Section 22 CPC",
+      "Section 25 CPC",
+      "Section 23 CPC"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Section 25 CPC** empowers the **Supreme Court** to transfer any suit, appeal or other proceeding from one High Court to another or from one civil court in one state to another.",
+    "explanation_block_uid": "GQsv_5Puq",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "b4d9ACyfA",
+    "question": "A necessary party is one:?",
+    "options": [
+      "Without whom no effective decree can be passed",
+      "Whose presence may assist court",
+      "Who files written statement",
+      "Who supports plaintiff"
+    ],
+    "correct_option_index": 0,
+    "explanation": "A **necessary party** is one in whose **absence no effective decree** can be passed. Proper parties are those whose presence may assist the court but is not essential.",
+    "explanation_block_uid": "oXp7P3SeZ",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "eA8APdWez",
+    "question": "Which of the following is not a pleading?",
+    "options": [
+      "Plaint",
+      "Written statement",
+      "Replication",
+      "Evidence affidavit"
+    ],
+    "correct_option_index": 3,
+    "explanation": "Pleadings include plaint, written statement, and replication (in certain cases). **Evidence by way of affidavit** is not a pleading.",
+    "explanation_block_uid": "0NyOYPJSu",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "IaiKljEXN",
+    "question": "Order VI Rule 17 permits amendment of pleadings:?",
+    "options": [
+      "At any stage of proceedings",
+      "Only before trial",
+      "Only after decree",
+      "Never after filing"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Order VI Rule 17 allows amendment of pleadings **at any stage of the proceedings** before judgment, subject to the court's discretion and proviso for due diligence.",
+    "explanation_block_uid": "-AdD_13Fh",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yYVk7NkWi",
+    "question": "Which case explained material facts vs evidence in pleadings?",
+    "options": [
+      "Virendra Kashinath v Vinayak Joshi",
+      "Roop Lal Sathi v Nachhattar Singh",
+      "Trojan & Co v Nagappa Chettiar",
+      "A.B.C. Laminart v A.P. Agencies"
+    ],
+    "correct_option_index": 2,
+    "explanation": "In **Trojan & Co v Nagappa Chettiar**, the Supreme Court explained the distinction between **material facts** (which must be pleaded) and **evidence** (which need not be pleaded).",
+    "explanation_block_uid": "JRvcYe2xn",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "IQvazYNOo",
+    "question": "Under CPC, a judgment must contain:\n\n1. Points for determination\n2. Decision thereon\n3. Reasons for decision ??",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A judgment under CPC must contain **points for determination**, **decision thereon**, and **reasons for the decision** (Order XX).",
+    "explanation_block_uid": "5VpVzJpGJ",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PETy9t9-Z",
+    "question": "Which of the following correctly explains res judicata?",
+    "options": [
+      "Matters already decided cannot be reopened",
+      "Matters pending cannot be tried",
+      "Same parties cannot litigate again even on different cause",
+      "Courts cannot review their decisions"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Res judicata** means that **matters already finally decided** between the same parties cannot be reopened or re-litigated.",
+    "explanation_block_uid": "C9UmOoTDr",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "e9LG1MnsE",
+    "question": "Which provision embodies res sub judice?",
+    "options": [
+      "Section 9",
+      "Section 10",
+      "Section 11",
+      "Section 12"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Section 10 CPC** embodies the doctrine of **res sub judice** (stay of suit when matter is pending in another court).",
+    "explanation_block_uid": "5cs4Xzzqx",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "ddopqPxCd",
+    "question": "Assertion (A): Evidence should not be included in pleadings.\nReason (R): Pleadings must contain only material facts.\n\nWhich is correct?",
+    "options": [
+      "Both correct and R explains A",
+      "Both correct but R not explanation",
+      "A correct R incorrect",
+      "Both incorrect"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Both A and R are correct and **R correctly explains A**. Pleadings are meant only for material facts; evidence is led later during trial.",
+    "explanation_block_uid": "HYHcUiRLo",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1Gol8OCy0",
+    "question": "Under CPC, necessary party means:?",
+    "options": [
+      "Party whose presence enables court to decide effectively",
+      "Party without whom no effective decree can be passed",
+      "Party who files counterclaim",
+      "Party summoned as witness"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **necessary party** is one **without whom no effective decree** can be passed. The presence of such a party is essential for a complete and effective adjudication.",
+    "explanation_block_uid": "8rt5jArWa",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "sioPBHffr",
+    "question": "Which order deals with pleadings?",
+    "options": [
+      "Order V",
+      "Order VI",
+      "Order VII",
+      "Order I"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Order VI CPC** specifically deals with **pleadings** in general, including rules regarding plaint and written statement.",
+    "explanation_block_uid": "PO5Be_KuU",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NTVGIfPEc",
+    "question": "Which of the following are grounds for rejection of plaint:\n\n1. Lack of cause of action\n2. Relief undervalued\n3. Suit barred by law ??",
+    "options": [
+      "1 only",
+      "1 and 3",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "All three are valid grounds for rejection of plaint under **Order VII Rule 11** CPC.",
+    "explanation_block_uid": "os5n_rsww",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BEMngUGMJ",
+    "question": "A decree passed by court without jurisdiction is:?",
+    "options": [
+      "Voidable",
+      "Irregular",
+      "Void",
+      "Valid unless appealed"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A decree passed by a court **without jurisdiction** is **null and void** ab initio and can be challenged at any stage.",
+    "explanation_block_uid": "9tNJdy5uQ",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "CkJdQTFc1",
+    "question": "Which case explained material facts in pleadings?",
+    "options": [
+      "Trojan & Co v Nagappa Chettiar",
+      "Hadley v Baxendale",
+      "Mohori Bibee v Dharmodas Ghose",
+      "Balfour v Balfour"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Trojan & Co v Nagappa Chettiar** is a leading case explaining the requirement of pleading **material facts** distinctly.",
+    "explanation_block_uid": "gsECJqyYt",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "QvfscHYR1",
+    "question": "Which of the following constitute judgment under CPC:\n\n1. Statement of grounds of decree\n2. Reasoned determination\n3. Pronouncement of decision ??",
+    "options": [
+      "1 and 2 only",
+      "1 and 3 only",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A **judgment** must contain a clear statement of the grounds (points for determination), reasoned determination, and pronouncement of the final decision.",
+    "explanation_block_uid": "nzqKLn1O0",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "172ksYfGj",
+    "question": "Transfer of cases between states may be ordered by:?",
+    "options": [
+      "High Court",
+      "District Court",
+      "Supreme Court",
+      "State Government"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Transfer of suits between different states is ordered by the **Supreme Court** under Section 25 CPC.",
+    "explanation_block_uid": "mHbUFqnYG",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "U8niyKxDI",
+    "question": "Under CPC, cause of action means: ?",
+    "options": [
+      "Evidence",
+      "Bundle of essential facts giving right to sue",
+      "Relief claimed",
+      "Defence raised"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Cause of action** means the **bundle of essential facts** which, if proved, would entitle the plaintiff to the relief claimed.",
+    "explanation_block_uid": "LpHk5tiq8",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "YZMTESrLG",
+    "question": "Which of the following statements regarding arrest without warrant are correct:\n\n1. Police officer may arrest for cognizable offence.\n2. Arrest must always be approved by magistrate beforehand.\n3. Arrest without warrant must satisfy necessity criteria. ??",
+    "options": [
+      "1 only",
+      "1 and 3 only",
+      "2 and 3 only",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A police officer may arrest without warrant for **cognizable offences**. Arrest must satisfy **necessity criteria** (as per Arnesh Kumar guidelines and CrPC amendments). Prior magistrate approval is not always required for cognizable offences.",
+    "explanation_block_uid": "fZZ4dyOu5",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1YO51TYNV",
+    "question": "Which of the following protects personal liberty during arrest:\n\n1. Informing grounds of arrest\n2. Right to consult advocate\n3. Production before magistrate within 24 hours ??",
+    "options": [
+      "1 only",
+      "1 and 3",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "All three protections are fundamental: grounds of arrest must be informed (Article 22), right to consult advocate, and production before magistrate within **24 hours** (Article 22 and Section 57 CrPC).",
+    "explanation_block_uid": "S_WQ4wrPw",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "m-pHvNhEu",
+    "question": "Under criminal procedure, FIR is mandatory in case of:?",
+    "options": [
+      "Non-cognizable offence",
+      "Cognizable offence",
+      "Compoundable offence",
+      "Civil disputes"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**FIR (First Information Report)** is mandatory in case of **cognizable offences** under Section 154 CrPC. For non-cognizable offences, only an entry in the station diary is required.",
+    "explanation_block_uid": "46ds3ORqp",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "asYbpuJju",
+    "question": "Assertion (A): Police may arrest without warrant in cognizable offences.\nReason (R): Such arrest must satisfy necessity criteria established by Supreme Court jurisprudence. ??",
+    "options": [
+      "Both correct",
+      "Both correct but R not explanation",
+      "A correct R incorrect",
+      "Both incorrect"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Both Assertion and Reason are correct. Police have the power to arrest without warrant in **cognizable offences** (Section 41 CrPC). However, such arrest must satisfy the **necessity criteria** laid down by the Supreme Court in **Arnesh Kumar v State of Bihar** and **DK Basu v State of West Bengal**.",
+    "explanation_block_uid": "-i_AA1mo2",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BLc_hSe_a",
+    "question": "Which judgment laid down guidelines against arbitrary arrest?",
+    "options": [
+      "Joginder Kumar v State of UP",
+      "Arnesh Kumar v State of Bihar",
+      "DK Basu v State of West Bengal",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "**All of the above** judgments laid down important guidelines against arbitrary arrest. **DK Basu** gave 11 guidelines for arrest and detention, **Arnesh Kumar** laid down guidelines to prevent unnecessary arrest, and **Joginder Kumar** emphasised that arrest is not a routine procedure.",
+    "explanation_block_uid": "vATuyd9JW",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "UuWsj0d0G",
+    "question": "Which of the following are bailable offences?",
+    "options": [
+      "Bail granted as matter of right",
+      "Bail granted at discretion",
+      "Bail prohibited",
+      "Bail only by Sessions Court"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In **bailable offences**, bail is granted **as a matter of right** under Section 436 CrPC. The accused cannot be denied bail if he is willing to furnish it.",
+    "explanation_block_uid": "msiy2hOnk",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "wQ3A7GTk2",
+    "question": "Under criminal procedure, complaint does not include:?",
+    "options": [
+      "Oral allegation",
+      "Written allegation",
+      "Police report",
+      "Allegation made to magistrate"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A **complaint** under Section 2(d) CrPC means any allegation made to a Magistrate. It does **not** include a **police report** (which is a charge sheet under Section 173).",
+    "explanation_block_uid": "gZZBeCrnS",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Ijufd1XPF",
+    "question": "Preventive action of police is primarily intended to:?",
+    "options": [
+      "Punish accused",
+      "Prevent breach of peace",
+      "Conduct investigation",
+      "Record FIR"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Preventive action of police (under Sections 149–153 CrPC) is primarily intended to **prevent breach of peace** and maintain public order, not to punish or investigate offences.",
+    "explanation_block_uid": "-6_9N4fFD",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "R5qpRE9mc",
+    "question": "Which case laid down safeguards for arrest and detention?",
+    "options": [
+      "DK Basu v State of West Bengal",
+      "Maneka Gandhi v Union of India",
+      "Kesavananda Bharati v State of Kerala",
+      "Minerva Mills v Union of India"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**DK Basu v State of West Bengal (1997)** laid down 11 important guidelines/safeguards to be followed by police during arrest and detention to prevent custodial violence and protect Article 21 rights.",
+    "explanation_block_uid": "3JA6k1hKR",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "m7BRHjNJp",
+    "question": "Assertion (A): FIR must be registered in cognizable offences.\nReason (R): Police have discretion not to register FIR even when cognizable offence disclosed. ??",
+    "options": [
+      "A correct R incorrect",
+      "Both correct",
+      "Both incorrect",
+      "R explains A"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Assertion is correct but Reason is incorrect. FIR **must** be registered in cognizable offences (**Lalita Kumari v Govt. of UP**). Police have **no discretion** to refuse registration when a cognizable offence is disclosed.",
+    "explanation_block_uid": "5uyGkpizv",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Ptc1aDssH",
+    "question": "Which case held that registration of FIR is mandatory in cognizable offences?",
+    "options": [
+      "Lalita Kumari v State of UP",
+      "Arnesh Kumar v State of Bihar",
+      "DK Basu v State of West Bengal",
+      "Joginder Kumar v State of UP"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In **Lalita Kumari v Govt. of UP (2014)**, the Supreme Court held that registration of FIR is **mandatory** in cognizable offences and police cannot conduct preliminary inquiry in all cases.",
+    "explanation_block_uid": "rNCqoNgE2",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "3s9326nZn",
+    "question": "Which of the following rights exist for arrested person.\n\n1. Right to know grounds of arrest\n2. Right to consult advocate\n3. Right to be produced before magistrate within 24 hours ??",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "All three rights are fundamental under **Article 22** of the Constitution and CrPC provisions: right to be informed of grounds of arrest, right to consult and be defended by a legal practitioner, and production before a magistrate within **24 hours**.",
+    "explanation_block_uid": "mtV2mXjTf",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Na3sQdUa0",
+    "question": "Under BNSS/Criminal procedure, bail in bailable offences:?",
+    "options": [
+      "Is matter of right",
+      "Is discretionary",
+      "Requires High Court order",
+      "Cannot be granted"
+    ],
+    "correct_option_index": 0,
+    "explanation": "In **bailable offences**, bail is a **matter of right** under Section 478 BNSS (corresponding to Section 436 CrPC). The accused is entitled to bail as soon as he is prepared to furnish it.",
+    "explanation_block_uid": "ivuVlb6kB",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "SRg62ccP5",
+    "question": "The doctrine \"nemo judex in causa sua\" relates to:?",
+    "options": [
+      "Bias rule",
+      "Fair hearing rule",
+      "Doctrine of proportionality",
+      "Ultra vires rule"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Nemo judex in causa sua** means \"no one should be a judge in his own cause\". It is the **rule against bias** – a fundamental principle of natural justice.",
+    "explanation_block_uid": "QKpCKSwq2",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "m0_VOGhq1",
+    "question": "Which of the following constitute grounds of judicial review.\n\n1. Illegality\n2. Irrationality\n3. Procedural impropriety ??",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The three classic grounds of judicial review as propounded by Lord Diplock in **Council of Civil Service Unions v Minister for the Civil Service** are **illegality**, **irrationality** (Wednesbury unreasonableness), and **procedural impropriety**.",
+    "explanation_block_uid": "p9wpC7-AQ",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Sz-Dn3vF9",
+    "question": "Consider the following statements:\n\n1. Delegated legislation is made by administrative authorities.\n2. It cannot be challenged in a court of law. ??",
+    "options": [
+      "1 only",
+      "2 only",
+      "Both 1 and 2",
+      "Neither 1 nor 2"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Only statement 1 is correct. Delegated legislation is made by administrative/executive authorities under powers conferred by the parent Act. It **can** be challenged in courts on grounds of ultra vires, violation of fundamental rights, etc.",
+    "explanation_block_uid": "o_WuOnmDU",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "BXg78z9qc",
+    "question": "Grounds for invalidating delegated legislation include:\n\n1. Excessive delegation\n2. Substantive ultra vires\n3. Procedural ultra vires ??",
+    "options": [
+      "1 only",
+      "1 and 2",
+      "2 and 3",
+      "1, 2 and 3"
+    ],
+    "correct_option_index": 3,
+    "explanation": "All three grounds are valid for challenging delegated legislation: **excessive delegation** (parent Act delegates essential legislative functions), **substantive ultra vires** (beyond the scope of enabling Act), and **procedural ultra vires** (non-compliance with procedural requirements).",
+    "explanation_block_uid": "HVaUBQFND",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mKEsw_cGq",
+    "question": "Which doctrine ensures administrative decisions are not arbitrary?",
+    "options": [
+      "Doctrine of proportionality",
+      "Doctrine of eclipse",
+      "Doctrine of severability",
+      "Doctrine of pleasure"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The **doctrine of proportionality** ensures that administrative decisions are not arbitrary. It requires that the means used must be proportionate to the objective sought to be achieved.",
+    "explanation_block_uid": "dHq6CaxRP",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "thIQYxm-6",
+    "question": "Which institution functions as Ombudsman in India?",
+    "options": [
+      "Election Commission",
+      "Lokayukta",
+      "UPSC",
+      "Finance Commission"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Lokayukta** (and Lokpal at the Centre) functions as the **Ombudsman** institution in India to inquire into allegations of corruption against public servants.",
+    "explanation_block_uid": "W_l9kRNie",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MX5vkeARJ",
+    "question": "The doctrine of Wednesbury unreasonableness originates from:?",
+    "options": [
+      "UK administrative law",
+      "US constitutional law",
+      "French administrative law",
+      "Indian administrative law"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The doctrine of **Wednesbury unreasonableness** originated from the English case **Associated Provincial Picture Houses Ltd. v Wednesbury Corporation (1948)** in UK administrative law.",
+    "explanation_block_uid": "ZvgoJcpwf",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "RTKf2hFB7",
+    "question": "Which case is associated with delegated legislation limits in India?",
+    "options": [
+      "In re Delhi Laws Act",
+      "Kesavananda Bharati",
+      "Minerva Mills",
+      "Indira Gandhi v Raj Narain"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**In re Delhi Laws Act, 1912** is the landmark case in which the Supreme Court examined the limits of delegated legislation in India and upheld the principle of permissible delegation.",
+    "explanation_block_uid": "S6bCsppEZ",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "p87SdgHSR",
+    "question": "What does the \"Judicial Review\" function of the Supreme Court mean?",
+    "options": [
+      "Review its own judgement",
+      "Review the functioning of judiciary in the country",
+      "Examine the constitutional validity of the laws",
+      "Undertake periodic review of the Constitution"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Judicial Review means the power of the Supreme Court and High Courts to **examine the constitutional validity** of any law or executive action and strike it down if it violates the Constitution.",
+    "explanation_block_uid": "AWhGkCvmm",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "0r_2mfYcj",
+    "question": "Doctrine preventing administrative bias:?",
+    "options": [
+      "Nemo judex in causa sua",
+      "Audi alteram partem",
+      "Ultra vires",
+      "Proportionality"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Nemo judex in causa sua** (no one should be a judge in his own cause) is the doctrine that prevents **administrative bias** and ensures impartiality.",
+    "explanation_block_uid": "irIMjHA6D",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Jeidl2C1R",
+    "question": "Essential requirements of valid Hiba (gift) are:\n\n1. Declaration of gift\n2. Acceptance\n3. Delivery of possession ??",
+    "options": [
+      "1 only",
+      "1 and 2 only",
+      "1, 2 and 3",
+      "2 and 3 only"
+    ],
+    "correct_option_index": 2,
+    "explanation": "For a valid **Hiba (gift)** under Muslim Law, three essential elements are required: **declaration** by the donor, **acceptance** by the donee, and **delivery of possession** of the gifted property.",
+    "explanation_block_uid": "ULQyw0Nno",
+    "tags": [
+      "General Studies",
+      "Polity",
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "pyq",
+      "LSSSSB",
+      "LSSSSB Exam 2026 - Legal Assistant",
+      "General Studies",
+      "Polity"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "vzCUpyyb1",
     "question": "At a doctor's clinic, 8% of patients with liver disease are alcoholics. 6% of all patients are alcoholics, and 12% have liver disease. What's the probability a patient has liver disease if they are alcoholic?",
     "options": [
