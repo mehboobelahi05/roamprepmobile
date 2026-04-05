@@ -7,9 +7,10 @@
   "isDisplayUpdatesSection": true,
   "updates": [
     {
-      "title": "Updates: April 04th 2026",
+      "title": "Updates: April 5th 2026 at 2:00 PM",
       "items": [
-        "Recent LSSSSB Papers added to Previous Papers: Punch Operator  and Legal Assistant"
+        "Update the app to latest version: [click here](https://play.google.com/store/apps/details?id=com.roamprep.app)",
+        "Recent LSSSSB Papers added to Previous Papers: Jr. Statistical Assistant, Punch Operator  and Legal Assistant"
       ]
     }
   ],
@@ -55,5 +56,5 @@
   "isSubscriptionActivate": false,
   "appShareURL": "https://play.google.com/store/apps/details?id=com.roamprep.app",
   "isDisplayAboutMe": true,
-  "dataUpdateDateTime": 1775314582145
+  "dataUpdateDateTime": 1775374534969
 }
