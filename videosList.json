@@ -270,6 +270,8 @@
         "label": "Number Series",
         "hasVideos": true,
         "videoIds": [
+          "Pe-D7zFe-wg",
+          "fkEFJccSJfQ",
           "RZDwpddc6UQ",
           "-e-WqkSCOQU",
           "fR31HnVeAAA"
@@ -331,7 +333,10 @@
       },
       {
         "label": "Missing Number",
-        "hasVideos": false
+        "hasVideos": true,
+        "videoIds": [
+          "hqi0v0_MZqM"
+        ]
       },
       {
         "label": "Missing Character",
@@ -348,6 +353,14 @@
       {
         "label": "Find Odd One",
         "hasVideos": false
+      },
+      {
+        "label": "Triangles",
+        "hasVideos": true,
+        "videoIds": [
+          "4bxXOfr5tXQ",
+          "yg2LiAYuwFc"
+        ]
       }
     ]
   }
