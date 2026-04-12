@@ -7452,11 +7452,11 @@
     "question": "What is the approximate length of main Zojila Tunnel is?",
     "options": [
       "9 Km",
-      "14 Km",
       "19 Km",
+      "14 Km",
       "21 Km"
     ],
-    "correct_option_index": 1,
+    "correct_option_index": 2,
     "explanation": "The approximate length of ^^main Zojila Tunnel is 13.14 (~14) km long^^, but the total length of the Zojila Tunnel Project, including approach roads, is over 30 km. The project involves constructing this main tunnel, along with approach roads and other structures to provide all-weather connectivity between Srinagar and Ladakh",
     "explanation_block_uid": "aJ8N2GbW5",
     "tags": [
