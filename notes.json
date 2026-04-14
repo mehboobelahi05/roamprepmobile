@@ -5566,7 +5566,7 @@
       },
       {
         "order": 3,
-        "string": "**Mountain Ranges in India**\n\n**Aravali range**\n▪️ Highest peak is ^^Guru Shikhar^^\n▪️ Located in Rajasthan. \n▪️ Elevation of approximately 1,722 meters (5,650 feet)\n\n**Vindhaya Range**\n▪️ Highest peak is Sad-Bhawna Shikhar (= Goodwill Peak or ^^Kalumar Peak^^ )\n▪️ Elevation: 752 meters (2,467 feet) above sea level\n▪️ Located in Madhya Pradesh. \n\n**Satpura range:**\n▪️ The highest peak is ^^Dhupgarh^^, \n▪️ Located in Madhya Pradesh. \n▪️ Elevation of approximately 1,352 meters (4,436 ft) feet)\n\n**Eastern Ghats:**\n▪️ Highest Peak: ^^Jindhagada Peak^^ (or Arma Konda)\n▪️ Elevation: 1,690 meters (5,540 feet)\n▪️ Location: Araku Valley, Andhra Pradesh\n\n**Western Ghats:**\n▪️ Highest Peak: ^^Anamudi^^\n▪️ Elevation: 2,695 meters or 8,842 feet\n▪️ Located in the state of Kerala\n▪️ It is the highest peak in South India \n▪️ It is also the highest point in India outside the Himalayan range\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fbh1ARV11CM.png?alt=media&token=c40d1548-2b61-4f43-afbf-c0e90af3b380)",
+        "string": "**Mountain Ranges in India**\n\n**Aravali range**\n⇒ Highest peak is ^^Guru Shikhar^^\n⇒ Located in Rajasthan. \n⇒ Elevation of approximately 1,722 meters (5,650 feet)\n\n**Vindhaya Range**\n⇒ Highest peak is Sad-Bhawna Shikhar (= Goodwill Peak or ^^Kalumar Peak^^ )\n⇒ Elevation: 752 meters (2,467 feet) above sea level\n⇒ Located in Madhya Pradesh. \n\n**Satpura range:**\n⇒ The highest peak is ^^Dhupgarh^^, \n⇒ Located in Madhya Pradesh. \n⇒ Elevation of approximately 1,352 meters (4,436 ft) feet)\n\n**Eastern Ghats:**\n⇒ Highest Peak: ^^Jindhagada Peak^^ (or Arma Konda)\n⇒ Elevation: 1,690 meters (5,540 feet)\n⇒ Location: Araku Valley, Andhra Pradesh\n\n**Western Ghats:**\n⇒ Highest Peak: ^^Anamudi^^\n⇒ Elevation: 2,695 meters or 8,842 feet\n⇒ Located in the state of Kerala\n⇒ It is the highest peak in South India \n⇒ It is also the highest point in India outside the Himalayan range\n\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprep%2Fbh1ARV11CM.png?alt=media&token=c40d1548-2b61-4f43-afbf-c0e90af3b380)",
         "uid": "2fld_mpzC"
       }
     ]
@@ -7374,13 +7374,43 @@
     ]
   },
   {
-    "page_title": "Roam Prep Updates Logs",
+    "page_title": "Roam Prep App Updates Logs",
     "page_uid": "tuFNblXcI",
     "blocks": [
       {
+        "children": [
+          {
+            "order": 0,
+            "string": "**New**\n⇒ Added new \"**Fix Issues**\" section in the home page. So if the user is facing any issue, he can clear the data and restart the app, which will fix many issues.\n⇒ Updated the \"Tabs\" UI across the app. \n⇒ Now in Mock Test Analysis showing total positive and negative marking as well. ",
+            "uid": "H5Up7pVQ6"
+          },
+          {
+            "order": 1,
+            "string": "**Bug FIxes**\n⇒ Today I noticed that \"MCQs\" in the Mock Test History were showing randomly. \n⇒ Fixed: Now the MCQs in the Mock Test Result, will be shown in the same order as how it appears in the mock test.\n⇒ Same is added for \"Filter MCQs by Mock Tests\" in the \"Filter MCQ Section\"",
+            "uid": "L_MLnUMKC"
+          }
+        ],
+        "heading": 3,
         "order": 0,
-        "string": "All Updates of Roam Prep will Show Here",
+        "string": "[[April 13th, 2026]] 23:04",
         "uid": "9d0U0nFGh"
+      },
+      {
+        "children": [
+          {
+            "order": 0,
+            "string": "**New feature**\n⇒ Now users can \"Filter MCQs\" from different Mocks. \n⇒ MCQs > Filter > Exams > There will now show different \"Mock Tabs to select papers\"",
+            "uid": "uhjp_XRhj"
+          },
+          {
+            "order": 1,
+            "string": "**New UI**\n⇒ Now All the Mocks are shown in one screen. \n⇒ Earlier there were different screens for \"Previous Papers\", \"Full Mocks\" and \"Subject Wise Mocks\". But Now All will show in one page, side by side, and added some more useful features. ",
+            "uid": "f7Bl-GOab"
+          }
+        ],
+        "order": 1,
+        "string": "[[April 12th, 2026]] 22:07",
+        "uid": "Na4pnFrqE"
       }
     ]
   }
