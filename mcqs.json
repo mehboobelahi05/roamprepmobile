@@ -1,5 +1,180 @@
 [
   {
+    "id": "5Uldf-_71",
+    "question": "Day and Nights are caused by 1. rotation of the earth on its axis 2. revolution of the earth around the sun 3. inclination of earth's axis?",
+    "options": [
+      "Only 1 is correct",
+      "1 and 2 are correct",
+      "2 and 3 are correct",
+      "All are correct"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The cycle of day and night is primarily caused by the **rotation of the Earth on its axis**. As the Earth rotates, different parts of the planet face the Sun (day) while others face away (night). The **revolution** of the Earth around the Sun and the **inclination** of its axis are responsible for the change in seasons and the varying lengths of day and night throughout the year, but not the basic phenomenon of day and night itself.",
+    "explanation_block_uid": "VkC3v_lEY",
+    "tags": [
+      "pyq",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Z3y6YKuc9",
+    "question": "Which of the following is a cash crop?",
+    "options": [
+      "Maize",
+      "Potato",
+      "Rubber",
+      "Gram"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Rubber** is considered a major cash crop (or plantation crop) because it is grown primarily for **sale in the market and for industrial profit** rather than for local consumption. While crops like Maize and Gram are food crops, Rubber is an essential industrial raw material used globally.",
+    "explanation_block_uid": "xcnz7Mk81",
+    "tags": [
+      "pyq",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "C8Uk1Vh6m",
+    "question": "Bhim Sen Joshi is associated with?",
+    "options": [
+      "Light music",
+      "Vocal music",
+      "Instrumental music",
+      "Ghazals"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Pandit Bhimsen Joshi was a legendary Indian **classical vocalist** from the Kirana Gharana. He is world-renowned for his mastery of **Hindustani classical vocal music** and was awarded the Bharat Ratna, India's highest civilian honor, in 2008.",
+    "explanation_block_uid": "i-pHIWZdE",
+    "tags": [
+      "pyq",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "fvXqOBnPF",
+    "question": "Buland Darwaza is located in?",
+    "options": [
+      "Hyderabad",
+      "Bijapur",
+      "Fatehpur Sikri",
+      "Delhi"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Buland Darwaza** (Door of Victory) is located in **Fatehpur Sikri**, near Agra. It was built in 1601 by the Mughal Emperor **Akbar** to commemorate his victory over Gujarat. It serves as the main entrance to the Jama Masjid at Fatehpur Sikri.",
+    "explanation_block_uid": "0RUiIjC1s",
+    "tags": [
+      "pyq",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "c-yjLquLY",
+    "question": "How many spokes are there in our national emblem 'Ashoka Chakra'?",
+    "options": [
+      "12",
+      "15",
+      "20",
+      "24"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The **Ashoka Chakra** features **24 spokes**, which represent the 24 hours of the day and symbolize the **Wheel of Duty (Dharma)** and the principle of constant movement or progress. It is seen in the center of the Indian national flag and at the base of the Lion Capital of Ashoka.",
+    "explanation_block_uid": "aqCOxG5dd",
+    "tags": [
+      "pyq",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "biE472uWd",
+    "question": "Which of the following medals was won by India's No. 1 badminton player Saina Nehwal in London Olympics in 2012?",
+    "options": [
+      "Gold",
+      "Silver",
+      "Bronze",
+      "None of these"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Saina Nehwal won the **Bronze medal** at the **2012 London Olympics**. This was a historic moment as she became the **first Indian badminton player** to win an Olympic medal.",
+    "explanation_block_uid": "yOSNzFCZ6",
+    "tags": [
+      "pyq",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "X_XE_XSJ3",
+    "question": "Which social reformer is associated with the abolition of Sati?",
+    "options": [
+      "Dayanand Saraswati",
+      "Swami Vivekananda",
+      "Raja Ram Mohan Roy",
+      "Bal Gangadhar Tilak"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Raja Ram Mohan Roy**, often called the 'Father of Modern India,' was the primary social reformer who campaigned tirelessly against the practice of **Sati**. His efforts led Lord William Bentinck, the then Governor-General, to formally **ban the practice in 1829**.",
+    "explanation_block_uid": "1yJqh_O1S",
+    "tags": [
+      "pyq",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "UowyUiBNR",
     "question": "Who is the author of the historical work 'Tughlaq Nama'?",
     "options": [
@@ -107405,6 +107580,1122 @@
     "isPassageBased": false
   },
   {
+    "id": "BdUJbyw61",
+    "question": "What is the meaning of the idiom 'Spill the beans'?",
+    "options": [
+      "To cook a meal",
+      "To reveal a secret",
+      "To plant new seeds",
+      "To waste food"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The idiom means **to reveal a secret**. Its origin traces back to **Ancient Greek voting**, where people used colored beans (white for 'yes', black for 'no') to vote secretly. If someone knocked over the jar and the beans spilled, the secret results were revealed prematurely.",
+    "explanation_block_uid": "NYK3JRIgi",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "iUAetxneo",
+    "question": "The phrase 'Bite the bullet' refers to:?",
+    "options": [
+      "Being aggressive",
+      "Eating quickly",
+      "Accepting a difficult situation with courage",
+      "Starting a conflict"
+    ],
+    "correct_option_index": 2,
+    "explanation": "It means **accepting a painful or difficult situation** that is unavoidable. Historically, before anesthesia was available, soldiers in the **19th-century battlefield surgery** would literally bite down on a lead bullet to endure the pain of an operation without screaming.",
+    "explanation_block_uid": "uigg7_3XE",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1httYf-Xx",
+    "question": "What does it mean 'To bell the cat'?",
+    "options": [
+      "To play with a pet",
+      "To perform a dangerous task for the benefit of a group",
+      "To make a lot of noise",
+      "To wake someone up"
+    ],
+    "correct_option_index": 1,
+    "explanation": "This means **taking on a risky task** that others are afraid to do. It comes from **Aesop's Fables**, where a group of mice decided to put a bell on a cat's neck to hear it coming, but none of them were brave enough to actually do it.",
+    "explanation_block_uid": "bH4I6Lta1",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "R5mb7mkcU",
+    "question": "If something 'Is all one to' you, how do you feel about it?",
+    "options": [
+      "It makes you very happy",
+      "It is very confusing",
+      "It makes no difference to you",
+      "It is your top priority"
+    ],
+    "correct_option_index": 2,
+    "explanation": "This phrase expresses **indifference**. In the 16th century, it was linked to the idea of **mathematical unity**—if multiple options all lead to 'one' (the same result), then it doesn't matter which one you choose.",
+    "explanation_block_uid": "bcj8SoP5Z",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XBY-xjCHa",
+    "question": "The idiom 'Feast one's eyes on' means:?",
+    "options": [
+      "To be very hungry",
+      "To gaze at something with great pleasure",
+      "To close your eyes tightly",
+      "To have a medical eye exam"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It means to **look at something beautiful or impressive** with great delight. It uses the metaphor of a **visual banquet**, suggesting that looking at something lovely is as satisfying as eating a large, delicious meal.",
+    "explanation_block_uid": "_2Ki708xB",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "-2cdOUl_p",
+    "question": "Who is the 'Black sheep' of a group?",
+    "options": [
+      "The most successful member",
+      "The leader of the group",
+      "A member considered a failure or disgrace",
+      "The oldest member"
+    ],
+    "correct_option_index": 2,
+    "explanation": "A 'black sheep' is someone who **doesn't fit in or is seen as a failure**. In history, **black wool could not be dyed** and was worth much less than white wool, so shepherds saw black lambs as a commercial defect in the flock.",
+    "explanation_block_uid": "IvrjVJujo",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "yTOVffRkT",
+    "question": "What describes a person who 'Blows hot and cold'?",
+    "options": [
+      "Someone with a fever",
+      "Someone who is consistently angry",
+      "Someone who is indecisive or inconsistent",
+      "A professional chef"
+    ],
+    "correct_option_index": 2,
+    "explanation": "It means to **constantly change one's mind**. This comes from **Aesop’s Fables** (*The Satyr and the Traveller*), where a Satyr was confused that a man used his breath to both warm his hands and cool his soup.",
+    "explanation_block_uid": "QgHtwerUR",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "dXNS77ZG6",
+    "question": "The phrase 'Blow off steam' means:?",
+    "options": [
+      "To fix a machine",
+      "To release built-up stress or emotion",
+      "To cook using vapor",
+      "To waste energy"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It means to **release strong emotions** to avoid an outburst. This originates from the **Industrial Revolution steam engines**, where safety valves were used to vent excess pressure to prevent the boiler from exploding.",
+    "explanation_block_uid": "NyJKLypOJ",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "RbKp3nEfw",
+    "question": "What do you do when you 'Bring to the table'?",
+    "options": [
+      "Serve a meal",
+      "Clean a room",
+      "Contribute something useful to a project or deal",
+      "Invite someone to dinner"
+    ],
+    "correct_option_index": 2,
+    "explanation": "It means to **contribute a valuable skill or asset**. The origin lies in **business negotiations and card games**, where participants must literally bring their documents or betting stakes to the table to participate.",
+    "explanation_block_uid": "srzvS5uMX",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "KK6Gyxq27",
+    "question": "If a plan goes 'Down the tubes', it has:?",
+    "options": [
+      "Succeeded unexpectedly",
+      "Been hidden away",
+      "Failed completely",
+      "Gone underground"
+    ],
+    "correct_option_index": 2,
+    "explanation": "It means to be **completely wasted or failed**. This 20th-century idiom refers to **plumbing and sewage**, where once something is flushed down the drain (the tubes), it is gone forever and cannot be recovered.",
+    "explanation_block_uid": "eswHn80iJ",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "21-lxsvSO",
+    "question": "Someone who 'Gives themselves airs' is behaving:?",
+    "options": [
+      "Generously",
+      "Arrogantly or pretentiously",
+      "Breathlessly",
+      "Quietly"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It means **acting superior** to others. It comes from **17th-century French court manners**, where 'air' referred to one's appearance. People who faked a high-status 'look' were said to be giving themselves airs.",
+    "explanation_block_uid": "OuQDJIpsR",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MFKFMsjrq",
+    "question": "When someone says 'Easy does it', they want you to:?",
+    "options": [
+      "Work faster",
+      "Stop working",
+      "Act with care and caution",
+      "Be more aggressive"
+    ],
+    "correct_option_index": 2,
+    "explanation": "This means to **move slowly and carefully**. It originated in **19th-century nautical labor**, where sailors used it as a rhythmic command to ensure heavy cargo was moved steadily without snapping ropes or causing accidents.",
+    "explanation_block_uid": "sh7SOC_KC",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XJe4xmdZD",
+    "question": "To 'Pour oil on troubled waters' means to:?",
+    "options": [
+      "Start a fire",
+      "Calm a dispute or tense situation",
+      "Pollute the environment",
+      "Make a situation worse"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It means to **settle a disagreement**. It is based on a **scientific fact** noticed by sailors and Benjamin Franklin: pouring oil on rough sea water creates a film that prevents wind from creating waves, effectively calming the surface.",
+    "explanation_block_uid": "22CARVtqc",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "K7cxCs5ML",
+    "question": "What does 'Back to square one' imply?",
+    "options": [
+      "Winning a game",
+      "Moving to a new house",
+      "Starting over from the very beginning",
+      "Completing a task"
+    ],
+    "correct_option_index": 2,
+    "explanation": "It means **starting again from zero** after a failure. It likely comes from **board games like Snakes and Ladders** where you might be sent back to the first square, or from early **BBC radio football commentary** where the pitch was divided into numbered squares.",
+    "explanation_block_uid": "1iOjZSe74",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "qQ-u9eXvb",
+    "question": "If you 'Bend over backwards', you are:?",
+    "options": [
+      "Doing gymnastics",
+      "Making an extreme effort to help or please someone",
+      "Looking for something on the floor",
+      "Being lazy"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It means to **try extremely hard to be helpful**. The origin is from **gymnastics**; just as bending your body backward is a difficult and unnatural physical feat, making a huge effort for someone else is seen as 'bending' your normal routine.",
+    "explanation_block_uid": "JMvdqQKnf",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "NPgdMku0M",
+    "question": "To 'Put your best foot forward' means:?",
+    "options": [
+      "To start walking quickly",
+      "To make the best possible impression",
+      "To wear expensive shoes",
+      "To trip and fall"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It means to **show your best qualities**. In **16th-century fashion**, men wore tight stockings, and having well-shaped legs was a sign of status. They would literally pose with their 'best' leg forward to impress others.",
+    "explanation_block_uid": "1po9_wZMf",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "aYENGAi0J",
+    "question": "The 'Big cheese' of an organization is:?",
+    "options": [
+      "A dairy farmer",
+      "A very important and influential person",
+      "Someone who tells jokes",
+      "A low-level employee"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It refers to a **V.I.P. or boss**. It actually comes from the **Urdu/Persian word 'chiz'** (meaning 'thing'). British colonialists in India heard people say something was a 'good chiz,' which eventually evolved into 'Big Cheese' in English.",
+    "explanation_block_uid": "IKkHwAn1t",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nGOah9toY",
+    "question": "When something is 'At a low ebb', it is:?",
+    "options": [
+      "Flowing quickly",
+      "At its weakest or worst point",
+      "Flooding",
+      "Very expensive"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It means to be in a **state of decline or low energy**. It comes from **ocean tides**; the 'ebb' is when the tide goes out. A 'low ebb' is the point when the water is at its lowest and most still.",
+    "explanation_block_uid": "RqOXwXqqk",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FxwzOt09h",
+    "question": "To be 'In the doldrums' means to feel:?",
+    "options": [
+      "Excited and energetic",
+      "Stagnant, sluggish, or depressed",
+      "Rich and successful",
+      "Cold and shivering"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It means to be **unproductive or in low spirits**. This is a **maritime term** for an area near the Equator where the wind often stops completely, leaving sailing ships stuck and unable to move for days.",
+    "explanation_block_uid": "gS34ClT70",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "zgCU125Sy",
+    "question": "What is 'A hair in the butter'?",
+    "options": [
+      "A tasty ingredient",
+      "A minor but annoying complication",
+      "A new hairstyle",
+      "A way to make food slippery"
+    ],
+    "correct_option_index": 1,
+    "explanation": "It means a **problem or complication** that makes a situation difficult. It is a **literal reference** to 18th-century home-made butter; finding a hair in it was a common but very irritating problem that spoiled the product.",
+    "explanation_block_uid": "sVQJ-H18j",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bgXVXAW5V",
+    "question": "What does the idiom 'To give the game away' mean?",
+    "options": [
+      "To play a game until the very end",
+      "To accidentally reveal a secret or a hidden plan",
+      "To give a gift to a friend",
+      "To lose a competition on purpose"
+    ],
+    "correct_option_index": 1,
+    "explanation": "This phrase originated from **hunting**, where making a noise would alert the 'game' (animals) and spoil the hunt. Today, it means to **carelessly reveal a secret** that spoils a surprise or an advantage.",
+    "explanation_block_uid": "cHTxJbjZd",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "B4u6kYuZr",
+    "question": "If someone says they don't 'Care a hang' about a situation, they are expressing:?",
+    "options": [
+      "Great anxiety",
+      "A desire to help",
+      "Total indifference or lack of concern",
+      "Extreme anger"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The term 'hang' was used as a **polite euphemism for 'damn'** or referred to something of **trivial value** (like a scrap of thread). To 'not care a hang' means you have **zero interest or concern**.",
+    "explanation_block_uid": "GB24cFpot",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Q58lOpXHe",
+    "question": "What is the meaning of the phrase 'To stick to one's guns'?",
+    "options": [
+      "To maintain one's position or belief despite opposition",
+      "To start a physical fight",
+      "To buy new equipment for a job",
+      "To change one's mind quickly"
+    ],
+    "correct_option_index": 0,
+    "explanation": "This has a **military origin**, referring to gun crews who were ordered to **stay at their posts** even under heavy fire. It now means to **refuse to compromise** on your principles or opinions.",
+    "explanation_block_uid": "7cZFT6W4H",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "KHZfTLrXE",
+    "question": "Which of the following best describes 'Penelope’s web'?",
+    "options": [
+      "A very successful business plan",
+      "An intricate trap set for an enemy",
+      "A task that is perpetually worked on but never finished",
+      "A beautiful piece of art"
+    ],
+    "correct_option_index": 2,
+    "explanation": "From Homer's Odyssey, Penelope delayed suitors by weaving a shroud during the day and **unravelling it at night**. It represents a **purposefully endless task** used to **buy time or avoid an outcome**.",
+    "explanation_block_uid": "AVeB8jAH8",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "tz_FptG93",
+    "question": "A person who is a 'Dead ringer' for someone else is:?",
+    "options": [
+      "A professional bell ringer",
+      "An exact or striking physical likeness",
+      "A person who is late for an appointment",
+      "A dangerous rival"
+    ],
+    "correct_option_index": 1,
+    "explanation": "In 19th-century horse racing, a 'ringer' was a fast horse **substituted deceptively** for a slower one. 'Dead' means **exact or absolute**, so the phrase describes an **identical lookalike**.",
+    "explanation_block_uid": "-47dx6k_o",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "e0BnRkzxo",
+    "question": "What does it mean to 'Eat humble pie'?",
+    "options": [
+      "To enjoy a modest meal",
+      "To admit you were wrong and accept humiliation",
+      "To celebrate a small victory",
+      "To give food to the poor"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The phrase is a pun on 'umble pie,' made from the **leftover innards (umbles)** of a deer given to servants. It means to **swallow your pride** and apologize after being **proven wrong**.",
+    "explanation_block_uid": "qdqcGmxDQ",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "C7kfLM5dC",
+    "question": "What does the expression 'A feather in your cap' signify?",
+    "options": [
+      "A sign of foolishness",
+      "A significant achievement or honor",
+      "A need for a new wardrobe",
+      "A lucky coincidence"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Many ancient cultures added a feather to their headgear as a **visual trophy** for a brave deed in battle. Today, it represents a **notable success** that adds to your **reputation**.",
+    "explanation_block_uid": "ZJpFTHo3y",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "nl2d1Td2g",
+    "question": "If someone 'Flies off the handle', they:?",
+    "options": [
+      "Suddenly lose their temper",
+      "Travel to a new destination",
+      "Complete a task very quickly",
+      "Escape from a difficult situation"
+    ],
+    "correct_option_index": 0,
+    "explanation": "This refers to an **axe head** that becomes loose and **snaps off the wooden handle** while being swung. It describes a person who **unexpectedly loses self-control** and becomes angry.",
+    "explanation_block_uid": "kUP7GRZIt",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "0lDGoUMFK",
+    "question": "What does it mean if an individual or group is 'In the ascendant'?",
+    "options": [
+      "They are losing their wealth",
+      "They are traveling to a high-altitude region",
+      "They are rising in power or influence",
+      "They are hiding from the public eye"
+    ],
+    "correct_option_index": 2,
+    "explanation": "In astrology, the 'ascendant' is the sign **rising over the horizon**. When something is in the ascendant, it is **moving toward its peak** and gaining **prominence**.",
+    "explanation_block_uid": "6y4dbrp3j",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HbaJ779yu",
+    "question": "To 'Appeal to Caesar' means to:?",
+    "options": [
+      "Study ancient Roman history",
+      "Ask a friend for advice",
+      "Refer a case to the highest possible authority",
+      "Surrender to an enemy"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Based on the Roman legal right of 'provocatio,' citizens could bypass local judges to have their **case heard by the Emperor**. It means **going to the very top** for a final decision.",
+    "explanation_block_uid": "cxI_W91-I",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "UHSDtHQ1i",
+    "question": "What is the meaning of the phrase 'Bob’s your uncle'?",
+    "options": [
+      "A way to introduce a family member",
+      "An expression used to say 'And there you have it' or 'It's simple'",
+      "A warning that someone is watching you",
+      "A phrase used to ask for a favor"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Likely originating from **political nepotism** involving PM Robert Cecil, it evolved to mean a result is **easily achieved**. It is used to conclude a set of instructions to show **how simple the task is**.",
+    "explanation_block_uid": "1nG9LnmSY",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bhnZ48efR",
+    "question": "What happens when you 'Burn your bridges'?",
+    "options": [
+      "You make it impossible to return to a previous state",
+      "You clear a path for others to follow",
+      "You start a fire by accident",
+      "You build a new connection"
+    ],
+    "correct_option_index": 0,
+    "explanation": "Generals would literally **burn bridges** after crossing a river to **prevent retreat**. In life, it means destroying a relationship or path so completely that you **can never go back**.",
+    "explanation_block_uid": "aUqmiUALG",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "w9BmQsxla",
+    "question": "Someone who 'Calls the shots' is the person who:?",
+    "options": [
+      "Is learning a new skill",
+      "Is in control and makes the decisions",
+      "Takes photographs at an event",
+      "Follows instructions carefully"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Coming from **marksmanship or billiards**, where a skilled person 'calls' where their shot will land. It describes the person who **directs the action** and holds the **authority**.",
+    "explanation_block_uid": "vmKeMYl7a",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4EHU9qjAP",
+    "question": "In business, a 'Cash cow' is a product that:?",
+    "options": [
+      "Is very expensive to maintain",
+      "Is a brand new innovation",
+      "Generates steady profit with little investment",
+      "Fails to make any money"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Like a dairy cow that gives milk daily with just basic feeding, a 'cash cow' is a **mature, reliable product** that provides **constant profit** used to fund other projects.",
+    "explanation_block_uid": "lLJl4ZGuf",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "s3uSjHG5T",
+    "question": "If a person cannot 'Cut the mustard', they:?",
+    "options": [
+      "Are excellent at cooking",
+      "Fail to meet the required standard",
+      "Are very fast at manual labor",
+      "Have a very sharp mind"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Originating from the **sharpness of mustard** or the **difficulty of harvesting** the thick plant, it means to be **good enough**. Failing to cut it means you **lack the necessary quality or skill**.",
+    "explanation_block_uid": "q_VkUV-Uj",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PTLNDxxW6",
+    "question": "What is a 'Yellow-belly'?",
+    "options": [
+      "A brave warrior",
+      "A person who is sick with a fever",
+      "A coward or someone who lacks courage",
+      "A type of rare tropical bird"
+    ],
+    "correct_option_index": 2,
+    "explanation": "This term, common in **Old Westerns**, compares a fearful person to animals with **yellow undersides** that retreat easily. It is a derogatory way to call someone a **coward**.",
+    "explanation_block_uid": "kTc3WZXFM",
+    "tags": [
+      "Idioms",
+      "SSC CGL",
+      "pyq",
+      "MCQs",
+      "English",
+      "Vocabulary"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "English",
+      "Vocabulary",
+      "Idioms",
+      "SSC CGL",
+      "pyq"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "cXBa-YpdG",
     "question": "He is addicted ______ gambling. ??",
     "options": [
@@ -149685,7 +150976,7 @@
       "7",
       "2"
     ],
-    "correct_option_index": 1,
+    "correct_option_index": 0,
     "explanation": "The value of * is 4.\n\nA number is divisible by 9 if the sum of its digits is divisible by 9.\n\nDigits: 9 + 7 + 8 + 5 + * + 0 + 3 = 32 + *\n\n32 + * must be divisible by 9.\n\nThe smallest multiple of 9 greater than 32 is 36.\n\nSo 32 + * = 36  \n* = 4",
     "explanation_block_uid": "63-FitDVp",
     "tags": [
@@ -192565,6 +193856,731 @@
     "path_tags": [
       "pyq",
       "Reasoning"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "f2n1OjPzi",
+    "question": "Which part of the human brain is responsible for maintaining posture, equilibrium, and muscle tone?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla Oblongata",
+      "Hypothalamus"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Cerebellum**, often called the 'little brain', is located at the back of the skull. Its primary function is to coordinate **voluntary movements**, maintain **posture**, and manage **balance and equilibrium**.",
+    "explanation_block_uid": "ZxvZM38yv",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "EvIY7YmQo",
+    "question": "Which of the following enzymes is present in human saliva to initiate the digestion of carbohydrates?",
+    "options": [
+      "Pepsin",
+      "Trypsin",
+      "Salivary Amylase",
+      "Lipase"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Saliva contains **Salivary Amylase** (also known as ptyalin). It breaks down **starch** into simpler sugars like **maltose** and dextrin. This process marks the beginning of chemical digestion in the mouth.",
+    "explanation_block_uid": "R7IHKJOPK",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jUAkcy1Ih",
+    "question": "In the human body, which organ is often referred to as the 'Graveyard of RBCs'?",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Spleen",
+      "Kidney"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Spleen** acts as a filter for blood. Old and damaged **Red Blood Cells (RBCs)** are broken down here by macrophages. The iron from these cells is recycled, while the rest is processed as waste.",
+    "explanation_block_uid": "tAt8SeX29",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FtXTgl3Vh",
+    "question": "Which hormone is known as the 'Emergency Hormone' or 'Fight-or-Flight' hormone?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine",
+      "Oxytocin"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Adrenaline** (Epinephrine) is secreted by the **Adrenal glands** during stressful or dangerous situations. It increases **heart rate**, blood pressure, and energy supplies to prepare the body for immediate action.",
+    "explanation_block_uid": "rBSq4LHkO",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "n17ANaF5X",
+    "question": "What is the total number of bones in an adult human body?",
+    "options": [
+      "206",
+      "300",
+      "270",
+      "212"
+    ],
+    "correct_option_index": 0,
+    "explanation": "An adult human has **206 bones**. Note that infants are born with around **270 to 300 bones**, many of which fuse together as the body grows and develops.",
+    "explanation_block_uid": "mSb4-vJTq",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "z9hijxPQF",
+    "question": "Which blood group is known as the 'Universal Donor'?",
+    "options": [
+      "AB positive",
+      "O negative",
+      "A positive",
+      "B negative"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**O negative (O-)** is the universal donor because it lacks **A, B, and Rh antigens** on the surface of the red blood cells, meaning it will not trigger an immune response in any recipient.",
+    "explanation_block_uid": "oBpwSzuhs",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "WQ8fbhTQY",
+    "question": "The deficiency of which vitamin causes the disease known as Scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Vitamin C** (Ascorbic acid) is essential for the synthesis of **collagen**. Deficiency leads to **Scurvy**, characterized by bleeding gums, skin spots, and slow wound healing.",
+    "explanation_block_uid": "lFoho5WZc",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "oqpgwV8aB",
+    "question": "Which pigment gives the human skin and hair its color?",
+    "options": [
+      "Hemoglobin",
+      "Melanin",
+      "Chlorophyll",
+      "Bilirubin"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Melanin** is produced by cells called **melanocytes** in the skin. It protects the skin from harmful **ultraviolet (UV) radiation**; more melanin results in darker skin/hair color.",
+    "explanation_block_uid": "iQOcvbSbZ",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "kPou2wXRE",
+    "question": "What is the basic functional and structural unit of the human kidney?",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveoli",
+      "Aorta"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Nephron** is the functional unit of the kidney. Each kidney contains about a million nephrons that **filter blood**, remove wastes, and reabsorb necessary substances.",
+    "explanation_block_uid": "ib6KqTwvK",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MppEp2yfm",
+    "question": "Which gland in the human body is both an exocrine and an endocrine gland?",
+    "options": [
+      "Thyroid",
+      "Pancreas",
+      "Pituitary",
+      "Adrenal"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Pancreas** is a heterocrine gland. Its **endocrine** part secretes hormones like insulin/glucagon, while its **exocrine** part produces digestive enzymes that travel through ducts.",
+    "explanation_block_uid": "pcxl5tA53",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "26i0Trf8D",
+    "question": "Normal blood pressure in a healthy human adult is generally considered to be:?",
+    "options": [
+      "100/60 mmHg",
+      "140/90 mmHg",
+      "120/80 mmHg",
+      "150/100 mmHg"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Normal blood pressure is **120/80 mmHg**. The higher number (120) represents **systolic pressure** (heart contracting), and the lower (80) represents **diastolic pressure** (heart relaxing).",
+    "explanation_block_uid": "ha11Ny7iL",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XFwbZJ6AV",
+    "question": "Which metal is present in the Hemoglobin molecule?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Magnesium",
+      "Zinc"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Iron** is the central metal ion in **Hemoglobin**. It is responsible for binding with **oxygen** molecules in the lungs and transporting them to tissues throughout the body.",
+    "explanation_block_uid": "IfyfK2rsP",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PlNkHWySy",
+    "question": "What is the pH value of healthy human blood?",
+    "options": [
+      "6.2",
+      "7.4",
+      "8.5",
+      "5.5"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Human blood is **slightly alkaline**, with a normal pH range of **7.35 to 7.45**. Maintaining this narrow range is critical for survival and enzyme function.",
+    "explanation_block_uid": "Wizfj2AD2",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4C25brSXI",
+    "question": "Which of the following is the longest bone in the human body?",
+    "options": [
+      "Tibia",
+      "Humerus",
+      "Femur",
+      "Stapes"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Femur**, or thigh bone, is the longest, strongest, and heaviest bone in the human body. It supports the weight of the body during walking or jumping.",
+    "explanation_block_uid": "VfrAKDQDy",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "LpqxRVD6q",
+    "question": "Bile is produced by which organ and stored in which organ?",
+    "options": [
+      "Produced by Gallbladder, stored in Liver",
+      "Produced by Liver, stored in Gallbladder",
+      "Produced by Pancreas, stored in Liver",
+      "Produced by Liver, stored in Pancreas"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Bile** is produced by the **Liver** and stored in the **Gallbladder**. It is released into the small intestine to aid in the **emulsification and digestion of fats**.",
+    "explanation_block_uid": "pyFxEgvvq",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "t6nTDFHAq",
+    "question": "Which part of the eye is responsible for regulating the amount of light entering it?",
+    "options": [
+      "Retina",
+      "Cornea",
+      "Iris",
+      "Lens"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Iris** is the colored part of the eye that controls the size of the **pupil**. By constricting or dilating, it regulates how much light reaches the retina.",
+    "explanation_block_uid": "1rFDyqTQk",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4bkAZ5mU_",
+    "question": "What is the main site of gas exchange in the human lungs?",
+    "options": [
+      "Bronchi",
+      "Trachea",
+      "Alveoli",
+      "Pharynx"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Alveoli** are tiny air sacs at the end of the bronchioles. This is where **Oxygen** enters the blood and **Carbon Dioxide** leaves it through the process of diffusion.",
+    "explanation_block_uid": "tcN4JXzNK",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mIPnR3QSc",
+    "question": "Which vitamin is synthesized in the human body when exposed to sunlight?",
+    "options": [
+      "Vitamin B",
+      "Vitamin K",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Vitamin D** is synthesized in the skin when it is exposed to **Ultraviolet B (UVB)** rays from the sun. It is essential for **calcium absorption** and bone health.",
+    "explanation_block_uid": "WPIsozfXW",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2qaIfYRhi",
+    "question": "The 'Master Gland' of the human body, which controls other endocrine glands, is the:?",
+    "options": [
+      "Thyroid Gland",
+      "Pituitary Gland",
+      "Adrenal Gland",
+      "Pineal Gland"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Pituitary Gland** is called the **Master Gland** because it produces hormones that regulate the functions of other glands, such as the thyroid, adrenals, and reproductive glands.",
+    "explanation_block_uid": "2mtcx0wum",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7gJmdTgIM",
+    "question": "How many chambers does the human heart have?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The human heart has **four chambers**: two upper chambers called **Atria** and two lower chambers called **Ventricles**. This ensures complete separation of oxygenated and deoxygenated blood.",
+    "explanation_block_uid": "FAcmGKzRG",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HNvpCITOT",
+    "question": "Which element is essential for the proper functioning of the Thyroid gland?",
+    "options": [
+      "Iodine",
+      "Iron",
+      "Calcium",
+      "Phosphorus"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Iodine** is used by the Thyroid gland to produce hormones like **Thyroxine (T4)**. Deficiency of iodine can lead to an enlarged thyroid, a condition known as **Goitre**.",
+    "explanation_block_uid": "L_GVcb5ei",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FWv1TcafK",
+    "question": "What is the average life span of a Red Blood Cell (RBC)?",
+    "options": [
+      "60 days",
+      "120 days",
+      "180 days",
+      "240 days"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The average lifespan of an **RBC** is approximately **120 days**. After this period, they become fragile and are removed from circulation by the spleen and liver.",
+    "explanation_block_uid": "RS9m_TuzF",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Mg-xz7Ky-",
+    "question": "Which acid is naturally secreted in the human stomach to aid digestion?",
+    "options": [
+      "Sulphuric Acid",
+      "Hydrochloric Acid",
+      "Nitric Acid",
+      "Acetic Acid"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Hydrochloric Acid (HCl)** is secreted by the parietal cells in the stomach. It provides an **acidic pH** necessary for the enzyme pepsin to work and helps kill ingested bacteria.",
+    "explanation_block_uid": "3hnAGIRPr",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "9jyCaWyx-",
+    "question": "The smallest bone in the human body is found in the:?",
+    "options": [
+      "Nose",
+      "Ear",
+      "Finger",
+      "Toe"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Stapes** (or stirrup) is the smallest bone in the human body. It is located in the **middle ear** and is vital for transmitting sound vibrations.",
+    "explanation_block_uid": "85x0D3djy",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "wQC3iQ2Vd",
+    "question": "Which of the following carries oxygenated blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary Artery",
+      "Pulmonary Vein",
+      "Aorta",
+      "Vena Cava"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Pulmonary Vein** is unique because, unlike other veins, it carries **oxygenated blood**. It transports blood from the lungs back to the **left atrium** of the heart.",
+    "explanation_block_uid": "BfQHKNmjJ",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
     ],
     "isPassageBased": false
   },
