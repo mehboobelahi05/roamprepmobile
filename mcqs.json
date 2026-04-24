@@ -1,5 +1,680 @@
 [
   {
+    "id": "vv3YDuwtG",
+    "question": "Which Article of the Indian Constitution was amended by the 106th Amendment Act to provide 1/3rd reservation for women?",
+    "options": [
+      "Article 239AA",
+      "Article 330A",
+      "Article 332A",
+      "All of the above"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The **106th Amendment Act (Nari Shakti Vandan Adhiniyam)** introduced/amended multiple articles to provide women's reservation. It amended **Article 239AA** (Delhi Assembly) and inserted **Article 330A** (Lok Sabha) and **Article 332A** (State Legislative Assemblies) to ensure 33% seats are reserved for women.",
+    "explanation_block_uid": "1cxx4alM_",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "9L6rLfXsa",
+    "question": "Under the Indus Waters Treaty (1960), India has unrestricted rights over which set of rivers?",
+    "options": [
+      "Indus, Jhelum, Chenab",
+      "Ravi, Beas, Satluj",
+      "Jhelum, Chenab, Ravi",
+      "Indus, Beas, Satluj"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Under the Indus Waters Treaty, the waters of the three **Eastern Rivers (Ravi, Beas, and Satluj)** are allocated to India for unrestricted use, while the **Western Rivers (Indus, Jhelum, and Chenab)** are allocated largely to Pakistan.",
+    "explanation_block_uid": "FcfInregx",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "bCheyBLgC",
+    "question": "What is the name of the world’s longest expressway tunnel recently opened by China in the Xinjiang Uygur Autonomous Region?",
+    "options": [
+      "Karakoram Mega Tunnel",
+      "Pamir Victory Tunnel",
+      "Tianshan Shengli Tunnel",
+      "Silk Route Express Tunnel"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Tianshan Shengli Tunnel** is a crucial part of the Urumqi-Yuli Expressway. It is recognized as the **world's longest expressway tunnel**, cutting through the Tianshan mountain range to significantly reduce travel time.",
+    "explanation_block_uid": "UnCYf6Zyj",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "d85Dfq-ku",
+    "question": "By which year does Indian Railways plan to double originating train capacity in 48 major cities?",
+    "options": [
+      "2027",
+      "2028",
+      "2030",
+      "2035"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Under the **National Rail Plan**, Indian Railways aims to increase the capacity and infrastructure to meet the growing demand, with a specific target to double the originating train capacity in major hubs by **2030**.",
+    "explanation_block_uid": "ElmEpUwR0",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "d-8dauDYB",
+    "question": "Which of the following Harappan sites is known for a unique water harnessing system and storm-water drainage?",
+    "options": [
+      "Lothal",
+      "Dholavira",
+      "Kalibangan",
+      "Banawali"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Dholavira**, located in Gujarat, is famous for its sophisticated **water management system**, including a series of reservoirs, step-wells, and advanced storm-water drainage channels, which was unique among Indus Valley sites.",
+    "explanation_block_uid": "UvAWmY8Dt",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Np0Lqt3uE",
+    "question": "The PM-PRANAM scheme aims to:?",
+    "options": [
+      "Promer religious tourism",
+      "Reduce the use of chemical fertilizers by promoting alternatives",
+      "Provide pension to small shopkeepers",
+      "Digitalize land records"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**PM-PRANAM** (Programme for Restoration, Awareness, Nourishment and Amelioration of Mother Earth) aims to **reduce the subsidy burden on chemical fertilizers** by encouraging states to adopt alternative fertilizers and organic farming.",
+    "explanation_block_uid": "-Q9Rlgm0m",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2vfZSoNHL",
+    "question": "The Battle of Wandiwash (1760) was fought between:?",
+    "options": [
+      "British and French",
+      "British and Marathas",
+      "French and Dutch",
+      "British and Tipu Sultan"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The **Battle of Wandiwash** was a decisive battle in India during the Third Carnatic War. The **British forces (led by Eyre Coote)** defeated the **French (led by Comte de Lally)**, effectively ending French colonial ambitions in India.",
+    "explanation_block_uid": "ndo2T_X8I",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XyTaRvPEj",
+    "question": "In Quantum Computing, the basic unit of information that can exist in multiple states simultaneously is called:?",
+    "options": [
+      "Bit",
+      "Qubit",
+      "Logic Gate",
+      "Transistor"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Qubit** (quantum bit) is the basic unit of quantum information. Unlike a classical bit which is either 0 or 1, a qubit can exist in a **superposition** of both states simultaneously.",
+    "explanation_block_uid": "Fm2rqae1v",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "_Xy9Mru1s",
+    "question": "Under the Bharatiya Nyaya Sanhita (BNS), the crime of ‘Sedition’ has been replaced by:?",
+    "options": [
+      "Section 150 (Acts endangering sovereignty, unity and integrity of India)",
+      "Section 302",
+      "Section 377",
+      "Section 420"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The BNS has repealed the old Sedition law (Section 124A of IPC) and replaced it with **Section 150**, which penalizes **acts endangering the sovereignty, unity, and integrity of India**, removing the term 'sedition' but broadening the scope of related offenses.",
+    "explanation_block_uid": "XxG-f9vDT",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "1XI2wJexK",
+    "question": "The ‘Curzon Line’ is the boundary between:?",
+    "options": [
+      "India and Pakistan",
+      "Poland and Russia",
+      "North and South Korea",
+      "USA and Canada"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Curzon Line** was proposed in 1919 as a demarcation line between the **Second Polish Republic and the Russian Soviet Federative Socialist Republic**. It remains historically significant in Eastern European geopolitics.",
+    "explanation_block_uid": "PiumMv6g4",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "O8u2gXd0W",
+    "question": "Armenia has unveiled a butterfly-based logo for COP17 featuring which endemic species?",
+    "options": [
+      "Monarch Butterfly",
+      "Apollo Butterfly",
+      "Erivan Anomalous Blue",
+      "Swallowtail Butterfly"
+    ],
+    "correct_option_index": 2,
+    "explanation": "For the COP17 on Biodiversity, Armenia highlighted the **Erivan Anomalous Blue** (Polyommatus eriwanensis), a butterfly species **endemic to the Armenian highlands**, to symbolize biodiversity conservation.",
+    "explanation_block_uid": "yyNJYbvbS",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4WuCon34b",
+    "question": "Who was the first Viceroy of India?",
+    "options": [
+      "Lord Warren Hastings",
+      "Lord Canning",
+      "Lord Mountbatten",
+      "Lord Dalhousie"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Following the Government of India Act 1858, the designation of Governor-General was changed to Viceroy. **Lord Canning** became the **first Viceroy of India**, serving during the transition from Company rule to the British Crown.",
+    "explanation_block_uid": "SC7xWskJU",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2RD5b5UF0",
+    "question": "Mitochondria are known as the powerhouse of the cell because they produce:?",
+    "options": [
+      "DNA",
+      "ATP",
+      "RNA",
+      "Glucose"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Mitochondria perform cellular respiration to convert nutrients into **ATP (Adenosine Triphosphate)**, which is the primary **energy currency** used by cells for various biological processes.",
+    "explanation_block_uid": "mM92TRrEw",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "QwoMcAp2U",
+    "question": "The Pitt’s India Act of 1784 was significant because it:?",
+    "options": [
+      "Established the Supreme Court in Calcutta.",
+      "Distinguished between the commercial and political functions of the Company.",
+      "Ended the Company's monopoly over tea trade.",
+      "Introduced the Portfolio system."
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Pitt's India Act of 1784** established a system of **dual government**. It distinguished the East India Company's commercial activities from its political affairs and created the **Board of Control** to manage political matters.",
+    "explanation_block_uid": "lwML6bIHl",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "RSZ6e-ab2",
+    "question": "The ‘Ramsar Convention’ is related to the conservation of:?",
+    "options": [
+      "Tigers",
+      "Wetlands",
+      "Coral reefs",
+      "Elephants"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Ramsar Convention** is an international treaty signed in 1971 in Ramsar, Iran, for the **conservation and sustainable use of wetlands**, recognizing their fundamental ecological importance.",
+    "explanation_block_uid": "Krb9Nu4uz",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "UY-hOik-S",
+    "question": "Who is the author of the famous book “Hind Swaraj”?",
+    "options": [
+      "Bal Gangadhar Tilak",
+      "Mahatma Gandhi",
+      "Jawaharlal Nehru",
+      "Sardar Patel"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Mahatma Gandhi** wrote **Hind Swaraj** (Indian Home Rule) in 1909. In the book, he expresses his views on Swaraj, modern civilization, and mechanization while advocating for non-violent resistance.",
+    "explanation_block_uid": "4nmSzfbep",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "iEsEBcIVG",
+    "question": "Which instrument is used to measure atmospheric pressure?",
+    "options": [
+      "Hygrometer",
+      "Barometer",
+      "Ammeter",
+      "Altimeter"
+    ],
+    "correct_option_index": 1,
+    "explanation": "A **Barometer** is a scientific instrument used to measure **atmospheric pressure**. Changes in pressure measured by barometers are often used in weather forecasting to predict short-term changes.",
+    "explanation_block_uid": "iNspznBxQ",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "exBPnDJFk",
+    "question": "Which gland is often referred to as the ‘Master Gland’ of the human body?",
+    "options": [
+      "Thyroid",
+      "Adrenal",
+      "Pituitary",
+      "Pancreas"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Pituitary gland** is called the **Master Gland** because it produces hormones that control many other endocrine glands, including the thyroid, adrenals, and reproductive glands.",
+    "explanation_block_uid": "ocLMSCcn8",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "rBNnLWxOh",
+    "question": "Which type of volcanic eruption is characterized by the most explosive activity and high-viscosity lava?",
+    "options": [
+      "Hawaiian",
+      "Strombolian",
+      "Plinian",
+      "Icelandic"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Plinian eruptions** are the **most explosive and violent** types of volcanic eruptions. They involve high-viscosity (thick) gas-rich magma that creates massive columns of ash and volcanic gas reaching high into the stratosphere.",
+    "explanation_block_uid": "5AbmIp0GY",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mzx5_KpT-",
+    "question": "The process of ‘Nitrification’ in the nitrogen cycle involves:?",
+    "options": [
+      "Conversion of nitrogen gas to ammonia",
+      "Conversion of ammonia to nitrites and then nitrates",
+      "Release of nitrogen back into the atmosphere",
+      "Absorption of nitrogen by animals"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Nitrification** is a two-step biological process where specialized bacteria convert **ammonia into nitrites (NO2-)** and then into **nitrates (NO3-)**, making nitrogen available for plant uptake.",
+    "explanation_block_uid": "WK-J-z1kn",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mltQCFNC1",
+    "question": "Assertion (A): In the Demographic Transition Model, India is currently in the late third stage. Reason (R): Birth rates are falling significantly while death rates have already stabilized at a low level.?",
+    "options": [
+      "Both A and R are true, and R is the correct explanation of A.",
+      "Both A and R are true, but R is not the correct explanation of A.",
+      "A is true, but R is false.",
+      "A is false, but R is true."
+    ],
+    "correct_option_index": 0,
+    "explanation": "India is in the **late 3rd stage** of the Demographic Transition Model. The characteristic of this stage is a **significant decline in birth rates** due to increased access to contraception and education, while death rates remain low and stable.",
+    "explanation_block_uid": "D-q2geVjL",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "UQsmPIFPR",
+    "question": "The value of ‘g’ (acceleration due to gravity) is minimum at:?",
+    "options": [
+      "The Equator",
+      "The North Pole",
+      "The South Pole",
+      "The center of the Earth"
+    ],
+    "correct_option_index": 3,
+    "explanation": "The value of **'g' is zero at the center of the Earth**, making it the minimum value. Among the surface locations, it is lower at the **Equator** than at the Poles due to the Earth's centrifugal force and its oblate spheroid shape.",
+    "explanation_block_uid": "4EWxnRIKm",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "iglNJbtNt",
+    "question": "Which river is known as the “Sorrow of Bihar”?",
+    "options": [
+      "Gandak",
+      "Kosi",
+      "Son",
+      "Ghaghara"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Kosi River** is known as the **Sorrow of Bihar** because it frequently changes its course and causes devastating floods in the plains of Bihar during the monsoon season.",
+    "explanation_block_uid": "ZvjByFTM-",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "VXen7P4Bd",
+    "question": "Which layer of the atmosphere contains Ozone Layer?",
+    "options": [
+      "Troposphere",
+      "Stratosphere",
+      "Mesosphere",
+      "Thermosphere"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Stratosphere** contains the **Ozone Layer**, which absorbs the majority of the Sun's harmful ultraviolet (UV) radiation, protecting life on Earth.",
+    "explanation_block_uid": "XKGfNP1U6",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "at9vsVNUv",
+    "question": "The Eighth Schedule of the Indian Constitution originally contained how many languages?",
+    "options": [
+      "14",
+      "18",
+      "22",
+      "15"
+    ],
+    "correct_option_index": 0,
+    "explanation": "The **Eighth Schedule** originally listed **14 languages**. Through various amendments (21st, 71st, and 92nd), the number has increased to the current total of **22 official languages**.",
+    "explanation_block_uid": "GEsWzTtT_",
+    "tags": [
+      "pyq",
+      "SSC CGL",
+      "General Studies",
+      "MCQs"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "pyq",
+      "SSC CGL"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "5Uldf-_71",
     "question": "Day and Nights are caused by 1. rotation of the earth on its axis 2. revolution of the earth around the sun 3. inclination of earth's axis?",
     "options": [
@@ -184,9 +859,10 @@
       "Al-Biruni"
     ],
     "correct_option_index": 1,
-    "explanation": "**Amir Khusrau**, known as the 'Parrot of India,' wrote the **Tughlaq Nama** (Book of the Tughlaqs). It is a historic poetic work that chronicles the rise of **Ghiyas-ud-din Tughlaq** and his victory over Khusrau Khan to establish the Tughlaq dynasty in the early 14th century.",
+    "explanation": "The correct answer is ✅ Amir Khusrau. \n\nAmir Khusrau wrote the Tughlaq Nama (or Tughluq Nama) in 1320.\nIt is a historical masnavi (narrative poem) that chronicles the rise of Ghiyasuddin Tughlaq, the founder of the Tughlaq dynasty, and his victory over Khusrau Khan.\nAmir Khusrau was a prolific poet and scholar of the Delhi Sultanate, often called the \"Parrot of India\" (Tuti-e-Hind). \n\nWhy other options are incorrect:\n**Ziauddin Barani: **\nHe is the famous author of Tarikh-i-Firoz Shahi and Fatwa-i-Jahandari, which provide detailed political histories of the Tughlaq era, but he did not write the Tughlaq Nama. \n\n**Ibn Battuta: **\nA Moroccan traveler who visited India during the reign of Muhammad bin Tughlaq and wrote the Rihla (The Travels), a detailed account of his journeys. \n\n**Al-Biruni: **\nA Persian polymath who accompanied Mahmud of Ghazni to India and wrote the Kitab-ul-Hind (Tahqiq-i-Hind), a comprehensive study of Indian culture and science.",
     "explanation_block_uid": "sgreHJN-h",
     "tags": [
+      "explained",
       "General Studies",
       "MCQs"
     ],
@@ -207,9 +883,12 @@
       "Turkmenistan"
     ],
     "correct_option_index": 0,
-    "explanation": "Iran shares borders with Armenia, Azerbaijan, and Turkmenistan to the north. However, **Georgia** does not border Iran; it is located further northwest, separated from Iran by **Armenia and Azerbaijan**. Historically, borders in the Caucasus have shifted, but in the modern era, there is no direct land connection.",
+    "explanation": "Iran shares borders with Armenia, Azerbaijan, and Turkmenistan to the north. \nHowever, **Georgia** does not border Iran; it is located further northwest, separated from Iran by **Armenia and Azerbaijan**. \nHistorically, borders in the Caucasus have shifted, but in the modern era, there is no direct land connection between Georgia and Iran\n![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Froamprepmobile%2F3cQ6oAc6nP.png?alt=media&token=5463f21e-2245-405d-b991-3cc305aae72b)",
     "explanation_block_uid": "scb510TYJ",
     "tags": [
+      "border",
+      "World Geography",
+      "West Asia",
       "General Studies",
       "MCQs"
     ],
@@ -146263,6 +146942,731 @@
     "isPassageBased": false
   },
   {
+    "id": "f2n1OjPzi",
+    "question": "Which part of the human brain is responsible for maintaining posture, equilibrium, and muscle tone?",
+    "options": [
+      "Cerebrum",
+      "Cerebellum",
+      "Medulla Oblongata",
+      "Hypothalamus"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Cerebellum**, often called the 'little brain', is located at the back of the skull. Its primary function is to coordinate **voluntary movements**, maintain **posture**, and manage **balance and equilibrium**.",
+    "explanation_block_uid": "ZxvZM38yv",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "EvIY7YmQo",
+    "question": "Which of the following enzymes is present in human saliva to initiate the digestion of carbohydrates?",
+    "options": [
+      "Pepsin",
+      "Trypsin",
+      "Salivary Amylase",
+      "Lipase"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Saliva contains **Salivary Amylase** (also known as ptyalin). It breaks down **starch** into simpler sugars like **maltose** and dextrin. This process marks the beginning of chemical digestion in the mouth.",
+    "explanation_block_uid": "R7IHKJOPK",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "jUAkcy1Ih",
+    "question": "In the human body, which organ is often referred to as the 'Graveyard of RBCs'?",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Spleen",
+      "Kidney"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Spleen** acts as a filter for blood. Old and damaged **Red Blood Cells (RBCs)** are broken down here by macrophages. The iron from these cells is recycled, while the rest is processed as waste.",
+    "explanation_block_uid": "tAt8SeX29",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FtXTgl3Vh",
+    "question": "Which hormone is known as the 'Emergency Hormone' or 'Fight-or-Flight' hormone?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Thyroxine",
+      "Oxytocin"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Adrenaline** (Epinephrine) is secreted by the **Adrenal glands** during stressful or dangerous situations. It increases **heart rate**, blood pressure, and energy supplies to prepare the body for immediate action.",
+    "explanation_block_uid": "rBSq4LHkO",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "n17ANaF5X",
+    "question": "What is the total number of bones in an adult human body?",
+    "options": [
+      "206",
+      "300",
+      "270",
+      "212"
+    ],
+    "correct_option_index": 0,
+    "explanation": "An adult human has **206 bones**. Note that infants are born with around **270 to 300 bones**, many of which fuse together as the body grows and develops.",
+    "explanation_block_uid": "mSb4-vJTq",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "z9hijxPQF",
+    "question": "Which blood group is known as the 'Universal Donor'?",
+    "options": [
+      "AB positive",
+      "O negative",
+      "A positive",
+      "B negative"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**O negative (O-)** is the universal donor because it lacks **A, B, and Rh antigens** on the surface of the red blood cells, meaning it will not trigger an immune response in any recipient.",
+    "explanation_block_uid": "oBpwSzuhs",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "WQ8fbhTQY",
+    "question": "The deficiency of which vitamin causes the disease known as Scurvy?",
+    "options": [
+      "Vitamin A",
+      "Vitamin B12",
+      "Vitamin C",
+      "Vitamin D"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Vitamin C** (Ascorbic acid) is essential for the synthesis of **collagen**. Deficiency leads to **Scurvy**, characterized by bleeding gums, skin spots, and slow wound healing.",
+    "explanation_block_uid": "lFoho5WZc",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "oqpgwV8aB",
+    "question": "Which pigment gives the human skin and hair its color?",
+    "options": [
+      "Hemoglobin",
+      "Melanin",
+      "Chlorophyll",
+      "Bilirubin"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Melanin** is produced by cells called **melanocytes** in the skin. It protects the skin from harmful **ultraviolet (UV) radiation**; more melanin results in darker skin/hair color.",
+    "explanation_block_uid": "iQOcvbSbZ",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "kPou2wXRE",
+    "question": "What is the basic functional and structural unit of the human kidney?",
+    "options": [
+      "Neuron",
+      "Nephron",
+      "Alveoli",
+      "Aorta"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Nephron** is the functional unit of the kidney. Each kidney contains about a million nephrons that **filter blood**, remove wastes, and reabsorb necessary substances.",
+    "explanation_block_uid": "ib6KqTwvK",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "MppEp2yfm",
+    "question": "Which gland in the human body is both an exocrine and an endocrine gland?",
+    "options": [
+      "Thyroid",
+      "Pancreas",
+      "Pituitary",
+      "Adrenal"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Pancreas** is a heterocrine gland. Its **endocrine** part secretes hormones like insulin/glucagon, while its **exocrine** part produces digestive enzymes that travel through ducts.",
+    "explanation_block_uid": "pcxl5tA53",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "26i0Trf8D",
+    "question": "Normal blood pressure in a healthy human adult is generally considered to be:?",
+    "options": [
+      "100/60 mmHg",
+      "140/90 mmHg",
+      "120/80 mmHg",
+      "150/100 mmHg"
+    ],
+    "correct_option_index": 2,
+    "explanation": "Normal blood pressure is **120/80 mmHg**. The higher number (120) represents **systolic pressure** (heart contracting), and the lower (80) represents **diastolic pressure** (heart relaxing).",
+    "explanation_block_uid": "ha11Ny7iL",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "XFwbZJ6AV",
+    "question": "Which metal is present in the Hemoglobin molecule?",
+    "options": [
+      "Copper",
+      "Iron",
+      "Magnesium",
+      "Zinc"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Iron** is the central metal ion in **Hemoglobin**. It is responsible for binding with **oxygen** molecules in the lungs and transporting them to tissues throughout the body.",
+    "explanation_block_uid": "IfyfK2rsP",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "PlNkHWySy",
+    "question": "What is the pH value of healthy human blood?",
+    "options": [
+      "6.2",
+      "7.4",
+      "8.5",
+      "5.5"
+    ],
+    "correct_option_index": 1,
+    "explanation": "Human blood is **slightly alkaline**, with a normal pH range of **7.35 to 7.45**. Maintaining this narrow range is critical for survival and enzyme function.",
+    "explanation_block_uid": "Wizfj2AD2",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4C25brSXI",
+    "question": "Which of the following is the longest bone in the human body?",
+    "options": [
+      "Tibia",
+      "Humerus",
+      "Femur",
+      "Stapes"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Femur**, or thigh bone, is the longest, strongest, and heaviest bone in the human body. It supports the weight of the body during walking or jumping.",
+    "explanation_block_uid": "VfrAKDQDy",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "LpqxRVD6q",
+    "question": "Bile is produced by which organ and stored in which organ?",
+    "options": [
+      "Produced by Gallbladder, stored in Liver",
+      "Produced by Liver, stored in Gallbladder",
+      "Produced by Pancreas, stored in Liver",
+      "Produced by Liver, stored in Pancreas"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Bile** is produced by the **Liver** and stored in the **Gallbladder**. It is released into the small intestine to aid in the **emulsification and digestion of fats**.",
+    "explanation_block_uid": "pyFxEgvvq",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "t6nTDFHAq",
+    "question": "Which part of the eye is responsible for regulating the amount of light entering it?",
+    "options": [
+      "Retina",
+      "Cornea",
+      "Iris",
+      "Lens"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Iris** is the colored part of the eye that controls the size of the **pupil**. By constricting or dilating, it regulates how much light reaches the retina.",
+    "explanation_block_uid": "1rFDyqTQk",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "4bkAZ5mU_",
+    "question": "What is the main site of gas exchange in the human lungs?",
+    "options": [
+      "Bronchi",
+      "Trachea",
+      "Alveoli",
+      "Pharynx"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The **Alveoli** are tiny air sacs at the end of the bronchioles. This is where **Oxygen** enters the blood and **Carbon Dioxide** leaves it through the process of diffusion.",
+    "explanation_block_uid": "tcN4JXzNK",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "mIPnR3QSc",
+    "question": "Which vitamin is synthesized in the human body when exposed to sunlight?",
+    "options": [
+      "Vitamin B",
+      "Vitamin K",
+      "Vitamin D",
+      "Vitamin E"
+    ],
+    "correct_option_index": 2,
+    "explanation": "**Vitamin D** is synthesized in the skin when it is exposed to **Ultraviolet B (UVB)** rays from the sun. It is essential for **calcium absorption** and bone health.",
+    "explanation_block_uid": "WPIsozfXW",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "2qaIfYRhi",
+    "question": "The 'Master Gland' of the human body, which controls other endocrine glands, is the:?",
+    "options": [
+      "Thyroid Gland",
+      "Pituitary Gland",
+      "Adrenal Gland",
+      "Pineal Gland"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Pituitary Gland** is called the **Master Gland** because it produces hormones that regulate the functions of other glands, such as the thyroid, adrenals, and reproductive glands.",
+    "explanation_block_uid": "2mtcx0wum",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "7gJmdTgIM",
+    "question": "How many chambers does the human heart have?",
+    "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "correct_option_index": 2,
+    "explanation": "The human heart has **four chambers**: two upper chambers called **Atria** and two lower chambers called **Ventricles**. This ensures complete separation of oxygenated and deoxygenated blood.",
+    "explanation_block_uid": "FAcmGKzRG",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "HNvpCITOT",
+    "question": "Which element is essential for the proper functioning of the Thyroid gland?",
+    "options": [
+      "Iodine",
+      "Iron",
+      "Calcium",
+      "Phosphorus"
+    ],
+    "correct_option_index": 0,
+    "explanation": "**Iodine** is used by the Thyroid gland to produce hormones like **Thyroxine (T4)**. Deficiency of iodine can lead to an enlarged thyroid, a condition known as **Goitre**.",
+    "explanation_block_uid": "L_GVcb5ei",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "FWv1TcafK",
+    "question": "What is the average life span of a Red Blood Cell (RBC)?",
+    "options": [
+      "60 days",
+      "120 days",
+      "180 days",
+      "240 days"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The average lifespan of an **RBC** is approximately **120 days**. After this period, they become fragile and are removed from circulation by the spleen and liver.",
+    "explanation_block_uid": "RS9m_TuzF",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "Mg-xz7Ky-",
+    "question": "Which acid is naturally secreted in the human stomach to aid digestion?",
+    "options": [
+      "Sulphuric Acid",
+      "Hydrochloric Acid",
+      "Nitric Acid",
+      "Acetic Acid"
+    ],
+    "correct_option_index": 1,
+    "explanation": "**Hydrochloric Acid (HCl)** is secreted by the parietal cells in the stomach. It provides an **acidic pH** necessary for the enzyme pepsin to work and helps kill ingested bacteria.",
+    "explanation_block_uid": "3hnAGIRPr",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "9jyCaWyx-",
+    "question": "The smallest bone in the human body is found in the:?",
+    "options": [
+      "Nose",
+      "Ear",
+      "Finger",
+      "Toe"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Stapes** (or stirrup) is the smallest bone in the human body. It is located in the **middle ear** and is vital for transmitting sound vibrations.",
+    "explanation_block_uid": "85x0D3djy",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
+    "id": "wQC3iQ2Vd",
+    "question": "Which of the following carries oxygenated blood from the lungs to the heart?",
+    "options": [
+      "Pulmonary Artery",
+      "Pulmonary Vein",
+      "Aorta",
+      "Vena Cava"
+    ],
+    "correct_option_index": 1,
+    "explanation": "The **Pulmonary Vein** is unique because, unlike other veins, it carries **oxygenated blood**. It transports blood from the lungs back to the **left atrium** of the heart.",
+    "explanation_block_uid": "BfQHKNmjJ",
+    "tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "linked_block_uid": "",
+    "path_tags": [
+      "MCQs",
+      "General Studies",
+      "Science",
+      "Biology",
+      "Human Body"
+    ],
+    "isPassageBased": false
+  },
+  {
     "id": "aXBwvz_QR",
     "question": "Which of the following countries is going to host 20th Asian Games to be held in 2026?",
     "options": [
@@ -146803,17 +148207,17 @@
     "isPassageBased": false
   },
   {
-    "id": "ZC_7c_FR7",
-    "question": "Match List - I (Indian Ports) with List - II (Places where they are situated).\nList I:\nA. Kandla Port,\nB. Marmagao Port,\nC. Haldia Port,\nD. Ennore Port.\n\nList - II:\nI. West Bengal,\nII. Tamil Nadu,\nIII. Goa,\nIV. Gulf of Kuchchh. ??",
+    "id": "YM2ePMzYr",
+    "question": "Match List - I (Steel Plant) with List - II (Location).\nList I:\nA. Rourkela Steel Plant,\nB. Bhilai Steel Plant,\nC. Durgapur Steel Plant,\nD. Vijaynagar Steel Plant.\n\nList - II:\nI. West Bengal,\nII. Odisha,\nIII. Karnataka,\nIV. Chhattisgarh. ??",
     "options": [
-      "A-II, B-III, C-IV, D-I",
-      "A-I, B-IV, C-III, D-II",
-      "A-IV, B-I, C-II, D-III",
-      "A-IV, B-III, C-I, D-II"
+      "A-I, B-IV, C-II, D-III",
+      "A-III, B-I, C-IV, D-II",
+      "A-II, B-IV, C-I, D-III",
+      "A-II, B-III, C-I, D-IV"
     ],
-    "correct_option_index": 3,
-    "explanation": "Correct Matching:\nA. Kandla Port: IV. Gulf of Kuchchh (Gujarat)\nB. Marmagao Port: III. Goa\nC. Haldia Port: I. West Bengal\nD. Ennore Port: II. Tamil Nadu \n\nThis means the correct answer is A-IV, B-III, C-I, D-II.",
-    "explanation_block_uid": "6_Cb7bA8v",
+    "correct_option_index": 2,
+    "explanation": "The matched pairs for the steel plants and their locations are: \nA-II (Rourkela - Odisha), \nB-IV (Bhilai - Chhattisgarh), \nC-I (Durgapur - West Bengal), and \nD-III (Vijaynagar - Karnataka). \n\nRourkela Steel Plant (Odisha): India's first public sector integrated plant set up with German collaboration.\nBhilai Steel Plant (Chhattisgarh): Established with Soviet (Russian) collaboration.\nDurgapur Steel Plant (West Bengal): Set up in collaboration with the United Kingdom.\nVijaynagar Steel Plant (Karnataka): Operated by JSW Steel in Bellary.\n\nA. Rourkela Steel Plant: II. Odisha\nB. Bhilai Steel Plant: IV. Chhattisgarh\nC. Durgapur Steel Plant: I. West Bengal\nD. Vijaynagar Steel Plant: III. Karnataka",
+    "explanation_block_uid": "Q5xjtl3Sz",
     "tags": [
       "General Studies",
       "pyq",
@@ -146830,17 +148234,17 @@
     "isPassageBased": false
   },
   {
-    "id": "YM2ePMzYr",
-    "question": "Match List - I (Steel Plant) with List - II (Location).\nList I:\nA. Rourkela Steel Plant,\nB. Bhilai Steel Plant,\nC. Durgapur Steel Plant,\nD. Vijaynagar Steel Plant.\n\nList - II:\nI. West Bengal,\nII. Odisha,\nIII. Karnataka,\nIV. Chhattisgarh. ??",
+    "id": "ZC_7c_FR7",
+    "question": "Match List - I (Indian Ports) with List - II (Places where they are situated).\nList I:\nA. Kandla Port,\nB. Marmagao Port,\nC. Haldia Port,\nD. Ennore Port.\n\nList - II:\nI. West Bengal,\nII. Tamil Nadu,\nIII. Goa,\nIV. Gulf of Kuchchh. ??",
     "options": [
-      "A-I, B-IV, C-II, D-III",
-      "A-III, B-I, C-IV, D-II",
-      "A-II, B-IV, C-I, D-III",
-      "A-II, B-III, C-I, D-IV"
+      "A-II, B-III, C-IV, D-I",
+      "A-I, B-IV, C-III, D-II",
+      "A-IV, B-I, C-II, D-III",
+      "A-IV, B-III, C-I, D-II"
     ],
-    "correct_option_index": 2,
-    "explanation": "The matched pairs for the steel plants and their locations are: \nA-II (Rourkela - Odisha), \nB-IV (Bhilai - Chhattisgarh), \nC-I (Durgapur - West Bengal), and \nD-III (Vijaynagar - Karnataka). \n\nRourkela Steel Plant (Odisha): India's first public sector integrated plant set up with German collaboration.\nBhilai Steel Plant (Chhattisgarh): Established with Soviet (Russian) collaboration.\nDurgapur Steel Plant (West Bengal): Set up in collaboration with the United Kingdom.\nVijaynagar Steel Plant (Karnataka): Operated by JSW Steel in Bellary.\n\nA. Rourkela Steel Plant: II. Odisha\nB. Bhilai Steel Plant: IV. Chhattisgarh\nC. Durgapur Steel Plant: I. West Bengal\nD. Vijaynagar Steel Plant: III. Karnataka",
-    "explanation_block_uid": "Q5xjtl3Sz",
+    "correct_option_index": 3,
+    "explanation": "Correct Matching:\nA. Kandla Port: IV. Gulf of Kuchchh (Gujarat)\nB. Marmagao Port: III. Goa\nC. Haldia Port: I. West Bengal\nD. Ennore Port: II. Tamil Nadu \n\nThis means the correct answer is A-IV, B-III, C-I, D-II.",
+    "explanation_block_uid": "6_Cb7bA8v",
     "tags": [
       "General Studies",
       "pyq",
@@ -147054,9 +148458,9 @@
       "What is the end result of the gradually increasing concentration of a small region of gas?",
       "What is the chief purpose of science and astronomy?"
     ],
-    "correct_option_index": 1,
-    "explanation": "The passage explicitly explains that as the region becomes denser, its gravitational field becomes stronger, which then attracts more matter.",
-    "explanation_block_uid": "aYpkGZit6",
+    "correct_option_index": 2,
+    "explanation": "",
+    "explanation_block_uid": "",
     "tags": [
       "English",
       "pyq",
@@ -148296,9 +149700,9 @@
       "SW18",
       "SY18"
     ],
-    "correct_option_index": 1,
-    "explanation": "AD6, EH9, IL12, OR15, ____ ?\n\nPattern:\n\nLetters:  \nA → E → I → O → U   (vowels in order)  \nD → H → L → R → X   (skip 3 letters each time: D+4=H, H+4=L, L+4=R, R+4=V)\n\nNumbers:  \n6, 9, 12, 15, 18   (+3 each time)\n\nSo next term: UX18\n\nAnswer: UX18",
-    "explanation_block_uid": "NRIdcRHzS",
+    "correct_option_index": 0,
+    "explanation": "",
+    "explanation_block_uid": "",
     "tags": [
       "Reasoning",
       "pyq",
@@ -193856,731 +195260,6 @@
     "path_tags": [
       "pyq",
       "Reasoning"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "f2n1OjPzi",
-    "question": "Which part of the human brain is responsible for maintaining posture, equilibrium, and muscle tone?",
-    "options": [
-      "Cerebrum",
-      "Cerebellum",
-      "Medulla Oblongata",
-      "Hypothalamus"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The **Cerebellum**, often called the 'little brain', is located at the back of the skull. Its primary function is to coordinate **voluntary movements**, maintain **posture**, and manage **balance and equilibrium**.",
-    "explanation_block_uid": "ZxvZM38yv",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "EvIY7YmQo",
-    "question": "Which of the following enzymes is present in human saliva to initiate the digestion of carbohydrates?",
-    "options": [
-      "Pepsin",
-      "Trypsin",
-      "Salivary Amylase",
-      "Lipase"
-    ],
-    "correct_option_index": 2,
-    "explanation": "Saliva contains **Salivary Amylase** (also known as ptyalin). It breaks down **starch** into simpler sugars like **maltose** and dextrin. This process marks the beginning of chemical digestion in the mouth.",
-    "explanation_block_uid": "R7IHKJOPK",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "jUAkcy1Ih",
-    "question": "In the human body, which organ is often referred to as the 'Graveyard of RBCs'?",
-    "options": [
-      "Liver",
-      "Pancreas",
-      "Spleen",
-      "Kidney"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The **Spleen** acts as a filter for blood. Old and damaged **Red Blood Cells (RBCs)** are broken down here by macrophages. The iron from these cells is recycled, while the rest is processed as waste.",
-    "explanation_block_uid": "tAt8SeX29",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "FtXTgl3Vh",
-    "question": "Which hormone is known as the 'Emergency Hormone' or 'Fight-or-Flight' hormone?",
-    "options": [
-      "Insulin",
-      "Adrenaline",
-      "Thyroxine",
-      "Oxytocin"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Adrenaline** (Epinephrine) is secreted by the **Adrenal glands** during stressful or dangerous situations. It increases **heart rate**, blood pressure, and energy supplies to prepare the body for immediate action.",
-    "explanation_block_uid": "rBSq4LHkO",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "n17ANaF5X",
-    "question": "What is the total number of bones in an adult human body?",
-    "options": [
-      "206",
-      "300",
-      "270",
-      "212"
-    ],
-    "correct_option_index": 0,
-    "explanation": "An adult human has **206 bones**. Note that infants are born with around **270 to 300 bones**, many of which fuse together as the body grows and develops.",
-    "explanation_block_uid": "mSb4-vJTq",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "z9hijxPQF",
-    "question": "Which blood group is known as the 'Universal Donor'?",
-    "options": [
-      "AB positive",
-      "O negative",
-      "A positive",
-      "B negative"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**O negative (O-)** is the universal donor because it lacks **A, B, and Rh antigens** on the surface of the red blood cells, meaning it will not trigger an immune response in any recipient.",
-    "explanation_block_uid": "oBpwSzuhs",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "WQ8fbhTQY",
-    "question": "The deficiency of which vitamin causes the disease known as Scurvy?",
-    "options": [
-      "Vitamin A",
-      "Vitamin B12",
-      "Vitamin C",
-      "Vitamin D"
-    ],
-    "correct_option_index": 2,
-    "explanation": "**Vitamin C** (Ascorbic acid) is essential for the synthesis of **collagen**. Deficiency leads to **Scurvy**, characterized by bleeding gums, skin spots, and slow wound healing.",
-    "explanation_block_uid": "lFoho5WZc",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "oqpgwV8aB",
-    "question": "Which pigment gives the human skin and hair its color?",
-    "options": [
-      "Hemoglobin",
-      "Melanin",
-      "Chlorophyll",
-      "Bilirubin"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Melanin** is produced by cells called **melanocytes** in the skin. It protects the skin from harmful **ultraviolet (UV) radiation**; more melanin results in darker skin/hair color.",
-    "explanation_block_uid": "iQOcvbSbZ",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "kPou2wXRE",
-    "question": "What is the basic functional and structural unit of the human kidney?",
-    "options": [
-      "Neuron",
-      "Nephron",
-      "Alveoli",
-      "Aorta"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The **Nephron** is the functional unit of the kidney. Each kidney contains about a million nephrons that **filter blood**, remove wastes, and reabsorb necessary substances.",
-    "explanation_block_uid": "ib6KqTwvK",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "MppEp2yfm",
-    "question": "Which gland in the human body is both an exocrine and an endocrine gland?",
-    "options": [
-      "Thyroid",
-      "Pancreas",
-      "Pituitary",
-      "Adrenal"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The **Pancreas** is a heterocrine gland. Its **endocrine** part secretes hormones like insulin/glucagon, while its **exocrine** part produces digestive enzymes that travel through ducts.",
-    "explanation_block_uid": "pcxl5tA53",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "26i0Trf8D",
-    "question": "Normal blood pressure in a healthy human adult is generally considered to be:?",
-    "options": [
-      "100/60 mmHg",
-      "140/90 mmHg",
-      "120/80 mmHg",
-      "150/100 mmHg"
-    ],
-    "correct_option_index": 2,
-    "explanation": "Normal blood pressure is **120/80 mmHg**. The higher number (120) represents **systolic pressure** (heart contracting), and the lower (80) represents **diastolic pressure** (heart relaxing).",
-    "explanation_block_uid": "ha11Ny7iL",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "XFwbZJ6AV",
-    "question": "Which metal is present in the Hemoglobin molecule?",
-    "options": [
-      "Copper",
-      "Iron",
-      "Magnesium",
-      "Zinc"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Iron** is the central metal ion in **Hemoglobin**. It is responsible for binding with **oxygen** molecules in the lungs and transporting them to tissues throughout the body.",
-    "explanation_block_uid": "IfyfK2rsP",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "PlNkHWySy",
-    "question": "What is the pH value of healthy human blood?",
-    "options": [
-      "6.2",
-      "7.4",
-      "8.5",
-      "5.5"
-    ],
-    "correct_option_index": 1,
-    "explanation": "Human blood is **slightly alkaline**, with a normal pH range of **7.35 to 7.45**. Maintaining this narrow range is critical for survival and enzyme function.",
-    "explanation_block_uid": "Wizfj2AD2",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "4C25brSXI",
-    "question": "Which of the following is the longest bone in the human body?",
-    "options": [
-      "Tibia",
-      "Humerus",
-      "Femur",
-      "Stapes"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The **Femur**, or thigh bone, is the longest, strongest, and heaviest bone in the human body. It supports the weight of the body during walking or jumping.",
-    "explanation_block_uid": "VfrAKDQDy",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "LpqxRVD6q",
-    "question": "Bile is produced by which organ and stored in which organ?",
-    "options": [
-      "Produced by Gallbladder, stored in Liver",
-      "Produced by Liver, stored in Gallbladder",
-      "Produced by Pancreas, stored in Liver",
-      "Produced by Liver, stored in Pancreas"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Bile** is produced by the **Liver** and stored in the **Gallbladder**. It is released into the small intestine to aid in the **emulsification and digestion of fats**.",
-    "explanation_block_uid": "pyFxEgvvq",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "t6nTDFHAq",
-    "question": "Which part of the eye is responsible for regulating the amount of light entering it?",
-    "options": [
-      "Retina",
-      "Cornea",
-      "Iris",
-      "Lens"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The **Iris** is the colored part of the eye that controls the size of the **pupil**. By constricting or dilating, it regulates how much light reaches the retina.",
-    "explanation_block_uid": "1rFDyqTQk",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "4bkAZ5mU_",
-    "question": "What is the main site of gas exchange in the human lungs?",
-    "options": [
-      "Bronchi",
-      "Trachea",
-      "Alveoli",
-      "Pharynx"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The **Alveoli** are tiny air sacs at the end of the bronchioles. This is where **Oxygen** enters the blood and **Carbon Dioxide** leaves it through the process of diffusion.",
-    "explanation_block_uid": "tcN4JXzNK",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "mIPnR3QSc",
-    "question": "Which vitamin is synthesized in the human body when exposed to sunlight?",
-    "options": [
-      "Vitamin B",
-      "Vitamin K",
-      "Vitamin D",
-      "Vitamin E"
-    ],
-    "correct_option_index": 2,
-    "explanation": "**Vitamin D** is synthesized in the skin when it is exposed to **Ultraviolet B (UVB)** rays from the sun. It is essential for **calcium absorption** and bone health.",
-    "explanation_block_uid": "WPIsozfXW",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "2qaIfYRhi",
-    "question": "The 'Master Gland' of the human body, which controls other endocrine glands, is the:?",
-    "options": [
-      "Thyroid Gland",
-      "Pituitary Gland",
-      "Adrenal Gland",
-      "Pineal Gland"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The **Pituitary Gland** is called the **Master Gland** because it produces hormones that regulate the functions of other glands, such as the thyroid, adrenals, and reproductive glands.",
-    "explanation_block_uid": "2mtcx0wum",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "7gJmdTgIM",
-    "question": "How many chambers does the human heart have?",
-    "options": [
-      "Two",
-      "Three",
-      "Four",
-      "Five"
-    ],
-    "correct_option_index": 2,
-    "explanation": "The human heart has **four chambers**: two upper chambers called **Atria** and two lower chambers called **Ventricles**. This ensures complete separation of oxygenated and deoxygenated blood.",
-    "explanation_block_uid": "FAcmGKzRG",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "HNvpCITOT",
-    "question": "Which element is essential for the proper functioning of the Thyroid gland?",
-    "options": [
-      "Iodine",
-      "Iron",
-      "Calcium",
-      "Phosphorus"
-    ],
-    "correct_option_index": 0,
-    "explanation": "**Iodine** is used by the Thyroid gland to produce hormones like **Thyroxine (T4)**. Deficiency of iodine can lead to an enlarged thyroid, a condition known as **Goitre**.",
-    "explanation_block_uid": "L_GVcb5ei",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "FWv1TcafK",
-    "question": "What is the average life span of a Red Blood Cell (RBC)?",
-    "options": [
-      "60 days",
-      "120 days",
-      "180 days",
-      "240 days"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The average lifespan of an **RBC** is approximately **120 days**. After this period, they become fragile and are removed from circulation by the spleen and liver.",
-    "explanation_block_uid": "RS9m_TuzF",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "Mg-xz7Ky-",
-    "question": "Which acid is naturally secreted in the human stomach to aid digestion?",
-    "options": [
-      "Sulphuric Acid",
-      "Hydrochloric Acid",
-      "Nitric Acid",
-      "Acetic Acid"
-    ],
-    "correct_option_index": 1,
-    "explanation": "**Hydrochloric Acid (HCl)** is secreted by the parietal cells in the stomach. It provides an **acidic pH** necessary for the enzyme pepsin to work and helps kill ingested bacteria.",
-    "explanation_block_uid": "3hnAGIRPr",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "9jyCaWyx-",
-    "question": "The smallest bone in the human body is found in the:?",
-    "options": [
-      "Nose",
-      "Ear",
-      "Finger",
-      "Toe"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The **Stapes** (or stirrup) is the smallest bone in the human body. It is located in the **middle ear** and is vital for transmitting sound vibrations.",
-    "explanation_block_uid": "85x0D3djy",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "isPassageBased": false
-  },
-  {
-    "id": "wQC3iQ2Vd",
-    "question": "Which of the following carries oxygenated blood from the lungs to the heart?",
-    "options": [
-      "Pulmonary Artery",
-      "Pulmonary Vein",
-      "Aorta",
-      "Vena Cava"
-    ],
-    "correct_option_index": 1,
-    "explanation": "The **Pulmonary Vein** is unique because, unlike other veins, it carries **oxygenated blood**. It transports blood from the lungs back to the **left atrium** of the heart.",
-    "explanation_block_uid": "BfQHKNmjJ",
-    "tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
-    ],
-    "linked_block_uid": "",
-    "path_tags": [
-      "MCQs",
-      "General Studies",
-      "Science",
-      "Biology",
-      "Human Body"
     ],
     "isPassageBased": false
   },
