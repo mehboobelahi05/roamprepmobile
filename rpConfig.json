@@ -7,14 +7,13 @@
   "isDisplayUpdatesSection": true,
   "updates": [
     {
-      "title": "Updates: April 5th 2026 at 2:00 PM",
+      "title": "Updates:",
       "items": [
-        "Update the app to latest version: [click here](https://play.google.com/store/apps/details?id=com.roamprep.app)",
-        "Recent LSSSSB Papers added to Previous Papers: Jr. Statistical Assistant, Punch Operator  and Legal Assistant"
+        "Update the app to latest version: [click here](https://play.google.com/store/apps/details?id=com.roamprep.app)"
       ]
     }
   ],
-  "appVersion": "1.1.1",
+  "appVersion": 1,
   "demoVideoItems": {
     "mcqsChapterList": {
       "videoId": "H8BusekwcT8",
@@ -56,5 +55,5 @@
   "isSubscriptionActivate": false,
   "appShareURL": "https://play.google.com/store/apps/details?id=com.roamprep.app",
   "isDisplayAboutMe": true,
-  "dataUpdateDateTime": 1777052334386
+  "dataUpdateDateTime": 1779716518164
 }
